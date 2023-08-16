@@ -7,6 +7,6 @@
 - [Player Equiptment](player-equiptment.md)
 - [Reckless](reckless.md)
 - [SPA vs DOGSO](spa-vs-dogso.md)
-- [Serious Foul Play vs Violent Conduct](serious-foul-play-vs-violent-conduct.md>)
-- [Spirit of the Game](spirit-of-the-Game.md)
+- [Serious Foul Play vs Violent Conduct](serious-foul-play-vs-violent-conduct.md)
+- [Spirit of the Game](spirit-of-the-game.md)
 
