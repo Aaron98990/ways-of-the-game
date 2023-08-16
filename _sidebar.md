@@ -1,3 +1,4 @@
+- [Home](/)
 - [Advantage](advantage.md)
 - [Dissent vs Abuse](dissent-vs-abuse.md)
 - [Fair vs Careless](fair-vs-careless.md)
