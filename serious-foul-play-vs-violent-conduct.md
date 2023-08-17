@@ -1,3 +1,15 @@
+The Laws of the Game designates three levels of physical fouls - Careless, Reckless, and Excessive force. This wording is important - esspecially in match reports. A player is never sent-off for a reckless challenge and a player is never cautioned for a careless challenge. [TODO - better wording]
+
+> Careless is when a player shows a lack of attention or consideration when making a challenge or acts without precaution. No disciplinary sanction is needed
+> 
+> Reckless is when a player acts with disregard to the danger to, or consequences for, an opponent and must be cautioned
+> 
+> Using excessive force is when a player exceeds the necessary use of force and/or endangers the safety of an opponent and must be sent off
+
+Law 12.1 Direct Free Kicks
+
+The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
+
 > Serious foul play
 > 
 > A tackle or challenge that endangers the safety of an opponent or uses excessive force or brutality must be sanctioned as serious foul play.
