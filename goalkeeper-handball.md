@@ -22,6 +22,14 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 
 ## Inside the goalkeeper's own penalty area
 
+Handball is often thought of a direct free kick offense. But, the Laws of the game does provide one exception.
+
+> A direct free kick is awarded if a player commits any of the following offences:
+> - a handball offence (except for the goalkeeper within their penalty area)
+> Law 12.2 Direct free kick
+
+Please note the exception "except for the goalkeeper within their penalty area." Goalkeeper handball - goalkeeper offenses related to touching or controlling the ball with the hand/arm - inside their own penalty area is governed by these laws quoted below.
+
 > An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offences:
 > 
 > - controls the ball with the hand/arm for more than six seconds before releasing it
@@ -36,7 +44,7 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 > 
 > - Law 12.2 Indirect free kick
 
-A kick is defined in the Laws of the Game 
+A kick is defined in the Laws of the Game. It is quite a lot so lets take it in.
 
 > Kick
 > 
@@ -46,13 +54,23 @@ A kick is defined in the Laws of the Game
 
 A player that heads, knees, chests, or use the area between the knee and ancle (shin) the ball to their goalkeeper to pick up with their hands without using a trick to circumvent the Laws then no offfense has been commited.
 
-It is accepted to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 15 seconds of control with the hand/arm - it is meant only for egregious cases.
+[No offense. The ball is kneed - not kicked - to the goalkeeper by a team-mate.](https://youtu.be/t10lSBuTQYY?t=104)
 
 [No offense. The ball was headed - not kicked - to the goalkeeper by a team-mate.](https://www.youtube.com/live/OFbyNU6UQQs?feature=share&t=614)
 
-[No offense. The ball was not deliberately kicked to the goalkeeper by a team-mate. The goalkeeper can still pick the ball up after kicking it around.](https://youtu.be/kFkFtgqXiO4?t=726) 
+It is accepted to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 15 seconds of control with the hand/arm - it is meant only for egregious cases. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule.
+
+"Deliberately kicked to the goalkeeper by a team-mate" is often unoffically called "goalkeeper passback" and has a high standard to meet because as a referee there is no way to read the player's mind. If there is any doubt in the referee's mind, it should not be called. These would not meet the standard of a "deliberate kick to the goalkeeper":
+
+- the ball comes from a deflection from any player
+- the ball was meant for a different player
+- The kick to the goalkeeper was bad or off
+
+[No offense. The goalkeeper can still pick the ball up after kicking it around since it came from an opponent.](https://youtu.be/kFkFtgqXiO4?t=726) 
 
 [The ball is deliberately kicked to the goalkeeper by a team-mate. The goalkeeper would commit an offense if they picked the ball up.](https://www.youtube.com/live/OFbyNU6UQQs?feature=share&t=857)
+
+The law gives exception to "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play" for goalkeeper handball. Please note an attempt to kick the ball without releasing it to play does not meet the exception.
 
 [The ball is deliberately kicked to the goalkeeper by a team-mate. At this point, the goalkeeper would commit an offense if they picked the ball up. The goalkeeper then attempts to kick the ball to realse into play. Now, the goalkeeper would be able to pick up the ball.](https://youtu.be/V-tSSbnHSVM)
 
