@@ -1,3 +1,8 @@
+A goalkeeper is a fundamental part of the game. Each team must always have one goalkeeper. 
+
+> A match is played by two teams, each with a maximum of eleven players; one must be the goalkeeper.
+> 3.1 Number of players
+
 ## Goalkeeper handball
 
 The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick and no sanction and no disciplinary action is taken. 
@@ -224,3 +229,22 @@ Some people will say that the goalkeeper is protected too much. In reality, refe
 > Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player
 > 
 > Glossary
+
+## Changing the goalkeeper
+
+> Any of the players may change places with the goalkeeper if:
+>
+> the referee is informed before the change is made
+>
+> the change is made during a stoppage in play
+> 3.4 Changing the goalkeeper
+
+What is the offense of disobeying this?
+
+> If a player changes places with the goalkeeper without the referee’s permission, the referee:
+>
+> allows play to continue
+>
+> cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
+> 3.5 Offences and sanctions
+
