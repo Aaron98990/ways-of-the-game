@@ -1,8 +1,10 @@
+## Goalkeeper handball
+
 The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick and no sanction and no disciplinary action is taken. 
 
 A goalkeeper commiting a handball offense outside their own penalty area is just like any other non-goalkeeper player, a direct free kick with the appropiate sanction / disciplinary action (SPA, Persistent Offenses, Lack of Respect for the Game, or DOGSO) is taken.
 
-## Outside the goalkeeper's own penalty area
+### Outside the goalkeeper's own penalty area
 
 > The goalkeeper has the same restrictions on handling the ball as any other player outside the penalty area.
 > 
@@ -12,7 +14,7 @@ The Law should probably read "outside the goalkeeper's penalty area" but is stil
 
 [The goalkeeper commits a handball offense outside their penalty area. A direct free kick and a red card for DOGSO are the correct outcomes.](https://youtu.be/uzZnBPHsx_0?t=107)
 
-### On the Line
+#### Releasing the ball
 
 While the goalkeeper is releasing the ball, remember that the boundary lines that makes the penalty area is considered to be part of the penalty area. A goalkeeper commits no offense when they have their body outside their own penalty area but the ball is making contact with their hands in their own penalty area (including above the boundary lines that make the penalty area). Also, no offense if commited if their momentum from releasing the ball takes them out of the penalty area if hand/arm contact with the ball only occured in their penalty area.
 
@@ -20,7 +22,11 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 > 
 > -   Law 1.2 - Field Markings
 
-## Inside the goalkeeper's own penalty area
+> An indirect free kick is awarded if a player:
+> 
+> - prevents the goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
+
+### Inside the goalkeeper's own penalty area
 
 Handball is often thought of a direct free kick offense. But, the Laws of the game does provide one exception.
 
@@ -74,7 +80,7 @@ The law gives exception to "the goalkeeper has clearly kicked or attempted to ki
 
 [The ball is deliberately kicked to the goalkeeper by a team-mate. At this point, the goalkeeper would commit an offense if they picked the ball up. The goalkeeper then attempts to kick the ball to realse into play. Now, the goalkeeper would be able to pick up the ball.](https://youtu.be/V-tSSbnHSVM)
 
-### Indirect Free Kick in Opponents' Penalty Area
+#### Indirect Free Kick in Opponents' Penalty Area
 
 Remember only direct free kick offenses may lead to a penalty kick.
 
@@ -124,7 +130,7 @@ We defined a kick before and lets define it again. The ball must be "kicked and 
 
 If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball must not just move, it must clearly move. In these situations, you have the free kick taker take the smallest of touches before a second player kicks it at the goal. To who must it be the clear the ball moves. It is subjective and I offer this advice to you - follow the spirit of the game. 😆
 
-### Disciplinary Action
+#### Disciplinary Action
 
 Unless the goalkeeper commits a more serious offense at the same time (talked about in the next section), a goalkeeper can not be cautioned or sent off for handling the ball in their own penalty area. This includes if the referee determined that the goalkeeper's offense is Persistent Offenses or Stopped a Promising Attack (SPA) or Denied an Obvious Goal Scoring Opportunity (DOGSO) - this is where the "except a goalkeeper within their penalty area" exception in the disciplinary action section comes from.
 
@@ -142,7 +148,7 @@ Weirldy enough, they do not add it for Persistent Offeneses or Stopping a Promis
 > 
 > - Law 12.3 Disciplinary Action
 
-### Two Offenses at Once
+#### Two Offenses at Once
 
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offence is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offence stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > 
@@ -174,7 +180,7 @@ Team-mate in the Laws of the Game includes passing it to oneself. Both offeneses
 > 
 > - Law 5.3 - Powers and duties
 
-## Circumventing the Law
+#### Circumventing the Law
 
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is penalised if responsible for initiating the deliberate trick
 > - Law 12.2 Indirect free kick 
@@ -189,3 +195,32 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 [A goalkeeper initiates a deliberate trick to be able to handle the ball. The goalkeeper must be cautioned and play is restarted with an indirect free kick.](https://streamable.com/ohy4r)
 
 [A player initiates a deliberate trick for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
+
+## Control with hand/arms
+
+Goaleeper in Control of the Ball with the Hands
+
+A go
+
+> A goalkeeper is considered to be in control of the ball with the hand(s) when:
+> 
+> - the ball is between the hands or between the hand and any surface (e.g. ground, own body) or by touching it with any part of the hands or arms, except if the ball rebounds from the goalkeeper or the goalkeeper has made a save
+> 
+> - holding the ball in the outstretched open hand
+> 
+> - bouncing it on the ground or throwing it in the air
+
+> ## Boxing out the goalkeeper
+
+On corner kicks, players stand in front of the goalkeeper.
+
+
+## Is the goalkeeper protected too much?
+
+Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goal-keepers because they can catch / punt the ball with their hands.
+
+> Playing distance
+> 
+> Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player
+> 
+> Glossary

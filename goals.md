@@ -117,6 +117,11 @@ If the ball goes into the goal but deflected off someone that enters the field o
 >
 > Law 3.7 Extra persons on the field of play
 
+## No footwear or shinguards
+
+> A player whose footwear or shinguard is lost accidentally must replace it as soon as possible and no later than when the ball next goes out of play; if before doing so the player plays the ball and/or scores a goal, the goal is awarded.
+>
+> Law 4.2 Compulsory equipment
 
 ## Goal Signal
 
