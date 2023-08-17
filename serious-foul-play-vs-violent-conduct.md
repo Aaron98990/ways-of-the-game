@@ -5,8 +5,8 @@ The Laws of the Game designates three levels of physical fouls - Careless, Reckl
 > Reckless is when a player acts with disregard to the danger to, or consequences for, an opponent and must be cautioned
 > 
 > Using excessive force is when a player exceeds the necessary use of force and/or endangers the safety of an opponent and must be sent off
-
-Law 12.1 Direct Free Kicks
+>
+> Law 12.1 Direct Free Kicks
 
 The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
 
