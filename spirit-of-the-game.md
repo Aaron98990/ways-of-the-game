@@ -138,4 +138,4 @@ Denying a substitution for time-waasting.
 
 Not giving a second yellow card for removing one's shirt during a goal celebration because it is harsh.
 
-- The Law is very clear here. The referee should give the second yellow card as that is what the Law requires. 
+- The Law is very clear here. A player does not accidently remove their shirt. The referee should give the second yellow card as that is what the Law requires. [Wprld Cup Example](https://www.youtube.com/watch?v=bsRFCq6rFT4)
