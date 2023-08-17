@@ -101,6 +101,23 @@ Common offenses that will nullify a goal.
 > 
 > - Law 16, 17 The Goal Kick / The Corner Kick - Introduction
 
+## Goal After Inteference
+> If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
+> 
+> the referee must disallow the goal if the extra person was:
+> 
+> - a player, substitute, substituted player, sent-off player or team official of the team that scored the goal; play is restarted with a direct free kick from the position of the extra person
+> 
+> - an outside agent who interfered with play unless a goal results as outlined above in ‘Extra persons on the field of play’; play is restarted with a dropped ball
+> Law 3.9 Goal scored with an extra perso on the field of play
+
+If the ball goes into the goal but deflected off someone that enters the field of play to block the goal, the goal should generally stand.
+
+> If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
+>
+> Law 3.7 Extra persons on the field of play
+
+
 ## Goal Signal
 
 Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unoffical but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officals recommends a whistle to stop play for a a goal that is not clear.
