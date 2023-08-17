@@ -24,9 +24,22 @@ There are also offensive or abusive actions, including physichal ones towards an
 
 ## Serious Foul Play
 
+### Charge / Strikes At
+
+There is a great write up from PRO [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
+
 [Red Card - Serious Foul Play The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occured.](https://youtu.be/u-y3AiAm2pI?t=269)
 
+[Red Card - Serious Foul Play. The player uses excessive force as the momentum of their entire body goes into their opponent's head.](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
+
+[Red Card - Serious Foul Play. The player uses excessive force as the player cocks their elbow in their opponent's face.](https://youtu.be/FFf7U5FNLag?t=43)
+
+
+### Jumps At
+
 [When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=BjQ__f4JG9o)
+
+### Tackle
 
 ## Violent Conduct
 
@@ -42,7 +55,7 @@ Kicking an object at someone
 
 A player may kick an object (including the ball) at a player (including during restarts) but it must not be careless, reckless, or use excessive force.
 
-[RC - Violent Conduct Kicking the ball at someone on the ground](https://youtu.be/nDgAA3EtsBg?t=627)
+[RC - Violent Conduct Kicking the ball at someone on the ground. There is no tactical reason to kick the ball in that direction and with that speed.](https://youtu.be/nDgAA3EtsBg?t=627)
 
 PRO Referees has a great write up: [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
