@@ -24,15 +24,15 @@ The level of physical foul does not depend on intention. A player can unintentio
 
 Both serious foul play and violent counduct are both send-off offenses for using excessive force. It is impossible for an offense to be serious foul play and violent conduct at the same time. It can only be one. 
 
-It is violent conduct if:
+It is serious foul play if:
 
-- no challenge is being made for the ball or
+- a challenge is being made for the ball and
 
-- the offense is not against an opponent 
+- the offense is against an opponent 
 
 This distinction matters as competitions generally will suspend players for more games for violent conduct than serious foul play.
 
-There are also offensive or abusive actions, including physichal ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the Dissent vs Abuse section.
+There are also offensive, insulting or abusive actions, including physichal ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the Dissent vs Abuse section.
 
 ## Serious Foul Play
 
@@ -51,13 +51,21 @@ There is a great write up from PRO [here](https://proreferees.com/2020/04/20/pro
 
 [When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=BjQ__f4JG9o)
 
+[When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=PT0WGryPBvU)
+
 ### Tackle
+
+[The player uses a straight leg and contacts their opponent's thigh with excessive force. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=x369hGXJVDc)
 
 ## Violent Conduct
 
 [Red Card (Violent Conduct) - Deliberately kicking an opponent with non-neglible foce while the ball is not in the field of play is violent conduct. Outside the field, that is assult. How to deal with the push after the kick is subjective. I prefer no card as this is a reasonable reaction to someone who was just deliberately kicked.](https://youtu.be/gnfbhoNlAKw?t=107)
 
-[The player kicks out at the opponent who just fouled him. Although he does not connect, this is violent conduct and a red card should be shown.](https://youtu.be/2NgJxKL3fgU?t=704)
+[The player kicks out at the opponent who just fouled him. Although the player does not connect, this is violent conduct and a red card should be shown.](https://youtu.be/2NgJxKL3fgU?t=704)
+
+[The player deliiberately steps (aka stomps) on their opponent after not getting a foul from the referee. This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=dfDV_bTCGUw)
+
+[The player pushes their opponent with excessive force (aka shove). This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=QZDr0jzt4JM)
 
 Kicking an object at someone
 
