@@ -10,7 +10,22 @@
 > 
 > - Law 1.10 - Goals
 
-## Goal Scored
+Goal nets, esspecially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does noes mean that a goal has been scored. So, please aware of both of these situations:
+
+- The ball enter the goals but leaves through the a hole in the net
+- The ball enters the goal through a hole on the side of the net.
+
+While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar
+
+## Ball off the crossbar or goalpost
+
+Many shots will hit the crossbar or goalpost and remain in play.
+
+> The ball is in play [,,,] when [the ball] rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
+>
+> Law 9.2 Ball in play
+
+## Goal scored
 
 > A goal is scored when the whole of the ball passes over the goal line, between the goalposts and under the crossbar, provided that no offence has been committed by the team scoring the goal.
 > 
