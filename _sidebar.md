@@ -7,7 +7,7 @@
 - [Advantage](advantage.md)
 - [Reckless (caution)](reckless.md)
 - [Excessive Force (send-off)](excessive-force.md)
-- [SPA vs DOGSO](spa-vs-dogso.md)
+- [Tactical Impact](tactical-impact.md)
 - [Dissent vs Abuse](dissent-vs-abuse.md)
 - [Spirit of the Game](spirit-of-the-game.md)
 
