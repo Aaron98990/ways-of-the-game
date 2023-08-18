@@ -47,6 +47,12 @@ The team the goal is awarded to is determined by the coin toss before the match.
 > 
 > - Law 8.1 Kick-off
 
+## Advantage
+
+If the defense commits an offence (e.g. handball) then the ball enters the goal, the goal still counts if the referee head not stopped play play. 
+
+Read more about advantage [here](/advantage)
+
 ## Offenses
 
 Common offenses that will nullify a goal.
