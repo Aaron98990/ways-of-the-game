@@ -1,6 +1,8 @@
 - [Home](/)
 - [Goals](goals.md)
+- [Handball](handball.md)
 - [Goalkeeper](goalkeeper.md)
+- [Restarts](restarts.md)
 - [Fair vs Careless](fair-vs-careless.md)
 - [Advantage](advantage.md)
 - [Reckless](reckless.md)
