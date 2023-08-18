@@ -1,4 +1,4 @@
-[https://footballrules.com/participants/goalkeepers](This article is more technical than I wanted. If you are new to soccer, read this fantastic summary from  Football Rules created by The IFAB about goalkeepers before continuing.)
+(https://footballrules.com/participants/goalkeepers)[This article is more technical anticipated. If you are new to soccer, read this fantastic summary from  Football Rules created by The IFAB about goalkeepers before continuing.]
 
 A goalkeeper is a fundamental part of the game. Each team must always have one goalkeeper. 
 
