@@ -101,9 +101,9 @@ Common offenses that will nullify a goal.
 > 
 > - Law 15 - The Throw-in - Introduction
 
->  if the ball directly enters the kicker’s goal [from a corner kick or goal kick], a corner kick is awarded to the opponents.
+>  if the ball directly enters the kicker’s goal [from a corner kick or goal kick or kick-off], a corner kick is awarded to the opponents.
 > 
-> - Law 16, 17 The Goal Kick / The Corner Kick - Introduction
+> - Law 8, 16, 17 Kick-ff / The Goal Kick / The Corner Kick
 
 ## Goal After Inteference
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
