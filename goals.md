@@ -31,6 +31,10 @@ Many shots will hit the crossbar or goalpost and remain in play.
 > 
 > - Law 10.1 - Goal scored
 
+![image](https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d)
+
+Please note that seeing grass under the ball does not mean a goal has been scored. 
+
 The team the goal is awarded to is determined by the coin toss before the match.
 
 > - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
