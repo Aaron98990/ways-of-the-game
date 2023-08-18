@@ -1,3 +1,5 @@
+[https://footballrules.com/participants/goalkeepers](This article is more technical than I wanted. If you are new to soccer, read this fantastic summary from  Football Rules created by The IFAB about goalkeepers before continuing.)
+
 A goalkeeper is a fundamental part of the game. Each team must always have one goalkeeper. 
 
 > A match is played by two teams, each with a maximum of eleven players; one must be the goalkeeper.
@@ -247,4 +249,27 @@ What is the offense of disobeying this?
 >
 > cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
 > 3.5 Offences and sanctions
+
+## Goalkeeper equiptment
+
+Goalkeepers may wear tracksuit bootms. In reality, esspecially in lower levels of the game, any player can wear tracksuit bottoms.
+
+> Goalkeepers may wear tracksuit bottoms.
+>
+> Law 4
+
+Goalkeepers must be distinguisbable from other players and the match officals. 
+
+> The two teams must wear colours that distinguish them from each other and the match officials
+> 
+> Each goalkeeper must wear colours that are distinguishable from the other players and the match officials
+> 
+> If the two goalkeepers’ shirts are the same colour and neither has another shirt, the referee allows the match to be played
+> 
+> Law 4
+
+Goalkeepers are the only players allowed to wear caps.
+
+> Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
+> Law 4
 
