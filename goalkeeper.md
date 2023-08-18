@@ -1,4 +1,4 @@
-(https://footballrules.com/participants/goalkeepers)[This article is more technical anticipated. If you are new to soccer, read this fantastic summary from  Football Rules created by The IFAB about goalkeepers before continuing.]
+[This article is more technical anticipated. If you are new to soccer, read this fantastic summary from  Football Rules created by The IFAB about goalkeepers before continuing.](https://footballrules.com/participants/goalkeepers)
 
 A goalkeeper is a fundamental part of the game. Each team must always have one goalkeeper. 
 
@@ -273,3 +273,6 @@ Goalkeepers are the only players allowed to wear caps.
 > Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
 > Law 4
 
+## Restarts
+
+Football rules reminded me of this. Any player, incluing goalkeepers, can take any restart if it belongs to their team.
