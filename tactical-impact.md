@@ -61,14 +61,6 @@ Please note that DOGSO applies to "an offense punishable by a free kick". This m
 
 [The referee should of had the goalkick retaken as the goalkeeper was just setting the ball. Ignoring that, the goalkeeper plays the goalkick twice denying the opponent a clear goal scoring opportunity. Although, the restart is an indrect free kick the offendor is sent off.](https://www.youtube.com/watch?v=uivLc9urdBY)
 
-## Comparision with No Advantage Played
-
-|                         | SPA                                     | DOGSO                                   |
-| ----------------------- | --------------------------------------- | --------------------------------------- |
-| **In penalty area**     | Attempt for the ball:  no card          | Attempt for the ball:  YC               |
-|                         | No attempt for the ball or handball: YC | No attempt for the ball or handball: RC |
-| **Out of penalty area** | YC                                      | RC                                      |
-
 ## If Advantage is played
 
 > If the referee plays the advantage for an offence for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offence was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offence was interfering with or stopping a promising attack, the player is not cautioned.
@@ -84,8 +76,16 @@ I cover the scenario of what two do if two offenses occur at the same time at "A
 
 If a goal is scored after the DOGSO offense after playing advantage, then the caution will be shown. I have never seen a professional referee do this - they usually just give no card. (TODO - Video example)
 
-## Comparioson with Advantage Played
+## Comparioson Table
 
+No advantage played:
+|                         | SPA                                     | DOGSO                                   |
+| ----------------------- | --------------------------------------- | --------------------------------------- |
+| **In penalty area**     | Attempt for the ball:  no card          | Attempt for the ball:  YC               |
+|                         | No attempt for the ball or handball: YC | No attempt for the ball or handball: RC |
+| **Out of penalty area** | YC                                      | RC                                      |
+
+Advantage played:
 | SPA     | DOGSO |
 | ------- | ----- |
 | no card | YC    |
