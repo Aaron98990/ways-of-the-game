@@ -79,6 +79,7 @@ If a goal is scored after the DOGSO offense after playing advantage, then the ca
 ## Comparioson Table
 
 No advantage played:
+
 |                         | SPA                                     | DOGSO                                   |
 | ----------------------- | --------------------------------------- | --------------------------------------- |
 | **In penalty area**     | Attempt for the ball:  no card          | Attempt for the ball:  YC               |
@@ -86,6 +87,7 @@ No advantage played:
 | **Out of penalty area** | YC                                      | RC                                      |
 
 Advantage played:
+
 | SPA     | DOGSO |
 | ------- | ----- |
 | no card | YC    |
