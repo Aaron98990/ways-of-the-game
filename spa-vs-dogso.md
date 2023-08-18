@@ -38,9 +38,15 @@ Stopping a Promising Attack is not defned in the Laws of the Game but generally 
 > 
 > - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offence (except a goalkeeper within their penalty area)
 > 
-> - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
+> - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick
 > 
 > Law 12.3 Disciplinary Action
+
+[PRO Referees have a great example with 9 video examples comparing SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
+
+Please note that DOGSO applies to "an offense punishable by a free kick". This means that indirect free kick offenses and direct free kick offenses can lead to a red card for DOGSO.
+
+[The referee should of had the goalkick retaken as the goalkeeper was just setting the ball. Ignoring that, the goalkeeper plays the goalkick twice denying the opponent a clear goal scoring opportunity. Although, the restart is an indrect free kick the offendor is sent off.](https://www.youtube.com/watch?v=uivLc9urdBY)
 
 ## Comparision with No Advantage Played
 
@@ -56,9 +62,14 @@ Stopping a Promising Attack is not defned in the Laws of the Game but generally 
 > 
 > - Law 12.3 Disciplinary Action
 
-This does not stop the referee from penalizing a more serious offense that occurs at the same time (e.g. reckless foul that SPA in the penalty area which was an attempt for the ball. The referee would still show a yellow card for the reckless foul.)
+This does not stop the referee from penalizing a more serious offense that occurs at the same time. If a player SPA in the penalty area which was an attempt for the ball (no card) and commits:
+- reckless foul. The referee would still show a yellow card for the reckless foul.
+- lack of respect of the game - (e.g. blatant holding). The referee would still show a yellow card for lack of respect of the game.
+- persistent offenses. The referee would still show a yellow card for persistent offences.
 
 I cover the scenario of what two do if two offenses occur at the same time at "Advantage" > "Disciplinary Action".
+
+If a goal is scored after the DOGSO offense after playing advantage, then the caution will be shown. I have never seen a professional referee do this - they usually just give no card. (TODO - Video example)
 
 ## Comparioson with Advantage Played
 
