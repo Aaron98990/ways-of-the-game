@@ -1,11 +1,26 @@
+Whenever an offense occurs, the referee must judge its tactical impact. There are three levels of tactical impact:
+- Minimal/None
+- Stopping a Promising Attack (SPA)
+- Denial of an Obvious Goal Scoring Opportunity (DOGSO)
+
+The level of tactical impact does not depend on intention. A player can unintentionally and not deliberately stop a promising attack or deny an obvious goal scoring opportunity but that does not change the referee's sanction.
+
+Many people will call SPA or DOGSO tactical fouls. Many SPA and DOGSO offenses are tactical fouls but not all. A tactical foul is committed when a player deliberately fouls another but as said above intention/being deliberate does not matter. 
+
+Stopping a Promising Attack is not defned in the Laws of the Game but generally commiting a foul with the main purpose to stop a player from advancing would qualify. 
+
+## DOGSO
+
+Deny an obvious goal scoring opportunity is punished with a yellow card or red card depending on the situation.
+
 > ### Denying a goal or an obvious goal-scoring opportunity (DOGSO)
 > 
 > Where a player commits an offence against an opponent within their own penalty area which denies an opponent an obvious goal-scoring opportunity and the referee awards a penalty kick, the offender is cautioned if the offence was an attempt to play the ball or a challenge for the ball; in all other circumstances (e.g. holding, pulling, pushing, no possibility to play the ball etc.), the offending player must be sent off.
 > 
 > Where a player denies the opposing team a goal or an obvious goal-scoring opportunity by a handball offence, the player is sent off wherever the offence occurs (except a goalkeeper within their penalty area).
-> 
-> A player, sent-off player, substitute or substituted player who enters the field of play without the required referee’s permission and interferes with play or an opponent and denies the opposing team a goal or an obvious goal-scoring opportunity is guilty of a sending-off offence.
-> 
+
+The Laws of the Game give us some guidance on what is DOGSO.
+
 > The following must be considered:
 > 
 > - distance between the offence and the goal
@@ -19,8 +34,6 @@
 > Law 12.3 Direct Free Kick
 
 Generally, referees require that all four considerations to be required for DOGSO to be met but it is not a requirement. 
-
-Stopping a Promising Attack is not defned in the Laws of the Game but generally commiting a foul with the main purpose to stop a player from advancing would qualify. 
 
 ## Disciplinary Action
 
