@@ -10,12 +10,12 @@
 > 
 > - Law 1.10 - Goals
 
-Goal nets, esspecially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does noes mean that a goal has been scored. So, please aware of both of these situations:
+Goal nets, especially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does noes mean that a goal has been scored. So, please aware of both situations:
 
-- The ball enter the goals but leaves through the a hole in the net
+- The ball enters the goal but leaves through the a hole in the net
 - The ball enters the goal through a hole on the side of the net.
 
-While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar
+While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar.
 
 ## Ball off the crossbar or goalpost
 
@@ -49,13 +49,23 @@ The team the goal is awarded to is determined by the coin toss before the match.
 
 ## Advantage
 
-If the defense commits an offence (e.g. handball) then the ball enters the goal, the goal still counts if the referee head not stopped play play. 
+If the defense commits an offence (e.g. handball) then the ball enters the goal, the goal still counts if the referee head not stopped play.
 
 Read more about advantage [here](/advantage)
 
 ## Offenses
 
-Common offenses that will nullify a goal.
+Offenses that will nullify a goal.
+
+> If the ball becomes defective:
+> 
+> - play is stopped and
+> 
+> - restarted with a dropped ball
+> 
+> If the ball becomes defective at a kick-off, goal kick, corner kick, free kick, penalty kick or throw-in, the restart is retaken.
+> 
+> If the ball becomes defective during a penalty kick or kicks from the penalty mark as it moves forward and before it touches a player, crossbar or goalposts the penalty kick is retaken.
 
 > If a dropped ball enters the goal without touching at least two players, play is restarted with:
 > 
@@ -111,7 +121,7 @@ Common offenses that will nullify a goal.
 > 
 > - Law 8, 16, 17 Kick-ff / The Goal Kick / The Corner Kick
 
-## Goal After Inteference
+## Goal After Interference
 
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
 > 
@@ -136,7 +146,7 @@ If the ball goes into the goal but deflected off someone that enters the field o
 
 ## Goal Signal
 
-Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unoffical but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officals recommends a whistle to stop play for a a goal that is not clear.
+Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle to stop play for a a goal that is not clear.
 
 > The whistle is NOT needed to:
 > 
@@ -146,7 +156,7 @@ Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The u
 > 
 > - Guidelines for Match Officals
 
-Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidlines for Match Officals offers guidance.
+Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officals offers guidance.
 
 > [Assistant referees] indicate when:
 > 

@@ -7,9 +7,9 @@ A goalkeeper is a fundamental part of the game. Each team must always have one g
 
 ## Goalkeeper handball
 
-The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick and no sanction and no disciplinary action is taken. 
+The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken. 
 
-A goalkeeper commiting a handball offense outside their own penalty area is just like any other non-goalkeeper player, a direct free kick with the appropiate sanction / disciplinary action (SPA, Persistent Offenses, Lack of Respect for the Game, or DOGSO) is taken.
+A goalkeeper commiting a handball offense outside their own penalty area is just like any other non-goalkeeper player, a direct free kick with the appropiate sanction / disciplinary action is taken.
 
 ### Outside the goalkeeper's own penalty area
 

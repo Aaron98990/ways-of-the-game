@@ -1,4 +1,5 @@
 Whenever an offense occurs, the referee must judge its tactical impact. There are three levels of tactical impact:
+
 - Minimal/None
 - Stopping a Promising Attack (SPA)
 - Denial of an Obvious Goal Scoring Opportunity (DOGSO)
@@ -68,6 +69,7 @@ Please note that DOGSO applies to "an offense punishable by a free kick". This m
 > - Law 12.3 Disciplinary Action
 
 This does not stop the referee from penalizing a more serious offense that occurs at the same time. If a player SPA in the penalty area which was an attempt for the ball (no card) and commits:
+
 - reckless foul. The referee would still show a yellow card for the reckless foul.
 - lack of respect of the game - (e.g. blatant holding). The referee would still show a yellow card for lack of respect of the game.
 - persistent offenses. The referee would still show a yellow card for persistent offences.

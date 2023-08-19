@@ -2,6 +2,10 @@ Soccer is a physichal sport. Not every contact with the opponent is a foul.
 
 [Handball and makes contact with the ball with a held object is covered here TODO]
 
+> Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play.
+> 
+> Law 12
+
 ## Tackles
 
 ### No Foul

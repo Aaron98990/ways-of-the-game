@@ -3,9 +3,9 @@
 > - allows play to continue when an offence occurs and the non-offending team will benefit from the advantage, and penalises the offence if the anticipated advantage does not ensue at that time or within a few seconds
 > - Law 5.3 Power and duties
 
-The referee has the power to play advantage. This is an extnesion of Law 9.1 as the ball is not of play until the "play has been stopped by the referee". If the ball has "wholly passed over the goal line or touchline" or "touches a match offical, remains on the field of play, and meets one of the conitions" - advantage cannot be played.
+The referee has the power to play advantage. This is an extnesion of Law 9.1 as the ball is not of play until the "play has been stopped by the referee". If the ball has "wholly passed over the goal line or touchline" or "touches a match official, remains on the field of play, and meets one of the conditions" - advantage cannot be played.
 
-"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball does not necesairly mean it is advantageous to play advatange.
+"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball does not necessairly mean it is advantageous to play advantange.
 
 Please note the wording "allows play to continue when an offence occurs". This means advantage can be applied not just to fouls (offenses in Law 12) but to any offense in the Laws of the Game. 
 
@@ -33,7 +33,7 @@ Please note the wording "allows play to continue when an offence occurs". This m
 > 
 > - Law 9.1 Ball out of play
 
-Advantage can not be used when the ball is not properly put into play from a restart. For example, if a player incorrectly takes a throw-in (e.g. not standing, not facing the field of play, or ball not thrown with both hands) and the ball goes to an opponent - the referee cannot play advantage.
+Advantage cannot be used when the ball is not properly put into play from a restart. For example, if a player incorrectly takes a throw-in (e.g. not standing, not facing the field of play, or ball not thrown with both hands) and the ball goes to an opponent - the referee cannot play advantage.
 
 > The referee may play advantage whenever an offence occurs but should consider the following in deciding whether to apply the advantage or stop play:
 > 
@@ -45,9 +45,9 @@ Advantage can not be used when the ball is not properly put into play from a res
 > 
 > - the atmosphere of the match
 > 
-> - Guidlines for Match Officals
+> - Guidelines for Match Officials
 
-Knowing when to play advantage is a skill. In higher levels of the game, not stopping the flow of the game is important to players so although it looks like advnatge did not materialize, the players prefer it. 
+Knowing when to play advantage is a skill. In higher levels of the game, not stopping the flow of the game is important to players so although it looks like advantage did not materialize, the players prefer it. 
 
 ## Advantage Signal
 
@@ -89,7 +89,7 @@ Although the player commited more than one offense, the sanction (caution) and r
 > 
 > - Law 5.3 Powers and duties
 
-The "(unless as outline below)" enumerates the law above.  DOGSO, serious foul play, biting or spitting at someone have the same sanction (send-off) and restart (direct free kick) but serious foul play, biting or spitting at someone, and violent condict have more "physical severity" than DOGSO and therefore on the referee's match report - the incident will be reported only as the more serious offense.
+The "(unless as outline below)" enumerates the law above.  DOGSO, serious foul play, biting or spitting at someone have the same sanction (send-off) and restart (direct free kick) but serious foul play, biting or spitting at someone, and violent conduct have more "physical severity" than DOGSO and therefore on the referee's match report - the incident will be reported only as the more serious offense.
 
 > A player, substitute or substituted player who commits any of the following offences is sent off:
 > 
@@ -113,7 +113,7 @@ Advantage is to be played...
 
 ## Advantage while Holding
 
-Advantage also includes holding. This is clarifiied to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continously while a player is being held.
+Advantage also includes holding. This is clarified to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
 > If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
 > 
