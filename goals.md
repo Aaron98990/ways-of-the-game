@@ -22,7 +22,7 @@ While the assistant referee has the best view of the ball passing the goal line,
 Many shots will hit the crossbar or goalpost and remain in play.
 
 > The ball is in play [,,,] when [the ball] rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
->
+> 
 > Law 9.2 Ball in play
 
 ## Goal scored
@@ -112,6 +112,7 @@ Common offenses that will nullify a goal.
 > - Law 8, 16, 17 Kick-ff / The Goal Kick / The Corner Kick
 
 ## Goal After Inteference
+
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
 > 
 > the referee must disallow the goal if the extra person was:
@@ -119,18 +120,18 @@ Common offenses that will nullify a goal.
 > - a player, substitute, substituted player, sent-off player or team official of the team that scored the goal; play is restarted with a direct free kick from the position of the extra person
 > 
 > - an outside agent who interfered with play unless a goal results as outlined above in ‘Extra persons on the field of play’; play is restarted with a dropped ball
-> Law 3.9 Goal scored with an extra perso on the field of play
+>   Law 3.9 Goal scored with an extra perso on the field of play
 
 If the ball goes into the goal but deflected off someone that enters the field of play to block the goal, the goal should generally stand.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
->
+> 
 > Law 3.7 Extra persons on the field of play
 
 ## No footwear or shinguards
 
 > A player whose footwear or shinguard is lost accidentally must replace it as soon as possible and no later than when the ball next goes out of play; if before doing so the player plays the ball and/or scores a goal, the goal is awarded.
->
+> 
 > Law 4.2 Compulsory equipment
 
 ## Goal Signal

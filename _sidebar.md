@@ -3,10 +3,14 @@
 - [Handball](handball.md)
 - [Goalkeeper](goalkeeper.md)
 - [Restarts](restarts.md)
+- [Offside](offside.md)
 - [Fouls](fouls.md)
 - [Advantage](advantage.md)
+- [Misconduct](misconduct.md)
 - [Reckless (caution)](reckless.md)
 - [Excessive Force (send-off)](excessive-force.md)
 - [Tactical Impact](tactical-impact.md)
+- [Law Changes](law-changes.md)
 - [Spirit of the Game](spirit-of-the-game.md)
+
 

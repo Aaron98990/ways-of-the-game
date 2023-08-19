@@ -38,8 +38,9 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 Handball is often thought of a direct free kick offense. But, the Laws of the game does provide one exception.
 
 > A direct free kick is awarded if a player commits any of the following offences:
+> 
 > - a handball offence (except for the goalkeeper within their penalty area)
-> Law 12.2 Direct free kick
+>   Law 12.2 Direct free kick
 
 Please note the exception "except for the goalkeeper within their penalty area." Goalkeeper handball - goalkeeper offenses related to touching or controlling the ball with the hand/arm - inside their own penalty area is governed by these laws quoted below.
 
@@ -171,7 +172,6 @@ A go
 
 On corner kicks, players stand in front of the goalkeeper.
 
-
 ## Is the goalkeeper protected too much?
 
 Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goal-keepers because they can catch / punt the ball with their hands.
@@ -185,18 +185,18 @@ Some people will say that the goalkeeper is protected too much. In reality, refe
 ## Changing the goalkeeper
 
 > Any of the players may change places with the goalkeeper if:
->
+> 
 > the referee is informed before the change is made
->
+> 
 > the change is made during a stoppage in play
 > 3.4 Changing the goalkeeper
 
 What is the offense of disobeying this?
 
 > If a player changes places with the goalkeeper without the referee’s permission, the referee:
->
+> 
 > allows play to continue
->
+> 
 > cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
 > 3.5 Offences and sanctions
 
@@ -205,7 +205,7 @@ What is the offense of disobeying this?
 Goalkeepers may wear tracksuit bootms. In reality, esspecially in lower levels of the game, any player can wear tracksuit bottoms.
 
 > Goalkeepers may wear tracksuit bottoms.
->
+> 
 > Law 4
 
 Goalkeepers must be distinguisbable from other players and the match officals. 

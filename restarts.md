@@ -1,4 +1,5 @@
 The restarts in soccer are the:
+
 - kick-off
 - corner kick
 - goal kick
@@ -13,27 +14,27 @@ The restarts in soccer are the:
 Remember only direct free kick offenses may lead to a penalty kick.
 
 > A penalty kick is awarded if a player commits a direct free kick offence inside their penalty area or off the field as part of play as outlined in Laws 12 and 13.
->
+> 
 > Law 14 Penalty Kick
 
 Some players call indirect free kicks "two touches" becuase it requires a touch from two different players. The indirect free kick taker can't touch the ball twice in a row. Goalkeeper handball in their own penalty area is an indirect free kick.
 
 > if an indirect free kick is kicked directly into the opponents’ goal, a goal kick is awarded
->
+> 
 > Law 13 Free Kicks
 
 That unoffical signal for offside with the referee raising their hand straight up is the signal for indirect free kicks. It's rare to see a goal or a direct attempt at goal from a restart due to offside since it is usually more than halfway accross the field.
 
 > The referee indicates an indirect free kick by raising the arm above the head; this signal is maintained until the kick has been taken and the ball touches another player, goes out of play or it is clear that a goal cannot be scored directly.
->
+> 
 > Law 13 Free Kicks
 
 Remember the following:
 
 > indirect free kicks to the attacking team for an offence inside the opponents’ goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
->
+> 
 > The ball:
->
+> 
 > is in play when it is kicked and clearly moves
 > 
 > Until the ball is in play, all opponents must remain:
