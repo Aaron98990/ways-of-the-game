@@ -139,3 +139,4 @@ I personally do not allow quick indrect free kicks in the penalty area. It is to
 
 [Example 2: The referee has their hand up. All opponents are on the goal line between the goalposts since they are less than 10 yds from the ball.](https://www.youtube.com/watch?v=ARC-zVHgsA8)
 
+## Two offenses at once
