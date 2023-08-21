@@ -211,4 +211,18 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 > 
 > - Law 10.2 Winning team
 
-For games that require a winner, I go into more detail about that in TODO.
+
+## Tie breaker
+
+Most matches where the score is tied, will in a tie. The only exception is where comptetion rules require a winner.
+
+> When competition rules require a winning team after a drawn match or home-and-away tie, the only permitted procedures to determine the winning team are:
+>
+> - away goals rule
+> 
+> - two equal periods of extra time not exceeding 15 minutes each
+>
+> - penalties (penalty shoot-out)
+>
+> A combination of the above procedures may be used.
+> Law 10.2 Winning team

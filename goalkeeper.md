@@ -110,33 +110,9 @@ Weirldy enough, they do not add it for Persistent Offeneses or Stopping a Promis
 
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offence is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offence stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > 
-> - Law 12.1 Direct free kick
+> Law 12.1 Direct free kick
 
-This is a bit confusing to read. Let me summarize. 
-
-If the goalkeeper takes the free kick or goal kick or throw-in (or even a kick-off) then handles the ball inside their own penalty area before the ball has touched another player, they have commited two offeneses at the same time:
-
-- > If, after the ball is in play, the kicker touches the ball again before it has touched another player, an indirect free kick is awarded
-  > 
-  > - Law 16.2, 13.2 Offenses and Sancctions
-
-- > An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offences:
-  > 
-  > - touches the ball with the hand/arm, unless the goalkeeper has clearly kicked or attempted to kick the ball to release it into play, after:
-  >   
-  >   - it has been deliberately kicked to the goalkeeper by a team-mate
-  >   
-  >   - receiving it directly from a throw-in taken by a team-mate
-  > 
-  > - Law 12.2 Indirect Free Kick
-
-Team-mate in the Laws of the Game includes passing it to oneself. Both offeneses have the same restart, an indirect free kick. But, the double touch allows a player to be cautioned or sent off while the goalkeeper handball in their own penalty area does not - so we punish the more serious offense - the one with a higher sanction (caution/send-off). So, in the eyes of the Law - the goalkeeper only commited the double touch offense. This clarification is really just an extension of another Law written out to be clear.
-
-> The referee:
-> 
-> - punishes the more serious offence, in terms of sanction, restart, physical severity and tactical impact, when more than one offence occurs at the same time
-> 
-> - Law 5.3 - Powers and duties
+I cover this scenario even more in the advanced section at the bottom of the page.
 
 #### Circumventing the Law
 
@@ -168,7 +144,7 @@ A go
 > 
 > - bouncing it on the ground or throwing it in the air
 
-> ## Boxing out the goalkeeper
+## Boxing out the goalkeeper
 
 On corner kicks, players stand in front of the goalkeeper.
 
@@ -225,4 +201,62 @@ Goalkeepers are the only players allowed to wear caps.
 
 ## Restarts
 
-Football rules reminded me of this. Any player, incluing goalkeepers, can take any restart if it belongs to their team.
+Football rules reminded me of this. Goalkeepers can take any restart if it belongs to their team.
+
+## Advanced: Two offenses at once
+
+Skip this if you value your time as the following covers a rare situation in detail.
+
+> If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offence is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offence stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
+> 
+> - Law 12.1 Direct free kick
+
+The above is just another Law enumerated out to be clear.
+
+> The referee:
+> 
+> - punishes the more serious offence, in terms of sanction, restart, physical severity and tactical impact, when more than one offence occurs at the same time
+> 
+> - Law 5.3 - Powers and duties
+
+This is a bit confusing to read. Let me summarize.
+
+So, if there are more than one offenses at once we do down the tie-breaker list:
+
+- Sanction (none/SPA/DOGSO)
+
+- Restart (both are indirect free kick)
+
+- Physical severity
+
+- Tactical impact (both are the same)
+
+If the goalkeeper takes the free kick or goal kick or throw-in (or even a kick-off) then handles the ball inside their own penalty area before the ball has touched another player, they have commited two offeneses at the same time:
+
+- > If, after the ball is in play, the kicker touches the ball again before it has touched another player, an indirect free kick is awarded
+  > 
+  > - Law 16.2, 13.2 Offenses and Sancctions
+
+- > An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offences:
+  > 
+  > - touches the ball with the hand/arm, unless the goalkeeper has clearly kicked or attempted to kick the ball to release it into play, after:
+  >   
+  >   - it has been deliberately kicked to the goalkeeper by a team-mate
+  >   
+  >   - receiving it directly from a throw-in taken by a team-mate
+  > 
+  > - Law 12.2 Indirect Free Kick
+
+Team-mate in the Laws of the Game includes passing it to oneself.
+
+So, if there are more than one offenses at once we do down the tie-breaker list:
+
+- Sanction (double touch allows for none/SPA/DOGSO)
+
+- Restart (both indirect free kick)
+
+- Physical severity (both are none)
+
+- Tactical impact (both are the same)
+
+But, the double touch allows a player to be cautioned or sent off while the goalkeeper handball in their own penalty area does not - so we punish the more serious offense - the one with a higher sanction (none/caution/send-off). If no sanction for both offenses, it does not matter which offense is punished as they have the same restart to the same team.
