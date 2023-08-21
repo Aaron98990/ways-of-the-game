@@ -167,6 +167,7 @@ While it's not techically wrong to penalize a player for encroaching when they h
 
 ## Throw-in
 
+![image]([https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d](https://norcalsoccerdad.files.wordpress.com/2015/10/img_0939.jpg))
 
 
 #### Indirect Free Kick in Opponents' Penalty Area
