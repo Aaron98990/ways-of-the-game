@@ -161,13 +161,7 @@ While it's not techically wrong to penalize a player for encroaching when they h
 > 
 > Ways of the Game - Spirit of the Game
 
-
-
-
-
 ## Throw-in
-
-
 
 #### Indirect Free Kick in Opponents' Penalty Area
 

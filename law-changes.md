@@ -6,6 +6,8 @@ This is the only place I blatantly insert my opinion. Other places are less blat
 
 ## 2023/24
 
+[Law changes document.](https://downloads.theifab.com/downloads/lotg_changes_23_24_en?l=en)
+
 - Major change of the definition of  ‘deflection’ as realted to offside
   - Discussed in [Offside](/offside) - I like this change. 
   - I felt like the old deflection definition favored the attackers too much. We can't punish defenders for ... defending.
@@ -15,9 +17,13 @@ This is the only place I blatantly insert my opinion. Other places are less blat
 
 ## 2022/23
 
+
+
 - No major changes.
 
 ## 2021/22
+
+[Law changes document.](https://downloads.theifab.com/downloads/changes-to-the-laws-of-the-game-2021-22-pdf?l=en)
 
 - To allow some non-violent inappropriate behaviour to be considered ‘offensive, insulting or abusive’ and result in a sending-off, ‘action(s)/acting’ replace ‘gesture(s)/gesturing’ in the relevant descriptions
   
@@ -33,6 +39,8 @@ This is the only place I blatantly insert my opinion. Other places are less blat
   - An extension of the 2019/20 Law change of the ball free kicks and goal kicks are always in play when it clearly moves (not needing to leave the penalty area). This caused a lot of confusion at the time.
 
 ## 2020/21
+
+[Law changes document.](https://downloads.theifab.com/downloads/changes-to-the-laws-of-the-game-2020-21?l=en)
 
 - Yellow cards (YCs) and warnings are not carried forward into kicks from the penalty mark
   (KFPM)
