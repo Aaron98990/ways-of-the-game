@@ -13,6 +13,8 @@ I cover commonality among the laws and provide video links - I not re-writing th
 
 Please note that Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they are very similar to the penalty kick (Law 15) so penalties are covered here.
 
+Also, please note that the goalkeeper releasing the ball after possession with the hand/arms is not a restart as the ball remains in play. Read more in the [goalkeepers section](/goalkeeper).
+
 ### Stationary
 
 Othrt than dropped balls and throw-ins, the ball must be stationary when kicked.
