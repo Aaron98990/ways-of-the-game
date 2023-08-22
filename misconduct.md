@@ -55,13 +55,9 @@ Game(s) suspension, other than current game, for a send-off or accumulating caut
 ## Players Cautionable Offenses
 
 > A player, substitute or substituted player is cautioned if guilty of:
-> 
 > - delaying the restart of play
->
-> 
+
 Covered in the [restarts section](/restarts).
-Video playlist with 21 examples from Referee Channel are [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj).
-> 
 > - dissent by word or action
 
 TODO Video example
@@ -109,6 +105,8 @@ This is known as the flop. A player can be cautioned for this whether or not con
 
 [A player runs into a defender's leg in an attempt to decieve the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 
+[A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
+
 PRO writes about with three video examples [here].
 
 Usual acts of simulation or embellishment include:
@@ -151,6 +149,8 @@ I have never seen this before.
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating
+- failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
+- an unsporting goal celebretation (covered in the [goals section](/goals))
 - blatantly fouling a player (e.g. holding) or blatantly commiting handball
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
 
