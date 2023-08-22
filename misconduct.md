@@ -73,13 +73,11 @@ This is the rarest caution. Please note the exceptions to this listed in the Law
 
 
 > - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
->
-> 
+
 Covered in the [restarts section](/restarts).
-> 
+
 > - (player only) persistent offences (no specific number or pattern of offences constitutes ‘persistent’)
->
-> 
+
 This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for persistent offenses:
 - A player commiting too many fouls or
 - A team commiting too many fouls, generally after a public warning or
@@ -90,21 +88,19 @@ Please note that any offense in the Laws of the Game is eligible for this. Not j
 PRO Referees has a write up on persistent offenses (formerly called persistent infrigments) on this on their website and is availabel [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
 
 If a referee issues a caution for persistent offenses, they often count with their hands 1,2,3 to signify this or point to different  parts of the field where the offneses occured.
-> 
+
 > - unsporting behaviour
-> 
+
 This is the most common reason to give a cuation because it covers a lot of offenses that are listed below.
 
 
 
-Players Unsporting
+### Cautions for unsporting behaviour
 
-> ### Cautions for unsporting behaviour
-> 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
-> 
+
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
->
+
 This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
 
 [A player runs into a defender's leg in an attempt to decieve the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
@@ -118,25 +114,25 @@ Usual acts of simulation or embellishment include:
 - falling to the ground when the contact between him and the opponent was not sufficient to cause the fall
 - Falling in an overly dramatic manner designed to attract the referee’s attention
 
-> 
+
 > - changes places with the goalkeeper during play or without the referee’s permission (see Law 3)
->
+
 See the [goalkeeper section](/goalkeeper). Does not apply between halves (including extra time) or before penalties.
-> 
+
 > - commits in a reckless manner a direct free kick offence
 
 See the [reckless section](/reckless).
 > - handles the ball to interfere with or stop a promising attack
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
+
 See the [tactical impact section](/tactical-impact)
 
-
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
->
+
 See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
 See the [handball section](/handball) for "handles the ball in an attemtp to score".
-> 
+
 > - makes unauthorised marks on the field of play
 
 I have only seen a caution for this when players scuffing up the penalty spot or the area near the peanlty stop to make the player slip when taking a penalty kick.
@@ -144,7 +140,7 @@ I have only seen a caution for this when players scuffing up the penalty spot or
 [Goalkeeper should of gotten a caution for scuffing up the area near the penalty area.](https://www.youtube.com/watch?v=yZN_2D5nlRg)
 
 > - plays the ball when leaving the field of play after being given permission to leave
-> 
+
 
 I have never seen this before.
 > - shows a lack of respect for the game
