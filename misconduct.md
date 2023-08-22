@@ -66,10 +66,11 @@ TODO Video example
 This is the rarest caution. Please note the exceptions for leaving the field of play listed in the Laws. In all cases, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
+- "Leaving the field of play to celebrate a goal is not a cautionable offence but players should return as soon as possible." Law 12.3
 - Retrieving the ball or taking a restart
 
 Entering the field is covered by Law 3.7/3.9 (for non-player, too may players on field). 
-Re-entrring the field is covered by Law 3.8 (only for players who need permission to re-entet after an injury or to fix equiptment).
+Re-entring the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equiptment or leaving for an extended period of time).
 
 
 > - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
