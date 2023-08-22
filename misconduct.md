@@ -116,13 +116,8 @@ See the [goalkeeper section](/goalkeeper). Does not apply between halves (includ
 
 See the [reckless section](/reckless).
 > - handles the ball to interfere with or stop a promising attack
-
-See the [tactical impact section](/tactical-impact)
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
-
-See the [tactical impact section](/tactical-impact)
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
->
 See the [tactical impact section](/tactical-impact)
 > 
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
@@ -155,10 +150,9 @@ See the [goalkeeper section](/goalkeeper)
 ## Players Sending-off Offenses
 
 > A player, substitute or substituted player who commits any of the following offences is sent off:
-> 
-> - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offence (except a goalkeeper within their penalty area)
-See the [tactical impact section](/tactical-impact)
 
+
+> - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offence (except a goalkeeper within their penalty area)
 > - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
 
 See the [tactical impact section](/tactical-impact)
