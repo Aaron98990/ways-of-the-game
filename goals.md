@@ -17,7 +17,9 @@ Goal nets, especially in lower levels of the game, will have holes in them. Just
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar.
 
-## Ball off the crossbar or goalpost
+## Crossbar and goalpost
+
+> If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
 Many shots will hit the crossbar or goalpost and remain in play.
 
