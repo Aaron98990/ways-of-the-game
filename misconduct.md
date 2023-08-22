@@ -61,16 +61,19 @@ Covered in the [restarts section](/restarts).
 > - dissent by word or action
 
 TODO Video example
-> - entering, re-entering or deliberately leaving the field of play without the referee’s permission
+> - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. Please note the exceptions for leaving the field of play listed in the Laws. In all cases, permission is not needed to re-enter.
+This is the rarest caution. 
+
+A player deliberately leaving the field of play is cautioned only if this was done to confuse the match officals or opponents. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
 - "Leaving the field of play to celebrate a goal is not a cautionable offence but players should return as soon as possible." Law 12.3
 - Retrieving the ball or taking a restart
 
-Entering the field is covered by Law 3.7/3.9 (for non-player, too may players on field). 
-Re-entring the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equiptment or leaving for an extended period of time).
+A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too may players on field). 
+
+A player re-entring the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equiptment or leaving the field of play for an extended period of time or after leaving with the referee's permission).
 
 
 > - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
@@ -108,7 +111,7 @@ This is known as the flop. A player can be cautioned for this whether or not con
 
 [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
 
-PRO writes about with three video examples [here].
+PRO writes about with three video examples [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
 
 Usual acts of simulation or embellishment include:
 
@@ -145,7 +148,9 @@ I have only seen a caution for this when players scuffing up the penalty spot or
 > - plays the ball when leaving the field of play after being given permission to leave
 
 
-I have never seen this before.
+(?? Making a guess) I have never seen this before. Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.3. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
+
+If you just left the field without the referee;s permission (deliberately or not) you still count as a defender for determinig offside position "until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area" (Law 11.4).
 > - shows a lack of respect for the game
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
@@ -160,6 +165,19 @@ See the [goalkeeper section](/goalkeeper)
 Here are common examples:
 - You can not say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
 - You can not yell/scream for the purpose to scare the opponent or to otherwise distract an opponent
+
+### Unlisted in Law 12 Cautions
+For penalty kicks:
+- a team-mate of the identified kicker takes the kick; the referee cautions the player who took the kick
+- feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
+- If the goalkeeper’s offence results in the kick being retaken (e.g. touching crossbar/nets, not on goaline), the goalkeeper is warned for the first offence in the game and cautioned for any subsequent offence(s) in the game
+- Law 14
+
+If a player is wearing or using unauthorised/dangerous equipment or jewellery, the referee must order the player to:
+- remove the item
+- leave the field of play at the next stoppage if the player is unable or unwilling to comply
+
+A player who refuses to comply or wears the item again must be cautioned. Law 4.1
 
 
 ## Players Sending-off Offenses
