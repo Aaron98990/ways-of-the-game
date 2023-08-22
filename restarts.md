@@ -25,13 +25,19 @@ Othrt than dropped balls and throw-ins, the ball must be stationary when kicked.
 
 Feinting is allowed on all restarts except in one scenario during a penalty kick.
 
+> Feinting
+> An action which attempts to confuse an opponent.
+> Glossary
+
 > Feinting to take a free kick to confuse opponents is permitted as part of football.
 
-[The free kick taker fients. This is okay.]()
+[The player stops their run up on a free kick and acts confused. This is okay.](https://youtu.be/-PLA_JIfusI)
 
 > The penalty kick taker offends:
 > 
 > - feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
+
+[Messi feints kicking the ball once he has finished his run up for the penalty kick. The goal is disallowed, indirect free kick for opppnents, and caution. ](https://youtu.be/OivBaku1q2s)
 
 ### Ball in play
 
