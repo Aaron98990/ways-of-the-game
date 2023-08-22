@@ -67,9 +67,13 @@ Video playlist with 21 examples from Referee Channel are [here](https://www.yout
 TODO Video example
 > - entering, re-entering or deliberately leaving the field of play without the referee’s permission
 
-This is the rarest caution. Please note the exceptions to this listed in the Laws.
+This is the rarest caution. Please note the exceptions for leaving the field of play listed in the Laws. In all cases, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
+- Retrieving the ball or taking a restart
+
+Entering the field is covered by Law 3.7/3.9 (for non-player, too may players on field). 
+Re-entrring the field is covered by Law 3.8 (only for players who need permission to re-entet after an injury or to fix equiptment).
 
 
 > - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
@@ -117,7 +121,7 @@ Usual acts of simulation or embellishment include:
 
 > - changes places with the goalkeeper during play or without the referee’s permission (see Law 3)
 
-See the [goalkeeper section](/goalkeeper). Does not apply between halves (including extra time) or before penalties.
+See the [goalkeeper section](/goalkeeper). Only applies among players. Does not apply between halves (including extra time) or before penalties.
 
 > - commits in a reckless manner a direct free kick offence
 
@@ -174,12 +178,12 @@ See the [excessive force section](/excessive-force).
 > - violent conduct
 >
 See the [excessive force section](/excessive-force).
-> 
+
 > - using offensive, insulting or abusive language and/or action(s)
-> 
+You'll know it when you see it. 
 > - receiving a second caution in the same match
 
-> 
+
 > A player, substitute or substituted player who has been sent off must leave the vicinity of the field of play and the technical area.
 
 Many times competition rules will require to be out-of-sight and out-of-sound.
