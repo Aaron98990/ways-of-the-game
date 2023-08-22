@@ -92,7 +92,7 @@ For a dropped a ball the ball is
 
 > If, when a goal kick is taken, any opponents are inside the penalty area because they did not have time to leave, the referee allows play to continue. If an opponent who is in the penalty area when the goal kick is taken, or enters the penalty area before the ball is in play, touches or challenges for the ball before it is in play, the goal kick is retaken.
 
-> If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue.
+> If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. 
 
 Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play.
 
@@ -101,6 +101,39 @@ Please note that a penalty kick and kick-off can never be taken quickly and alwa
 > For every kick-off:
 > 
 > - the referee gives a signal
+
+## Delaying the restart of play
+
+> An opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. Law 13
+
+[The defender stands right in front of the ball and fails to make an attempt to all allow the free kick to be taken. The player is cautioned.](https://www.youtube.com/watch?v=qDdkvYZLql0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=4)
+
+> Referees must caution players who delay the restart of play by:
+>
+> - appearing to take a throw-in but suddenly leaving it to a team-mate to take
+>
+> - delaying leaving the field of play when being substituted
+>
+> - excessively delaying a restart
+>
+> - kicking or carrying the ball away, or provoking a confrontation by deliberately touching the ball after the referee has stopped play
+>
+> - taking a free kick from the wrong position to force a retake
+
+Time-wasting offen falls into this category. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. If they ignore those commands, the referee should not hesitate on punishing the offense.
+
+[A player attempts to waste time by taking over 30 seconds to take a free kick and is cautioned.](https://www.youtube.com/watch?v=DDBtmd86jPc&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=10)
+
+[The player keeps dribbling the ball although the restart belongs to the other team. The player is cautioned.](https://www.youtube.com/watch?v=IsPq6DlxrG0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=18)
+
+[During a substitution the player takes longer than necessary to leave the field. The player is cautioned.](https://www.youtube.com/watch?v=ilHTBKTW-Kg&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=20)
+
+The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, esspecially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called). 
+
+## Failure to respect distance
+
+> A player is cautioned if guilty of:
+> - failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.3
 
 ### Double Touch
 
