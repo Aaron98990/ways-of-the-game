@@ -69,6 +69,7 @@ TODO Video example
 
 This is the rarest caution. Please note the exceptions to this listed in the Laws.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8
+- "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
 
 
 > - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
@@ -104,9 +105,19 @@ Players Unsporting
 > 
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
 >
-This is known as the flop. 
-Video 1
-Video 2
+This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
+
+[A player runs into a defender's leg in an attempt to decieve the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
+
+PRO writes about with three video examples [here].
+
+Usual acts of simulation or embellishment include:
+
+- exaggerating the effect of a normal contact challenge
+- intentionally moving his leg towards his opponent to make it appear that he has been tripped
+- falling to the ground when the contact between him and the opponent was not sufficient to cause the fall
+- Falling in an overly dramatic manner designed to attract the referee’s attention
+
 > 
 > - changes places with the goalkeeper during play or without the referee’s permission (see Law 3)
 >
@@ -119,7 +130,8 @@ See the [reckless section](/reckless).
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
 See the [tactical impact section](/tactical-impact)
-> 
+
+
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
 >
 See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
@@ -137,14 +149,16 @@ I have only seen a caution for this when players scuffing up the penalty spot or
 I have never seen this before.
 > - shows a lack of respect for the game
 
-This is a catch-all. A referee may caution a player for anything. Here are some common examples that can (they don;t have to) fall in the category:
+This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating
-- blatantly fouling a player (e.g. holding) or commiting handball
+- blatantly fouling a player (e.g. holding) or blatantly commiting handball
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
 
 See the [goalkeeper section](/goalkeeper)
 > - verbally distracts an opponent during play or at a restart
-
+Here are common examples:
+- You can not say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
+- You can not yell/scream for the purpose to scare the opponent or to otherwise distract an opponent
 
 
 ## Players Sending-off Offenses
