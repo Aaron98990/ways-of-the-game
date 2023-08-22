@@ -57,20 +57,42 @@ You may not give a caution or send-off to an outside agent (e.g. spectator, ball
 > A player, substitute or substituted player is cautioned if guilty of:
 > 
 > - delaying the restart of play
+>
+> 
+Covered in the [restarts section](/restarts).
+Video playlist with 21 examples from Referee Channel are [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj).
 > 
 > - dissent by word or action
-> 
+
+TODO Video example
 > - entering, re-entering or deliberately leaving the field of play without the referee’s permission
-> 
+
+This is the rarest caution. Please note the exceptions to this listed in the Laws.
+- "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8
+
+
 > - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
+>
+> 
+Covered in the [restarts section](/restarts).
 > 
 > - (player only) persistent offences (no specific number or pattern of offences constitutes ‘persistent’)
+>
+> 
+This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for persistent offenses:
+- A player commiting too many fouls or
+- A team commiting too many fouls, generally after a public warning or
+- A team commiting to many fouls against one player, generally after a public warning
+
+Please note that any offense in the Laws of the Game is eligible for this. Not just Law 12.1 and Law 12.2 Fouls.
+
+PRO Referees has a write up on persistent offenses (formerly called persistent infrigments) on this on their website and is availabel [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
+
+If a referee issues a caution for persistent offenses, they often count with their hands 1,2,3 to signify this or point to different  parts of the field where the offneses occured.
 > 
 > - unsporting behaviour
 > 
-> - entering the referee review area (RRA)
-> 
-> - excessively using the ‘review’ (TV screen) signal
+This is the most common reason to give a cuation because it covers a lot of offenses that are listed below.
 
 
 
@@ -81,27 +103,51 @@ Players Unsporting
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
 > 
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
+>
+This is known as the flop. 
+Video 1
+Video 2
 > 
 > - changes places with the goalkeeper during play or without the referee’s permission (see Law 3)
+>
+See the [goalkeeper section](/goalkeeper). Does not apply between halves (including extra time) or before penalties.
 > 
 > - commits in a reckless manner a direct free kick offence
-> 
+
+See the [reckless section](/reckless).
 > - handles the ball to interfere with or stop a promising attack
-> 
+
+See the [tactical impact section](/tactical-impact)
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
-> 
+
+See the [tactical impact section](/tactical-impact)
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
+>
+See the [tactical impact section](/tactical-impact)
 > 
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
+>
+See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
+See the [handball section](/handball) for "handles the ball in an attemtp to score".
 > 
 > - makes unauthorised marks on the field of play
-> 
+
+I have only seen a caution for this when players scuffing up the penalty spot or the area near the peanlty stop to make the player slip when taking a penalty kick.
+
+[Goalkeeper should of gotten a caution for scuffing up the area near the penalty area.](https://www.youtube.com/watch?v=yZN_2D5nlRg)
+
 > - plays the ball when leaving the field of play after being given permission to leave
 > 
+
+I have never seen this before.
 > - shows a lack of respect for the game
-> 
+
+This is a catch-all. A referee may caution a player for anything. Here are some common examples that can (they don;t have to) fall in the category:
+- showboating
+- blatantly fouling a player (e.g. holding) or commiting handball
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
-> 
+
+See the [goalkeeper section](/goalkeeper)
 > - verbally distracts an opponent during play or at a restart
 
 
@@ -111,22 +157,28 @@ Players Unsporting
 > A player, substitute or substituted player who commits any of the following offences is sent off:
 > 
 > - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offence (except a goalkeeper within their penalty area)
-> 
+See the [tactical impact section](/tactical-impact)
+
 > - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
-> 
+
+See the [tactical impact section](/tactical-impact)
 > - serious foul play
-> 
+
+See the [excessive force section](/excessive-force).
 > - biting or spitting at someone
 > 
 > - violent conduct
+>
+See the [excessive force section](/excessive-force).
 > 
 > - using offensive, insulting or abusive language and/or action(s)
 > 
 > - receiving a second caution in the same match
-> 
-> - entering the video operation room (VOR)
+
 > 
 > A player, substitute or substituted player who has been sent off must leave the vicinity of the field of play and the technical area.
+
+Many times competition rules will require to be out-of-sight and out-of-sound.
 
 ## Team Officals
 
@@ -146,11 +198,8 @@ I include some of the offenses for which team officals may be warned, cautioned,
 > 
 > - delaying the restart of play by their team
 > 
-> - dissent by word or action including:
+> - dissent by word or action
 >   
->   - throwing/kicking drinks bottles or other objects
->   
->   - action(s) which show(s) a clear lack of respect for the match official(s) e.g. sarcastic clapping
 > 
 > Sent off:
 > 
@@ -162,7 +211,6 @@ I include some of the offenses for which team officals may be warned, cautioned,
 >   
 >   - show dissent towards, or remonstrate with, a match official
 >   
->   - act in a provocative or inflammatory manner
 > 
 > - entering the field of play to:
 >   
