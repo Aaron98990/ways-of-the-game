@@ -64,7 +64,7 @@ TODO Video example
 > - entering, re-entering or deliberately leaving the field of play without the referee’s permission
 
 This is the rarest caution. Please note the exceptions for leaving the field of play listed in the Laws. In all cases, permission is not needed to re-enter.
-- "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8
+- "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
 - Retrieving the ball or taking a restart
 
