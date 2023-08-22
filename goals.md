@@ -228,3 +228,7 @@ Most matches where the score is tied, will in a tie. The only exception is where
 >
 > A combination of the above procedures may be used.
 > Law 10.2 Winning team
+
+> Away goals rule
+> goals scored away from home count double. 
+> Glossary
