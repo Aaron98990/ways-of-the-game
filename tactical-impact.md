@@ -8,7 +8,13 @@ The level of tactical impact does not depend on intention. A player can unintent
 
 Many people will call SPA or DOGSO tactical fouls. Many SPA and DOGSO offenses are tactical fouls but not all. A tactical foul is committed when a player deliberately fouls another but as said above intention/being deliberate does not matter. 
 
-Stopping a Promising Attack is not defned in the Laws of the Game but generally commiting a foul with the main purpose to stop a player from advancing would qualify. 
+## SPA
+
+Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball.
+
+[A playlist of 9 videos of SPA.](https://www.youtube.com/playlist?list=PLzf0-UFHPjPdTEI9Z2kzC3pCgBgXSaywF)
+
+[A playlist of 50+ of SPA from the Referee Channel](https://www.youtube.com/playlist?list=PL4OiywE4asSe_F4qnxKcKjOx7FSjNYszR)
 
 ## DOGSO
 
@@ -34,7 +40,7 @@ The Laws of the Game give us some guidance on what is DOGSO.
 > 
 > Law 12.3 Direct Free Kick
 
-Generally, referees require that all four considerations to be required for DOGSO to be met but it is not a requirement. 
+Generally, referees require that all four considerations to be required for DOGSO to be met but it is not a requirement. DOGSO (like offside) is a hard call to make because it requires match officals to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul (1 v 1 with a dedender, usually the goalkeeper) or open-goal foul (no one is in the goal) although remember that the distance between the offense and goal must not be signficant.
 
 ## Disciplinary Action
 
