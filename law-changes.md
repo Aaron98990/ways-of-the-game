@@ -105,11 +105,9 @@ The Law Changes document for this year is [here on page 129. ](https://downloads
 
 - Verbal offences are punished with an indirect FK
 
-- If player moves diagonally to pass the last defender/goalkeeper this can still
-  be a DOGSO
+- If player moves diagonally to pass the last defender/goalkeeper this can still be a DOGSO
 
-- A player ‘stopping a promising attack’ in the penalty area is not cautioned
-  (YC) if the offence was an attempt to play the ball
+- A player ‘stopping a promising attack’ in the penalty area is not cautioned (YC) if the offence was an attempt to play the ball
 
 ## 2016/17
 
@@ -148,5 +146,6 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
   penalty area)
 
 - Goalkeeper YC if infringes and PK is retaken
+    - "This should encourage goalkeepers not to infringe this Law." was IFAB's reasoning. This was already way to harsh and when VAR was introduced caused more problems as the goalkeeper off the line law was strictly applied rather than just blatant cases. [Women's world cup shootout yellow card dispension was applied.](https://www.si.com/soccer/2019/06/21/womens-world-cup-pk-shootouts-goalkeeper-rule-yellow-card-ifab)
 
 - Kick-off: ball must clearly move to be in play; can be kicked in any direction
