@@ -50,7 +50,9 @@ Game(s) suspension, other than current game, for a send-off or accumulating caut
 > 
 > Law 9 Determining a winner
 
+## Warnings
 
+Warnings are an important tool that is not technically miscounduct. 
 
 ## Players Cautionable Offenses
 
@@ -70,6 +72,11 @@ A player deliberately leaving the field of play is cautioned only if this was do
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
 - "Leaving the field of play to celebrate a goal is not a cautionable offence but players should return as soon as possible." Law 12.3
 - Retrieving the ball or taking a restart
+
+These actions below, if done without permission, were not done to confuse the match offical or opponents so no caution is needed:
+- A fatigued player who knows they are about to be substituted leaves the field of play
+- a player leave the field to talk with someone or to recieve a headband for their sweat and does not unfairly re-enter
+- a coach benchs a players while the ball is in play
 
 A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too may players on field). 
 
