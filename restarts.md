@@ -176,7 +176,24 @@ Deliberately throwing (from a throw-in only) or deliberately kicking the ball at
 > If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
 > Law 13, 15, 17
 
-From here on out I cover each restart and there specific separatly:
+## Holding an opponent
+
+> Referees are reminded to make an early intervention and to deal firmly with holding offences, especially inside the penalty area at corner kicks and free kicks. To deal with these situations:
+>
+> the referee must warn any player holding an opponent before the ball is in play
+>
+> caution the player if the holding continues before the ball is in play
+>
+> award a direct free kick or penalty kick and caution the player if it happens once the ball is in play
+> Guidelines for Match Officals
+
+[The referee stops the corner kick and warns players to stop holding.](https://youtu.be/5OJfbYQtKtk?t=2012)
+
+## Standing in front of the goalkeeper
+
+On corner kicks and free kicks players like to stand in front of goalkeepers to limit their movement.  This is covered extensively in the [goalkeeper section](/goalkeeper)
+
+ From here on out I cover each restart and there specific separatly:
 
 ## Penalty Kick
 
@@ -203,6 +220,8 @@ While it's not techically wrong to penalize a player for encroaching when they h
 ## Throw-in
 
 ![image]([https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d](https://norcalsoccerdad.files.wordpress.com/2015/10/img_0939.jpg))
+
+
 
 
 #### Indirect Free Kick in Opponents' Penalty Area
