@@ -42,7 +42,7 @@ You may not give a caution or send-off to an outside agent (e.g. spectator, ball
 > 
 > 3.6 Players and substitutes sent off
 
-
+Game(s) suspension, other than current game, for a send-off or accumulating cautions is found in the competition rules, not in the Laws of the Game. Usually, it's at least a one game suspension for a sending-off. 
 
 ## Penalty kicks
 
