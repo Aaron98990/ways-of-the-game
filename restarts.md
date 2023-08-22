@@ -128,6 +128,8 @@ Time-wasting offen falls into this category. The referee must be aware that in c
 
 [During a substitution the player takes longer than necessary to leave the field. The player is cautioned.](https://www.youtube.com/watch?v=ilHTBKTW-Kg&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=20)
 
+[The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
+
 The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, esspecially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called). 
 
 ## Failure to respect distance
