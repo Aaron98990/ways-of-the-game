@@ -27,6 +27,8 @@ Feinting is allowed on all restarts except in one scenario during a penalty kick
 
 > Feinting to take a free kick to confuse opponents is permitted as part of football.
 
+[The free kick taker fients. This is okay.]()
+
 > The penalty kick taker offends:
 > 
 > - feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
@@ -47,7 +49,9 @@ We defined a kick before and lets define it again. The ball must be "kicked and 
 > 
 > - Glossary - Football terms
 
-If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball must not just move, it must clearly move. In these situations, you have the free kick taker take the smallest of touches before a second player kicks it at the goal. To who must it be the clear the ball moves. It is subjective and I offer this advice to you - follow the spirit of the game. 😆
+If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play.
+
+[The ball does not clearly move. The restart should of been retaken. ](https://youtu.be/-FqA3g7-PTs)
 
 For a throw-in the ball is in play when 
 
