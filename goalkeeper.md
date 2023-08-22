@@ -134,7 +134,7 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 
 Goaleeper in Control of the Ball with the Hands
 
-A go
+A goalkeeper can't be challenged for the ball when in control of te ball with the hands.
 
 > A goalkeeper is considered to be in control of the ball with the hand(s) when:
 > 
@@ -146,7 +146,18 @@ A go
 
 ## Boxing out the goalkeeper
 
-On corner kicks, players stand in front of the goalkeeper.
+On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed as long as no other offense is being commited. Referees should warn player doing this that they commit an offenese if they move into the path of the goalkeeper.
+
+> Impeding the progress of an opponent without contact
+> 
+> Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
+> 
+> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
+> Law 12.2
+
+If there is contact, the restart is a direct free kick. If there is no contact, the restart is an indirect free kcik.
+
+
 
 ## Is the goalkeeper protected too much?
 
