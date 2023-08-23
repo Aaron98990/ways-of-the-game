@@ -6,7 +6,7 @@ Please note that [reckless (Caution)](/reckless), [excessive force (send-off)](/
 > 
 > 12.3 Disciplinary action
 
-You may not give a caution or send-off to an outside agent (e.g. spectator, ball kid) or a sent-off player as they have already been sent off.
+You may not give a caution or send-off to an outside agent (e.g. spectator, ball kid) or a sent-off player. In the cases where the referee want an outside agent  or sent-off player removed, the referee can suspend the game until that happens. If the outside agent or sent-off player reamins, the referee can abandon match.
 
 ## Referee's Responsibility
 
@@ -52,7 +52,14 @@ Game(s) suspension, other than current game, for a send-off or accumulating caut
 
 ## Warnings
 
-Warnings are an important tool that is not technically miscounduct. 
+Warnings are an important tool that is not technically miscounduct. They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without acction).
+
+Things to avoid saying:
+- If you do X, I will do Y. (Don't tie yourself)
+- This is your only warning. (Don't tie yourself.)
+
+Things to say:
+- X is not acceptable. Don't do it again.
 
 ## Players Cautionable Offenses
 
@@ -62,7 +69,41 @@ Warnings are an important tool that is not technically miscounduct.
 Covered in the [restarts section](/restarts).
 > - dissent by word or action
 
-TODO Video example
+Different match officals handle disagreement differently, but here's a good guidline to follow.
+<!-- tabs:start -->
+
+#### **Not dissent**
+
+Simply disagreeing with the referee is not an offense or stating a simple opinion/fact is not dissent.
+
+1. "You can overrule the linesman"
+2. "That's a flop"
+3. "That's was outside the penalty area."
+4. "Call it both ways. Your calling everything for the other team."
+5. "No way that's a foul."
+
+#### **Dissent by word**
+
+1.       Yelling / following at a match offical at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
+2.       Continous and persistent arguing
+4.       “Referee, are you blind? You're a joke.”
+5.       "Do I need to teach you how to ref? / Is this your first time reffing?"
+6.       “Whose side are you on?”
+7.       Swearing at a referee "That's a fucking foul!"
+
+#### **Dissent by action**
+
+1.       Gesture the wearing of spectacles after a decision
+2.       Sarcastic clapping against a decision
+3.       Throwing the ball to the ground or kicking it away [The player should of gotten for protesting the correct foul call by throwing the ball to the ground. ](https://www.youtube.com/watch?v=oaRIL13l-hE)
+4.       Surrounding or mobbing a match offical while arguing
+
+<!-- tabs:end -->
+
+
+
+
+https://youtu.be/1g2DRURrbAo?t=935
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
 This is the rarest caution. 
@@ -165,6 +206,8 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebretation (covered in the [goals section](/goals))
 - blatantly fouling a player (e.g. holding) or blatantly commiting handball
+
+  [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they recieve a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
 
 See the [goalkeeper section](/goalkeeper)
