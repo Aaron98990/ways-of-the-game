@@ -81,6 +81,8 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 - "That's was outside the penalty area."
 - "Call it both ways. Your calling everything for the other team."
 - "No way that's a foul."
+- "What are you calling?"
+- "Keep my players safe!"
 
 #### **Dissent by word**
 
@@ -93,7 +95,7 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 
 #### **Dissent by action**
 
-The NBA has an an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is similar to a caution. The NBA is definitly stricter than FIFA competitions when it comes with dissent. "Personally", I do not consider a wave off dissent.
+The NBA has an an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is similar to a caution. I do not consider a wave off dissent.
 
 - Gesture the wearing of spectacles
 - Invading a match offical's personal space
@@ -108,7 +110,7 @@ The NBA has an an 11 video playlist for "overt gestures" available [here](https:
 
 
 
-https://youtu.be/1g2DRURrbAo?t=935
+
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
 This is the rarest caution. 
@@ -138,7 +140,7 @@ Covered in the [restarts section](/restarts).
 This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for persistent offenses:
 - A player commiting too many fouls or
 - A team commiting too many fouls, generally after a public warning or
-- A team commiting to many fouls against one player, generally after a public warning
+- A team commiting too many fouls against one player, generally after a public warning
 
 Please note that any offense in the Laws of the Game is eligible for this. Not just Law 12.1 and Law 12.2 Fouls.
 
