@@ -76,27 +76,32 @@ Different match officals handle disagreement differently, but here's a good guid
 
 Simply disagreeing with the referee is not an offense or stating a simple opinion/fact is not dissent.
 
-1. "You can overrule the linesman"
-2. "That's a flop"
-3. "That's was outside the penalty area."
-4. "Call it both ways. Your calling everything for the other team."
-5. "No way that's a foul."
+- "You can overrule the linesman"
+- "That's a flop"
+- "That's was outside the penalty area."
+- "Call it both ways. Your calling everything for the other team."
+- "No way that's a foul."
 
 #### **Dissent by word**
 
-1.       Yelling / following at a match offical at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
-2.       Continous and persistent arguing
-4.       “Referee, are you blind? You're a joke.”
-5.       "Do I need to teach you how to ref? / Is this your first time reffing?"
-6.       “Whose side are you on?”
-7.       Swearing at a referee "That's a fucking foul!"
+-  Yelling at  a match offical at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
+- Continous, prolonged, persistent arguing
+- “Referee, are you blind? You're a joke. Do your job!”
+- "Do I need to teach you how to ref? / Is this your first time reffing?"
+- “Whose side are you on?”
+- Swearing at a referee "That's a fucking foul!"
 
 #### **Dissent by action**
 
-1.       Gesture the wearing of spectacles after a decision
-2.       Sarcastic clapping against a decision
-3.       Throwing the ball to the ground or kicking it away [The player should of gotten for protesting the correct foul call by throwing the ball to the ground. ](https://www.youtube.com/watch?v=oaRIL13l-hE)
-4.       Surrounding or mobbing a match offical while arguing
+The NBA has an an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is similar to a caution. The NBA is definitly stricter than FIFA competitions when it comes with dissent. "Personally", I do not consider a wave off dissent.
+
+- Gesture the wearing of spectacles
+- Invading a match offical's personal space
+- Air punching towards or away a match offical
+- Running a distance to complain to the referee [The goalkeeper runs a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
+- Sarcastic clapping
+- Throwing (spiking) the ball to the ground [The player should of gotten for protesting the correct foul call by throwing the ball to the ground. ](https://www.youtube.com/watch?v=oaRIL13l-hE)
+- Surrounding or mobbing a match offical while arguing
 
 <!-- tabs:end -->
 
@@ -249,7 +254,8 @@ See the [excessive force section](/excessive-force).
 See the [excessive force section](/excessive-force).
 
 > - using offensive, insulting or abusive language and/or action(s)
-You'll know it when you see it. 
+You'll know it when you see it.
+ [Beckhem makes unnessary contact with a match offical and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
 > - receiving a second caution in the same match
 
 
