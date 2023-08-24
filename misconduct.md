@@ -119,7 +119,7 @@ A player deliberately leaving the field of play is cautioned only if this was do
 - "A player who crosses a boundary line as part of a playing movement does not commit an offence." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
 - "Leaving the field of play to celebrate a goal is not a cautionable offence but players should return as soon as possible." Law 12.3
-- Retrieving the ball or taking a restart
+- Retrieving the ball or taking a restart ([This is okay.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2674))
 
 These actions below, if done without permission, were not done to confuse the match offical or opponents so no caution is needed:
 - A fatigued player who knows they are about to be substituted leaves the field of play
