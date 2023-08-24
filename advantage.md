@@ -7,13 +7,14 @@ The referee has the power to play advantage. This is an extnesion of Law 9.1 as 
 
 "penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball does not necessairly mean it is advantageous to play advantange.
 
+[The foul should of been brought back as advantage never materializes. The slow-mo replay showed that the foul occurered before the pass to the player's teammate and caused the bad pass.](https://youtu.be/5OJfbYQtKtk?t=4745)
+
 Please note the wording "allows play to continue when an offence occurs". This means advantage can be applied not just to fouls (offenses in Law 12) but to any offense in the Laws of the Game. 
 
 [TODO - Advantage played on an offside offense.]
 
 [TODO - Advantage played on double touch of free kick.]
 
-[TODO - Advantage played on double touch of free kick.]
 
 > The ball is out of play when:
 > 
