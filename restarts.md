@@ -166,11 +166,12 @@ For all restarts except dropped balls, the person who takes the restart can't to
 
 > A free kick can be taken by lifting the ball with a foot or both feet simultaneously.
 
-TODO - Insert video
+[Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
 
-Dor dropped balls, the player can start drinbling the ball as the ball is in play.
+[Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
 
-### 
+
+For dropped balls, the player can start drinbling the ball as the ball is in play.
 
 ## Two touches before opponent's goal
 
@@ -224,9 +225,6 @@ On corner kicks and free kicks players like to stand in front of goalkeepers to 
 
 [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
 
-[Penalty kick taker touches the ball after kicking it and before it touches an opponent. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
-
-[Penalty kick taker touches the ball after kicking it and before it touches an opponent. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
 
 While it's not techically wrong to penalize a player for encroaching when they have no impact on play, I consider this trifling and would never penlize for it. VAR only intervenes for penalty kick encroachment if the player impacts play. 
 
