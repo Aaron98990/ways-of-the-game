@@ -1,5 +1,9 @@
 ## Close Calls
 
+Just because a player recieves the ball ahead of everyone does not necessairly mean they are offside.
+
+[The assistant referee incorrectly flags the player for offside.](https://youtu.be/57Gs6vLMnvU?feature=shared&t=36)
+
 ## Offside then Not
 
 ## Deflection vs Non-deflection
