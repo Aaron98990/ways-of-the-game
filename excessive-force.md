@@ -32,11 +32,11 @@ It is serious foul play if:
 
 This distinction matters as competitions generally will suspend players for more games for violent conduct than serious foul play.
 
-There are also offensive, insulting or abusive actions, including physichal ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the Dissent vs Abuse section.
+There are also offensive, insulting or abusive actions, including physichal ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the the [misconduct section](/misconduct).
 
 ### Charge / Strikes At
 
-There is a great write up from PRO [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
+There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
 
 [Red Card - Serious Foul Play The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occured.](https://youtu.be/u-y3AiAm2pI?t=269)
 
@@ -55,13 +55,15 @@ There is a great write up from PRO [here](https://proreferees.com/2020/04/20/pro
 
 [The player uses a straight leg and contacts their opponent's thigh with excessive force. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=x369hGXJVDc)
 
-## Violent Conduct
+## Kicks
 
 [Red Card (Violent Conduct) - Deliberately kicking an opponent with non-neglible foce while the ball is not in the field of play is violent conduct. Outside the field, that is assult. How to deal with the push after the kick is subjective. I prefer no card as this is a reasonable reaction to someone who was just deliberately kicked.](https://youtu.be/gnfbhoNlAKw?t=107)
 
 [The player kicks out at the opponent who just fouled him. Although the player does not connect, this is violent conduct and a red card should be shown.](https://youtu.be/2NgJxKL3fgU?t=704)
 
 [The player deliiberately steps (aka stomps) on their opponent after not getting a foul from the referee. This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=dfDV_bTCGUw)
+
+## Push
 
 [The player pushes their opponent with excessive force (aka shove). This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=QZDr0jzt4JM)
 
@@ -75,4 +77,4 @@ Kicking or throwing on throw-ins the ball at someone is acceptable if reasonable
 
 [RC - Violent Conduct - Althoguh the ball never made any contact with any of the subs during the world cup, this was violent conduct. There is no tactical reason to kick the ball in that direction and with that speed.](There is no tactical reason to kick the ball in that direction and with that speed.)
 
-PRO Referees has a great write up: [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
+PRO Referees has a great write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
