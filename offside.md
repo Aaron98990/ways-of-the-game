@@ -16,7 +16,7 @@ Video example 1
 > 
 > - any part of the head, body or feet is in the opponents’ half (excluding the halfway line)
 
-So, if your enitre head, body, and feet are in your own half of the field or on the halfway line yoy can never be offside.
+So, if your completely your own half, can never be offside.
 
 Video example 2
 
