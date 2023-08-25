@@ -77,6 +77,8 @@ A player may kick an object (including the ball) at a player (including during r
 
 [RC - Violent Conduct Kicking the ball at someone on the ground. There is no tactical reason to kick the ball in that direction and with that speed.](https://youtu.be/nDgAA3EtsBg?t=627)
 
+[RC - Vioent Conduct Kick the ball at someone on the ground during the world cup. There is no tactical reason to kick the ball in that direction and with that speed.](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863)
+
 PRO Referees has a great write up: [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
 ## Throwing an object at someone
