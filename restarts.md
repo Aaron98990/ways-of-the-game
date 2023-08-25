@@ -249,7 +249,16 @@ While it's not techically wrong to penalize a player for encroaching when they h
 
 ## Throw-in
 
-![image]([https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d](https://norcalsoccerdad.files.wordpress.com/2015/10/img_0939.jpg))
+On a throw-in both feet do not need to be outside the field of play. The Law 15 says this:
+> At the moment of delivering the ball, the thrower must:
+>
+> - have part of each foot on the touchline or on the ground outside the touchline
+
+Let's visualize that - I retrieved this image from [norcalsoccerdad](https://norcalsoccerdad.com/).
+
+![image](https://norcalsoccerdad.files.wordpress.com/2015/10/img_0939.jpg)
+
+From https://norcalsoccerdad.files.wordpress.com/2015/10/img_0939.jpg - please note that the feet must
 
 
 
