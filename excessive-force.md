@@ -34,8 +34,6 @@ This distinction matters as competitions generally will suspend players for more
 
 There are also offensive, insulting or abusive actions, including physichal ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the Dissent vs Abuse section.
 
-## Serious Foul Play
-
 ### Charge / Strikes At
 
 There is a great write up from PRO [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
@@ -67,34 +65,14 @@ There is a great write up from PRO [here](https://proreferees.com/2020/04/20/pro
 
 [The player pushes their opponent with excessive force (aka shove). This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=QZDr0jzt4JM)
 
-Kicking an object at someone
+## Kicking/throwing an object at someone
 
-> If a player, while correctly taking a [corner kick or free kick], deliberately kicks the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
-> 
-> Law 13.2 / 17.1 - Free Kick / Corner kick
-
-A player may kick an object (including the ball) at a player (including during restarts) but it must not be careless, reckless, or use excessive force.
+Kicking or throwing on throw-ins the ball at someone is acceptable if reasonable force is used. This is covered in [restarts section](/restarts).
 
 [RC - Violent Conduct Kicking the ball at someone on the ground. There is no tactical reason to kick the ball in that direction and with that speed.](https://youtu.be/nDgAA3EtsBg?t=627)
 
 [RC - Vioent Conduct Kick the ball at someone on the ground during the world cup. There is no tactical reason to kick the ball in that direction and with that speed.](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863)
 
+[RC - Violent Conduct - Althoguh the ball never made any contact with any of the subs during the world cup, this was violent conduct. There is no tactical reason to kick the ball in that direction and with that speed.](There is no tactical reason to kick the ball in that direction and with that speed.)
+
 PRO Referees has a great write up: [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
-
-## Throwing an object at someone
-
-> If a player, while correctly taking a throw-in, deliberately throws the ball at an opponent in order to play the ball again but not in a careless or a reckless manner or using excessive force, the referee allows play to continue.
-> 
-> Law 15.1 - Procedure Throw-in
-
-A player may throw a ball at a player for throw-ins but it must not be careless, reckless, or use excessive force. In all other cases where an object is thrown, the offendor must be sanctioned.
-
-> Offences where an object (or the ball) is thrown
-> 
-> In all cases, the referee takes the appropriate disciplinary action:
-> 
-> - reckless – caution the offender for unsporting behaviour
-> 
-> - using excessive force – send off the offender for violent conduct
-> 
-> Law 12.3 Disciplinary Action
