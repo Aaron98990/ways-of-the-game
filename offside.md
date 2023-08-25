@@ -1,3 +1,44 @@
+## Never offside
+
+> There is no offside offence if a player receives the ball directly from:
+>
+> - a goal kick
+>
+> - a throw-in
+>
+> - a corner kick
+
+So, if the ball goes over and past the goal line or touchline - there can never be offside from the restart.
+
+Video example 1
+
+> A player is in an offside position if:
+> 
+> - any part of the head, body or feet is in the opponents’ half (excluding the halfway line)
+
+So, if your enitre head, body, and feet are in your own half of the field or on the halfway line yoy can never be offside.
+
+Video example 2
+
+> A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
+
+So, if the ball is deliberately passed to you by an opponent you can never be offside.
+
+Video example three
+
+> A player is in an offside position if:
+>
+> - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
+
+If you are behind or even with the ball when it is touched by a teammate, you are never offside.
+
+Video example 4
+
+If you are behind or even with the second-to-last defender when the ball is touched by a teammate, you are never offside. Remember, the goalkeeper counts as a defender.
+
+Video example 5
+
+
 ## Close Calls
 
 Just because a player recieves the ball ahead of everyone does not necessairly mean they are offside.
