@@ -114,14 +114,23 @@ Please note that a penalty kick and kick-off can never be taken quickly and alwa
 
 If the referee measures distance on a free kick or wants to restart play from a card, sub, or injury, the whistle should be used. 
 
-The whistle is needed to:
-restart play for:
-	•	free kicks when the appropriate distance is required
-restart play after it has been stopped for a:
-	•	caution or sending-off
-	•	injury
-	•	substitution
-Guideline for Match Officals
+> The whistle is needed to:
+> 
+> - restart play for:
+>
+> 	- free kicks when the appropriate distance is required
+> 
+> - restart play after it has been stopped for a:
+> 
+> 	- caution or sending-off
+> 
+> 	- injury
+> 
+> 	- substitution
+> 
+>Guideline for Match Officals
+
+[The referee measures the distance for a free kick and puts the white foam where defenders can stand. Because the free kick is taken before the whistle to restart is blown, the free kick has to be re-taken.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2625)
 
 ## Delaying the restart of play
 
