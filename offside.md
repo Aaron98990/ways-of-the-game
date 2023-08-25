@@ -1,4 +1,4 @@
-[!] Important! Please go through the 14 diagrams in the Guidlines of Match Officals which goes over common offside situations. It is linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
+!> Important! Please go through the 14 diagrams in the Guidlines of Match Officals which goes over common offside situations. It is linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
 
 ## Never offside
 
