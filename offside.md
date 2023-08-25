@@ -4,6 +4,8 @@ Just because a player recieves the ball ahead of everyone does not necessairly m
 
 [The assistant referee incorrectly flags the player for offside.](https://youtu.be/57Gs6vLMnvU?feature=shared&t=36)
 
+[PRO has an amazing offside perception quiz located here. It's hard.](https://proreferees.com/2020/05/01/try-the-latest-offside-perception-quiz/)
+
 ## Offside then Not
 
 ## Deflection vs Non-deflection
