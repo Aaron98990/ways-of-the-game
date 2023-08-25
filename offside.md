@@ -1,3 +1,5 @@
+[!] Important! Please go through the 14 diagrams in the Guidlines of Match Officals which goes over common offside situations. It is linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
+
 ## Never offside
 
 > There is no offside offence if a player receives the ball directly from:
@@ -8,7 +10,7 @@
 >
 > - a corner kick
 
-So, if the ball goes over and past the goal line or touchline - there can never be offside from the restart.
+So, if the ball goes out of play from the touchline or goalline and no goal is scored - there can never be offside from the restart.
 
 Video example 1
 
@@ -16,7 +18,7 @@ Video example 1
 > 
 > - any part of the head, body or feet is in the opponents’ half (excluding the halfway line)
 
-So, if your completely your own half, can never be offside.
+So, if your completely your own half when the ball is touched by a team-mate, can never be offside.
 
 Video example 2
 
@@ -30,7 +32,7 @@ Video example three
 >
 > - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
 
-If you are behind or even with the ball when it is touched by a teammate, you are never offside.
+If you are behind or even with the ball when it is touched by a team-mate, you are never offside.
 
 Video example 4
 
@@ -49,6 +51,8 @@ Just because a player recieves the ball ahead of everyone does not necessairly m
 
 ## Offside then Not
 
+When a player recieves a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside when the ball was touched by a team-mate. Players will be grumpy about this but it is the correct call.
+
 ## Deflection vs Non-deflection
 
 > A player in an offside position at the moment the ball is played or touched by a
@@ -64,9 +68,9 @@ Just because a player recieves the ball ahead of everyone does not necessairly m
 
 In Circular no. 26 and the 2023/2024 Laws of the Game , The IFAB released a major interpretation change to whether a touch of the ball should be determined as a deflection or not. [The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or non-deflection.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/)
 
-The changes comes down to this - It is not a deflection and it is deliberate play if the defender played the ball to where they wanted or should of been able to.
+The changes comes down to this - It is not a deflection and it is deliberate play if the defender played the ball to where they wanted to or should of been able to.
 
-It is subjective and could be interpeted differently in the diferent levels of thte game.
+It is subjective and could be interpeted differently by different people. The levels of the game would affect this decision.
 
 ## Ball off the goalpost or crossbar
 
@@ -102,7 +106,21 @@ A save is later defined in the Laws of the Game. Please note that a save can be 
 Don't overthink the definition. Just think to yourself did the opponent block the ball (e.g. from a cross with some distance from the goal) or did the opponent save the ball (e.g. a shot towards goal or a cross very close to the goal)
 
 ## Intefering with an Opponent
+The intefering with an opponent must meet one of these criteria. If not, it is not considered intefering with an opponent by the Laws.
+> - (1) preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
+>
+> - (2) challenging an opponent for the ball or
+>
+> - (3) clearly attempting to play a ball which is close when this action impacts on an opponent or
+> 
+> - (4) making an obvious action which clearly impacts on the ability of an opponent to play the ball
+>
+
+PRO has an amazing write up on intefering with an opponent.
+[A player in an offside position moves into the path of an opponent who going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
 
 > If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offence or a Law 12 offence
 > 
 > Law 11
+
+[This is subjective. In my opinion, this is offside. it meets criteria (3) as the player makes clearly attempts to play the ball and tbe ball is close. The goalkeeper must consider if the ball is headed or is not headaed and will cause him to hesitate.](https://youtu.be/QJDHxGAxJoE?feature=shared&t=31)
