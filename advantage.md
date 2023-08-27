@@ -129,4 +129,6 @@ The Law formerly read:
 >Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered
 
 
-This is not advantage since the ball is out of play but is a similar concept as the referee decidides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs. 
+This is not advantage since the ball is out of play but is a similar concept as the referee decidides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is benefical for the team that's losing. 
+
+[The referee could of not delayed play and allowed the quick free kick under this Law. If the referee does this, since the offense was Stopping a Promising Attack outside penalty area (YC), it would be downgraded to no card. ](https://youtu.be/XBaIqWtWkGA)
