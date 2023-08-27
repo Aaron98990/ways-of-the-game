@@ -1,4 +1,4 @@
-Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, commited against an opponent including when no contact is made. Handball and "makes contact with the ball with a held object" is covered in Law 12 but is not considered a foul since it is not against any one oppponent and is covered in the [handball section](/handball).
+Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, commited against an opponent including when no contact is made. Handball and "makes contact with the ball with a held object" are not considered a foul since it is not against any one oppponent and is covered in the [handball section](/handball).
 
 Soccer is a physichal sport. Not every contact with the opponent is a foul. 
 
