@@ -30,6 +30,10 @@ Undershirt color matching shirt sleeve, undershorts/tights matching short color,
 
 A ball is about to clearly go outside the field of play but a non-player touches it.
 
+- For lower levels of football, skipping the coin toss to save time is okay.
+
+  Esspecially with back to back games, the referee may just choose sides or who kick-offs. 
+
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
 
 Not playing any additional time in second half in a blowout game, esspecially when there is extreme weather conditions.
