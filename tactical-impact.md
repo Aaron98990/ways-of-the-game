@@ -34,6 +34,10 @@ Generally, referees require that all four considerations to be met for DOGSO but
 
 [PRO Referees have a great example with 9 video examples comparing SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
 
+[The goalkeeper commits a handball offense outside their penalty area. A direct free kick and a red card for DOGSO are the correct outcomes.](https://youtu.be/uzZnBPHsx_0?t=107)
+
+[Luis Suarez denies the opposing team a goal by handball and penalty kick and send-off are the correct outcomes.](https://youtu.be/tDpx9GGH79I?t=202)
+
 ## Disciplinary Action
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
