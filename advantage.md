@@ -117,4 +117,16 @@ The "(unless as outline below)" enumerates the law above.  DOGSO, serious foul p
 
 [The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
 
+## Rare: Delaying the restart of play to show a card
 
+This is extremely rarely used except in the highest levels of the game. 
+
+> Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered, unless the non-offending team takes a quick free kick, has a clear goal-scoring opportunity and the referee has not started the disciplinary sanction procedure. The sanction is administered at the next stoppage; if the offence was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned; if the offence interfered with or stopped a promising attack, the player is not cautioned. Law 12.3
+
+The Law formerly read:
+> Delaying the restart of play to show a card
+>
+>Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered
+
+
+This is not advantage since the ball is out of play but is a similar concept as the referee decidides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs. 
