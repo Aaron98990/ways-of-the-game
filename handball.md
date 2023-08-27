@@ -1,8 +1,13 @@
-Soccer is the game played without the use of the hand/arms except for goalkeepers within their own penalty area and throw-ins.
+Soccer is the game played without the use of the hand/arms touching the ball except for goalkeepers within their own penalty area and throw-ins.
+
+Any player, including goalkeepers, cannot make contact with the ball with a held object (e.g. shirt, boot, another ball). This is separate from the handball rule but is realated.
+
+[The player makes contact with the ball with holding their shirt. Direct free kick.](https://www.youtube.com/watch?v=G-ZG7VAAvkU)
 
 > A direct free kick is awarded if a player commits any of the following offences:
 > 
 > - a handball offence (except for the goalkeeper within their penalty area)
+> - makes contact with the ball with a held object
 
 Note the exception of "except for the goalkeeper within their penalty area".
 
@@ -48,7 +53,7 @@ Handball causes a lot of debate as it is often times subjective and The IFAB has
 
 ## Disciplinary Action
 
-If the offense had tactical impact, the proper sanction is talked about in [tactical impact section](/tactical-impact).
+If the offense had tactical impact, the proper sanction is talked about in the [tactical impact section](/tactical-impact).
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
 > 
