@@ -1,6 +1,8 @@
+Fouls are offenses listed in Law 12 commited against an opponent, including when no contact is made. Handball and "makes contact with the ball with a held object" is covered in Law 12 but is not considered a foul since it is not against any one oppponent and is covered in the [handball section](/handball).
+
 Soccer is a physichal sport. Not every contact with the opponent is a foul. 
 
-[Handball and makes contact with the ball with a held object is covered here TODO]
+[Handball and  is covered here TODO]
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play.
 > 
@@ -44,8 +46,20 @@ The goalkeeper cannot be challenged (including being charged) by an oponent when
 > 
 > Law 12.2 Indirect free kick
 
+
+
 ### No Foul
 
 [No Foul. The ball is within playing distance and the charge was not careless, reckless, or using execessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
 
 ### Foul
+
+## Impeding the progress of an opponent
+
+> Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
+>
+> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
+>
+> A player may shield the ball by taking a position between an opponent and the ball if the ball is within playing distance and the opponent is not held off with the arms or body. If the ball is within playing distance, the player may be fairly charged by an opponent.
+
+
