@@ -32,9 +32,13 @@ A ball is about to clearly go outside the field of play but a non-player touches
 
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
 
-- For lower levels of football, skipping the coin toss to save time is okay.
+For lower levels of football, skipping the coin toss to save time is okay.
 
-  Esspecially with back to back games, the referee may just choose sides or who kick-offs.
+- Esspecially with back to back games, the referee may just choose sides or who kick-offs.
+
+A team had limited or no subs. The opposing team has a full roster. During a cooling break (water break), the team with the full roster wants to restart earlier. 
+
+- To allow the teams with limited or no subs to fully recover, it is fair to go through the full water break. 
 
 Not playing any additional time in second half in a blowout game, esspecially when there is extreme weather conditions.
 
