@@ -48,29 +48,17 @@ Handball causes a lot of debate as it is often times subjective and The IFAB has
 
 ## Disciplinary Action
 
+If the offense had tactical impact, the proper sanction is talked about in [tactical impact section](/tactical-impact).
+
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
 > 
-> - handles the ball to interfere with or stop a promising attack
 > - shows a lack of respect for the game
 > - persistent offenses
-> - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
+> - handles the ball in an attempt to score a goal (whether or not the attempt is successful)
 > 
 > Law 12
 
 Blatant and fully intentional handball offenses, even when there is minimal tactical impact, may be considered as "showing a lack of respect of the game". 
 
-For "handles the ball in an attempt to score a goal" this does not include accidental handball as it is accidental. Seeing a handball, esspecially without VAR, is tricky and there are times when players get away with it - therefore a caution must be shown to disincentive it.
-
 [Messi deliberately touch the ball with the hand/arms to score a goal. The goal should be disallowed and Messi should be shown a caution.](https://youtu.be/fM_WkMvOogQ?t=29)
 
-The last bullest point is advantage played on a DOGSO by handball offense where becuase advantage is played the send-off gets down-graded to a caution.
-
-> A player, substitute or substituted player who commits any of the following offences is sent off:
-> 
-> - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offence (except a goalkeeper within their penalty area)
-> 
-> Law 12
-
-[The goalkeeper commits a handball offense outside their penalty area. A direct free kick and a red card for DOGSO are the correct outcomes.](https://youtu.be/uzZnBPHsx_0?t=107)
-
-[Luis Suarez denies the opposing team a goal by handball and penalty kick and send-off are the correct outcomes.](https://youtu.be/tDpx9GGH79I?t=202)
