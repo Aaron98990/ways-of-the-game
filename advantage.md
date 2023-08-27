@@ -53,6 +53,22 @@ Law 5.6 shows two approved referee signals for advantage.
 
 It is one arm or two arms pointing in the attacking direction of team playing the advantage.
 
+## When to Play Advantage
+
+Advantage is to be played...
+
+> Advantage should not be applied in situations involving serious foul play, violent conduct or a second cautionable offence unless there is a clear opportunity to score a goal. The referee must send off the player when the ball is next out of play, but if the player plays the ball or challenges/interferes with an opponent, the referee will stop play, send off the player and restart with an indirect free kick, unless the player committed a more serious offence.
+> 
+> - Law 12.3 Disciplinary Action
+
+## Advantage while Holding
+
+Advantage also includes holding. This is clarified to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
+
+> If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
+> 
+> - Law 12.3 Disciplinary Action
+
 ## Disciplinary Action
 
 Just because advantage is played does not mean that a referee cannot caution or send-off the offendor - the referee will show the cards when play stops. 
@@ -101,18 +117,4 @@ The "(unless as outline below)" enumerates the law above.  DOGSO, serious foul p
 
 [The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
 
-## When to Play Advantage
 
-Advantage is to be played...
-
-> Advantage should not be applied in situations involving serious foul play, violent conduct or a second cautionable offence unless there is a clear opportunity to score a goal. The referee must send off the player when the ball is next out of play, but if the player plays the ball or challenges/interferes with an opponent, the referee will stop play, send off the player and restart with an indirect free kick, unless the player committed a more serious offence.
-> 
-> - Law 12.3 Disciplinary Action
-
-## Advantage while Holding
-
-Advantage also includes holding. This is clarified to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
-
-> If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
-> 
-> - Law 12.3 Disciplinary Action
