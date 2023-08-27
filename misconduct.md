@@ -28,7 +28,13 @@ You may not give a caution or send-off to an outside agent (e.g. spectator, ball
 
 [The referees sends off and shows a red card for a player and some team officals after the match.](https://youtu.be/1ThajxMxIOI?t=605)
 
-## Playing short due to a red card
+## Issueing card after play has restarted
+> a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offence to the referee before play restarted; the restart associated with the sanction does not apply.
+> Law 5.2
+
+If the assistant referee has their flag up and the referee misses it (e.g for dissent) and play restarted, the sanction can still be given. 
+
+## Playing short due to send-off
 
 > A player who is sent off:
 > 
