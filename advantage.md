@@ -9,12 +9,9 @@ The referee has the power to play advantage. This is an extnesion of Law 9.1 as 
 
 [The foul should of been brought back as advantage never materializes. The slow-mo replay showed that the foul occurered before the pass to the player's teammate and caused the bad pass.](https://youtu.be/5OJfbYQtKtk?t=4745)
 
-Please note the wording "allows play to continue when an offence occurs". This means advantage can be applied not just to fouls (offenses in Law 12) but to any offense in the Laws of the Game. 
+Please note the wording "allows play to continue when an offence occurs". This means advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
 
-[TODO - Advantage played on an offside offense.]
-
-[TODO - Advantage played on double touch of free kick.]
-
+[Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
 
 > The ball is out of play when:
 > 
@@ -54,7 +51,7 @@ Knowing when to play advantage is a skill. In higher levels of the game, not sto
 
 Law 5.6 shows two approved referee signals for advantage. 
 
-TODO - insert images.
+It is one arm or two arms pointing in the attacking direction of team playing the advantage.
 
 ## Disciplinary Action
 
