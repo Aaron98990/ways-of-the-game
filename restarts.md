@@ -15,6 +15,10 @@ Please note that Penalties (penalty shoot-out), covered in Law 10.3, are not a r
 
 Also, please note that the goalkeeper releasing the ball after possession with the hand/arms is not a restart as the ball remains in play. Read more in the [goalkeepers section](/goalkeeper).
 
+## Changing the restart
+
+> The referee may not change a restart decision [..] if play has restarted or the referee has signalled the end of the first or second half (including extra time) and left the field of play or abandoned the match. Law 5.2
+
 ### Stationary
 
 Othrt than dropped balls and throw-ins, the ball must be stationary when kicked.
