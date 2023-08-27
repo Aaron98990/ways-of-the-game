@@ -148,8 +148,6 @@ A goalkeeper can't be challenged for the ball when in control of te ball with th
 
 On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed as long as no other offense is being commited. Referees should warn player doing this that they commit an offenese if they move into the path of the goalkeeper.
 
-> Impeding the progress of an opponent without contact
-> 
 > Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
 > 
 > All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
@@ -157,7 +155,7 @@ On corner kicks (and rarely on free kicks due to offside), players stand in fron
 
 If there is contact, the restart is a direct free kick. If there is no contact, the restart is an indirect free kcik.
 
-
+[A player legally stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
 
 ## Is the goalkeeper protected too much?
 
@@ -234,13 +232,13 @@ This is a bit confusing to read. Let me summarize.
 
 So, if there are more than one offenses at once we do down the tie-breaker list:
 
-- Sanction (none/SPA/DOGSO)
+- Sanction
 
-- Restart (both are indirect free kick)
+- Restart
 
 - Physical severity
 
-- Tactical impact (both are the same)
+- Tactical impact
 
 If the goalkeeper takes the free kick or goal kick or throw-in (or even a kick-off) then handles the ball inside their own penalty area before the ball has touched another player, they have commited two offeneses at the same time:
 
