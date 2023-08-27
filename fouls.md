@@ -1,8 +1,6 @@
-Fouls are offenses listed in Law 12 commited against an opponent, including when no contact is made. Handball and "makes contact with the ball with a held object" is covered in Law 12 but is not considered a foul since it is not against any one oppponent and is covered in the [handball section](/handball).
+Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, commited against an opponent including when no contact is made. Handball and "makes contact with the ball with a held object" is covered in Law 12 but is not considered a foul since it is not against any one oppponent and is covered in the [handball section](/handball).
 
 Soccer is a physichal sport. Not every contact with the opponent is a foul. 
-
-[Handball and  is covered here TODO]
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play.
 > 
@@ -10,11 +8,7 @@ Soccer is a physichal sport. Not every contact with the opponent is a foul.
 
 ## Tackles
 
-### No Foul
-
-[The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been commited. ](https://www.youtube.com/watch?v=AKa17voHa2k)
-
-## Foul
+[No foul. The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been commited. ](https://www.youtube.com/watch?v=AKa17voHa2k)
 
 [Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Althoguh the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
 
@@ -47,12 +41,8 @@ The goalkeeper cannot be challenged (including being charged) by an oponent when
 > Law 12.2 Indirect free kick
 
 
-
-### No Foul
-
 [No Foul. The ball is within playing distance and the charge was not careless, reckless, or using execessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
 
-### Foul
 
 ## Impeding the progress of an opponent
 
@@ -62,4 +52,25 @@ The goalkeeper cannot be challenged (including being charged) by an oponent when
 >
 > A player may shield the ball by taking a position between an opponent and the ball if the ball is within playing distance and the opponent is not held off with the arms or body. If the ball is within playing distance, the player may be fairly charged by an opponent.
 
+Impeding the progress of an opponent, often called obstruction, is a direct free kick if contact was made. It is an indirect free kick if no contact was made.
 
+[A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
+
+## Playing in a dangerous manner
+
+> Playing in a dangerous manner is any action that, while trying to play the ball, threatens injury to someone (including the player themself) and includes preventing a nearby opponent from playing the ball for fear of injury.
+> 
+> A scissors or bicycle kick is permissible provided that it is not dangerous to an opponent.
+
+If the offense involves contact with an opponent, it is not playing in a danerous manner. A direct free kick should always be given.
+
+It is not an offense to play the ball on the ground as goalkeepers do that a lot. It is only an offense if the player makes it impossible for opponents to play the ball without kicking the player.
+
+A high boot near an opponent face is a common offense here. A player can kick the ball from above the head as long as it does not threaten to injure someone.
+
+## Fouls against the goalkeeper
+These are indirect free kicks.
+- preventing/blocking a goalkeeper from releasing the ball from their hands
+- trying to kick/play the ball when the goalkeeper is holding it
+
+  This is covered in the [goalkeeper section](/goalkeeper)
