@@ -1,6 +1,6 @@
 This is not an exhaustive list of Law changes - just significant ones. The Laws are updated yearly in July so always be current on it by checking ["Law Changes" on The IFAB's website](https://www.theifab.com/law-changes/latest/). Many participants, esspecially experienced ones, are not aware of Law Changes. 
 
-The IFAB makes available past Laws of the Game (including the 1903/04 edition) and Law Changes (summary, the before and after text, and explanation) at ["Documents" on The IFAB's website](https://www.theifab.com/documents/). The Law changes for 2018/19 and before only availbe in the back of the Laws of the Game PDF.
+The IFAB makes available past Laws of the Game (including the 1903/04 edition) which generally include Law Changes (summary, the before and after text, and explanation) near the end at ["Documents" on The IFAB's website](https://www.theifab.com/documents/?documentType=laws-of-the-game&language=en&years=all).
 
 This is the only place I blatantly insert my opinion. Other places are less blatant.
 
