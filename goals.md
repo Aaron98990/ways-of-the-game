@@ -80,14 +80,14 @@ Offenses that will nullify a goal.
 > The ball is out of play when:
 > 
 > - it touches a match official, remains on the field of play and:
->   
 >   - a team starts a promising attack or
->   
 >   - the ball goes directly into the goal
 > 
 > -  In all these cases, play is restarted with a dropped ball.
 > 
 > - Law 9.1 - Ball out of play
+
+[No goal. The ball touches a match offical then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal.
 > 
