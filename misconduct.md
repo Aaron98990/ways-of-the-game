@@ -302,19 +302,13 @@ I include some of the offenses for which team officals may be warned, cautioned,
 >   
 >   - show dissent towards, or remonstrate with, a match official
 >   
-> 
 > - entering the field of play to:
->   
 >   - confront a match official (including at half-time and full-time)
->   
 >   - interfere with play, an opposing player or a match official
-> 
 > - entering the opposing technical area in an aggressive or confrontational manner
 > 
-> - receiving a second caution in the same match
-> 
-> - using offensive, insulting or abusive language and/or action(s)
-> 
-> - violent conduct
+
 > 
 > - Law 12
+
+[Team offical is sent-off for delaying the restart of play of the opponents. ](https://www.tiktok.com/t/ZPRWnEKSJ/)
