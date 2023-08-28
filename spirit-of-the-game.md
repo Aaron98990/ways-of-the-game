@@ -86,7 +86,7 @@ The referee only allows a player to re-enter the field if they cannot immediatly
 
 When to end the game although time is up.
 
-- Referees do not end a half during a promising attack or if the ball is about to go in the goal as this is seen as the fairest for both teams.
+- Referees do not end a half during a promising attack during a close game or if the ball is about to go in the goal as this is seen as the fairest for both teams.
 
 A player forgot to bring their red jersey to the game so they wear their pink shirt instead that does not have a number.
 
@@ -116,13 +116,21 @@ Legally kicking the ball far away outside the field while the ball is in play fo
 
 Ending the game on a corner kick during a close game. [2011 FIFA Women's World Cup Extra Time Ends on a Corner Kick](https://youtu.be/UAbX7wld9vg?t=8189)
 
-- If time is up and the ball is not about to enter the goal and their is no promising attack, there is no need to play through an a corner. Not everyone would agree.
+- If time is up and the ball is not about to enter the goal and their is no promising attack in a close game, there is no need to play through an a corner. Not everyone would agree.
+
+Denying a substitution for time-wasting when there are unlimited return substitusions.
+
+- Denying a substitution that is cleary time wasting may be acceptable, esspecially for games where competition rules mandate no added time.
+
+A player on the losing team commits DOGSO outside the penalty area in a blowout game. It was an attempt at the ball - ignore the red card and give a yellow card.
+
+- For lower levels of the game, this may be acceptable as the main intent is to have fun. But, any foul that is reckless or uses excessive force should be sanctioned no mattered the scoreline. Not properly sancctioning reckless/excessive force fouls emboldens other players to foul more and lessens the referee's authority.
 
 ## Not Commonly Acceptable
 
 Allowing jewlery because you expect the game not to be aggressive.
 
-- The game is physcial and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. 
+- The game is physcial and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. For games with small children (under 12) you may be able to get away with this.
 
 Ignoring a handball because the ball bareley grazes a defender's arm.
 
@@ -132,18 +140,6 @@ Not using cards in a "friendly", "scrimmage", or pre-season game.
 
 - Cards are the main way for a referee to control a game. Referees are not like coaches who have other ways to punish non-desirable behavior from players. From my experience, pre-season games are more aggressive than regular season games as coaches choose to play against teams that are at a similar skill level and players want to prove themselves early on the season.
 
-The throw-in taker has both feet in front of the touchline but the impact / advantage is minimal.
-
-- The Law is very simple. Penalize the offense as described in the Laws by letting the other team take the throw-in. Explain it to the player and they will never make the mistake again.
-
-A player on the losing team commits DOGSO outside the penalty area in a blowout game. It was an attempt at the ball - ignore the red card and give a yellow card.
-
-- The player should be punished as stated in the Laws of the Game. Not penalizing offenses emboldens other players to foul more and lessens the referee's authority.
-
-Denying a substitution for time-waasting.
-
-- The referee should not deny a legal substitution request - even if the main purpose is to waste time. Adding more time to the half would be acceptable. In games with unlimited substitutions, denying a substitution that is cleary time wasting is acceptable.
-
 Not giving a second yellow card for removing one's shirt during a goal celebration because it is harsh.
 
-- The Law is very clear here. A player does not accidently remove their shirt. The referee should give the second yellow card as that is what the Law requires. [Wprld Cup Example](https://www.youtube.com/watch?v=bsRFCq6rFT4)
+- A player does not accidently remove their shirt - they know what they are doing. [World Cup Example](https://www.youtube.com/watch?v=bsRFCq6rFT4)
