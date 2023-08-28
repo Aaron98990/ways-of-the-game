@@ -2,7 +2,9 @@ Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, 
 
 Soccer is a physichal sport. Not every contact with the opponent is a foul. 
 
-Fouls that occur before or after a player wins the ball should be penalized.
+Fouls that occur before or after a player wins/touches the ball should be penalized.
+
+[Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 > 
