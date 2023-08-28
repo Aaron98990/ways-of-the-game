@@ -45,11 +45,11 @@ Handball causes a lot of debate as it is often times subjective and The IFAB has
 
 [TODO - Insert Video]
 
----
-
 ## Accident handball
 
 [TODO - Insert Video]
+
+[Goal. There was a long time between the ball contacting the hand/arm and the goal.]
 
 ## Disciplinary Action
 
