@@ -1,8 +1,10 @@
-Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, commited against an opponent including when no contact is made. Handball and "makes contact with the ball with a held object" are not considered a foul since it is not against any one oppponent and is covered in the [handball section](/handball).
+Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, commited against a single opponent including when no contact is made. Handball and "makes contact with the ball with a held object" are not considered a foul since it is not against any one oppponent and are covered in the [handball section](/handball). Also, offside is not a foul since it is not an offense against any one oppoent and is covered in the [offside section](/offside).
 
 Soccer is a physichal sport. Not every contact with the opponent is a foul. 
 
-> Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play.
+Fouls that occur before or after a player wins the ball should be penalized.
+
+> Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 > 
 > Law 12
 
