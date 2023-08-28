@@ -68,10 +68,6 @@ The goalkeeper goes to retrieve the ball, the referee should hold play until the
 
 - For lower levels of football, this is acceptable as the goalkeeper may not understand the tactical advantage they are giving the other team or there may not be enough people to reteieve balls.
 
-A goalkeeper deliberately allows the ball to rebound off their hands which they could have wasily caught.
-
-- Warn the goalkeeper once. If it happens again, penalize it. Some referees are inconsistent on calling this so calling this the first time would be unfair.
-
 Allowing all players, including the goalkeeper, to be ready for a kickoff after celebrating a goal.
 
 - It is the fair thing to do.
@@ -92,19 +88,15 @@ A player forgot to bring their red jersey to the game so they wear their pink sh
 
 - For lower levels of the game, this is acceptable as the main purpose is to have fun and exercise.
 
-A coach enters the field of play without hte referee's permission during an altercations to calm their players.
+There is no need to kick the ball out for an injured player.
 
-- While the coach may have illegally entered the field and technically could be shown a cuation, their intention was to calm their players down and showing a caution would be harsh.
+- No one is obligated to kick the ball out of play for an injured player. The referee would stop play if they deem it serious.
 
 ## Subjective
 
 Disallowing a goal for kneeling down on the ground to showboat while scoring.
 
 - Some referees deem this as unsporting behavior. It's not wrong. Personally, I would allow the goal to stand. 
-
-Stopping play for an injury - forcing teammates/opponents to kick it out.
-
-- Players faking injuries to waste time is common so referees must balance the risk of injury to fairness to the game. At lower levels of the game, stopping the game quicker would be more appropiate. At higher levels of the game, referees do not stop play for minor injurues.
 
 Showing a yellow card for showboating with the ball. [Controversy: player punished for showboating - Sipho Moeti - YouTube](https://www.youtube.com/watch?v=Vd6eLQbu9vM)
 
