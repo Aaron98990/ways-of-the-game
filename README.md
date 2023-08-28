@@ -28,4 +28,4 @@ Want to contribute:
 
 !> Long term health impacts may occur with excessive contact to the head like with the ball, ground, goalpost, or another person. 
 
-!> An excessivelly loud whistle may cause ear ringing or hearing loss. 
+!> An excessivelly loud whistle or environment may cause ear ringing or hearing loss. 
