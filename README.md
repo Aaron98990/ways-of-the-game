@@ -2,7 +2,7 @@
 
 The goal of this guide is to connect different concepts from the Laws of the Game that are related. As well, the guide links relevant videos because seeing is easier than just reading. The guide is not a replacement for the Laws or reading the Laws, which are simple and short compared to other sports. The Laws are updated yearly so always be current on [changes](/law-changes).
 
-In addition to the Laws of the Game, most matches have [competition rules](https://footballrules.com/about/additional-competition-rules), which include **important** information that affects the game (e.g. which edition of the Laws to use, substitutions, time of halves, use of sin-bins, allowing slide-tackles, games that need a winner, handling match abandonment). Match officials must read and understand competition rules before a game. [Here is a sample of competiiton rules.](https://cdn1.sportngin.com/attachments/document/0146/2001/Tournament_Rules_Template.pdf)
+In addition to the Laws of the Game, most matches have [competition rules](https://footballrules.com/about/additional-competition-rules), which include **important** information that affects the game (e.g. substitutions, time of halves/halftime, playe jersey colors). Match officials must read and understand competition rules before a game. [Here is a sample of competiiton rules.](https://cdn1.sportngin.com/attachments/document/0146/2001/Tournament_Rules_Template.pdf)
 
 Helpful Official Resources
 
