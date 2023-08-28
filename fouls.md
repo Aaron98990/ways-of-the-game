@@ -71,8 +71,42 @@ It is not an offense to play the ball on the ground as goalkeepers do that a lot
 A high boot near an opponent face is a common offense here. A player can kick the ball from above the head as long as it does not threaten to injure someone.
 
 ## Fouls against the goalkeeper
-These are indirect free kicks.
+These are indirect free kicks:
 - preventing/blocking a goalkeeper from releasing the ball from their hands
 - trying to kick/play the ball when the goalkeeper is holding it
 
   This is covered in the [goalkeeper section](/goalkeeper)
+
+## Kicking/throwing an object
+> play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or intefered with play:
+> - If a player [...] throws or kicks an object (including a ball) at [another person] or the match ball or
+> - If a [non-player] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
+> 
+> Law 12.4 (I re-worded a lot so not an exact quote)
+[A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
+
+
+
+## A penalty kick for an offense not in the penalty area
+> If, when the ball is in play:
+>
+> - a player commits an offence [...] outside the field of play or
+>
+> - a [non-player] commits an offence against, or interferes with, an opposing player or a match official outside the field of play,
+>
+> play is restarted with a free kick on the boundary line nearest to where the offence/interference occurred;
+> Law 12.4
+
+[A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://proreferees.com/2017/09/27/play-of-the-week-29/)
+
+## Extra person on the field
+> If a [non-player] enters the field of play, the referee must:
+>
+> - only stop play if there is interference with play
+>   
+> If play is stopped and the interference was by:
+>
+> - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
+> Law 3.7
+
+If the ball is near the touch line, you may see a coach/sub accidently enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
