@@ -38,7 +38,7 @@ Video example 4
 
 If you are behind or even with the second-to-last defender when the ball is touched by a teammate, you are never offside. Remember, the goalkeeper counts as a defender.
 
-Video example 5
+[Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak)
 
 
 ## Close Calls
