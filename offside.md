@@ -123,4 +123,4 @@ PRO has an amazing write up on intefering with an opponent.
 > 
 > Law 11
 
-[This is subjective. In my opinion, this is offside. it meets criteria (3) as the player makes clearly attempts to play the ball and tbe ball is close. The goalkeeper must consider if the ball is headed or is not headaed and will cause him to hesitate.](https://youtu.be/QJDHxGAxJoE?feature=shared&t=31)
+[Goal. The player in the offside position does not touch the ball or intefere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
