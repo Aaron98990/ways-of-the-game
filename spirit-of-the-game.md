@@ -31,18 +31,19 @@ Undershirt color matching shirt sleeve, undershorts/tights matching short color,
 A ball is about to clearly go outside the field of play but a non-player touches it. 
 
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
+- [A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as there is no team gains an unfair advanrage.](https://www.youtube.com/watch?v=83PkzKCCiYo)
 
 For lower levels of football, skipping the coin toss to save time is okay.
 
 - Esspecially with back to back games, the referee may just choose sides or who kick-offs.
 
-A team had limited or no subs. The opposing team has a full roster. During a cooling break (water break), the team with the full roster wants to restart earlier. 
+A team had limited or no subs. The opposing team has a full roster. The team with the full roster wants no cooling break (water break) or a shorter drinks break (water break).
 
-- To allow the teams with limited or no subs to fully recover, it is fair to go through the full water break. 
+- To allow the teams with limited or no subs to fully recover and for their safety, it is fair to go through with the full colling break (water break). 
 
 Not playing any additional time in second half in a blowout game, esspecially when there is extreme weather conditions.
 
-- If the players from both teams clearly want the game to end, there is no need to play additional time.
+- If the players from both teams clearly want the game to end, there is no need to play additional time. Shortening the half may even acceptable in lower levels of the game.
 
 Not forcing a retake of a penalty kick because the goalkeeper was off their line but the ball was kicked right down the middle and being off the line caused no advantage.
 
