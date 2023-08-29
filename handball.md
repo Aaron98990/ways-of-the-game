@@ -44,12 +44,13 @@ Handball causes a lot of debate as it is often times subjective and The IFAB has
 ## Unnaturally bigger
 
 [Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/vl1DSIjXPnQ?t=180)
+[Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 
 ## Accident handball
 
 [TODO - Insert Video]
 
-[Goal. There was a long time between the ball contacting the hand/arm and the goal.]
+[Goal. There was a long time between the ball contacting the hand/arm and the goal.](https://youtu.be/WicGa2_Fw5Q?feature=shared&t=285)
 
 ## Disciplinary Action
 
