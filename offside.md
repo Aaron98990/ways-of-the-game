@@ -24,7 +24,7 @@ Video example 2
 
 > A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
 
-So, if the ball is deliberately passed to you by an opponent you can never be offside.
+So, if the ball is deliberately played by an opponent to you and you directly get it you can never be offside.
 
 Video example three
 
@@ -51,7 +51,9 @@ Just because a player recieves the ball ahead of everyone does not necessairly m
 
 ## Offside then Not
 
-When a player recieves a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside when the ball was touched by a team-mate. Players will be grumpy about this but it is the correct call.
+When a player recieves a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside when the ball was touched by a team-mate. As a matter of fact if they are in an offside position and touch the ball on their team's side of the field, the restart will be on the player's own half. Players will be grumpy about this but it is the correct call.
+
+> If an offside offence occurs, the referee awards an indirect free kick where the offence occurred, including if it is in the player’s own half of the field of play.
 
 ## Deflection vs Non-deflection
 
@@ -70,7 +72,7 @@ In Circular no. 26 and the 2023/2024 Laws of the Game , The IFAB released a majo
 
 The changes comes down to this - It is not a deflection and it is deliberate play if the defender played the ball to where they wanted to or should of been able to.
 
-It is subjective and could be interpeted differently by different people. The levels of the game would affect this decision.
+It is subjective and could be interpeted differently by different people. The level of the game would affect this decision.
 
 ## Ball off the goalpost or crossbar
 
