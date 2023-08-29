@@ -33,6 +33,8 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 > 
 > - prevents the goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
 
+[Indirect free kick. Player kicks ball while goalkeeper is releasing it.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
+
 ### Inside the goalkeeper's own penalty area
 
 Handball is often thought of a direct free kick offense. But, the Laws of the game does provide one exception.
