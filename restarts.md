@@ -59,9 +59,11 @@ We defined a kick before and lets define it again. The ball must be "kicked and 
 > 
 > - Glossary - Football terms
 
-If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play.
+If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play. 
 
 [The ball does not clearly move. The restart should of been retaken. ](https://youtu.be/-FqA3g7-PTs)
+
+[The ball does cleary move. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
 
 For a throw-in the ball is in play when 
 
