@@ -63,7 +63,7 @@ If a player taps the ball with the bottom of their boot, that is a kick. Now, "c
 
 [The ball does not clearly move. The restart should of been retaken. ](https://youtu.be/-FqA3g7-PTs)
 
-[The ball does cleary move. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
+[The ball cleary moves (in my opinion) as even the opponent recognizes it. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
 
 For a throw-in the ball is in play when 
 
