@@ -39,18 +39,20 @@ Handball causes a lot of debate as it is often times subjective and The IFAB has
 
 ## Deliberate
 
-[TODO - Insert Video]
+[Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=287)
 
 ## Unnaturally bigger
 
 [Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/vl1DSIjXPnQ?t=180)
 [Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 
+[Not handball. The player is off balance when attempting to clear the ball and his hands/arms are in a justifable position.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
+
 ## Accident handball
 
-[TODO - Insert Video]
+[Handball. The ball contacts the hand/arm then immediatly goes into the goal.](https://youtu.be/_MQpnvxeE9g?t=352)
 
-[Goal. There was a long time between the ball contacting the hand/arm and the goal.](https://youtu.be/WicGa2_Fw5Q?feature=shared&t=285)
+[Goal. There was a long time between the ball contacting the hand/arm and the goal.](https://youtu.be/WicGa2_Fw5Q?t=285)
 
 ## Disciplinary Action
 
