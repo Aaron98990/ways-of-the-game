@@ -26,6 +26,6 @@ Want to contribute:
 
 - Click the Github icon on the top-right and open an issue (for small fixes) or pull request (for large fixes) on Github
 
-!> Long term health impacts may occur with excessive contact to the head like with the ball, ground, goalpost, or another person. 
+!> Videos/articles linked may be using older Laws or different rulebooks (e.g. one that allows two referees) but the concepts still applies. 
 
-!> An excessivelly loud whistle or environment may cause ear ringing or hearing loss. 
+!> Long term health impacts may occur with excessive contact to the head like with the ball, ground, goalpost, or another person. An excessivelly loud whistle or environment may cause ear ringing or hearing loss. 
