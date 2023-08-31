@@ -5,7 +5,6 @@ Any player, including goalkeepers, cannot make contact with the ball with a held
 [The player makes contact with the ball with holding their shirt. Direct free kick.](https://www.youtube.com/watch?v=G-ZG7VAAvkU)
 
 > A direct free kick is awarded if a player commits any of the following offences:
-> 
 > - a handball offence (except for the goalkeeper within their penalty area)
 > - makes contact with the ball with a held object
 
@@ -19,29 +18,31 @@ A goalkeeper commiting a handball offense outside their own penalty area is just
 
 The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken. Read more about goalkeepers including goalkeeper handling offenses in their own penalty area [here](/goalkeeper).
 
-Handball causes a lot of debate as it is often times subjective and The IFAB has been changing the definition of handball frequently (they are trying their best). They offer this guidance for us:
+Handball is subjective and bas been defined differently over the years.
 
-> ### Handling the ball
-> 
-> For the purposes of determining handball offences, the upper boundary of the arm is in line with the bottom of the armpit. Not every touch of a player’s hand/arm with the ball is an offence.
-> 
+## Handling the ball 
 > It is an offence if a player:
-> 
 > - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
-> 
 > - touches the ball with their hand/arm when it has made their body unnaturally bigger. A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation. By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
-> 
 > - scores in the opponents’ goal:
->   
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
->   
 >   - immediately after the ball has touched their hand/arm, even if accidental
+
+## Hand/arm
+
+The hand/arm excludes the shoulders and the arm pits.
+
+> For the purposes of determining handball offences, the upper boundary of the arm is in line with the bottom of the armpit. 
+
+![image](https://www.datocms-assets.com/43623/1653641422-illustration-book-handball-chosen_en.png?auto=format&q=90&w=1920&fit=max)
 
 ## Deliberate
 
 [Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=287)
 
 ## Unnaturally bigger
+
+> Not every touch of a player’s hand/arm with the ball is an offence.
 
 [Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/vl1DSIjXPnQ?t=180)
 
@@ -55,19 +56,20 @@ Handball causes a lot of debate as it is often times subjective and The IFAB has
 
 [Goal. There was a long time between the ball contacting the hand/arm and the goal.](https://youtu.be/WicGa2_Fw5Q?t=285)
 
+## Foul then handball
+
+When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the foul player. If no foul was commited, it is handball. Referees don't like when players do this becuase it force referees to make a decision. I would advice against a caution for the blatant handball if no foul is called- there are bigger fish to fry.
+
 ## Disciplinary Action
 
-If the offense had tactical impact, the proper sanction is talked about in the [tactical impact section](/tactical-impact).
+If goalkeeper commits a handball offense (as discussed in the [goalkeeper section](/goalkeeper)) in their own penalty area and there are no other offenses, there is never a sanction/disciplinary sanction even if there was tactical impact. 
+
+If the handball offense had tactical impact, the proper sanction is talked about in the [tactical impact section](/tactical-impact).
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
-> 
-> - shows a lack of respect for the game
-> - persistent offenses
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful)
 > 
 > Law 12
 
-Blatant and fully intentional handball offenses, even when there is minimal tactical impact, may be considered as "showing a lack of respect of the game". 
-
-[Messi deliberately touch the ball with the hand/arms to score a goal. The goal should be disallowed and Messi should be shown a caution.](https://youtu.be/fM_WkMvOogQ?t=29)
+[Messi deliberately touches the ball with the hand/arms to score a goal. The goal should be disallowed and Messi should be shown a caution.](https://youtu.be/fM_WkMvOogQ?t=29)
 
