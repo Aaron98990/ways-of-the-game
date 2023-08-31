@@ -60,6 +60,8 @@ The hand/arm excludes the shoulders and the arm pits.
 
 When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the foul player. If no foul was commited, it is handball. Referees don't like when players do this becuase it force referees to make a decision. I would advice against a caution for the blatant handball if no foul is called- there are bigger fish to fry.
 
+[The player is carelessly fouled, falls down, and commits handball. The restart is for the careless foul.](https://youtu.be/xqQqe-LwWXc?t=951)
+
 ## Disciplinary Action
 
 If goalkeeper commits a handball offense (as discussed in the [goalkeeper section](/goalkeeper)) in their own penalty area and there are no other offenses, there is never a sanction/disciplinary sanction even if there was tactical impact. 
