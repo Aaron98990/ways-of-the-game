@@ -48,9 +48,11 @@ The hand/arm excludes the shoulders and the arm pits.
 
 [Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 
-[Not handball. The player is off balance when attempting to clear the ball and his hands/arms are in a justifable position.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
+[Not handball. The defender is off balance when attempting to clear the ball and his hands/arms are in a justifable position.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
 
-## Accident handball
+[Not handball. A defender attempting to clear the ball when the ball accidently hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
+
+## Accidental handball
 
 [Handball. The ball contacts the hand/arm then immediatly goes into the goal.](https://youtu.be/_MQpnvxeE9g?t=352)
 
