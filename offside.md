@@ -26,7 +26,7 @@ So, if your completely your own half when the ball is touched by a team-mate, ca
 
 So, if the ball is deliberately played by an opponent and you directly get it you can never be offside. We review less clear examples in the "delection vs deliberate" section below.
 
-Video example three
+[No offside. The ball is deliberately played by an opponent. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?feature=shared)
 
 > A player is in an offside position if:
 >
