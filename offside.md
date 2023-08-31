@@ -20,11 +20,11 @@ Video example 1
 
 So, if your completely your own half when the ball is touched by a team-mate, can never be offside.
 
-Video example 2
+[No offside. The player is in their own half when touched by a team-mate.](https://youtu.be/-pv5yvd7FZk?feature=shared&t=1182)
 
 > A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
 
-So, if the ball is deliberately played by an opponent to you and you directly get it you can never be offside.
+So, if the ball is deliberately played by an opponent and you directly get it you can never be offside. We review less clear examples in the "delection vs deliberate" section below.
 
 Video example three
 
@@ -49,13 +49,13 @@ Just because a player recieves the ball ahead of everyone does not necessairly m
 
 [PRO has an amazing offside perception quiz located here. It's hard.](https://proreferees.com/2020/05/01/try-the-latest-offside-perception-quiz/)
 
-## Offside then Not
+## Offside then not
 
 When a player recieves a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside when the ball was touched by a team-mate. As a matter of fact if they are in an offside position and touch the ball on their team's side of the field, the restart will be on the player's own half. Players will be grumpy about this but it is the correct call.
 
 > If an offside offence occurs, the referee awards an indirect free kick where the offence occurred, including if it is in the player’s own half of the field of play.
 
-## Deflection vs Non-deflection
+## Deflection vs non-deflection/deliberate
 
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
@@ -68,7 +68,7 @@ When a player recieves a ball, they may not be in an offside position anymore. T
 > 
 > Lae 11 - Offside
 
-In Circular no. 26 and the 2023/2024 Laws of the Game , The IFAB released a major interpretation change to whether a touch of the ball should be determined as a deflection or not. [The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or non-deflection.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/)
+In Circular no. 26 and the 2023/24 Laws of the Game , The IFAB released a major change to whether a touch of the ball should be determined as a deflection or not. [The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or non-deflection.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/)
 
 The changes comes down to this - It is not a deflection and it is deliberate play if the defender played the ball to where they wanted to or should of been able to.
 
