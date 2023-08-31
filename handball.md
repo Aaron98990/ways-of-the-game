@@ -62,7 +62,7 @@ Recent change - The ball hitting the hands/arm after a deflection from anyone (i
 But, emphasis on unnaturally bigger should be on creating a barrier for the ball to pass the defender - not that the hands/arms are unnaturally away from the body.
 - [No handball. The hands/arms are unnaturally bigger - he is deliberatlly touching the attacker. But, this is not handball as hands/arm was not used as a barrier for the ball to pass the defender. Ignore the pundits being sensational.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
 - A player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But, if the ball was going to still hit their head/body then there is no handball as this not make the barrier for the ball to pass any biggger.
-- [No handball. The hands/arms are in a natural running motion. But, when you deliberately run in to attempt to block a shot/pass and create a barrier for the ball to pass yourself even when hands/arm are in natural position - you take on the risk. I would call that handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43)
+- [Handball. The hands/arms are in a natural running motion. But, when you deliberately run in to attempt to block a shot/pass and create a barrier for the ball to pass yourself even when hands/arm are in natural position - you take on the risk. I would call that handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43)
 
 
 ## Accidental handball
