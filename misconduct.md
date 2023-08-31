@@ -81,27 +81,31 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 - "No way that's a foul."
 - "What are you calling?"
 - "Keep my players safe! Control the game."
+- "How can you call that when you're that far away?"
 
 #### **Dissent by word**
 
--  Yelling at  a match offical at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
-- Continous, prolonged, persistent arguing
-- “Referee, are you blind? You're a joke. Do your job!”
-- "Do I need to teach you how to ref? / Is this your first time reffing?"
-- “Whose side are you on?”
-- Swearing at a referee "That's a fucking foul!"
+- Yelling at a match offical, esspecially at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
+- Continous, prolonged, persistent complaining
+- Provocative or Personal Comments
+  - “Referee, are you blind? You're a joke. Do your job!”
+  - "Do I need to teach you how to ref? / Is this your first time reffing?"
+  - “Whose side are you on?” / "How much did they pay you?"
+  - Swearing at a referee "That's a fucking foul!"
 
 #### **Dissent by action**
 
 The NBA has an an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is similar to a caution. I do not consider a wave off dissent.
 
-- Gesture the wearing of spectacles
-- Invading a match offical's personal space
-- Air punching towards or away a match offical
-- Running a distance to complain to the referee [The goalkeeper runs a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
-- Sarcastic clapping
-- Throwing (spiking) the ball to the ground [The player should of gotten for protesting the correct foul call by throwing the ball to the ground. ](https://www.youtube.com/watch?v=oaRIL13l-hE)
-- Surrounding or mobbing a match offical while arguing
+- gesture the wearing of spectacles
+- invading a match offical's personal space
+- jumping in frustration
+- Air punching towards or away a match offical or any other aggressive motion
+- coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
+- sarcastic clapping
+- throwing (spiking) the ball to the ground [The player should of gotten for protesting the correct foul call by throwing the ball to the ground. ](https://www.youtube.com/watch?v=oaRIL13l-hE)
+- slamming the ground with the hand(s) 
+- surrounding a match offical
 
 <!-- tabs:end -->
 
