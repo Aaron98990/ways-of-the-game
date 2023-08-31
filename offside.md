@@ -81,7 +81,7 @@ The changes comes down to this -  if the defender played the ball to where they 
 
 A player can deliberately attempt to block or play the ball, but still can be a deflection for purposes of offside. That's why I prefer to use non-deflection rather than deliberate play - it causes too much confusion. 
 
-[No offside. Although the defender deliberalty moves towards the ball, the touch by the defender is considered a deflection since they did not have enough time to react. ]()
+[Offside. Although the defender deliberalty moves towards the ball, the touch by the defender is considered a deflection since they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
 
 It is subjective and could be interpeted differently by different people. The level of the game would affect this decision.
 
