@@ -88,6 +88,8 @@ It is accepted to not call the "controls the ball with the hand/arm for more tha
 
 The law gives exception to "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play" for goalkeeper handball. Please note an attempt to kick the ball without releasing it to play does not meet the exception.
 
+[Goalkeeper attempts to kick the ball to relase the ball into play. Therefore, they can pick up the ball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=194)
+
 [The ball is deliberately kicked to the goalkeeper by a team-mate. At this point, the goalkeeper would commit an offense if they picked the ball up. The goalkeeper then attempts to kick the ball to realse into play. Now, the goalkeeper would be able to pick up the ball.](https://youtu.be/V-tSSbnHSVM)
 
 #### Disciplinary Action
