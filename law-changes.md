@@ -6,12 +6,10 @@ This is the only place I blatantly insert my opinion. Other places are less blat
 
 ## 2023/24
 
-- Major change of the definition of  ‘deflection’ as realted to offside
-  - Discussed in [Offside](/offside) - I like this change. 
-  - I felt like the old deflection definition favored the attackers too much. We can't punish defenders for ... defending.
+- Major change of the definition of  ‘deflection’ as related to offside
+  - Discussed in [Offside](/offside) - I like this change. I felt like the old deflection definition favored the attackers too much. We can't punish defenders for ... defending.
 - Clarification for derermining the sanction for DOGSO or SPA for an offense that leads to a penalty kick. An attempt to play the ball includes challenging for the ball.
-  - A player that charges into the back of an opponent may be attempting to play the ball
-  - Great change! 
+  - A player that charges into the back of an opponent may be attempting to play the ball. Great change! 
 
 ## 2022/23
 
@@ -149,3 +147,34 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
     - "This should encourage goalkeepers not to infringe this Law." was IFAB's reasoning. This was already way to harsh and when VAR was introduced caused more problems as the goalkeeper off the line law was strictly applied rather than just blatant cases. [Women's world cup shootout yellow card dispension was applied.](https://www.si.com/soccer/2019/06/21/womens-world-cup-pk-shootouts-goalkeeper-rule-yellow-card-ifab)
 
 - Kick-off: ball must clearly move to be in play; can be kicked in any direction
+
+## Changes I want
+
+Law 3.7 
+- If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team.
+- [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
+- This would apply to a non-players (subs, team officals, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then intefering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
+
+Law 15.1
+- If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
+- [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
+
+Law 12.2
+- An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offences:
+  - controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
+- The Laws need to reflect reality. No match offical counts the time second by second and the Law is often ignored.
+
+Law 11.3
+- There is no offside offence if a player receives the ball directly from:
+  - ~~a goal kick~~
+  - a throw-in
+  - a corner kick
+- Right now if the ball completely crosses the touchline or goalline, there can never be offside on the restart. But, a goalkick and a freekick in the goal area are the same thing. Yet only one of them you can't be offside on - where's the logic.
+
+Law 10.3
+- ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
+- 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
+
+Law 14.1
+~~If the goalkeeper’s offence results in the kick being retaken, the goalkeeper is warned for the first offence in the game and cautioned for any subsequent offence(s) in the game unless the offense is a goalkeeper not on their goalline.~~
+- Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goalline or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball, its always a retake.
