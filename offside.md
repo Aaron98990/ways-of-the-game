@@ -29,11 +29,13 @@ So, if the ball is deliberately played by an opponent and you directly get it yo
 >
 > - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
 
-If you are behind or even with the ball when it is touched by a team-mate, you are never offside.
+If you are behind or even with the ball when it is touched by a team-mate, you are never offside. (The direction of the pass is irrelavnt. )
 
-Video example 4
+[No offside. Although they are in an offside position, the player is behind the ball when played by a team-mate. ](https://m.youtube.com/watch?t=113&v=U01-uArNpdw&feature=youtu.be)
 
 If you are behind or even with the second-to-last defender when the ball is touched by a teammate, you are never offside. Remember, the goalkeeper counts as a defender.
+
+[No offside. The player that scores is even with the second-to-last defender when plated by a team-mate. ](https://youtu.be/d9gU6kmlagI?feature=shared)
 
 [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak)
 
@@ -44,15 +46,23 @@ Just because a player recieves the ball ahead of everyone does not necessairly m
 
 [The assistant referee incorrectly flags the player for offside.](https://youtu.be/57Gs6vLMnvU?feature=shared&t=36)
 
+[No offside. The assistant referee correctly keeps their flag down. ](https://youtu.be/d9gU6kmlagI?feature=shared&t=175)
+
 [PRO has an amazing offside perception quiz located here. It's hard.](https://proreferees.com/2020/05/01/try-the-latest-offside-perception-quiz/)
 
 ## Offside then not
 
-When a player recieves a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside when the ball was touched by a team-mate. As a matter of fact if they are in an offside position and touch the ball on their team's side of the field, the restart will be on the player's own half. Players will be grumpy about this but it is the correct call.
+When a player recieves a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside position when the ball was touched by a team-mate. 
+
+[Video of off then not]
+
+As a matter of fact if they are in an offside position and touch the ball on their team's side of the field, the restart will be on the player's own half. Players will be grumpy about this but it is the correct call.
 
 > If an offside offence occurs, the referee awards an indirect free kick where the offence occurred, including if it is in the player’s own half of the field of play.
 
-## Deflection vs non-deflection/deliberate
+[Video of restart from offside in own half. ]
+
+## Deflection vs non-deflection
 
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
@@ -67,7 +77,9 @@ When a player recieves a ball, they may not be in an offside position anymore. T
 
 In Circular no. 26 and the 2023/24 Laws of the Game , The IFAB released a major change to whether a touch of the ball should be determined as a deflection or not. [The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or non-deflection.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/)
 
-The changes comes down to this - It is not a deflection and it is deliberate play if the defender played the ball to where they wanted to or should of been able to.
+The changes comes down to this -  if the defender played the ball to where they wanted to or should of been able to.
+
+A player can deliberately attempt to block or play the ball, but still can be a deflection for purposes of offside. That's why I prefer to use non-deflection rather than deliberate play - it causes too much confusion. 
 
 It is subjective and could be interpeted differently by different people. The level of the game would affect this decision.
 
@@ -75,11 +87,9 @@ It is subjective and could be interpeted differently by different people. The le
 
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
->  (…)
-> 
+>  - (…)
 > - gaining an advantage by playing the ball or interfering with an opponent
 >   when it has:
->   
 >   - **rebounded or been deflected off the goalpost, crossbar**, match official or
 >     an opponent
 > 
@@ -90,10 +100,8 @@ It is subjective and could be interpeted differently by different people. The le
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
 >  (…)
-> 
 > - gaining an advantage by playing the ball or interfering with an opponent
 >   when it has:
->   
 >   - been deliberately saved by any opponent
 > 
 > Lae 11 - Offside
