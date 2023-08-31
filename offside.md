@@ -12,7 +12,7 @@
 
 So, if the ball goes out of play from the touchline or goalline and no goal is scored - there can never be offside from the restart.
 
-Video example 1
+[No offside. There is never offside when ball recieved directly from a throw-in. ]
 
 > A player is in an offside position if:
 > 
