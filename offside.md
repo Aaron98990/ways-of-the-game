@@ -3,16 +3,13 @@
 ## Never offside
 
 > There is no offside offence if a player receives the ball directly from:
->
 > - a goal kick
->
 > - a throw-in
->
 > - a corner kick
 
 So, if the ball goes out of play from the touchline or goalline and no goal is scored - there can never be offside from the restart.
 
-[No offside. There is never offside when ball recieved directly from a throw-in. ]
+[No offside. There is never offside when ball recieved directly from a throw-in. ](https://youtu.be/4C961hfCY6I?feature=shared)
 
 > A player is in an offside position if:
 > 
