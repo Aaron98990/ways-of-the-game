@@ -136,7 +136,9 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 
 Goaleeper in Control of the Ball with the Hands
 
-A goalkeeper can't be challenged for the ball when in control of te ball with the hands.
+> A goalkeeper can't be challenged for the ball when in control of te ball with the hands.
+
+[Foul. Direct free kick since it involved contact. The player initiates contact on the goalkeeper or challenges for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
 
 > A goalkeeper is considered to be in control of the ball with the hand(s) when:
 > 
