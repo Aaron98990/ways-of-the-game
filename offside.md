@@ -21,9 +21,9 @@ So, if your completely your own half when the ball is touched by a team-mate, ca
 
 > A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
 
-So, if the ball is deliberately played by an opponent and you directly get it you can never be offside. We review less clear examples in the "delection vs deliberate" section below.
+So, if the ball is deliberately played (I prefer calling it a non-deflection) by an opponent and you directly get it you can never be offside. We review less clear examples in the "deflection" section below.
 
-[No offside. The ball is deliberately played by an opponent. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?feature=shared)
+[No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?feature=shared)
 
 > A player is in an offside position if:
 >
@@ -62,7 +62,7 @@ As a matter of fact if they are in an offside position and touch the ball on the
 
 [Video of restart from offside in own half. ]
 
-## Deflection vs non-deflection
+## Deflection
 
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
@@ -80,6 +80,8 @@ In Circular no. 26 and the 2023/24 Laws of the Game , The IFAB released a major 
 The changes comes down to this -  if the defender played the ball to where they wanted to or should of been able to.
 
 A player can deliberately attempt to block or play the ball, but still can be a deflection for purposes of offside. That's why I prefer to use non-deflection rather than deliberate play - it causes too much confusion. 
+
+[No offside. Although the defender deliberalty moves towards the ball, the touch by the defender is considered a deflection since they did not have enough time to react. ]()
 
 It is subjective and could be interpeted differently by different people. The level of the game would affect this decision.
 
