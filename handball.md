@@ -18,16 +18,6 @@ A goalkeeper commiting a handball offense outside their own penalty area is just
 
 The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken. Read more about goalkeepers including goalkeeper handling offenses in their own penalty area [here](/goalkeeper).
 
-Handball is subjective and bas been defined differently over the years.
-
-## Handling the ball 
-> It is an offence if a player:
-> - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
-> - touches the ball with their hand/arm when it has made their body unnaturally bigger. A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation. By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
-> - scores in the opponents’ goal:
->   - directly from their hand/arm, even if accidental, including by the goalkeeper
->   - immediately after the ball has touched their hand/arm, even if accidental
-
 ## Hand/arm
 
 The hand/arm excludes the shoulders and the arm pits.
@@ -36,9 +26,19 @@ The hand/arm excludes the shoulders and the arm pits.
 
 ![image](https://www.datocms-assets.com/43623/1653641422-illustration-book-handball-chosen_en.png?auto=format&q=90&w=1920&fit=max)
 
+## Handling the ball 
+Handball is subjective and bas been defined differently over the years.
+
+> It is an offence if a player:
+> - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
+> - touches the ball with their hand/arm when it has made their body unnaturally bigger. A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation. By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
+> - scores in the opponents’ goal:
+>   - directly from their hand/arm, even if accidental, including by the goalkeeper
+>   - immediately after the ball has touched their hand/arm, even if accidental
+
 ## Deliberate
 
-[Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=287)
+[Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/fM_WkMvOogQ?t=29)
 
 ## Unnaturally bigger
 
@@ -48,9 +48,17 @@ The hand/arm excludes the shoulders and the arm pits.
 
 [Handball. The arm/hand is extended away from the body that is not natural.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 
-[Not handball. The defender is off balance when attempting to clear the ball and his hands/arms are in a justifable position.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
+A defender attempting to clear the ball when the ball accidently hits their hand/arm is never handball.
+- [Not handball. The defender is off balance when attempting to clear the ball and his hands/arms are in a justifable position.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
+- [Not handball. A defender attempting to clear the ball when the ball accidently hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
 
-[Not handball. A defender attempting to clear the ball when the ball accidently hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
+The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate the hands/arm being unnaturally bigger.
+- [The ball deflects off a players foot and contatacts the hands/arm in an unnatural position.](https://www.youtube.com/shorts/_6hqiU4lqPM)
+
+But, emphasis on unnaturally bigger should be on creating a barrier for the ball to pass the defender - not that the hands/arms are unnaturally away from the body.
+- [The hands/arms are unnaturally bigger - he is deliberatlly touching the attacker. But, not handball as hands/arm was not used as a barrier for the ball to pass the defender. Ignore the pundits being sensational.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
+- A player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But, if the ball was going to still hit their head/body then there is no handball as this not make the barrier for the ball to pass any biggger.
+
 
 ## Accidental handball
 
