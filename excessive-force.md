@@ -25,16 +25,14 @@ The level of physical foul does not depend on intention. A player can unintentio
 Both serious foul play and violent counduct are both send-off offenses for using excessive force. It is impossible for an offense to be serious foul play and violent conduct at the same time. It can only be one. 
 
 It is serious foul play if:
-
 - a challenge is being made for the ball and
-
 - the offense is against an opponent 
 
 This distinction matters as competitions generally will suspend players for more games for violent conduct than serious foul play.
 
 There are also offensive, insulting or abusive actions, including physichal ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the the [misconduct section](/misconduct).
 
-### Charge / Strikes At
+## Charge / Strikes At
 
 There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
 
@@ -45,7 +43,7 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 [Red Card - Serious Foul Play. The player uses excessive force as the player cocks their elbow in their opponent's face.](https://youtu.be/FFf7U5FNLag?t=43)
 
 
-### Jumps At
+## Jumps At
 
 [When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=BjQ__f4JG9o)
 
@@ -69,7 +67,7 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 
 ## Kicking/throwing an object at someone
 
-Kicking or throwing on throw-ins the ball at someone is acceptable if reasonable force is used. This is covered in [restarts section](/restarts).
+Kicking or throwing on throw-ins the ball at an opponent (aka striking) is acceptable if reasonable force is used. This is covered in [restarts section](/restarts).
 
 [RC - Violent Conduct Kicking the ball at someone on the ground. There is no tactical reason to kick the ball in that direction and with that speed.](https://youtu.be/nDgAA3EtsBg?t=627)
 
