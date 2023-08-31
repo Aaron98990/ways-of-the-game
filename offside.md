@@ -21,7 +21,7 @@ So, if your completely your own half when the ball is touched by a team-mate, ca
 
 > A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
 
-So, if the ball is deliberately played (I prefer calling it a non-deflection) by an opponent and you directly get it you can never be offside. We review less clear examples in the "deflection" section below.
+So, if the ball is deliberately played (non-deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
 
 [No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?feature=shared)
 
@@ -133,3 +133,11 @@ PRO has an amazing write up on intefering with an opponent.
 > Law 11
 
 [Goal. The player in the offside position does not touch the ball or intefere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
+
+## Player outside the field of play
+
+> A defending [or attacking] player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area. Law 11.4
+
+[A player slips and remains off the field of play. That player is considered on the goalline and keeps the player that inteferes with the goakeeper onside. The defending team played the ball towards the halfway line (the guy who slipped) but that play did not cause the ball to exit the penalty area.](https://youtu.be/eyKa-xvHDQA?feature=shared&t=489)
+
+> 
