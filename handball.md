@@ -26,6 +26,8 @@ The hand/arm excludes the shoulders and the arm pits.
 
 ![image](https://www.datocms-assets.com/43623/1653641422-illustration-book-handball-chosen_en.png?auto=format&q=90&w=1920&fit=max)
 
+[Handball.](https://www.youtube.com/shorts/ukBC2HPaM3g)
+
 ## Handling the ball 
 Handball is subjective and bas been defined differently over the years.
 
@@ -57,6 +59,8 @@ Recent change - The ball hitting the hands/arm after a deflection from anyone (i
 - [Handball. The ball deflects off a players foot and contatacts the hands/arm in an unnatural position.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 - [Handball. The ball deflects off a player foot and contacts the hands/arm in an unnatural position.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 
+If the ball hits the supporting hand/arm of a defender while going to ground, this is never a penalty. 
+
 !> Unnaturally bigger is subjective. Above ones are commonly accepted. Below ones are my interpretation. 
 
 But, emphasis on unnaturally bigger should be on creating a barrier for the ball to pass the defender - not that the hands/arms are unnaturally away from the body.
@@ -64,6 +68,8 @@ But, emphasis on unnaturally bigger should be on creating a barrier for the ball
 - A player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But, if the ball was going to still hit their head/body then there is no handball as this not make the barrier for the ball to pass any biggger.
 - [Handball. The hands/arms are in a natural running motion. But, when you deliberately run in to attempt to block a shot/pass and create a barrier for the ball to pass yourself even when hands/arm are in natural position - you take on the risk. I would call that handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43)
 
+A defender attempting to head the ball but it contacts their hands/arm which are generally in line with the shoulders are extremely subjective situations.
+- [Your choice.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
 
 ## Accidental handball
 
