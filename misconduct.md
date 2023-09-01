@@ -257,6 +257,7 @@ See the [excessive force section](/excessive-force).
 You'll know it when you see it.
 - [Beckhem makes unnessary contact with a match offical and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
 - [Deliberarely touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
+- including physichal actions towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent 
 
 > - receiving a second caution in the same match
 
