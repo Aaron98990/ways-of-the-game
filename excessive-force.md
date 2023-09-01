@@ -73,6 +73,6 @@ Kicking or throwing on throw-ins the ball at an opponent (aka striking) is accep
 
 [RC - Vioent Conduct Kick the ball at someone on the ground during the world cup. There is no tactical reason to kick the ball in that direction and with that speed.](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863)
 
-[RC - Violent Conduct - Althoguh the ball never made any contact with any of the subs during the world cup, this was violent conduct. There is no tactical reason to kick the ball in that direction and with that speed.](There is no tactical reason to kick the ball in that direction and with that speed.)
+[RC - Violent Conduct. Throwing the ball at an opponent's back with excessivd force. ](https://youtu.be/snf9HlPG0dU?feature=shared&t=123)
 
 PRO Referees has a great write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
