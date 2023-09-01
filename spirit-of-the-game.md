@@ -24,8 +24,8 @@ Windy conditions mean that a ball can't be stationary on the ground althugh the 
 - There is no benefit if a free kick or goal kick is not stationary when kicked. After explaining the situation to the teams, the referee should allow play to continue.
 - [Although the ball is not on the field of play and not stationary when kicked, due to the windy conditions I would allow it as it in the spirit of the game.](https://www.tiktok.com/@refsneedlovetoo/video/7262071167090003242)
 
-Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color
-- For lower levels of football, there is no need to strictly apply this rule unless it creates an unfair advantage or distraction to opponents. 
+Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players offending by weaering sleeveless shirts, player offending by wearing non-sport spectacles
+- For lower levels of football, there is no need to strictly apply these Laws unless it creates an unfair advantage or distraction to opponents. 
 
 A ball is about to clearly go outside the field of play but a non-player touches it. 
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
