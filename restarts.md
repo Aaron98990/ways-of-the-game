@@ -28,7 +28,7 @@ The restart is taken at the position the offense requires or when play stops or 
 - free kicks to the defending team in their goal area may be taken from anywhere in that area
 - direct free kick offenses by the defender in the opponent's penalty area are a penalty kick taken at the penalty spot
 - The ball is dropped for the defending team goalkeeper anywhere in their penalty area if, when play was stopped when the ball was in the penalty area or the last touch of the ball was in the penalty area
- - In all other cases, the referee drops the ball for one player of the team that last touched the ball at the position where it last touched a player, an outside agent or, as outlined in Law 9.1, a match official 
+    - In all other cases, the referee drops the ball for one player of the team that last touched the ball at the position where it last touched a player, an outside agent or, as outlined in Law 9.1, a match official 
 
 ## Fienting
 
@@ -42,10 +42,10 @@ Feinting is allowed on all restarts except one scenario during a penalty kick: "
 
 - Other than a throw-in and a dropped ball, the ball is in play from a restart when the ball is stationary when kicked and the ball is kicked and clearly moves and there are no other offenses.
 - For a throw-in, the ball is in play when it enters the field of play, there are no other offenses, and the thrower at the moment of delivering the ball obeys the following:
- - stand facing the field of play
- - have part of each foot on the touchline or on the ground outside the touchline
-   - both feet can be on the field of play as long part of each foot is touching the touchline
- - throw the ball with both hands from behind and over the head from the point where it left the field of play
+    - stand facing the field of play
+    - have part of each foot on the touchline or on the ground outside the touchline
+        - both feet can be on the field of play as long part of each foot is touching the touchline
+     - throw the ball with both hands from behind and over the head from the point where it left the field of play
 - For a dropped a ball, the ball is when it directly touches the ground on the field of play after being dropped. 
 
 > Kick: The ball is kicked when a player makes contact with it with the foot and/or the ankle. Glossary
@@ -65,8 +65,8 @@ Until the ball is in play:
 - For free kicks in the opponents' penalty area and all goalkicks , opponents must remain out of the opponents' penalty area
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
 - For penalty kicks, the goalkeeper must have part of both feet in line or behind the goalline. Everyone except the goalkeeper must be behind the penalty spot. Everyone except the kicker and goalkeeper, must be outside the penalty area.
- - [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/9o6zJz1neG0?t=49)
- - [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
+    - [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/9o6zJz1neG0?t=49)
+    - [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
 
 ## Quick restarts
 
