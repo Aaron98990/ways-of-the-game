@@ -26,8 +26,6 @@ The hand/arm excludes the shoulders and the arm pits.
 
 ![image](https://www.datocms-assets.com/43623/1653641422-illustration-book-handball-chosen_en.png?auto=format&q=90&w=1920&fit=max)
 
-[Handball.](https://www.youtube.com/shorts/ukBC2HPaM3g)
-
 ## Handling the ball 
 Handball is subjective and bas been defined differently over the years.
 
