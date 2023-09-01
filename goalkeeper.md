@@ -5,13 +5,64 @@ A goalkeeper is a fundamental part of the game. Each team must always have one g
 > A match is played by two teams, each with a maximum of eleven players; one must be the goalkeeper.
 > 3.1 Number of players
 
+## Goalkeeper equiptment
+
+Goalkeepers may wear tracksuit bootoms and caps. In reality, esspecially in lower levels of the game, any player can wear tracksuit bottoms.
+
+> Goalkeepers may wear tracksuit bottoms.[...] Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
+> - Law 4
+
+Goalkeepers must be distinguisbable from other players and the match officals. 
+
+> - The two teams must wear colours that distinguish them from each other and the match officials
+> - Each goalkeeper must wear colours that are distinguishable from the other players and the match officials
+> - If the two goalkeepers’ shirts are the same colour and neither has another shirt, the referee allows the match to be played
+> - Law 4
+
+## Restarts
+
+Goalkeepers can take any restart (e.g. throw-ins) if it belongs to their team. 
+
+## Boxing out the goalkeeper
+
+On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed as long as no other offense is being commited. Referees should warn player doing this that they commit an offenese if they move into the path of the goalkeeper.
+
+> Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
+> 
+> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
+> - Law 12.2
+
+If there is contact with the goalkeeper, the restart is a direct free kick. If there is no contact with the goalkeeper, the restart is an indirect free kcik.
+- [A player legally stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
+
+## Playing distance
+
+Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goal-keepers because they can use their arms/hands to catch the ball inside their penalty area and can use their arms/hands after tackling for the ball.
+
+> Playing distance: Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player
+> - Glossary
+
+## Changing the goalkeeper
+
+> Any of the players may change places with the goalkeeper if:
+> - the referee is informed before the change is made
+> - the change is made during a stoppage in play
+> - 3.4 Changing the goalkeeper
+
+> If a player changes places with the goalkeeper without the referee’s permission, the referee:
+> - allows play to continue
+> - cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
+> - 3.5 Offences and sanctions
+
 ## Handball by goalkeeper
 
-The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken (Law 12.2). A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goalkick for their opponents (Law 10.1).
+The goalkeeper commiting a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken (no SPA and no DOGSO)(Law 12.1).  If the goalkeeper commits a more serious offense at the same time (talked about in "Two offenses at once" section below), a goalkeeper can be penalised/carded only for the more serious offense.
+
+A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goalkick for their opponents (Law 10.1). 
+
+Any player, including goalkeepers, cannot make contact with the ball with a held object (e.g. shirt, boot, another ball) else its a direct free kick (Law 12.1).
 
 A goalkeeper commiting a handball offense outside their own penalty area is just like any other non-goalkeeper player, a direct free kick with the appropiate sanction / disciplinary action is taken (Law 12.1).
-
-## Outside their own penalty area
 
 > The goalkeeper has the same restrictions on handling the ball as any other player outside the penalty area.
 > 
@@ -104,114 +155,27 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 If there is contact with the goalkeeper, it is a direct free kick. If there is no contact with the goalkeeper and just the ball, it is an indrect free kick.
 - [Foul. Direct free kick since it involved contact. The player initiates contact on the goalkeeper or challenges for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
 
-## Boxing out the goalkeeper
-
-On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed as long as no other offense is being commited. Referees should warn player doing this that they commit an offenese if they move into the path of the goalkeeper.
-
-> Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
-> 
-> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
-> - Law 12.2
-
-If there is contact with the goalkeeper, the restart is a direct free kick. If there is no contact with the goalkeeper, the restart is an indirect free kcik.
-- [A player legally stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
-
-## Playing distance
-
-Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goal-keepers because they can use their arms/hands to catch the ball inside their penalty area and can use their arms/hands after tackling for the ball.
-
-> Playing distance: Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player
-> - Glossary
-
-## Changing the goalkeeper
-
-> Any of the players may change places with the goalkeeper if:
-> - the referee is informed before the change is made
-> - the change is made during a stoppage in play
-> - 3.4 Changing the goalkeeper
-
-> If a player changes places with the goalkeeper without the referee’s permission, the referee:
-> - allows play to continue
-> - cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
-> - 3.5 Offences and sanctions
-
-## Goalkeeper equiptment
-
-Goalkeepers may wear tracksuit bootms and caps. In reality, esspecially in lower levels of the game, any player can wear tracksuit bottoms.
-
-> Goalkeepers may wear tracksuit bottoms.[...] Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
-> - Law 4
-
-Goalkeepers must be distinguisbable from other players and the match officals. 
-
-> - The two teams must wear colours that distinguish them from each other and the match officials
-> - Each goalkeeper must wear colours that are distinguishable from the other players and the match officials
-> - If the two goalkeepers’ shirts are the same colour and neither has another shirt, the referee allows the match to be played
-> - Law 4
-
-## Restarts
-
-Goalkeepers can take any restart (e.g. throw-ins) if it belongs to their team.
-
-## Disciplinary Action
-
-Unless the goalkeeper commits a more serious offense at the same time (talked about in the next section), a goalkeeper can not be cautioned or sent off for handling the ball in their own penalty area. This includes if the referee determined that the goalkeeper's offense is Persistent Offenses or Stopped a Promising Attack (SPA) or Denied an Obvious Goal Scoring Opportunity (DOGSO) - this is where the "except a goalkeeper within their penalty area" exception in the disciplinary action section comes from.
-
-> A player, substitute or substituted player who commits any of the following offences is sent off:
-> - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offence (except a goalkeeper within their penalty area)
-> - Law 12.3 Disciplinary Action
-
-Weirldy enough, they do not add it for Persistent Offeneses or Stopping a Promising Attack by handball although "(except a goalkeeper within their penalty area)" still applies. 
-
-> There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
-> - handles the ball to interfere with or stop a promising attack
-> - Law 12.3 Disciplinary Action
-
 ## Two Offenses at Once
 
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offence is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offence stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > - Law 12.1 Direct free kick
 
-I cover this scenario even more in the advanced section at the bottom of the page.
-
-## Advanced: Two offenses at once
-
-Skip this if you value your time as the following covers a rare situation in detail.
-
-> If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offence is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offence stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
-> - Law 12.1 Direct free kick
-
-The above is just another Law enumerated out to be clear.
-
 > The referee:
 > - punishes the more serious offence, in terms of sanction, restart, physical severity and tactical impact, when more than one offence occurs at the same time
 > - Law 5.3 - Powers and duties
 
-This is a bit confusing to read. Let me summarize.
-
-So, if there are more than one offenses at once we do down the tie-breaker list:
+This is a bit confusing to read. Let me summarize. So, if there are more than one offenses at once we do down the tie-breaker list:
 - Sanction
 - Restart
 - Physical severity
 - Tactical impact
 
-If the goalkeeper takes the free kick or goal kick or throw-in (or even a kick-off) then handles the ball inside their own penalty area before the ball has touched another player, they have commited two offeneses at the same time:
+If the goalkeeper takes the free kick or goal kick or throw-in (or even a kick-off or corner kick) then handles the ball inside their own penalty area before the ball has touched another player, they have commited two offeneses at the same time:
 
-- > If, after the ball is in play, the kicker touches the ball again before it has touched another player, an indirect free kick is awarded
-  > - Law 16.2, 13.2 Offenses and Sancctions
+- If, after the ball is in play, the restart kicker/thrower touches the ball again before it has touched another player, an indirect free kick offense
+- goalkeeper passback, an indirect free kick offense
 
-- > An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offences:
-  > - touches the ball with the hand/arm, unless the goalkeeper has clearly kicked or attempted to kick the ball to release it into play, after:
-  >   - it has been deliberately kicked to the goalkeeper by a team-mate
-  >   - receiving it directly from a throw-in taken by a team-mate
-  > - Law 12.2 Indirect Free Kick
+Team-mate in the Laws of the Game includes passing it to oneself. So, if there are more than one offenses at once we do down the tie-breaker list:
+- Sanction (double touch allows for none/SPA/DOGSO; goalkeeper passback allows for none)
 
-Team-mate in the Laws of the Game includes passing it to oneself.
-
-So, if there are more than one offenses at once we do down the tie-breaker list:
-- Sanction (double touch allows for none/SPA/DOGSO)
-- Restart (both indirect free kick)
-- Physical severity (both are none)
-- Tactical impact (both are the same)
-
-But, the double touch allows a player to be cautioned or sent off while the goalkeeper handball in their own penalty area does not - so we punish the more serious offense - the one with a higher sanction (none/caution/send-off). If no sanction for both offenses, it does not matter which offense is punished as they have the same restart to the same team.
+So, double touch is punished and goalkeeper passback is ignored since double touch has a higher sanction.
