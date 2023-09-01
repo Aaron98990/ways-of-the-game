@@ -127,8 +127,7 @@ Law 11.3
   - a corner kick
 - Right now if the ball completely crosses the touchline or goalline, there can never be offside on the restart. But, a goalkick and a freekick in the goal area are the same thing. Yet only one of them you can't be offside on - where's the logic.
 
-Law 10.3
-- ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
+Law 10.3 ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
 
 Law 14.1
