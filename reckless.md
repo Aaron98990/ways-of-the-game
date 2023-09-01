@@ -87,7 +87,15 @@ Kicks to the face or a kick where a players significantly cocks their foot back 
 
 ## Reckless Trip
 
-A defender that comes in at a high rate of speed to make a trip should be cuationed. This type of trip often ends up turning into a tackle after contact is made.
+A defender that comes in at a high rate of speed to make a trip should be cuationed. 
+
+Also, when an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting). 
+
+Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move.
+
+[There is a great opinion article on undercutting here](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
+
+[YC - undercut leads player to land on their neck.](https://www.tiktok.com/t/ZPRW7qUWT/)
 
 ## Reckless Push
 
