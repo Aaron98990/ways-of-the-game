@@ -243,14 +243,21 @@ A player who refuses to comply or wears the item again must be cautioned. Law 4.
 > - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
 
 See the [tactical impact section](/tactical-impact)
+
 > - serious foul play
 > - biting or spitting at someone
 > - violent conduct
+
+
 See the [excessive force section](/excessive-force).
 
 > - using offensive, insulting or abusive language and/or action(s)
+
+
 You'll know it when you see it.
- [Beckhem makes unnessary contact with a match offical and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
+- [Beckhem makes unnessary contact with a match offical and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
+- [Deliberarely touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
+
 > - receiving a second caution in the same match
 
 ## Team Officals
