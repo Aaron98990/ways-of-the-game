@@ -62,11 +62,11 @@ Until the ball is in play:
 - For free kicks, kick-offs, and corner kicks, all opponents must remain 10 yards from the ball
  - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
-- For free kicks in the opponents' penalty area and all goal kicks , opponents must remain out of the opponents' penalty area
+- For free kicks in the opponents' penalty area and all goal kicks, opponents must remain out of the opponents' penalty area
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
-- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the goalkeeper must be behind the penalty spot. Everyone except the kicker and goalkeeper, must be outside the penalty area.
-    - [Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked.](https://youtu.be/9o6zJz1neG0?t=49)
-    - [Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
+- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty spot, and 10 yards from the penalty mark. 
+    - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
+    - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
 
 ## Quick restarts
 
