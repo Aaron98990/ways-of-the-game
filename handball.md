@@ -61,8 +61,8 @@ While a defender attempting to block a pass/shot, the defender creates an unfair
 - [No handball. The ball hits near the elbow. Not the best angle here. The defender's area between the elbow and shoulder are in line with the body. If the ball hit between the elbow and hand then it would of been handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
 
 2021/22 IFAB CHANGE: The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate creating an unfair 2D barrier from the point the ball was last deliberately played talked about above.
-- [Handball. The ball deflects off a players foot and creates the unfair 2D barrier.](https://www.youtube.com/shorts/_6hqiU4lqPM)
-- [Handball. The ball deflects off a player foot and contacts the unfair 2D barrier.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
+- [Handball. The ball deflects off a player's foot and the defender touches the ball when its behind him/passed him which creates the unfair 2D barrier.](https://www.youtube.com/shorts/_6hqiU4lqPM)
+- [Handball. The ball deflects off a player's foot and would have easily gone past the defender if it weren't for the arms which contacts the unfair 2D barrier.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 
 When arms are close to the body, there is no handball. After the ball its an arm, the arm may look farther part then it originally was before the contact. We judge the arm position right before the contact.
 - [No handball. The arms are close to the body. ](https://www.youtube.com/watch?v=J2NYg4tmQa4)
