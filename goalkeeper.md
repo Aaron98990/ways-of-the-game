@@ -147,7 +147,7 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 
 ## Control with hand/arms
 
-> A goalkeeper can't be challenged for the ball when in control of te ball with the hands.
+> A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s).
 >
 > A goalkeeper is considered to be in control of the ball with the hand(s) when:
 > - the ball is between the hands or between the hand and any surface (e.g. ground, own body) or by touching it with any part of the hands or arms, except if the ball rebounds from the goalkeeper or the goalkeeper has made a save
@@ -158,6 +158,9 @@ If there is contact with the goalkeeper, it is a direct free kick. If there is n
 - [Foul. Direct free kick since it involved contact. The player initiates contact on the goalkeeper or challenges for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
 
 - [Foul. Direct free kick since the challenge involved contact with the goalkeeper after touching the ball after goalkeeper has two hands on the ball and its not a rebound. ](https://www.tiktok.com/t/ZPRW7popf/)
+
+- [No foul - Goal. Own team-mate, not an opponent challenges the goalkeeper for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
+
 
 ## Two Offenses at Once
 

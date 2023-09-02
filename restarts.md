@@ -62,11 +62,11 @@ Until the ball is in play:
 - For free kicks, kick-offs, and corner kicks, all opponents must remain 10 yards from the ball
  - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
-- For free kicks in the opponents' penalty area and all goal kicks , opponents must remain out of the opponents' penalty area
+- For free kicks in the opponents' penalty area and all goal kicks, opponents must remain out of the opponents' penalty area
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
-- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the goalkeeper must be behind the penalty spot. Everyone except the kicker and goalkeeper, must be outside the penalty area.
-    - [Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked.](https://youtu.be/9o6zJz1neG0?t=49)
-    - [Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
+- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty spot, and 10 yards from the penalty mark. 
+    - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
+    - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
 
 ## Quick restarts
 
@@ -74,7 +74,7 @@ Until the ball is in play:
 
 > If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. 
 
-Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play.
+Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play else its a retake. 
 - "After the players have taken positions in accordance with this Law, the referee signals for the penalty kick to be taken."
 - "For every kick-off: the referee gives a signal"
 
@@ -117,7 +117,7 @@ The referee channel has a list of 21 videos of examples of this that are availab
 
 ## Double touch by restart taker
 
-For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule.
+For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player else its an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule.
 
 "the [kicker/thrower must] not touch the ball again until it has touched another player"
 - [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
@@ -128,7 +128,7 @@ For dropped balls, the player can start dribbing the ball as the ball is in play
 
 ## Two touches before opponent's goal
 
-An throw-in, indriect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal.
+An throw-in, indriect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal else its a goal kick. 
 
 All other restarts, you may scores a goal in the opponent's goal directly (without the ball needing to touch another player other than the kicker) from the restart.
 
@@ -137,7 +137,7 @@ All other restarts, you may scores a goal in the opponent's goal directly (witho
 From all restarts, you can't directly score an own-goal. Directly means only the person taking the restart touched the ball before it enters the goal.  If you do, it's a corner kick for your opponents. 
 - "if the ball directly enters the [kicker’s/thrower's] goal, a corner kick is awarded to the opponents"
 
-Dropped ball follows the same idea as above - except it also to only one person touches the ball (even multiple times):
+Dropped ball follows the same idea as above - except it also applies if only one person touches the ball (even multiple times):
 - "If a dropped ball enters the goal without touching at least two players, play is restarted with: a corner kick if it enters the team’s goal"
 
 ## Striking the ball at an opponent

@@ -133,10 +133,13 @@ Law 10.3 ~~warnings and cautions issued to players and team officials during the
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
 
 Law 14.1 ~~If the goalkeeper’s offense results in the kick being retaken, the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game unless the offense is a goalkeeper not on their goal line.~~
-- Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake.
+- Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake. Doesn't stop the referee from cautioning blatant offense (e.g goalkeeper 5 yards off goal line). 
 
-Law 11.4 A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the ~~defending team has played the ball towards the halfway line and it is outside its penalty area~~ ball completely leaves that side of the field of play.
+Law 11.4 A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the ~~defending team has played the ball towards the halfway line and it is outside its penalty area~~ *ball completely leaves that side of the field of play*.
 - Too aggressive/over-correction. For accounting for injured players, a more fair balance would be the above.  
 
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
-- The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line. 
+- The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from their. 
+
+Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
+- Small fix. 
