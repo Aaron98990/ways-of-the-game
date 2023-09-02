@@ -11,7 +11,7 @@ The restarts in soccer are the:
 
 I cover commonality among the laws and provide video links - I not re-writing the Laws here and exclude some things. I really encourage you to read directly from the Laws of the Game. Each restart Law is super short (less than one-page) and only takes about a minute to read. [Here's the link here](https://www.theifab.com/laws/latest/the-start-and-restart-of-play/) so it's easy to get started then follow along the restarts listed above with the associated law number.
 
-Please note that Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they are very similar to the penalty kick (Law 15) so penalties are covered here.
+Please note that Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they do build on top of the penalty kick (Law 15).
 
 Also, please note that the goalkeeper releasing the ball after control with the hand/arms is not a restart as the ball remains in play. Read more in the [goalkeepers section](/goalkeeper).
 
@@ -22,21 +22,21 @@ Also, please note that the goalkeeper releasing the ball after control with the 
 ## Position of restart
 
 The restart is taken at the position the offense requires or where the ball left the field of play except:
-- Goalkicks can be taken any where in the defending team's goal area
+- Goal kicks can be taken any where in the defending team's goal area
 - Corner kicks can be taken any where in the corner area nearest to the point where the ball passed over the goal line
-- indirect free kicks to the attacking team for an offence inside the opponents’ goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
+- indirect free kicks to the attacking team for an offense inside the opponents’ goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
 - free kicks to the defending team in their goal area may be taken from anywhere in that area
 - direct free kick offenses by the defender in the opponent's penalty area are a penalty kick taken at the penalty spot
 - The ball is dropped for the defending team goalkeeper anywhere in their penalty area if, when play was stopped when the ball was in the penalty area or the last touch of the ball was in the penalty area
     - In all other cases, the referee drops the ball for one player of the team that last touched the ball at the position where it last touched a player, an outside agent or, as outlined in Law 9.1, a match official 
 
-## Fienting
+## Feinting
 
 > Feinting: An action which attempts to confuse an opponent. Glossary
 
 Feinting is allowed on all restarts except one scenario during a penalty kick: "once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker".
 - [The player stops their run up on a free kick and acts confused. This is okay.](https://youtu.be/-PLA_JIfusI)
-- [Messi feints kicking the ball once he has finished his run up for the penalty kick. The goal is disallowed, indirect free kick for opppnents, and caution. ](https://youtu.be/OivBaku1q2s)
+- [Messi feints kicking the ball once he has finished his run up for the penalty kick. The goal is disallowed, indirect free kick for opponents, and caution. ](https://youtu.be/OivBaku1q2s)
 
 ## Ball in play
 
@@ -52,7 +52,7 @@ Feinting is allowed on all restarts except one scenario during a penalty kick: "
 
 If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play. 
 - [The ball does not clearly move. The restart should of been retaken. ](https://youtu.be/-FqA3g7-PTs)
-- [The ball cleary moves (in my opinion) as even the opponent recognizes it. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
+- [The ball clearly moves (in my opinion) as even the opponent recognizes it. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
 
 ## Distance
 
@@ -60,13 +60,13 @@ Until the ball is in play:
 - For dropped balls, all other players except the one who the ball is dropped to (of both teams) must remain at least 4 m (4.5 yds) from the ball
 - For kick-offs, all players, except the player taking the kick-off, must be in their own half of the field of play. 
 - For free kicks, kick-offs, and corner kicks, all opponents must remain 10 yards from the ball
- - For indirect free kicks, defenders stand on the goalline when they can't give 10 yards
+ - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
-- For free kicks in the opponents' penalty area and all goalkicks , opponents must remain out of the opponents' penalty area
+- For free kicks in the opponents' penalty area and all goal kicks , opponents must remain out of the opponents' penalty area
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
-- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goalline. Everyone except the goalkeeper must be behind the penalty spot. Everyone except the kicker and goalkeeper, must be outside the penalty area.
-    - [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/9o6zJz1neG0?t=49)
-    - [Goalkeeper does not have part of both feet in line or behind the goalline when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
+- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the goalkeeper must be behind the penalty spot. Everyone except the kicker and goalkeeper, must be outside the penalty area.
+    - [Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked.](https://youtu.be/9o6zJz1neG0?t=49)
+    - [Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked.](https://youtu.be/gAoXLwQ_2b4?t=96)
 
 ## Quick restarts
 
@@ -87,7 +87,7 @@ If the referee measures distance on a free kick or wants to restart play from a 
 > 	- caution or sending-off
 > 	- injury
 > 	- substitution
-> - Guideline for Match Officals
+> - Guideline for Match Officials
 
 [The referee measures the distance for a free kick and puts the white foam where defenders can stand. Because the free kick is taken before the whistle to restart is blown, the free kick has to be re-taken.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2625)
 
@@ -103,13 +103,13 @@ If the referee measures distance on a free kick or wants to restart play from a 
 > - kicking or carrying the ball away, or provoking a confrontation by deliberately touching the ball after the referee has stopped play
 > - taking a free kick from the wrong position to force a retake
 
-Time-wasting offen falls into this category. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. If they ignore those commands, the referee should not hesitate on punishing the offense.
+Time-wasting often falls into this category. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. If they ignore those commands, the referee should not hesitate on punishing the offense.
 - [A player attempts to waste time by taking over 30 seconds to take a free kick and is cautioned.](https://www.youtube.com/watch?v=DDBtmd86jPc&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=10)
 - [The player keeps dribbling the ball although the restart belongs to the other team. The player is cautioned.](https://www.youtube.com/watch?v=IsPq6DlxrG0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=18)
 - [During a substitution the player takes longer than necessary to leave the field. The player is cautioned.](https://www.youtube.com/watch?v=ilHTBKTW-Kg&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=20)
 - [The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
 
-The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, esspecially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called). 
+The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called). 
 
 ## Failure to respect distance
 
@@ -117,14 +117,14 @@ The referee channel has a list of 21 videos of examples of this that are availab
 
 ## Double touch by restart taker
 
-For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match offical does not reset this rule.
+For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule.
 
 "the [kicker/thrower must] not touch the ball again until it has touched another player"
 - [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
 - [Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
 "A free kick can be taken by lifting the ball with a foot or both feet simultaneously" - this applies to any restart that is kicked
 
-For dropped balls, the player can start drinbling the ball as the ball is in play.
+For dropped balls, the player can start dribbing the ball as the ball is in play.
 
 ## Two touches before opponent's goal
 
@@ -137,7 +137,7 @@ All other restarts, you may scores a goal in the opponent's goal directly (witho
 From all restarts, you can't directly score an own-goal. Directly means only the person taking the restart touched the ball before it enters the goal.  If you do, it's a corner kick for your opponents. 
 - "if the ball directly enters the [kicker’s/thrower's] goal, a corner kick is awarded to the opponents"
 
-Dropped ball follows the same idea as above - except it also to only one person tocuhes the ball (even multiple times):
+Dropped ball follows the same idea as above - except it also to only one person touches the ball (even multiple times):
 - "If a dropped ball enters the goal without touching at least two players, play is restarted with: a corner kick if it enters the team’s goal"
 
 ## Striking the ball at an opponent
@@ -148,11 +148,11 @@ Deliberately throwing (from a throw-in only) or deliberately kicking the ball at
 
 ## Holding during restarts
 
-> Referees are reminded to make an early intervention and to deal firmly with holding offences, especially inside the penalty area at corner kicks and free kicks. To deal with these situations:
+> Referees are reminded to make an early intervention and to deal firmly with holding offenses, especially inside the penalty area at corner kicks and free kicks. To deal with these situations:
 > - the referee must warn any player holding an opponent before the ball is in play
 > - caution the player if the holding continues before the ball is in play
 > - award a direct free kick or penalty kick and caution the player if it happens once the ball is in play
-> - Guidelines for Match Officals
+> - Guidelines for Match Officials
 
 [The referee stops the corner kick and warns players to stop holding.](https://youtu.be/5OJfbYQtKtk?t=2012)
 
@@ -162,7 +162,7 @@ On corner kicks players like to stand in front of goalkeepers to limit their mov
 
 ## Indirect Free Kick
 
-Only direct free kick offenses may lead to a penalty kick. Some players call indirect free kicks "two touches" becuase it requires a touch from two different players.
+Only direct free kick offenses may lead to a penalty kick. Some players call indirect free kicks "two touches" because it requires a touch from two different players.
 
 > The referee indicates an indirect free kick by raising the arm above the head; this signal is maintained until the kick has been taken and the ball touches another player, goes out of play or it is clear that a goal cannot be scored directly.
 > - Law 13 Free Kicks
@@ -173,12 +173,12 @@ Only direct free kick offenses may lead to a penalty kick. Some players call ind
 
 ## Two offenses at once
 
-> If, after the ball is in play, the [thrower/kicker] touches the ball again before it has touched another player, an indirect free kick is awarded; if the [thrower/kicker] commits a handball offence:
+> If, after the ball is in play, the [thrower/kicker] touches the ball again before it has touched another player, an indirect free kick is awarded; if the [thrower/kicker] commits a handball offense:
 > - a direct free kick is awarded
-> - a penalty kick is awarded if the offence occurred inside the [kicker’s/thrower's] penalty area unless the ball was handled by the defending team’s goalkeeper, in which case an indirect free kick is awarded
+> - a penalty kick is awarded if the offense occurred inside the [kicker’s/thrower's] penalty area unless the ball was handled by the defending team’s goalkeeper, in which case an indirect free kick is awarded
 
 > The referee:
-> - punishes the more serious offence, in terms of sanction, restart, physical severity and tactical impact, when more than one offence occurs at the same time
+> - punishes the more serious offense, in terms of sanction, restart, physical severity and tactical impact, when more than one offense occurs at the same time
 > - Law 5.3- Powers and duties
 
 One just clarifies the other. So, if there are more than one offenses at once we go down the tie-breaker list:
@@ -187,7 +187,7 @@ One just clarifies the other. So, if there are more than one offenses at once we
 - Physical severity
 - Tactical impact
 
-If a non-goalkeeper picks up the ball anywhere or a goalkeeper picks up the ball outside their penalty area, two offenses have been commited at once:
+If a non-goalkeeper picks up the ball anywhere or a goalkeeper picks up the ball outside their penalty area, two offenses have been committed at once:
 - handball, punished by a direct free kick
 - restart kicker/thrower touches the ball again before it has touched another player, punished by an indirect free kick
 
@@ -197,8 +197,8 @@ Let's go to our tie-breaker list we stated above:
 
 Therefore, the offense is handball only since it is more serious and we restart with a direct free kick.
 
-If a goalkeeeper picks up the ball in their penalty area (covered deeply in the [goalkeeper section](/goalkeeper), two offenses ahve been commited at once:
+If a goalkeeper picks up the ball in their penalty area (covered deeply in the [goalkeeper section](/goalkeeper)), two offenses have been committed at once:
 - handball by the goalkeeper in their own penalty area, punished by an indirect free kick
 - restart kicker/thrower touches the ball again before it has touched another player, punished by a indirect free kick
 
-Both are indirect free kick offenses so the restart will be an indirect free kick. I cover the appropiate disciplinary action for the goalkeeper picking up the ball in their penalty area [goalkeeper section](/goalkeeper) in the "Two offenses at once" section.
+Both are indirect free kick offenses so the restart will be an indirect free kick. I cover the appropriate disciplinary action for the goalkeeper picking up the ball in their penalty area [goalkeeper section](/goalkeeper) in the "Two offenses at once" section.

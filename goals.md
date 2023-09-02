@@ -17,7 +17,7 @@ Goal nets, especially in lower levels of the game, will have holes in them. Just
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar.
 
-[Goal Ball exits net through hole. It is not any match offical's responsibility to fix holes but to inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+[Goal Ball exits net through hole. It is not any match official's responsibility to fix holes but to inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
 
 ## Crossbar and goalpost
 
@@ -31,7 +31,7 @@ Many shots will hit the crossbar or goalpost and remain in play.
 
 ## Goal scored
 
-> A goal is scored when the whole of the ball passes over the goal line, between the goalposts and under the crossbar, provided that no offence has been committed by the team scoring the goal.
+> A goal is scored when the whole of the ball passes over the goal line, between the goalposts and under the crossbar, provided that no offense has been committed by the team scoring the goal.
 > 
 > - Law 10.1 - Goal scored
 
@@ -53,7 +53,7 @@ The team the goal is awarded to is determined by the coin toss before the match.
 
 ## Advantage
 
-If the defense commits an offence (e.g. handball) then the ball enters the goal, the goal still counts if the referee head not stopped play.
+If the defense commits an offense (e.g. handball) then the ball enters the goal, the goal still counts if the referee head not stopped play.
 
 Read more about advantage [here](/advantage)
 
@@ -89,7 +89,7 @@ Offenses that will nullify a goal.
 > 
 > - Law 9.1 - Ball out of play
 
-[No goal. The ball touches a match offical then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
+[No goal. The ball touches a match official then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal.
 > 
@@ -99,7 +99,7 @@ Offenses that will nullify a goal.
 > 
 > - Law 13.1 - Types of free kick
 
-> It is an offence if a player:
+> It is an offense if a player:
 > 
 > - scores in the opponents’ goal:
 >   
@@ -134,7 +134,7 @@ Offenses that will nullify a goal.
 > - a player, substitute, substituted player, sent-off player or team official of the team that scored the goal; play is restarted with a direct free kick from the position of the extra person
 > 
 > - an outside agent who interfered with play unless a goal results as outlined above in ‘Extra persons on the field of play’; play is restarted with a dropped ball
->   Law 3.9 Goal scored with an extra perso on the field of play
+>   Law 3.9 Goal scored with an extra person on the field of play
 
 If the ball goes into the goal but deflected off someone that enters the field of play to block the goal, the goal should generally stand.
 
@@ -158,9 +158,9 @@ Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The u
 >   
 >   - goal kick, corner kick, throw-in or goal
 > 
-> - Guidelines for Match Officals
+> - Guidelines for Match Officials
 
-Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officals offers guidance.
+Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
 
 > [Assistant referees] indicate when:
 > 
@@ -175,7 +175,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 > 
 > On occasions when the whole of the ball does not cross the goal line and play continues as normal because a goal has not been scored, the referee must make eye contact with the assistant referee and if necessary give a discreet hand signal.
 > 
-> - Guidelines for Match Officals 
+> - Guidelines for Match Officials 
 
 [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701) 
 
@@ -218,7 +218,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 
 ## Tie breaker
 
-Most matches where the score is tied, will in a tie. The only exception is where comptetion rules require a winner.
+Most matches where the score is tied, will in a tie. The only exception is where competition rules require a winner.
 
 > When competition rules require a winning team after a drawn match or home-and-away tie, the only permitted procedures to determine the winning team are:
 >
