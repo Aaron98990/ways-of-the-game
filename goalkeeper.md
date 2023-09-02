@@ -102,6 +102,8 @@ It is ~~accepted~~ expected to not call the "controls the ball with the hand/arm
 
 If the ball rebounds off a goalkeeper hand/arms or any part of the body, they have never released the ball. To release the ball the goalkeeper must be in control with the hand/arms (defined below) and rebounds (deliberate or not) do not count. 
 
+[Indirect free kick. Goalkeeper controls ball with hard/arms, releases it, and then touches ball with hands/arms again](https://www.tiktok.com/@refsneedlovetoo/video/7214189038956252459)
+
 ## "Backpass"
 
 "Goalkeeper backpass" is the unofficial, but commonly used term when the goalkeeper handles the ball when not supposed after passed from a team-mate.

@@ -62,11 +62,14 @@ Impeding the progress of an opponent, often called obstruction, is a direct free
 > 
 > A scissors or bicycle kick is permissible provided that it is not dangerous to an opponent.
 
-If the offense involves contact with an opponent, it is not playing in a dangerous manner. A direct free kick should always be given.
+The restart is an indirect free kick. If the offense involves contact with an opponent it is not playing in a dangerous manner and a direct free kick should be given.
 
 It is not an offense to play the ball on the ground - goalkeepers do that a lot. It is only an offense if the player makes it impossible for opponents to play the ball without injuring themselves or an opponent (e.g. kicking the player).
+- [Indirect free kick. Heading the ball on the ground that should be kicked when an opponent is nearby threatens injury to someone.](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
 
-A high boot near an opponent face is a common offense here. A player can kick the ball from above the head as long as it does not threaten to injure someone.
+A high boot near an opponent face is a common offense. A player can kick the ball from above the head as long as it does not threaten to injure someone.
+
+
 
 ## Fouls against the goalkeeper
 These are indirect free kicks:

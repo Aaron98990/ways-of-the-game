@@ -34,7 +34,7 @@ Game(s) suspension, other than current game, for a send-off or accumulating caut
 
 Many times competition rules will require the sent-off adult participant to be out-of-sight and out-of-sound and allow sent-off minors to stay in the technical area.
 
-## Issueing card after play has restarted
+## Issuing card after play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
 > Law 5.2
 
@@ -50,7 +50,7 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Warnings
 
-Warnings are an important tool that is not technically miscounduct. They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
+Warnings are an important tool that is not technically misconduct. They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
 
 Things to avoid saying:
 - If you do X, I will do Y. (Don't tie yourself.)
@@ -155,9 +155,8 @@ This is the most common reason to give a caution because it covers a lot of offe
 
 This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
 
-[A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
-
-[A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
+- [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
+- [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
 
 PRO writes about with three video examples [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
 
