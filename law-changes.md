@@ -113,6 +113,7 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 
 Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team.
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
+- [The outside agent (dog) enters the field of play and denies the goal.](https://www.tiktok.com/@refsneedlovetoo/video/7273264932186017066)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
 
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
@@ -131,12 +132,11 @@ Law 11.3 There is no offside offense if a player receives the ball directly from
 Law 10.3 ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
 
-Law 14.1
-~~If the goalkeeper’s offense results in the kick being retaken, the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game unless the offense is a goalkeeper not on their goal line.~~
+Law 14.1 ~~If the goalkeeper’s offense results in the kick being retaken, the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game unless the offense is a goalkeeper not on their goal line.~~
 - Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake.
 
 Law 11.4 A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the ~~defending team has played the ball towards the halfway line and it is outside its penalty area~~ ball completely leaves that side of the field of play.
-- Too aggressive/over-correction. For accounting for injuried players, a more fair balance would be above.  
+- Too aggressive/over-correction. For accounting for injured players, a more fair balance would be the above.  
 
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
 - The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line. 
