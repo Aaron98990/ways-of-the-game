@@ -111,7 +111,9 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 
 ## Changes I want
 
-Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team.
+I focus on agreeable changes, not my whacky ones.
+
+Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team. (Also, similar change for Law 10.1)
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
 - [The outside agent (dog) enters the field of play and denies the goal.](https://www.tiktok.com/@refsneedlovetoo/video/7273264932186017066)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
@@ -119,15 +121,8 @@ Law 3.7 If a ball is going into the goal and the interference does not prevent a
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
 - [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
 
-Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses:
-  - controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
+Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses: controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
 - The Laws need to reflect reality. No match official counts the time second by second and the Law is often ignored.
-
-Law 11.3 There is no offside offense if a player receives the ball directly from:
-  - ~~a goal kick~~
-  - a throw-in
-  - a corner kick
-- Right now if the ball completely crosses the touchline or goal line, there can never be offside on the restart. But, a goal kick and a free kick in the goal area are the same thing. Yet only one of them you can't be offside on - where's the logic. But, this would reduce the number of goals scored. 
 
 Law 10.3 ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
@@ -139,7 +134,13 @@ Law 11.4 A defending player who leaves the field of play without the referee’s
 - Too aggressive/over-correction. For accounting for injured players, a more fair balance would be the above.  
 
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
-- The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from their. 
+- The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from there. 
 
 Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
 - Small fix. 
+
+Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
+- Just to make it clear that it is not contact with the ball. "a team-mate, substitute, substituted or sent-off player, team official or a match official" could be substituted instead" is acceptable but too long.
+
+Law 12.2 commits any other offence, ~~not mentioned in the Laws~~ where the Laws don't mention a restart, for which play is stopped to caution or send off a player
+- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart. But, if the simulation involved contact with a person it is a direct free kick. Also, a referee can give a caution for unsporting behavior for any reason - so technically every situation is covered by the Laws for sanctions.

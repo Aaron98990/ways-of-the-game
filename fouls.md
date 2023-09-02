@@ -72,7 +72,7 @@ A high boot near an opponent face is a common offense. A player can kick the bal
 
 
 ## Fouls against the goalkeeper
-These are indirect free kicks:
+These are indirect free kicks if no contact is made with the goalkeeper:
 - preventing/blocking a goalkeeper from releasing the ball from their hands
 - trying to kick/play the ball when the goalkeeper is holding it
 
@@ -86,30 +86,34 @@ This is covered in the [goalkeeper section](/goalkeeper)
 > Law 12.4 (I re-worded a lot so not an exact quote)
 [A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
 
+## Other Offenses
+> An indirect free kick is awarded if a player: is guilty of dissent, using offensive, insulting or abusive language and/or action(s) or other verbal offences OR commits any other offence, not mentioned in the Laws, for which play is stopped to caution or send off a player
+
+Simulation / Attempting to deceive the referee would be an indirect free kick if no contact a person.
 
 
 ## Offense outside the field of play
 > If, when the ball is in play:
->
 > - a player commits an offense [...] outside the field of play or
->
 > - a [non-player] commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
->
 > play is restarted with a free kick on the boundary line nearest to where the offense/interference occurred;
 > Law 12.4
 
-[A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://proreferees.com/2017/09/27/play-of-the-week-29/)
+The above excludes offenses against team-mates or outside agents:
+- [A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://youtu.be/kW7fo3kRo14?feature=shared&t=8)
+<!-- Associated article to video is here: https://proreferees.com/2017/09/27/play-of-the-week-29/ -->
+## Offense against an outside agent
+> If the referee stops play for an offence committed by a player [...] against an outside agent, play is restarted with a dropped ball Law 12.4
 
 ## Extra person on the field
 > If a [non-player] enters the field of play, the referee must:
->
 > - only stop play if there is interference with play
 >   
 > If play is stopped and the interference was by:
->
 > - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
 > Law 3.7
 
 This is an offense - not a foul. If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
 
-[https://www.youtube.com/watch?v=Uyjdjm2tbDE](Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off.)
+[https://www.youtube.com/watch?v=Uyjdjm2tbDE](Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match offical follows 'spirit of the game'.)
+
