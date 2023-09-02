@@ -89,7 +89,7 @@ This is covered in the [goalkeeper section](/goalkeeper)
 ## Other Offenses
 > An indirect free kick is awarded if a player: is guilty of dissent, using offensive, insulting or abusive language and/or action(s) or other verbal offences OR commits any other offence, not mentioned in the Laws, for which play is stopped to caution or send off a player
 
-Simulation / Attempting to deceive the referee would be an indirect free kick if no contact a person.
+Simulation / Attempting to deceive the referee would be an indirect free kick if no contact with a person.
 
 
 ## Offense outside the field of play
