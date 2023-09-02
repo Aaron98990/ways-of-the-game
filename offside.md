@@ -9,7 +9,7 @@
 
 So, if the ball goes out of play from the touchline or goal line and no goal is scored - there can never be offside from the restart.
 
-[No offside. There is never offside when ball received directly from a throw-in. ](https://youtu.be/4C961hfCY6I?feature=shared)
+[No offside. There is never offside when ball received directly from a throw-in. ](https://youtu.be/4C961hfCY6I?t=21)
 
 > A player is in an offside position if:
 > 
@@ -23,7 +23,7 @@ So, if your completely your own half when the ball is touched by a team-mate, ca
 
 So, if the ball is deliberately played (non-deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
 
-[No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?feature=shared)
+[No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?t=13s)
 
 > A player is in an offside position if:
 >
@@ -31,12 +31,12 @@ So, if the ball is deliberately played (non-deflected) by an opponent who is not
 
 If you are behind or even with the ball when it is touched by a team-mate, you are never offside. (The direction of the pass is irrelevant. )
 
-[No offside. Although they are in an offside position, the player is behind the ball when played by a team-mate. ](https://m.youtube.com/watch?t=113&v=U01-uArNpdw&feature=youtu.be)
+[No offside. Although they are in an offside position, the player is behind the ball when played by a team-mate. ](https://m.youtube.com/watch?t=119&v=U01-uArNpdw&feature=youtu.be)
 
 If you are behind or even with the second-to-last defender when the ball is touched by a teammate, you are never offside. Remember, the goalkeeper counts as a defender.
 
-- [No offside. The player that scores is even with the second-to-last defender when plated by a team-mate. ](https://youtu.be/d9gU6kmlagI?feature=shared)
-- [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak)
+- [No offside. The player with the assist in their run-up, is in line with the second-to-last defender when played by a team-mate. The player that scores is behind the ball when played by a team-mate. ](https://youtu.be/d9gU6kmlagI)
+- [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak&t=18)
 
 
 ## Close Calls

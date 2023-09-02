@@ -111,22 +111,18 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 
 ## Changes I want
 
-Law 3.7 
-- If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team.
+Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team.
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
 
-Law 15.1
-- If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
+Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
 - [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
 
-Law 12.2
-- An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses:
+Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses:
   - controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
 - The Laws need to reflect reality. No match official counts the time second by second and the Law is often ignored.
 
-Law 11.3
-- There is no offside offense if a player receives the ball directly from:
+Law 11.3 There is no offside offense if a player receives the ball directly from:
   - ~~a goal kick~~
   - a throw-in
   - a corner kick

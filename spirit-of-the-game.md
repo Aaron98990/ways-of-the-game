@@ -27,6 +27,9 @@ Windy conditions mean that a ball can't be stationary on the ground although the
 Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players offending by wearing sleeveless shirts, player offending by wearing non-sport spectacles
 - For lower levels of football, there is no need to strictly apply these Laws unless it creates an unfair advantage or distraction to opponents. 
 
+Corner flags are missing, the touchline/goal line are not straight, the penalty area is not the proper size, or the goals are not the proper size.
+- For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play.
+
 A ball is about to clearly go outside the field of play but a non-player touches it. 
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
 - [A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as there is no team gains an unfair advantage.](https://www.youtube.com/watch?v=83PkzKCCiYo)

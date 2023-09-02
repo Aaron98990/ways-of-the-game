@@ -51,6 +51,7 @@ The hand/arm excludes the shoulders and the arm pits.
 
 For unnaturally bigger, I emphasize on creating a unfair 2D barrier for the ball to pass from the point the ball was last deliberately played.
 - [No handball. The hands/arms are unnaturally bigger - he is deliberately touching the attacker. But, this is not handball as hands/arm was not used as a barrier for the ball to pass the himself as the deflection caused the ball to mover laterally rather than forward. Ignore the pundits being sensational.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
+- [No handball. The hands/arms are unnaturally bigger. But, since the deflection caused the ball to upwards rather than forward the hands/arms were not used as a 2D barrier for the ball to pass him, I have no handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
 - For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But, if the ball was going to still hit their head/body then there is no handball as this not make the 2D barrier for the ball to pass any bigger.
 
 While a defender attempting to block a pass/shot, the defender creates an unfair barrier with the hands/arm. Even a natural position (e.g. running motion) creates an unfair barrier because the intention of the defender is to move into the path of the pass/shot and the defender takes that risk. To avoid this, players often put their arms behind the back or close to their body/sides.
@@ -74,7 +75,8 @@ A defender deliberately clearing the ball then the ball accidentally hits their 
 - [Not handball. A defender attempting to clear the ball when the ball accidentally hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
 - [Not handball. The defender is trying to clear the ball and throwing their entire body to attempt to do so.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
 
-When a player falls and the hand/arm that makes contacts the ball is between the body and the ground to support the body, there is never handball
+When a player falls and the hand/arm that makes contacts the ball is between the body and the ground to support the body, there is never handball.
+- [No handball. Hand/arms are used to support body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
 
 ## Accidental handball
 

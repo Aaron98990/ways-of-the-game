@@ -6,7 +6,7 @@ The referee has the power to play advantage. This is an extension of Law 9.1 as 
 
 "penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball does not necessarily mean it is advantageous to play advantage.
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
-- [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc)
+- [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
 Please note the wording "allows play to continue when an offense occurs". This means advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
 - [Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
