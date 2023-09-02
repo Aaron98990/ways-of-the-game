@@ -17,7 +17,11 @@ Goal nets, especially in lower levels of the game, will have holes in them. Just
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar.
 
-## Ball off the crossbar or goalpost
+[Goal Ball exits net through hole. It is not any match offical's responsibility to fix holes but to inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+
+## Crossbar and goalpost
+
+> If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
 Many shots will hit the crossbar or goalpost and remain in play.
 
@@ -33,7 +37,7 @@ Many shots will hit the crossbar or goalpost and remain in play.
 
 ![image](https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d)
 
-Please note that seeing grass under the ball does not mean a goal has been scored. 
+Please note that seeing green grass under the ball does not mean a goal has been scored. 
 
 The team the goal is awarded to is determined by the coin toss before the match.
 
@@ -78,14 +82,14 @@ Offenses that will nullify a goal.
 > The ball is out of play when:
 > 
 > - it touches a match official, remains on the field of play and:
->   
 >   - a team starts a promising attack or
->   
 >   - the ball goes directly into the goal
 > 
 > -  In all these cases, play is restarted with a dropped ball.
 > 
 > - Law 9.1 - Ball out of play
+
+[No goal. The ball touches a match offical then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal.
 > 
@@ -226,3 +230,7 @@ Most matches where the score is tied, will in a tie. The only exception is where
 >
 > A combination of the above procedures may be used.
 > Law 10.2 Winning team
+
+> Away goals rule
+> goals scored away from home count double. 
+> Glossary

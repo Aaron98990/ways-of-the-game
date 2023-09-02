@@ -7,13 +7,13 @@ The referee has the power to play advantage. This is an extnesion of Law 9.1 as 
 
 "penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball does not necessairly mean it is advantageous to play advantange.
 
-Please note the wording "allows play to continue when an offence occurs". This means advantage can be applied not just to fouls (offenses in Law 12) but to any offense in the Laws of the Game. 
+[The foul should of been brought back as advantage never materializes - they lose possession immediatly.](https://youtu.be/5OJfbYQtKtk?t=4745)
 
-[TODO - Advantage played on an offside offense.]
+[The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc)
 
-[TODO - Advantage played on double touch of free kick.]
+Please note the wording "allows play to continue when an offence occurs". This means advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
 
-[TODO - Advantage played on double touch of free kick.]
+[Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
 
 > The ball is out of play when:
 > 
@@ -53,7 +53,23 @@ Knowing when to play advantage is a skill. In higher levels of the game, not sto
 
 Law 5.6 shows two approved referee signals for advantage. 
 
-TODO - insert images.
+It is one arm or two arms pointing in the attacking direction of team playing the advantage.
+
+## When to Play Advantage
+
+Advantage is to be played...
+
+> Advantage should not be applied in situations involving serious foul play, violent conduct or a second cautionable offence unless there is a clear opportunity to score a goal. The referee must send off the player when the ball is next out of play, but if the player plays the ball or challenges/interferes with an opponent, the referee will stop play, send off the player and restart with an indirect free kick, unless the player committed a more serious offence.
+> 
+> - Law 12.3 Disciplinary Action
+
+## Advantage while Holding
+
+Advantage also includes holding. This is clarified to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
+
+> If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
+> 
+> - Law 12.3 Disciplinary Action
 
 ## Disciplinary Action
 
@@ -103,18 +119,18 @@ The "(unless as outline below)" enumerates the law above.  DOGSO, serious foul p
 
 [The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
 
-## When to Play Advantage
+## Rare: Delaying the restart of play to show a card
 
-Advantage is to be played...
+This is extremely rarely used except in the highest levels of the game. 
 
-> Advantage should not be applied in situations involving serious foul play, violent conduct or a second cautionable offence unless there is a clear opportunity to score a goal. The referee must send off the player when the ball is next out of play, but if the player plays the ball or challenges/interferes with an opponent, the referee will stop play, send off the player and restart with an indirect free kick, unless the player committed a more serious offence.
-> 
-> - Law 12.3 Disciplinary Action
+> Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered, unless the non-offending team takes a quick free kick, has a clear goal-scoring opportunity and the referee has not started the disciplinary sanction procedure. The sanction is administered at the next stoppage; if the offence was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned; if the offence interfered with or stopped a promising attack, the player is not cautioned. Law 12.3
 
-## Advantage while Holding
+The Law formerly read:
+> Delaying the restart of play to show a card
+>
+>Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered
 
-Advantage also includes holding. This is clarified to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
-> If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
-> 
-> - Law 12.3 Disciplinary Action
+This is not advantage since the ball is out of play but is a similar concept as the referee decidides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is benefical for the team that's losing. 
+
+[The referee could of not delayed play and allowed the quick free kick under this Law. If the referee does this, since the offense was Stopping a Promising Attack outside penalty area (YC), it would be downgraded to no card. ](https://youtu.be/XBaIqWtWkGA)

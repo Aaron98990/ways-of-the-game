@@ -1,18 +1,18 @@
+Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, commited against a single opponent including when no contact is made. Handball and "makes contact with the ball with a held object" are not considered a foul since it is not against any one oppponent and are covered in the [handball section](/handball). Also, offside is not a foul since it is not an offense against any one oppoent and is covered in the [offside section](/offside).
+
 Soccer is a physichal sport. Not every contact with the opponent is a foul. 
 
-[Handball and makes contact with the ball with a held object is covered here TODO]
+Fouls that occur before or after a player wins/touches the ball should be penalized.
 
-> Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play.
+[Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
+
+> Direct and indirect free kicks and penalty kicks can only be awarded for offences committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 > 
 > Law 12
 
 ## Tackles
 
-### No Foul
-
-[The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been commited. ](https://www.youtube.com/watch?v=AKa17voHa2k)
-
-## Foul
+[No foul. The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been commited. ](https://www.youtube.com/watch?v=AKa17voHa2k)
 
 [Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Althoguh the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
 
@@ -44,8 +44,71 @@ The goalkeeper cannot be challenged (including being charged) by an oponent when
 > 
 > Law 12.2 Indirect free kick
 
-### No Foul
 
 [No Foul. The ball is within playing distance and the charge was not careless, reckless, or using execessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
 
-### Foul
+
+## Impeding the progress of an opponent
+
+> Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
+>
+> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
+>
+> A player may shield the ball by taking a position between an opponent and the ball if the ball is within playing distance and the opponent is not held off with the arms or body. If the ball is within playing distance, the player may be fairly charged by an opponent.
+
+Impeding the progress of an opponent, often called obstruction, is a direct free kick if contact was made. It is an indirect free kick if no contact was made.
+
+[A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
+
+## Playing in a dangerous manner
+
+> Playing in a dangerous manner is any action that, while trying to play the ball, threatens injury to someone (including the player themself) and includes preventing a nearby opponent from playing the ball for fear of injury.
+> 
+> A scissors or bicycle kick is permissible provided that it is not dangerous to an opponent.
+
+If the offense involves contact with an opponent, it is not playing in a danerous manner. A direct free kick should always be given.
+
+It is not an offense to play the ball on the ground as goalkeepers do that a lot. It is only an offense if the player makes it impossible for opponents to play the ball without kicking the player.
+
+A high boot near an opponent face is a common offense here. A player can kick the ball from above the head as long as it does not threaten to injure someone.
+
+## Fouls against the goalkeeper
+These are indirect free kicks:
+- preventing/blocking a goalkeeper from releasing the ball from their hands
+- trying to kick/play the ball when the goalkeeper is holding it
+
+  This is covered in the [goalkeeper section](/goalkeeper)
+
+## Kicking/throwing an object
+> play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or intefered with play:
+> - If a player [...] throws or kicks an object (including a ball) at [another person] or the match ball or
+> - If a [non-player] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
+> 
+> Law 12.4 (I re-worded a lot so not an exact quote)
+[A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
+
+
+
+## A penalty kick for an offense not in the penalty area
+> If, when the ball is in play:
+>
+> - a player commits an offence [...] outside the field of play or
+>
+> - a [non-player] commits an offence against, or interferes with, an opposing player or a match official outside the field of play,
+>
+> play is restarted with a free kick on the boundary line nearest to where the offence/interference occurred;
+> Law 12.4
+
+[A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://proreferees.com/2017/09/27/play-of-the-week-29/)
+
+## Extra person on the field
+> If a [non-player] enters the field of play, the referee must:
+>
+> - only stop play if there is interference with play
+>   
+> If play is stopped and the interference was by:
+>
+> - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
+> Law 3.7
+
+If the ball is near the touch line, you may see a coach/sub accidently enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.

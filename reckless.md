@@ -1,4 +1,4 @@
-The Laws of the Game designates three levels of physical fouls - Careless, Reckless, and Excessive force. This wording is important - esspecially in match reports. A player is never sent-off for a reckless challenge and a player is never cautioned for a careless challenge. [TODO - better wording] 
+The Laws of the Game designates three levels of physical fouls - Careless, Reckless, and Excessive force. This wording is important - esspecially in match reports. A player is never sent-off for a reckless challenge and a player is never cautioned for a careless challenge.
 
 > - Careless is when a player shows a lack of attention or consideration when making a challenge or acts without precaution. No disciplinary sanction is needed
 > 
@@ -11,11 +11,8 @@ The Laws of the Game designates three levels of physical fouls - Careless, Reckl
 The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
 
 There are increased risk factors that a player takes that make a player pull out of a challenge due to momentum. Whenever a player does these, they are taking a risk:
-
 - Running at a high rate of speed
-
 - Lunging or slide tackle
-
 - Making an Ariel Challenge
 
 Soccer has a reputation of being soft but the fact is that referees do not sanction players enough by a lot. Many of the video clips that are shown, do not show the correct sanction.
@@ -90,7 +87,15 @@ Kicks to the face or a kick where a players significantly cocks their foot back 
 
 ## Reckless Trip
 
-A defender that comes in at a high rate of speed to make a trip should be cuationed. This type of trip often ends up turning into a tackle after contact is made.
+A defender that comes in at a high rate of speed to make a trip should be cuationed. 
+
+Also, when an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting). 
+
+Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move.
+
+[There is a great opinion article on undercutting here](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
+
+[YC - undercut leads player to land on their neck.](https://www.tiktok.com/t/ZPRW7qUWT/)
 
 ## Reckless Push
 
