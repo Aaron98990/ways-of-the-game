@@ -76,7 +76,7 @@ These are indirect free kicks:
 - preventing/blocking a goalkeeper from releasing the ball from their hands
 - trying to kick/play the ball when the goalkeeper is holding it
 
-  This is covered in the [goalkeeper section](/goalkeeper)
+This is covered in the [goalkeeper section](/goalkeeper)
 
 ## Kicking/throwing an object
 > play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or interfered with play:
