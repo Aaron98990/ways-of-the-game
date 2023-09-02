@@ -42,13 +42,9 @@ Please note that seeing green grass under the ball does not mean a goal has been
 The team the goal is awarded to is determined by the coin toss before the match.
 
 > - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
-> 
 > - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
-> 
 > - the team that decided which goal to attack in the first half takes the kick-off to start the second half
-> 
 > - for the second half, the teams change ends and attack the opposite goals
-> 
 > - Law 8.1 Kick-off
 
 ## Advantage
@@ -62,9 +58,7 @@ Read more about advantage [here](/advantage)
 Offenses that will nullify a goal.
 
 > If the ball becomes defective:
-> 
 > - play is stopped and
-> 
 > - restarted with a dropped ball
 > 
 > If the ball becomes defective at a kick-off, goal kick, corner kick, free kick, penalty kick or throw-in, the restart is retaken.
@@ -72,21 +66,15 @@ Offenses that will nullify a goal.
 > If the ball becomes defective during a penalty kick or kicks from the penalty mark as it moves forward and before it touches a player, crossbar or goalposts the penalty kick is retaken.
 
 > If a dropped ball enters the goal without touching at least two players, play is restarted with:
-> 
 > - a goal kick if it enters the opponents’ goal
-> 
 > - a corner kick if it enters the team’s goal
-> 
 > - Law 8.2 - Dropped ball
 
 > The ball is out of play when:
-> 
 > - it touches a match official, remains on the field of play and:
 >   - a team starts a promising attack or
 >   - the ball goes directly into the goal
-> 
 > -  In all these cases, play is restarted with a dropped ball.
-> 
 > - Law 9.1 - Ball out of play
 
 [No goal. The ball touches a match official then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
@@ -100,29 +88,20 @@ Offenses that will nullify a goal.
 > - Law 13.1 - Types of free kick
 
 > It is an offense if a player:
-> 
 > - scores in the opponents’ goal:
->   
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
->   
 >   - immediately after the ball has touched their hand/arm, even if accidental
-> 
 > - Law 12.1 - Direct free kick
 
 > If the goalkeeper throws the ball directly into the opponents’ goal, a goal kick is awarded.
-> 
 > - Law 10.1 - Goal scored
 
 > A goal cannot be scored directly from a throw-in:
-> 
 > - if the ball enters the opponents’ goal – a goal kick is awarded
-> 
 > - if the ball enters the thrower’s goal – a corner kick is awarded
-> 
 > - Law 15 - The Throw-in - Introduction
 
 >  if the ball directly enters the kicker’s goal [from a corner kick or goal kick or kick-off], a corner kick is awarded to the opponents.
-> 
 > - Law 8, 16, 17 Kick-ff / The Goal Kick / The Corner Kick
 
 ## Goal After Interference
@@ -153,17 +132,13 @@ If the ball goes into the goal but deflected off someone that enters the field o
 Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle to stop play for a a goal that is not clear.
 
 > The whistle is NOT needed to:
-> 
 > - stop play for a clear:
->   
 >   - goal kick, corner kick, throw-in or goal
-> 
 > - Guidelines for Match Officials
 
 Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
 
 > [Assistant referees] indicate when:
-> 
 > - the whole of the ball leaves the field of play
 > - Law 6.1 - Assistant referees
 
@@ -188,15 +163,10 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 ## Celebration of a goal
 
 > A player must be cautioned, even if the goal is disallowed, for:
-> 
 > - climbing onto a perimeter fence and/or approaching the spectators in a manner which causes safety and/or security issues
-> 
 > - acting in a provocative, derisory or inflammatory way
-> 
 > - covering the head or face with a mask or other similar item
-> 
 > - removing the shirt or covering the head with the shirt
-> 
 > - Law 12.3 Disciplinary Action
 
 [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
@@ -221,11 +191,8 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 Most matches where the score is tied, will in a tie. The only exception is where competition rules require a winner.
 
 > When competition rules require a winning team after a drawn match or home-and-away tie, the only permitted procedures to determine the winning team are:
->
 > - away goals rule
-> 
 > - two equal periods of extra time not exceeding 15 minutes each
->
 > - penalties (penalty shoot-out)
 >
 > A combination of the above procedures may be used.
@@ -234,3 +201,5 @@ Most matches where the score is tied, will in a tie. The only exception is where
 > Away goals rule
 > goals scored away from home count double. 
 > Glossary
+
+Penalties are covered in Law 10.3.
