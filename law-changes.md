@@ -126,12 +126,15 @@ Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty 
 
 Law 10.3 ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
+- [Goalkeeper gets a YC for SPA at 5:25. At 16:24, the goalkeeper gets another YC during penalties. Just look at the chaos and confusion this Law caused in an already tense game. The entire penalties and post-match pushing sequence don't make football look attractive.](https://youtu.be/AF7vLz5UyNM?feature=shared&t=984)
 
 Law 14.1 ~~If the goalkeeper’s offense results in the kick being retaken, the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game unless the offense is a goalkeeper not on their goal line.~~
 - Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake. Doesn't stop the referee from cautioning blatant offense (e.g goalkeeper 5 yards off goal line). 
 
 Law 11.4 A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the ~~defending team has played the ball towards the halfway line and it is outside its penalty area~~ *ball completely leaves that side of the field of play*.
 - Too aggressive/over-correction. For accounting for injured players, a more fair balance would be the above.  
+- [Offside would of been the correct call as the defender outside the field of play no longer counts for determining the second-to-last defender when the ball is played to the goal scorer by the team-mate by the current Laws. I think its pretty agreeable that no offside feels more right and the changes above would fix that. ](https://www.tiktok.com/t/ZPRW7adRp/)
+
 
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
 - The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from there. 
@@ -144,3 +147,10 @@ Law 12.1 If an offence involves contact *with a person (excluding outside agents
 
 Law 12.2 commits any other offence, ~~not mentioned in the Laws~~ where the Laws don't mention a restart, for which play is stopped to caution or send off a player
 - Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart. But, if the simulation involved contact with a person it is a direct free kick. Also, a referee can give a caution for unsporting behavior for any reason - so technically every situation is covered by the Laws for sanctions.
+
+Law 9.1 The ball is out of play when: it touches a match official, remains on the field of play and:
+~~- a team starts a promising attack or~~
+- the ball goes directly into the goal or
+- the team in possession of the ball changes
+- Starts a promising attack is way to vague. In the [tactical impact section](/tactical-impact), I don't even give a real definition for SPA. The vaugness works for giving cautions but does not work after the ball touches the referee. While I'm not the biggest fan of "the team in possession of the ball changes", it is pretty factual.
+- [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed. While I believe the attacker would of lost the ball without the deflection from the referee and is the correct application of the Laws, I would like this goal to stand. There were zero complaints from the opponents.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
