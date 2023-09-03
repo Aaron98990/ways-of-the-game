@@ -117,5 +117,4 @@ The above excludes offenses against team-mates or outside agents:
 
 This is an offense - not a foul. Please note the exception if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
 
-[Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match offical follows 'spirit of the game'.]
-(https://www.youtube.com/watch?v=Uyjdjm2tbDE)
+[Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match offical follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
