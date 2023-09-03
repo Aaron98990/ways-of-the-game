@@ -7,7 +7,7 @@
 > - a throw-in
 > - a corner kick
 
-So, if the ball goes out of play from the touchline or goal line and no goal is scored - there can never be offside from the restart.
+So, if the ball goes out of play from the touchline or goal line and no goal is scored - there can never be offside from the restart. A goalkeeper releasing the ball after control with the hands is not a goal kick and offside can be called. 
 
 [No offside. There is never offside when ball received directly from a throw-in. ](https://youtu.be/4C961hfCY6I?t=21)
 
