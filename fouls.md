@@ -1,12 +1,14 @@
 Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, committed against a single opponent including when no contact is made. Handball and "makes contact with the ball with a held object" are not considered a foul since it is not against any one opponent and are covered in the [handball section](/handball). Also, offside is not a foul since it is not an offense against any one opponent and is covered in the [offside section](/offside).
 
 Soccer is a physical sport. Not every contact with the opponent is a foul. 
-- [No foul. Although there is contact the head, the attacker runs into the defender's path/arm who is clearing the ball.]()
+- [No foul. Although there is contact the head, the attacker runs into the defender's path/arm who is clearing the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
 Fouls that occur before or after a player wins/touches the ball should be penalized.
 - [Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
+>
+> If an offence involves contact [with a person excluding outside agentd], it is penalised by a direct free kick.
 > 
 > Law 12
 
@@ -113,7 +115,7 @@ The above excludes offenses against team-mates or outside agents:
 > - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
 > Law 3.7
 
-This is an offense - not a foul. If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
+This is an offense - not a foul. Please note the exception if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
 
 [Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match offical follows 'spirit of the game'.]
 (https://www.youtube.com/watch?v=Uyjdjm2tbDE)
