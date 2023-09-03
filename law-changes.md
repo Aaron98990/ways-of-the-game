@@ -113,7 +113,7 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 
 I focus on agreeable changes, not my whacky ones.
 
-Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal (even if contact was made with the ball)~~ unless the interference was by the attacking team. (Also, similar change for Law 10.1)
+Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal~~ (even if contact was made with the ball) unless the interference was by the attacking team. (Also, similar change for Law 10.1)
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
 - [The outside agent (dog) enters the field of play and denies the goal.](https://www.tiktok.com/@refsneedlovetoo/video/7273264932186017066)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
@@ -129,7 +129,7 @@ Law 10.3 ~~warnings and cautions issued to players and team officials during the
 - [Goalkeeper gets a YC for SPA at 5:25. At 16:24, the goalkeeper gets another YC during penalties. Just look at the chaos and confusion this Law caused in an already tense game. The entire penalties and post-match pushing sequence don't make football look attractive.](https://youtu.be/AF7vLz5UyNM?feature=shared&t=984)
 
 Law 14.1 ~~If the goalkeeper’s offense results in the kick being retaken, the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game unless the offense is a goalkeeper not on their goal line.~~
-- Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake. Doesn't stop the referee from cautioning blatant offense (e.g goalkeeper 5 yards off goal line). 
+- Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake. Doesn't stop the referee from cautioning blatant offenses (e.g goalkeeper 5 yards off goal line). 
 
 Law 11.4 A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the ~~defending team has played the ball towards the halfway line and it is outside its penalty area~~ *ball completely leaves that side of the field of play*.
 - Too aggressive/over-correction. For accounting for injured players, a more fair balance would be the above.  
@@ -146,7 +146,7 @@ Law 12.1 If an offence involves contact *with a person (excluding outside agents
 - Just to make it clear that it is not contact with the ball. "a team-mate, substitute, substituted or sent-off player, team official or a match official" could be substituted instead" is acceptable but too long.
 
 Law 12.2 commits any other offence, ~~not mentioned in the Laws~~ where the Laws don't mention a restart, for which play is stopped to caution or send off a player
-- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart. But, if the simulation involved contact with a person it is a direct free kick. Also, a referee can give a caution for unsporting behavior for any reason - so technically every situation is covered by the Laws for sanctions.
+- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart. But, if the simulation involved contact with a person it is a direct free kick.
 
 Law 9.1 The ball is out of play when: it touches a match official, remains on the field of play and:
 ~~- a team starts a promising attack or~~

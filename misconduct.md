@@ -15,6 +15,7 @@ You may not give a caution or send-off to an outside agent (e.g. spectator, ball
 > 
 > Law 5.3 Powers and duties
 
+A referee can show yellow and red cards when they enter the field of play to start the match including during the coin toss, national anthem, and referee/player walkout until they leave the field of play after the match ends. 
 [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
 
 ## Player send-offs
