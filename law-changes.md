@@ -152,5 +152,5 @@ Law 9.1 The ball is out of play when: it touches a match official, remains on th
 ~~- a team starts a promising attack or~~
 - the ball goes directly into the goal or
 - the team in possession of the ball changes
-- Starts a promising attack is way to vague. In the [tactical impact section](/tactical-impact), I don't even give a real definition for SPA. The vaugness works for giving cautions but does not work after the ball touches the referee. While I'm not the biggest fan of "the team in possession of the ball changes", it is pretty factual.
+- Starts a promising attack is way to vague. In the [tactical impact section](/tactical-impact), I don't even give a real definition for SPA. The vagueness works for giving cautions but does not work after the ball touches the referee. While I'm not the biggest fan of "the team in possession of the ball changes", it is pretty factual.
 - [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed. While I believe the attacker would of lost the ball without the deflection from the referee and is the correct application of the Laws, I would like this goal to stand. There were zero complaints from the opponents.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
