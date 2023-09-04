@@ -137,3 +137,5 @@ PRO has an amazing write up on interfering with an opponent.
 
 ## Assistant referees
 > The AR must be in line with the second-last defender or the ball if it is nearer to the goal line than the second-last defender. The AR must always face the field of play, even when running.
+
+> The first action of the AR for an offside decision is to raise the flag (using the right hand, giving the AR a better line of vision) and then, if the referee stops play, use the flag to indicate the area of the field of play in which the offence occurred [until the ball is in the correct position]. If the flag is not immediately seen by the referee, the AR must maintain the signal until it has been acknowledged or the ball is clearly in the control of the defending team.

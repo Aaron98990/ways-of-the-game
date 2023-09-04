@@ -5,13 +5,17 @@ Soccer is a physical sport. Not every contact with the opponent is a foul.
 
 Fouls that occur before or after a player wins/touches the ball should be penalized.
 - [Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
-- [Foul. Defender kicks the attacker then kicks the ball.](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
+- [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
 > If an offence involves contact [with a person excluding an outside agent], it is penalised by a direct free kick.
 > 
 > Law 12
+
+## Advantage
+
+Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
 ## Tackles
 
@@ -120,3 +124,10 @@ The above excludes offenses against team-mates or outside agents:
 This is an offense - not a foul. Please note the exception if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
 
 [Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
+
+## Assistant referees
+> The [assistant referee] must raise the flag when a foul or misconduct is committed in the immediate vicinity or out of the referee’s vision. In all other situations, the AR must wait and offer an opinion if it is required and then inform the referee of what was seen and heard, and which players were involved.
+>
+> Before signalling for an offence, the [assistant referee] must determine that:
+> - the offence was out of the referee’s view or the referee’s view was obstructed
+> - the referee would not have applied the advantage
