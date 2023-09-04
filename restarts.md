@@ -142,7 +142,7 @@ Dropped ball follows the same idea as above - except it also applies if only one
 
 ## Striking the ball at an opponent
 
-Deliberately throwing (from a throw-in only) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force. This includes at a restart, when the ball is in play, and when the ball is out of play. Striking or attempting to strike an opponent is a direct free kick offense.
+Deliberately throwing (from a throw-in only) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play. Striking or attempting to strike an opponent is a direct free kick offense.
 
 > If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
 
@@ -158,7 +158,7 @@ Deliberately throwing (from a throw-in only) or deliberately kicking the ball at
 
 ## Standing in front of the goalkeeper
 
-On corner kicks players like to stand in front of goalkeepers to limit their movement.  This is covered extensively in the [goalkeeper section](/goalkeeper)
+On corner kicks, players like to stand in front of goalkeepers to limit their movement.  This is covered extensively in the [goalkeeper section](/goalkeeper)
 
 ## Indirect Free Kick
 
