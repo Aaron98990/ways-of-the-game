@@ -98,6 +98,9 @@ Ending the game on a corner kick during a close game. [2011 FIFA Women's World C
 Denying a substitution for time-wasting when there are unlimited return substitutions.
 - Denying a substitution that is clearly time wasting may be acceptable, especially for games where competition rules mandate no added time.
 
+Letting teams go over the maximum number of substitutions or re-entries (return substitutions) if both teams agree or for weather conditions. Also, letting teams leave the field of play when there are a limited number of substitutions during the water break/between first and second half of extra time if both teams agree or for weather conditions.
+- Competition organizers may give a forfeit for a game where the substitution procedures are not followed. If players leave the field of play for a water break/between first and second half of extra time, it is the honor system for who comes back on to the field of play. The referee must use their best judgement.
+
 A player on the losing team commits DOGSO outside the penalty area in a blowout game. It was an attempt at the ball - ignore the red card and give a yellow card.
 - For lower levels of the game, this may be acceptable as the main intent is to have fun. But, any foul that is reckless or uses excessive force should be sanctioned no mattered the scoreline or level of the game. Not properly sanctioning reckless/excessive force fouls emboldens other players to foul more and lessens the referee's authority.
 

@@ -73,7 +73,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 
 #### **Not dissent**
 
-Simply disagreeing with the referee is not an offense or stating a simple opinion/fact is not dissent.
+Simply disagreeing with the referee is not an offense or stating a simple opinion/fact is not dissent. 
 
 - "You can overrule the linesman"
 - "That's a flop"
@@ -106,7 +106,9 @@ The NBA has an an 11 video playlist for "overt gestures" available [here](https:
 - sarcastic clapping
 - throwing (spiking) the ball to the ground [The player should of gotten for protesting the correct foul call by throwing the ball to the ground. ](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
-- surrounding a match offical
+- surrounding a match official
+
+Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
 <!-- tabs:end -->
 
@@ -149,8 +151,6 @@ This is the most common reason to give a caution because it covers a lot of offe
 
 
 ### Cautions for unsporting behaviour
-
-> There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
 
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
 
@@ -204,7 +204,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - showboating or taunting
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
-- blatantly fouling a player (e.g. holding) or blatantly committing handball
+- blatantly fouling a player (e.g. holding, tugging shirt with two hands) or blatantly committing handball
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
