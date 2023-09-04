@@ -49,7 +49,7 @@ The hand/arm excludes the shoulders and the arm pits.
 
 > Not every touch of a player’s hand/arm with the ball is an offense.
 
-For unnaturally bigger, I emphasize on creating a unfair 2D barrier for the ball to pass from the point the ball was last deliberately played.
+For unnaturally bigger, I emphasize on creating a unfair 2D barrier for the ball to pass from the point the ball was last deliberately played by an opponent. 
 - [No handball. The hands/arms are unnaturally bigger - he is deliberately touching the attacker. But, this is not handball as hands/arm was not used as a barrier for the ball to pass the himself as the deflection caused the ball to mover laterally rather than forward. Ignore the pundits being sensational.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
 - [No handball. The hands/arms are unnaturally bigger. But, since the deflection caused the ball to upwards rather than forward the hands/arms were not used as a 2D barrier for the ball to pass him, I have no handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
 - For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But, if the ball was going to still hit their head/body then there is no handball as this not make the 2D barrier for the ball to pass any bigger.
