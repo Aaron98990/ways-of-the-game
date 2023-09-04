@@ -24,7 +24,7 @@ The goalkeeper committing a handball offense in their own penalty area and there
 
 ## Hand/arm
 
-The hand/arm excludes the shoulders and the arm pits.
+The hand/arm excludes the shoulders and the arm pits. The ball can contact the "shirt sleeve" and still be handball.
 
 > For the purposes of determining handball offenses, the upper boundary of the arm is in line with the bottom of the armpit. 
 
