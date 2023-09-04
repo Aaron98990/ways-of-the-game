@@ -3,7 +3,7 @@ To get an overview of the project, read the [README](/README.md).
 More videos.
 - Especially sections with "TODO". The video must be hosted on another site (e.g. YouTube)
 
-Be concise. Prefer simplification rather being 100% correct.
+Be concise.
 - We are not covering every scenario or a replacement for the Laws.
 
 Terms should align with the current Laws of the Game:
@@ -25,3 +25,5 @@ It is okay to mix between British English and US English:
 - realize and behavior are others where there may be difference.
 
 Remain gender neutral unless referring to a specific person.
+
+Video Review, AAR, and fourth offical duties are not covered.
