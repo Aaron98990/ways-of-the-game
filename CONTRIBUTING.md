@@ -1,3 +1,5 @@
+# Contributing
+
 To get an overview of the project, read the [README](/README.md).
 
 More videos.
