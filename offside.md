@@ -134,3 +134,6 @@ PRO has an amazing write up on interfering with an opponent.
 - [A player slips and remains off the field of play. That player is considered on the goal line and keeps the player that interferes with the goalkeeper onside. The defending team played the ball towards the halfway line (the guy who slipped) but that play did not cause the ball to exit the penalty area.](https://youtu.be/eyKa-xvHDQA?feature=shared&t=489)
 - [An attacking player's momentum takes them off the field of play and he is considered on the goal line. But, two defenders are also on the goal line meaning that the attacking player can't be offside.](https://www.tiktok.com/@refsneedlovetoo/video/7259435507837406506)
 - [A defender stays off the field of play and he is considered on the goal line. But, the ball is played by a defender toward the halfway line and out of the penalty area so at this point the defender does not count for offside purposes. The player who touches the ball before the goal should of been called offside. ](https://www.tiktok.com/t/ZPRW7adRp/)
+
+## Assistant referees
+> The AR must be in line with the second-last defender or the ball if it is nearer to the goal line than the second-last defender. The AR must always face the field of play, even when running.
