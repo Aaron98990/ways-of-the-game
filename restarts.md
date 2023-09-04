@@ -1,6 +1,6 @@
 The restarts in soccer are the:
 
-- kick-off (Law 8.1)
+- kick-off ([Law 8.1](https://www.theifab.com/laws/latest/the-start-and-restart-of-play/))
 - dropped ball (Law 8.2)
 - direct free kick (Law 13)
 - indirect free kick (Law 13)
