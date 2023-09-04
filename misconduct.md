@@ -8,7 +8,7 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 
 You may not give a caution or send-off to an outside agent (e.g. spectator, ball kid) or a sent-off player. In the cases where the referee want an outside agent  or sent-off player removed, the referee can suspend the game until that happens. If the outside agent or sent-off player remains, the referee can abandon match.
 
-## Referee's Authority
+## Referee's authority
 
 > - has the authority to take disciplinary action from entering the field of play for the pre-match inspection until leaving the field of play after the match ends (including penalties). 
 > - has the power to show yellow or red cards and, where competition rules permit, temporarily dismiss a player, from entering the field of play at the start of the match until after the match has ended, including during the half-time interval, extra time and penalties
@@ -60,7 +60,7 @@ Things to avoid saying:
 Things to say:
 - X is not acceptable. Don't do it again.
 
-## Players Cautionable Offenses
+## Players cautionable offenses
 
 > A player, substitute or substituted player is cautioned if guilty of:
 > - delaying the restart of play
@@ -77,8 +77,8 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 
 - "You can overrule the linesman"
 - "That's a flop"
-- "That's was outside the penalty area."
-- "Call it both ways. Your calling everything for the other team."
+- "That was outside the penalty area."
+- "Call it both ways. You're calling everything for the other team."
 - "No way that's a foul."
 - "What are you calling?"
 - "Keep my players safe! Control the game."
@@ -96,7 +96,7 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 
 #### **Dissent by action**
 
-The NBA has an an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is similar to a caution. I do not consider a wave off dissent.
+The NBA has an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
 
 - gesture the wearing of spectacles
 - invading a match official's personal space
@@ -122,7 +122,7 @@ A player deliberately leaving the field of play is cautioned only if this was do
 - "Leaving the field of play to celebrate a goal is not a cautionable offense but players should return as soon as possible." Law 12.3
 - Retrieving the ball or taking a restart ([This is okay.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2674))
 
-A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too may players on field). 
+A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too many players on field). 
 
 A player re-entering the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission).
 
@@ -150,7 +150,7 @@ This is the most common reason to give a caution because it covers a lot of offe
 
 
 
-### Cautions for unsporting behaviour
+## Cautions for unsporting behaviour
 
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
 
@@ -213,10 +213,10 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 See the [goalkeeper section](/goalkeeper)
 > - verbally distracts an opponent during play or at a restart
 Here are common examples:
-- You can not say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
-- You can not yell/scream for the purpose to scare the opponent generally when they are attempting to play the ball.
+- You cannot say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
+- You cannot yell/scream for the purpose to scare the opponent generally when they are attempting to play the ball.
 
-### Unlisted in Law 12 Cautions
+## Unlisted in Law 12 cautions
 For penalty kicks:
 - a team-mate of the identified kicker takes the kick; the referee cautions the player who took the kick
 - feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
@@ -230,7 +230,7 @@ If a player is wearing or using unauthorised/dangerous equipment or jewelry, the
 A player who refuses to comply or wears the item again must be cautioned. Law 4.1
 
 
-## Players Sending-off Offenses
+## Players sending-off offenses
 
 > A player, substitute or substituted player who commits any of the following offenses is sent off:
 
@@ -257,17 +257,17 @@ You'll know it when you see it.
 
 > - receiving a second caution in the same match
 
-## Team Officials
-
->  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
-
-Many times competition rules will require to be out-of-sight and out-of-sound
+## Team officials
 
 > Where an offense is committed by someone from the technical area (substitute, substituted player, sent-off player or team official) and the offender cannot be identified, the senior team coach present in the technical area will receive the sanction.
 
+>  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
+
+Many times, competition rules will require to be out-of-sight and out-of-sound.
+
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
-I include some of the offenses for which team officials may be warned, cautioned, or sent-off. It's pretty similar to players with some differences listed below.
+Here are common offenses for which team officials are warned, cautioned, or sent-off for.
 
 > Warning:
 > - [...]

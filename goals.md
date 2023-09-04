@@ -10,14 +10,14 @@
 > 
 > - Law 1.10 - Goals
 
-Goal nets, especially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does noes mean that a goal has been scored. So, please aware of both situations:
+Goal nets, especially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does not mean that a goal has been scored. So, be aware of both situations:
 
-- The ball enters the goal but leaves through the a hole in the net
-- The ball enters the goal through a hole on the side of the net.
+- The ball enters the goal but leaves through a hole in the net
+- The ball enters the goal through a hole in the net
 
-While the assistant referee has the best view of the ball passing the goal line, the referee has the best view that the ball goes between the goalposts and under the crossbar.
+While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
-[Goal Ball exits net through hole. It is not any match official's responsibility to fix holes but to inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+[Goal. Ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
 
 ## Crossbar and goalpost
 
@@ -37,7 +37,7 @@ Many shots will hit the crossbar or goalpost and remain in play.
 
 ![image](https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d)
 
-Please note that seeing green grass under the ball does not mean a goal has been scored. 
+Seeing green grass under the ball does not mean a goal has been scored. 
 
 The team the goal is awarded to is determined by the coin toss before the match.
 
@@ -156,7 +156,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 
 ## Fighting for the Ball After a Goal
 
- It is commonly accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. 
+It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. 
 
 [The referee should of been present to stop the players from fighting for the ball.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s)
 
@@ -173,7 +173,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 
 [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
 
-## Restart after a Goal
+## Restart after a goal
 
 > after a team scores a goal, the kick-off is taken by their opponents
 > 
@@ -188,7 +188,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 
 ## Tie breaker
 
-Most matches where the score is tied, will in a tie. The only exception is where competition rules require a winner.
+Most matches where the score is tied will in a tie. The only exception is where competition rules require a winner.
 
 > When competition rules require a winning team after a drawn match or home-and-away tie, the only permitted procedures to determine the winning team are:
 > - away goals rule
@@ -198,8 +198,6 @@ Most matches where the score is tied, will in a tie. The only exception is where
 > A combination of the above procedures may be used.
 > Law 10.2 Winning team
 
-> Away goals rule
-> goals scored away from home count double. 
-> Glossary
+> Away goals rule: goals scored away from home count double. Glossary
 
 Penalties are covered in Law 10.3.

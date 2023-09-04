@@ -1,4 +1,4 @@
-[This article is more technical anticipated. If you are new to soccer, read this fantastic summary from  Football Rules created by The IFAB about goalkeepers before continuing.](https://footballrules.com/participants/goalkeepers)
+["Football Rules" great summary of the Laws about goalkeepers.](https://footballrules.com/participants/goalkeepers)
 
 A goalkeeper is a fundamental part of the game. Each team must always have one goalkeeper. 
 
@@ -25,7 +25,7 @@ Goalkeepers can take any restart (e.g. throw-ins) if it belongs to their team.
 
 ## Boxing out the goalkeeper
 
-On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed as long as no other offense is being committed. Referees should warn player doing this that they commit an offense if they move into the path of the goalkeeper.
+On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed if no other offense is being committed. Referees should warn player doing this that they commit an offense if they move into the path of the goalkeeper.
 
 > Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
 > 
@@ -37,7 +37,7 @@ If there is contact with the goalkeeper, the restart is a direct free kick. If t
 
 ## Playing distance
 
-Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goal-keepers because they can use their arms/hands to catch the ball inside their penalty area and can use their arms/hands after tackling for the ball.
+Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goalkeepers because they can use their arms/hands to catch the ball inside their penalty area and can use their arms/hands after tackling for the ball.
 
 > Playing distance: Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player
 > - Glossary
@@ -60,7 +60,7 @@ The goalkeeper committing a handball offense in their own penalty area and there
 
 A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goal kick for their opponents (Law 10.1). 
 
-Any player, including goalkeepers, cannot make contact with the ball with a held object (e.g. shirt, boot, another ball) else its a direct free kick (Law 12.1). This is not handball but is a related concept.
+Any player, including goalkeepers, cannot make contact with the ball with a held object (e.g. shirt, boot, another ball) else it's a direct free kick (Law 12.1). This is not handball but is a related concept.
 
 A goalkeeper committing a handball offense outside their own penalty area is just like any other non-goalkeeper player, a direct free kick with the appropriate sanction / disciplinary action is taken (Law 12.1).
 
@@ -74,7 +74,7 @@ The Law should probably read "outside the goalkeeper's penalty area" but is stil
 
 ## Releasing the ball
 
-While the goalkeeper is releasing the ball, remember that the boundary lines that makes the penalty area is considered to be part of the penalty area. A goalkeeper commits no offense when they have their body outside their own penalty area but the ball is making contact with their hands in their own penalty area (including above the boundary lines that make the penalty area). Also, no offense if committed if their momentum from releasing the ball takes them out of the penalty area if hand/arm contact with the ball only occurred in their penalty area.
+While the goalkeeper is releasing the ball, remember that the boundary lines that makes the penalty area is part of the penalty area. A goalkeeper commits no offense when they have their body outside their own penalty area but the ball is making contact with their hands in their own penalty area (including above the boundary lines that make the penalty area). Also, no offense if committed if their momentum from releasing the ball takes them out of the penalty area if hand/arm contact with the ball only occurred in their penalty area.
 
 > ... lines belong to the areas of which they are boundaries.
 > 
@@ -88,7 +88,7 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 
 ## Six seconds and after releasing
 
-Handball is often thought of a direct free kick offense. But, the Laws of the game does provide one exception "for the goalkeeper within their penalty area".
+Handball is often thought of a direct free kick offense. But the Laws of the game does provide one exception "for the goalkeeper within their penalty area".
 
 > A direct free kick is awarded if a player commits any of the following offenses:
 > - a handball offense (except for the goalkeeper within their penalty area)
@@ -114,7 +114,7 @@ If the ball rebounds off a goalkeeper hand/arms or any part of the body, they ha
 >   - receiving it directly from a throw-in taken by a team-mate
 > - Law 12.2 Indirect free kick
 
-A kick is defined in the Laws of the Game. It is quite a lot so lets take it in. 
+A kick is defined in the Laws of the Game.
 
 > Kick: The ball is kicked when a player makes contact with it with the foot and/or the ankle
 > - Glossary - Football terms
@@ -149,7 +149,7 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 
 > A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s).
 >
-> A goalkeeper is considered to be in control of the ball with the hand(s) when:
+> A goalkeeper is in control of the ball with the hand(s) when:
 > - the ball is between the hands or between the hand and any surface (e.g. ground, own body) or by touching it with any part of the hands or arms, except if the ball rebounds from the goalkeeper or the goalkeeper has made a save
 > - holding the ball in the outstretched open hand
 > - bouncing it on the ground or throwing it in the air

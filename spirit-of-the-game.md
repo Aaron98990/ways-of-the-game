@@ -53,7 +53,7 @@ Not penalizing a goalkeeper when they are releasing the ball and are handling th
 - As the benefit is minimal and the direct free kick restart is very beneficial for the opponents, giving a warning to the goalkeeper before penalizing this would be the best action.
 
 Throw ins, free kicks are not taken at the exact point.
-- Allowing a couple of yards from the spot of the offense or where the ball left the field of play is fine as long as no team gains an unfair advantage.
+- Allowing a couple of yards from the spot of the offense or where the ball left the field of play is fine if no team gains an unfair advantage.
 
 If a player only has one arm, allow them to take the throw-in with their one arm.
 - While the Laws of the Game require two hands, there is no clear advantage with throwing the ball with one arm. Allow it.
@@ -69,7 +69,7 @@ A player playing on a multi-line field takes the throw-in from the wrong line.
 - Allow the player to retake the throw-in from the correct line. If it happens again to the same team, penalize the offense as according to the Laws of the Game.
 
 The referee only allows a player to re-enter the field if they cannot immediately interfere with play.
-- Although not explicitly stated, this is the most fairest thing.
+- Although not explicitly stated, this is the fairest thing.
 
 When to end the game although time is up.
 - Referees do not end a half during a promising attack during a close game or if the ball is about to go in the goal as this is seen as the fairest for both teams.
@@ -78,7 +78,7 @@ A player forgot to bring their red jersey to the game so they wear their pink sh
 - For lower levels of the game, this is acceptable as the main purpose is to have fun and exercise.
 
 There is no need to kick the ball out for an injured player.
-- No one is obligated to kick the ball out of play for an injured player. The referee would stop play if they deem it serious.
+- No one is obligated to kick the ball out of play for an injured player. The referee will stop play if they deem it serious.
 
 ## Subjective
 
@@ -92,8 +92,9 @@ Showing a yellow card for showboating with the ball.
 Legally kicking the ball far away outside the field while the ball is in play for no tactical reason other than to waste time.
 - For lower levels of football where the number of balls are limited and the main purpose is to have fun, I would show a yellow card or unsporting behavior. 
 
-Ending the game on a corner kick during a close game. [2011 FIFA Women's World Cup Extra Time Ends on a Corner Kick](https://youtu.be/UAbX7wld9vg?t=8189)
+Ending the game on a corner kick during a close game. 
 - If time is up and the ball is not about to enter the goal and their is no promising attack in a close game, there is no need to play through an a corner. Not everyone would agree.
+- [2011 FIFA Women's World Cup Extra Time Ends on a Corner Kick](https://youtu.be/UAbX7wld9vg?t=8189)
 
 Denying a substitution for time-wasting when there are unlimited return substitutions.
 - Denying a substitution that is clearly time wasting may be acceptable, especially for games where competition rules mandate no added time.
@@ -102,7 +103,7 @@ Letting teams go over the maximum number of substitutions or re-entries (return 
 - Competition organizers may give a forfeit for a game where the substitution procedures are not followed. If players leave the field of play for a water break/between first and second half of extra time, it is the honor system for who comes back on to the field of play. The referee must use their best judgement.
 
 A player on the losing team commits DOGSO outside the penalty area in a blowout game. It was an attempt at the ball - ignore the red card and give a yellow card.
-- For lower levels of the game, this may be acceptable as the main intent is to have fun. But, any foul that is reckless or uses excessive force should be sanctioned no mattered the scoreline or level of the game. Not properly sanctioning reckless/excessive force fouls emboldens other players to foul more and lessens the referee's authority.
+- For lower levels of the game, this may be acceptable as the main intent is to have fun. But any foul that is reckless or uses excessive force should be sanctioned no mattered the scoreline or level of the game. Not properly sanctioning reckless/excessive force fouls emboldens other players to foul more and lessens the referee's authority.
 
 ## Not Commonly Acceptable
 
