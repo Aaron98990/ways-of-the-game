@@ -59,10 +59,12 @@ Things to avoid saying:
 
 Things to say:
 - X is not acceptable. Don't do it again.
+- Enough is enough.
 
 ## Players cautionable offenses
 
-> A player, substitute or substituted player is cautioned if guilty of:
+This section applies to a player, substitute or substituted player.
+
 > - delaying the restart of play
 
 Covered in the [restarts section](/restarts).

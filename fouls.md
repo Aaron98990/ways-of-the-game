@@ -7,15 +7,13 @@ Fouls that occur before or after a player wins/touches the ball should be penali
 - [Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
 - [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 
+Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
+
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
 > If an offence involves contact [with a person excluding an outside agent], it is penalised by a direct free kick.
 > 
 > Law 12
-
-## Advantage
-
-Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
 ## Tackles
 
