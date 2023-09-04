@@ -24,7 +24,7 @@ Helpful Unofficial Resources
 
 Want to contribute:
 
-- Click the Github icon on the top-right and open an issue (for small fixes) or pull request (for large fixes) on GitHub
+- Click the Github icon on the top-right and open an issue (for small fixes) or pull request (for large fixes) on GitHub. Read more [here](/CONTRIBUTING.md)
 
 !> Videos/articles linked may be using older Laws (e.g. older terminology) or different rulebooks (e.g. one that allows two referees) but the concepts still applies. Information on this site is always up-to-date.
 
