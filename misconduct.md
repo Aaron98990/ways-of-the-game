@@ -257,7 +257,7 @@ You'll know it when you see it.
 
 > - receiving a second caution in the same match
 
-## Team Officals
+## Team Officials
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
