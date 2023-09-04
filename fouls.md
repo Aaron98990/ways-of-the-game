@@ -71,6 +71,7 @@ It is not an offense to play the ball on the ground - goalkeepers do that a lot.
 
 A high boot near an opponent face is a common offense. A player can kick the ball from above the head as long as it does not threaten to injure someone.
 
+Holding the ball between the thighs and jumping like a kangeroo when an opponent is nearby threatens injury to the holder. 
 
 
 ## Fouls against the goalkeeper
