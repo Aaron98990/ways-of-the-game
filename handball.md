@@ -54,7 +54,7 @@ For unnaturally bigger, I emphasize on creating a unfair 2D barrier for the ball
 - [No handball. The hands/arms are unnaturally bigger. But, since the deflection caused the ball to go upwards rather than forward the hands/arms were not used as a 2D barrier for the ball to pass him, I have no handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
 - For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But if the ball was going to still hit their head/body then there is no handball as this did not make the 2D barrier for the ball to pass any bigger.
 
-These are clear cut cases of unnaturally bigger or not. Some part of the arm may be unnaturally bigger while other parts are not and are in line with the body - it can depend on which part of the arm is struck.
+These are clear cut cases of unnaturally bigger or not. Some part of the arm may be unnaturally bigger while other parts are not and are in line with the body and are not making a player bigger - it depensd on which part of the arm is struck by the ball.
 - [Handball. The arm/hand is extended away from the body in an unnatural position.](https://youtu.be/vl1DSIjXPnQ?t=180)
 - [Handball. The arm/hand is extended away from the body in an unnatural position.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 - [No handball. The ball hits near the elbow. Not the best angle here. The defender's area between the elbow and shoulder are in line with the body. If the ball hit between the elbow and hand then it would of been handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
