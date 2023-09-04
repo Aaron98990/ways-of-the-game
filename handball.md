@@ -75,8 +75,12 @@ A defender clearing the ball into their hand/arm, even if the hand/arm may be co
 - [Not handball. A defender attempting to clear the ball when the ball accidentally hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
 - [Not handball. The defender is trying to clear the ball and throwing their entire body to attempt to do so.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
 
-When a player falls and the hand/arm that makes contacts the ball is between the body and the ground to support the body, there is never handball.
-- [No handball. Hand/arms are used to support body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
+When a player falls and the hand (and not any other part of arm) is on the ground to support the body, there is never handball. 
+- [No handball. The hand is on the ground to support the body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
+- [Handball. The arm is on the ground to support the body after falling rather than the hand which creates an unfair 2D barrier.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
+
+Distance and time to react does not matter. 
+- [Handball. Although this was at close distance from the last play of the ball, the defender creates an unfair 2D barrier.](https://youtu.be/Y0eWXnECHiw?feature=shared&t=165)
 
 ## Accidental handball
 
