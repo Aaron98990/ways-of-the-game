@@ -5,10 +5,11 @@ Soccer is a physical sport. Not every contact with the opponent is a foul.
 
 Fouls that occur before or after a player wins/touches the ball should be penalized.
 - [Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
+- [Foul. Defender kicks the attacker then kicks the ball.](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
-> If an offence involves contact [with a person excluding outside agentd], it is penalised by a direct free kick.
+> If an offence involves contact [with a person excluding an outside agent], it is penalised by a direct free kick.
 > 
 > Law 12
 
