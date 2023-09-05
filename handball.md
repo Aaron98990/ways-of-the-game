@@ -110,4 +110,4 @@ If goalkeeper commits a handball offense (as discussed in the [goalkeeper sectio
 > Law 12
 
 [Messi deliberately touches the ball with the hand/arms to score a goal. The goal should be disallowed and Messi should be shown a caution.](https://youtu.be/fM_WkMvOogQ?t=29)
-
+[No goal + YC. Player pushes ball into the goal with the hand.](https://www.youtube.com/watch?v=v383WX_Jaxw)
