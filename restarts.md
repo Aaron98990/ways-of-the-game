@@ -95,6 +95,7 @@ If the referee measures distance on a free kick or wants to restart play from a 
 
 "An opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play." Law 13
 - [The defender stands right in front of the ball and fails to make an attempt to all allow the free kick to be taken. The player is cautioned.](https://www.youtube.com/watch?v=qDdkvYZLql0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=4)
+- [Same as the above.](https://youtu.be/VqaCkXYPsjM?feature=shared&t=4250)
 
 > Referees must caution players who delay the restart of play by:
 > - appearing to take a throw-in but suddenly leaving it to a team-mate to take
