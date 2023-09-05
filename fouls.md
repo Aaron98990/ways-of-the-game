@@ -4,8 +4,8 @@ Soccer is a physical sport. Not every contact with the opponent is a foul.
 - [No foul. Although there is contact the head, the attacker runs into the defender's path/arm who is clearing the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
 Fouls that occur before or after a player wins/touches the ball should be penalized.
-- [Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
-- [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
+- [Foul & YC for reckless play. Player gets the ball then slide tackles their opponent.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
+- [Foul & RC for DOGSO. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
@@ -13,6 +13,8 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > - player confrontations off the ball
 > - possible offences in the area towards which play is moving
 > - offences occurring after the ball is played away
+
+- [Foul and YC for lack of respect for the game. While away from the ball, the opponent impedes an opponent with contact. A foul while not challenging for the ball is blatant and shows a lack of respect for the game.](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
