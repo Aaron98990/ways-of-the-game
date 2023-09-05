@@ -59,19 +59,19 @@ These are clear cut cases of unnaturally bigger or not. Some part of the arm may
 - [Handball. The arm/hand is extended away from the body in an unnatural position.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 - [No handball. The ball hits near the elbow. Not the best angle here. The defender's area between the elbow and shoulder are in line with the body. If the ball hit between the elbow and hand then it would of been handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
 
-SUBJECTIVE: When a defender attempts to block a pass or shot, if there is an unfair barrier with the hands/arm it is handball. Even a natural position that makes a player bigger (e.g. running motion) creates an unfair barrier in this case because the intention of the defender is to move into the path of the pass or shot. The defender takes that risk. To avoid this, players often put their arms behind the back or close to their body/sides.
+SUBJECTIVE: When a defender attempts to block a pass or shot, if there is an unfair barrier with the hands/arm it is handball. Even a natural position that makes a player bigger (e.g. running motion) creates an unfair barrier because the intention of the defender is to move into the path of the pass or shot. The defender takes that risk. To avoid this, players often put their arms behind the back or close to their body/sides.
 - [Handball. The hands/arms are in a natural running motion. But, when you deliberately run in to attempt to block a shot/pass and create a barrier for the ball to pass yourself even when hands/arm are in natural position - you take on the risk. I would call that handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43)
 - [Handball. Similar to above. Distance and time to react does not matter.](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
 <!-- Premier says the above (Leicester City v. Wolves 11/8/2020 is not a handball https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree -->
 
-2021/22 IFAB CHANGE: The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate creating an unfair 2D barrier from the point the ball was last deliberately played talked about above.
+2021/22 IFAB CHANGE: The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate creating an unfair 2D barrier from the point the ball was last deliberately played by an opponent as talked about above.
 - [Handball. The ball deflects off a defender's foot then touches their arm. Since the ball is behind him/passed him when the ball touches their arm, this created an unfair 2D barrier.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 - [Handball. The ball deflects off a player's foot and would have easily gone past the defender if it weren't for the arms creating an unfair 2D barrier.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 
 When arms are close to the body, there is no handball. After the ball hits an arm, the arm may look farther part then it originally was before the contact. We judge the arm position right before the contact.
 - [No handball. The arms are close to the body. ](https://www.youtube.com/watch?v=J2NYg4tmQa4)
 
-This contradicts the above but a defender attempting to head the ball but the ball contacts their hands/arm (which are generally in line with the shoulders and away from the body) is not an offense.
+A defender attempting to head the ball but the ball contacts their hands/arm (which are generally in line with the shoulders and away from the body) is not an offense.
 - [No handball. The player genuinely tries to header the ball but it contacts their hands/arm.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
 
 A defender clearing the ball into their hand/arm, even if the hand/arm may be considered unnaturally bigger/unfair barrier in other cases, is never handball. 
