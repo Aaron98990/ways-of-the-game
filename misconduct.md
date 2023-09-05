@@ -261,7 +261,7 @@ See the [excessive force section](/excessive-force).
 - [Abusive action. Beckham makes unnecessary contact with a match official and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
 - [Abusive action. The player of the black team gets into the opponent's face daring him to fight.](https://youtu.be/WQUzJf9sHQY?feature=shared&t=910)
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
-- includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent
+- includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
 
 ### **Language**
 - Threatening/wishing violence or injury to another person
