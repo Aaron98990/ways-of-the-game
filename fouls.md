@@ -9,6 +9,11 @@ Fouls that occur before or after a player wins/touches the ball should be penali
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
+> ‘What needs to be seen’ is not always in the vicinity of the ball. The referee should also pay attention to:
+> - player confrontations off the ball
+> - possible offences in the area towards which play is moving
+> - offences occurring after the ball is played away
+
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
 > If an offence involves contact [with a person excluding an outside agent], it is penalised by a direct free kick.
