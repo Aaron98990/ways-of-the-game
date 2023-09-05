@@ -204,9 +204,14 @@ If you just left the field without the referee's permission (deliberately or not
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
+  - stepping over an opponent
+  - clapping in an opponent's face
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
-- blatantly fouling a player (e.g. holding, tugging shirt with two hands) or blatantly committing handball
+- blatantly commiting an offfense
+  - holding a player's jersey (e.g. holding, tugging shirt with two hands)
+  - blatantly committing handball
+  - attempting to kick the ball the ball when the goalkeeper is releasing it
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
