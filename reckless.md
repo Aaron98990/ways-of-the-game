@@ -54,6 +54,7 @@ An American football style charge into an opponent will always be a caution or s
 - [The player recklessly charges the opponent in the face with their shoulder. The player should be shown a caution for the reckless charge.](https://youtu.be/GBHiiU8lekE?t=217)
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge. ](https://youtu.be/7cZpV_ZAfzw)
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge.](https://youtu.be/vR3DpyYTH2k)
+- TODO Video: A player charging the opponent while not challenging for the ball.
 
 ## Recklessly Jumping At
 
@@ -67,6 +68,9 @@ When a player jumps directly up, the risk to the any other player is zeo. But, p
 ## Reckless Kick
 
 Kicks to the face or a kick where a players significantly cocks their foot back or would have had significant follow-through will always be a caution or send-off.
+
+Attempting to kick the ball when the goalkeeper clearly has control with the hand qualifies as reckless.
+- TODO: video.
 
 ## Reckless Trip
 
