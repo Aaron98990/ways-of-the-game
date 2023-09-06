@@ -35,6 +35,10 @@ Game(s) suspension, other than current game, for a send-off or accumulating caut
 
 Many times competition rules will require the sent-off adult participant to be out-of-sight and out-of-sound and allow sent-off minors to stay in the technical area.
 
+> A match may not start or continue if either team has fewer than seven players. Law 3.1
+
+If a team only has 10 players with no subs and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game. The team would only have six players which is lower than the required seven players.
+
 ## Issuing card after play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
 > Law 5.2
