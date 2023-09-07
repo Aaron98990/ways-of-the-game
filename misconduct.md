@@ -6,7 +6,9 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 > 
 > 12.3 Disciplinary action
 
-You may not give a caution or send-off to an outside agent (e.g. spectator, ball kid) or a sent-off player. In the cases where the referee want an outside agent  or sent-off player removed, the referee can suspend the game until that happens. If the outside agent or sent-off player remains, the referee can abandon match.
+A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee want an outside agent or sent-off player removed, the referee can suspend the game until that happens. If the outside agent or sent-off player remains, the referee can abandon match.
+
+Footballl associations (FA) sometimes create Report Codes or Charge Codes for misconduct. Dissent (caution) in the United States is "DT" and in England it is "C2".
 
 ## Referee's authority
 
@@ -29,7 +31,7 @@ A referee can show yellow and red cards when they enter the field of play to sta
 > 
 > Law 3.6 Players and substitutes sent off
 
-Game(s) suspension, other than current game, for a send-off or accumulating cautions is found in the competition rules, not in the Laws of the Game. Usually, it's at least a one game suspension for a sending-off. 
+Game(s) suspension other than listed above or fines for a send-off or accumulating cautions is found in the competition rules, not in the Laws of the Game. Usually, it's at least a one game suspension for a sending-off. 
 
 > A player, substitute or substituted player who has been sent off must leave the vicinity of the field of play and the technical area.
 
