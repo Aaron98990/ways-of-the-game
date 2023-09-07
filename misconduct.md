@@ -10,7 +10,7 @@ A referee cannot give a caution or send-off to an outside agent (e.g. spectator,
 
 > The referee: keeps a record of the match and provides the appropriate authorities with a match report, including information on disciplinary action and any other incidents that occurred before, during or after the match Law 5.3
 
-Footballl associations (FAs) sometimes create <a href="/"></a>Report Codes or Charge Codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
+Footballl associations (FAs) often create codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
 
 ## Referee's authority
 
@@ -21,6 +21,8 @@ Footballl associations (FAs) sometimes create <a href="/"></a>Report Codes or Ch
 
 A referee can show yellow and red cards when they enter the field of play to start the match including during the coin toss, national anthem, and referee/player walkout until they leave the field of play after the match ends. 
 [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
+
+Temporarily dismissing a player (sin bin) is the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
 
 ## Player send-offs
 
