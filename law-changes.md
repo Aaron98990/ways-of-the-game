@@ -149,7 +149,7 @@ Law 9.1 The ball is out of play when: it touches a match official, remains on th
 
 Editorial changes are below:
 
-Law 12.2 commits any other offence, not mentioned in the Laws * or where the Laws don't mention a restart*, for which play is stopped to caution or send off a player
+Law 12.2 commits any other offence, not mentioned in the Laws *or where the Laws don't mention a restart*, for which play is stopped to caution or send off a player
 - Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart if there is no contact with an opponent. If the simulation involved contact with a person it is a direct free kick.
 
 Law 11.2 A player in an offside position at the moment the ball is played or touched* by a team-mate *(excluding oneself)* is only penalised on becoming involved in active play by. Law 12.2 touches the ball with the hand/arm [..] after: it has been deliberately kicked to the goalkeeper by a team-mate *(including oneself)* or receiving it directly from a throw-in taken by a team-mate *(including oneself)*
