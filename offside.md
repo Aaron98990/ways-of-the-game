@@ -21,7 +21,7 @@ So, if your completely your own half when the ball is touched by a team-mate, ca
 
 > A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
 
-So, if the ball is deliberately played (non-deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
+So, if the ball is deliberately played (not deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
 
 [No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?t=13s)
 
@@ -29,9 +29,9 @@ So, if the ball is deliberately played (non-deflected) by an opponent who is not
 >
 > - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
 
-If you are behind or even with the ball when it is touched by a team-mate, you are never offside. (The direction of the pass is irrelevant. )
+If you are behind or even with the ball when it is touched by a team-mate, you are never offside. (The direction of the pass is irrelevant.)
 
-[No offside. Although they are in an offside position, the player is behind the ball when played by a team-mate. ](https://m.youtube.com/watch?t=119&v=U01-uArNpdw&feature=youtu.be)
+[No offside. Although they are ahead of the second-last opponent, the player is behind the ball when played by a team-mate. ](https://youtube.com/watch?t=119&v=U01-uArNpdw&feature=youtu.be)
 
 If you are behind or even with the second-to-last defender when the ball is touched by a teammate, you are never offside. Remember, the goalkeeper counts as a defender.
 
@@ -61,6 +61,8 @@ As a matter of fact if they are in an offside position and touch the ball on the
 
 ## Deflection
 
+A deflection does not reset offside.
+
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
 >  (…)
@@ -72,17 +74,21 @@ As a matter of fact if they are in an offside position and touch the ball on the
 > 
 > Lae 11 - Offside
 
-In Circular no. 26 and the 2023/24 Laws of the Game , The IFAB released a major change to whether a touch of the ball should be determined as a deflection or not. [The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or non-deflection.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/)
+In Circular no. 26 and the 2023/24 Laws of the Game, IFAB released a major change to whether a touch of the ball should be determined as a deflection or not. Many examples about deflection / deliberate play before 2023 will be wrong since they use outdated deflection interpretation.
 
-The changes comes down to this -  if the defender played the ball to where they wanted to or should of been able to.
+The changes comes down to this -  it's not a deflection (deliberate play) for offside if the defender played the ball to where they wanted to or should of been able to.
 
-A player can deliberately attempt to block or play the ball, but still can be a deflection for purposes of offside. That's why I prefer to use non-deflection rather than deliberate play - it causes too much confusion. 
+A defender can deliberately attempt to block or play the ball (including moving towards the ball), but still can be a deflection for purposes of offside. That's why I prefer to use non-deflection rather than deliberate play - it causes too much confusion. 
 
-[Offside. Although the defender deliberately moves towards the ball, the touch by the defender is considered a deflection since they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
+- [MUST WATCH! The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or not for offside.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/).
+- [Offside. Although the defender deliberately moves towards the ball, the touch by the defender is considered a deflection since they did not "played the ball to where they wanted to or should of been able to" because they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
+- [Offside. The defender did not have enough time to react so this is a deflection. This was the correct call back in 2015 but now this would be a wrong call.](https://youtu.be/YhRDRvl2cTk?feature=shared&t=13)
 
 It is subjective and could be interpreted differently by different people. The level of the game would affect this decision.
 
 ## Ball off the goalpost or crossbar
+
+A ball off the goalpost or crossbar does not reset offside.
 
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
@@ -96,6 +102,8 @@ It is subjective and could be interpreted differently by different people. The l
 
 ## Deliberate save
 
+A deliberate save does not reset offside.
+
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
 >  (…)
@@ -105,35 +113,34 @@ It is subjective and could be interpreted differently by different people. The l
 > 
 > Lae 11 - Offside
 
-A save is later defined in the Laws of the Game. Please note that a save can be done by any opponent including a non-goalkeeper player. The save does not need to involve using the hands/arms.
-
 > A ‘save’ is when a player stops, or attempts to stop, a ball which is going into or very close to the goal with any part of the body except the hands/arms (unless the goalkeeper within the penalty area).
 
-Don't overthink the definition. Just think to yourself did the opponent block the ball (e.g. from a cross with some distance from the goal) or did the opponent save the ball (e.g. a shot towards goal or a cross very close to the goal)
+A save can be done by any opponent and not just the goalkeeper. The save does not need to use the hands/arms. Don't overthink the definition. Just think to yourself did the opponent block the ball (e.g. from a cross with some distance from the goal) or did the opponent save the ball (e.g. a shot towards goal or a cross very close to the goal)
 
 ## Interfering with an Opponent
-The interfering with an opponent must meet one of these criteria. If not, it is not considered interfering with an opponent by the Laws.
-> - (1) preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
-> - (2) challenging an opponent for the ball or
-> - (3) clearly attempting to play a ball which is close when this action impacts on an opponent or
-> - (4) making an obvious action which clearly impacts on the ability of an opponent to play the ball
+The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
+> - [1] preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
+> - [2] challenging an opponent for the ball or
+> - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
+> - [4] making an obvious action which clearly impacts on the ability of an opponent to play the ball
 
-PRO has an amazing write up on interfering with an opponent.
-[A player in an offside position moves into the path of an opponent who going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
+- [Offside. A player in an offside position moves into the path of an opponent who is going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
+- [Not offside. Although the player in an offside position is close to the goalkeeper, it must meet one the four requirements above to be considered "intergering with an opponent". The player in an offside position is not attempting to play for the ball as he moves out of the way (not 3 or 4) and the goalkeeper has no chance to play the ball after the delection (not 1 or 2).](https://www.youtube.com/watch?v=aG9TN_GCAbs)
+- [Not offside. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
 
 > If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
 > 
 > Law 11
 
-[Goal. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
 
 ## Player outside the field of play
 
 > A defending [or attacking] player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area. Law 11.4
 
 - [A player slips and remains off the field of play. That player is considered on the goal line and keeps the player that interferes with the goalkeeper onside. The defending team played the ball towards the halfway line (the guy who slipped) but that play did not cause the ball to exit the penalty area.](https://youtu.be/eyKa-xvHDQA?feature=shared&t=489)
-- [An attacking player's momentum takes them off the field of play and he is considered on the goal line. But, two defenders are also on the goal line meaning that the attacking player can't be offside.](https://www.tiktok.com/@refsneedlovetoo/video/7259435507837406506)
-- [A defender stays off the field of play and he is considered on the goal line. But, the ball is played by a defender toward the halfway line and out of the penalty area so at this point the defender does not count for offside purposes. The player who touches the ball before the goal should of been called offside. ](https://www.tiktok.com/t/ZPRW7adRp/)
+- [Not offside. An attacking player's momentum takes them off the field of play and he is considered on the goal line. But, two defenders are also on the goal line meaning that the attacking player can't be offside.](https://www.tiktok.com/@refsneedlovetoo/video/7259435507837406506)
+- [Offside. A defender stays off the field of play and he is considered on the goal line. But, the ball is played by a defender toward the halfway line and out of the penalty area so at this point the defender does not count for offside purposes. The player who touches the ball before the goal should of been called offside. ](https://www.tiktok.com/t/ZPRW7adRp/)
+- [Offside. The attacker is off the field of play and is considered on the goal line when the ball is played by a team-mate making him in an offside position. He then interferes with an opponent by the challenging an opponet for the ball (2) after a deliberate save near the goal line near a defender.](https://youtu.be/eyKa-xvHDQA?feature=shared&t=489)
 
 ## Assistant referees
 > The AR must be in line with the second-last defender or the ball if it is nearer to the goal line than the second-last defender. The AR must always face the field of play, even when running.
