@@ -162,27 +162,10 @@ If there is contact with the goalkeeper, it is a direct free kick. If there is n
 - [No foul - Goal. Own team-mate, not an opponent challenges the goalkeeper for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
 
 
-## Two Offenses at Once
+## Double touch
 
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > - Law 12.1 Direct free kick
 
-> The referee:
-> - punishes the more serious offense, in terms of sanction, restart, physical severity and tactical impact, when more than one offense occurs at the same time
-> - Law 5.3 - Powers and duties
+Cards cannot be shown for handball by the goalkeeper in their own penalty area but can be shown if the restart taker touches the ball before it touches another person.
 
-This is a bit confusing to read. Let me summarize. So, if there are more than one offenses at once we do down the tie-breaker list:
-- Sanction
-- Restart
-- Physical severity
-- Tactical impact
-
-If the goalkeeper takes the free kick or goal kick or throw-in (or even a kick-off or corner kick) then handles the ball inside their own penalty area before the ball has touched another player, they have committed two offenses at the same time:
-
-- If, after the ball is in play, the restart kicker/thrower touches the ball again before it has touched another player, an indirect free kick offense
-- "goalkeeper backpass", an indirect free kick offense
-
-Team-mate in the Laws of the Game includes passing it to oneself. So, if there are more than one offenses at once we do down the tie-breaker list:
-- Sanction (double touch allows for none/SPA/DOGSO; "goalkeeper backpass" allows for none)
-
-So, double touch is punished and "goalkeeper backpass" is ignored since double touch has a higher sanction.
