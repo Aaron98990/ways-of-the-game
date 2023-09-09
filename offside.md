@@ -1,4 +1,4 @@
-!> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations. It is linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
+!> Important! Please go through Law 11 and the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations. It is linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
 
 ## Never offside
 
@@ -38,6 +38,33 @@ If you are behind or even with the second-to-last defender when the ball is touc
 - [No offside. The player with the assist in their run-up, is in line with the second-to-last defender when played by a team-mate. The player that scores is behind the ball when played by a team-mate. ](https://youtu.be/d9gU6kmlagI)
 - [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak&t=18)
 
+## Summary
+
+Offside position (Law 11.1) at the moment the ball is touched by a team-mate + becoming involved in active play = offside
+
+Active Play:
+- touching/playing the ball or
+- interfering with an opponent or
+- gaining an advantage by doing the above after:
+  - deflection or
+  - ball off the goalpost or crossbar or
+  - deliberate save
+
+
+## Interfering with an opponent
+The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
+> - [1] preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
+> - [2] challenging an opponent for the ball or
+> - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
+> - [4] making an obvious action which clearly impacts on the ability of an opponent to play the ball
+
+- [Offside. A player in an offside position moves into the path of an opponent who is going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
+- [Not offside. Although the player in an offside position is close to the goalkeeper, it must meet one the four requirements above to be considered "intergering with an opponent". The player in an offside position is not attempting to play for the ball as he moves out of the way (not 3 or 4) and the goalkeeper has no chance to play the ball after the delection (not 1 or 2).](https://www.youtube.com/watch?v=aG9TN_GCAbs)
+- [Not offside. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
+
+> If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
+> 
+> Law 11
 
 ## Close Calls
 
@@ -117,20 +144,7 @@ A deliberate save does not reset offside.
 
 A save can be done by any opponent and not just the goalkeeper. The save does not need to use the hands/arms. Don't overthink the definition. Just think to yourself did the opponent block the ball (e.g. from a cross with some distance from the goal) or did the opponent save the ball (e.g. a shot towards goal or a cross very close to the goal)
 
-## Interfering with an Opponent
-The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
-> - [1] preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
-> - [2] challenging an opponent for the ball or
-> - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
-> - [4] making an obvious action which clearly impacts on the ability of an opponent to play the ball
 
-- [Offside. A player in an offside position moves into the path of an opponent who is going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
-- [Not offside. Although the player in an offside position is close to the goalkeeper, it must meet one the four requirements above to be considered "intergering with an opponent". The player in an offside position is not attempting to play for the ball as he moves out of the way (not 3 or 4) and the goalkeeper has no chance to play the ball after the delection (not 1 or 2).](https://www.youtube.com/watch?v=aG9TN_GCAbs)
-- [Not offside. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
-
-> If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
-> 
-> Law 11
 
 
 ## Player outside the field of play
