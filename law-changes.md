@@ -152,11 +152,8 @@ Editorial changes are below:
 Law 12.2 commits any other offence, not mentioned in the Laws *or where the Laws don't mention a restart*, for which play is stopped to caution or send off a player
 - Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart if there is no contact with an opponent. If the simulation involved contact with a person it is a direct free kick.
 
-Law 11.2 A player in an offside position at the moment the ball is played or touched* by a team-mate *(excluding oneself)* is only penalised on becoming involved in active play by. Law 12.2 touches the ball with the hand/arm [..] after: it has been deliberately kicked to the goalkeeper by a team-mate *(including oneself)* or receiving it directly from a throw-in taken by a team-mate *(including oneself)*
-- Team-mate means different things in the Laws. If a player in an offside position is dribbling while going away from goal, they are technically offside if "team-mate" matches the definition of team-mate for handball by the goalkeeper in their own penalty area.
-
 Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
-- Just to make it clear that it is not contact with the ball. "a team-mate, substitute, substituted or sent-off player, team official or a match official" could be used but is a lot of words.
+- Just to make it clear that it is not contact with the ball. 
 
 Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
 - Small fix. 
