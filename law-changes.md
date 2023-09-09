@@ -111,7 +111,7 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 
 ## Changes I want
 
-I focus on agreeable changes, not my whacky ones.
+I focus on agreeable changes, not my whacky ones below:
 
 Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal~~ (even if contact was made with the ball) unless the interference was by the attacking team. (Also, similar change for Law 10.1)
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
@@ -139,14 +139,6 @@ Law 11.4 A defending player who leaves the field of play without the referee’s
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
 - The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from there. 
 
-Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
-- Small fix. 
-
-Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
-- Just to make it clear that it is not contact with the ball. "a team-mate, substitute, substituted or sent-off player, team official or a match official" could be substituted instead" is acceptable but too long.
-
-Law 12.2 commits any other offence, ~~not mentioned in the Laws~~ where the Laws don't mention a restart, for which play is stopped to caution or send off a player
-- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart. But, if the simulation involved contact with a person it is a direct free kick.
 
 Law 9.1 The ball is out of play when: it touches a match official, remains on the field of play and:
 ~~- a team starts a promising attack or~~
@@ -154,6 +146,22 @@ Law 9.1 The ball is out of play when: it touches a match official, remains on th
 - the team in possession of the ball changes
 - Starts a promising attack is way to vague. In the [tactical impact section](/tactical-impact), I don't even give a real definition for SPA. The vagueness works for giving cautions but does not work after the ball touches the referee. While I'm not the biggest fan of "the team in possession of the ball changes", it is pretty factual.
 - [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed. While I believe the attacker would of lost the ball without the deflection from the referee and is the correct application of the Laws, I would like this goal to stand. There were zero complaints from the opponents.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
+
+Editorial changes are below:
+
+Law 12.2 commits any other offence, not mentioned in the Laws * or where the Laws don't mention a restart*, for which play is stopped to caution or send off a player
+- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart if there is no contact with an opponent. If the simulation involved contact with a person it is a direct free kick.
+
+Law 11.2 A player in an offside position at the moment the ball is played or touched* by a team-mate *(excluding oneself)* is only penalised on becoming involved in active play by. Law 12.2 touches the ball with the hand/arm [..] after: it has been deliberately kicked to the goalkeeper by a team-mate *(including oneself)* or receiving it directly from a throw-in taken by a team-mate *(including oneself)*
+- Team-mate means different things in the Laws. If a player in an offside position is dribbling while going away from goal, they are technically offside if "team-mate" matches the definition of team-mate for handball by the goalkeeper in their own penalty area.
+
+Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
+- Just to make it clear that it is not contact with the ball. "a team-mate, substitute, substituted or sent-off player, team official or a match official" could be used but is a lot of words.
+
+Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
+- Small fix. 
+
+Interpretations or competition rules are below:
 
 Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
 - I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal).
