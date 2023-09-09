@@ -189,7 +189,7 @@ One just clarifies the other. So, if there are more than one offenses at once we
 - Physical severity
 - Tactical impact
 
-If a non-goalkeeper picks up the ball anywhere or a goalkeeper picks up the ball outside their penalty area, two offenses have been committed at once:
+If directly after taking the restart a non-goalkeeper picks up the ball anywhere or a goalkeeper picks up the ball outside their penalty area, two offenses have been committed at once:
 - handball, punished by a direct free kick
 - restart kicker/thrower touches the ball again before it has touched another player, punished by an indirect free kick
 
@@ -199,8 +199,5 @@ Let's go to our tie-breaker list we stated above:
 
 Therefore, the offense is handball only since it is more serious and we restart with a direct free kick.
 
-If a goalkeeper picks up the ball in their penalty area (covered deeply in the [goalkeeper section](/goalkeeper)), two offenses have been committed at once:
-- handball by the goalkeeper in their own penalty area, punished by an indirect free kick
+If a goalkeeper picks up the ball in their penalty area (covered deeply in the [goalkeeper section](/goalkeeper)) directly after taking the restart, they have committed one offense:
 - restart kicker/thrower touches the ball again before it has touched another player, punished by a indirect free kick
-
-Both are indirect free kick offenses so the restart will be an indirect free kick. I cover the appropriate disciplinary action for the goalkeeper picking up the ball in their penalty area [goalkeeper section](/goalkeeper) in the "Two offenses at once" section.
