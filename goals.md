@@ -10,10 +10,10 @@
 > 
 > - Law 1.10 - Goals
 
-Goal nets, especially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does not mean that a goal has been scored. So, be aware of both situations:
+Be aware of both situations near a goal:
 
-- The ball enters the goal but leaves through a hole in the net
-- The ball enters the goal through a hole in the net
+- The ball leaving/entering the nets through a hole
+- The match ball hitting the netting support (backpost), water bottle, ball or another object and returning to the field of play
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
