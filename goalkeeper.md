@@ -143,7 +143,7 @@ The law gives exception to "the goalkeeper has clearly kicked or attempted to ki
 
 Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter.
 - [A goalkeeper initiates a deliberate trick to be able to handle the ball. The goalkeeper must be cautioned and play is restarted with an indirect free kick.](https://streamable.com/ohy4r)
--[A player initiates a deliberate trick for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
+- [A player initiates a deliberate trick for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
 
 ## Control with hand/arms
 
