@@ -9,7 +9,7 @@ This is the only place I blatantly insert my opinion. Other places are less blat
 [Law changes document.](https://downloads.theifab.com/downloads/lotg_changes_23_24_en?l=en)
 
 - Major change of the definition of  ‘deflection’ as related to offside
-  - Discussed in [Offside](/offside) - I like this change. I felt like the old deflection definition favored the attackers too much. We can't punish defenders for ... defending.
+  - Discussed in [Offside](/offside) - I like this change. I felt like the old deflection definition favored the attackers too much. We can't punish defenders for ... defending ([like here](https://youtu.be/Q_Jzpz-b89E?feature=shared&t=8))
 - Clarification for determining the sanction for DOGSO or SPA for an offense that leads to a penalty kick. An attempt to play the ball includes challenging for the ball.
   - A player that charges into the back of an opponent may be attempting to play the ball. Great change! 
 
