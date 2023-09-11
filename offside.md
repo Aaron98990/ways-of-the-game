@@ -43,9 +43,9 @@ If you are behind or even with the second-to-last defender when the ball is touc
 Offside position (Law 11.1) at the moment the ball is touched by a team-mate + becoming involved in active play = offside
 
 Active Play:
-- touching/playing the ball or
-- interfering with an opponent or
-- gaining an advantage by doing the above after:
+- [1a] touching/playing the ball or
+- [2a] interfering with an opponent or
+- gaining an advantage by [1a] or [2a] after:
   - deflection or
   - ball off the goalpost or crossbar or
   - deliberate save
