@@ -7,27 +7,17 @@
 > - a throw-in
 > - a corner kick
 
-So, if the ball goes out of play from the touchline or goal line and no goal is scored - there can never be offside from the restart. A goalkeeper releasing the ball after control with the hands is not a goal kick and offside can be called. 
+So, no offside on the above restarts. A goalkeeper releasing the ball after control with the hands is not a goal kick and offside can be called. 
 
 [No offside. There is never offside when ball received directly from a throw-in. ](https://youtu.be/4C961hfCY6I?t=21)
 
 > A player is in an offside position if:
-> 
-> - any part of the head, body or feet is in the opponents’ half (excluding the halfway line)
+> - any part of the head, body or feet is in the opponents’ half (excluding the halfway line) and
+> - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
 
-So, if your completely your own half when the ball is touched by a team-mate, can never be offside.
+ So, if your completely your own half when the ball is touched by a team-mate, can never be offside.
 
 [No offside. The player is in their own half when touched by a team-mate.](https://youtu.be/-pv5yvd7FZk?feature=shared&t=1182)
-
-> A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
-
-So, if the ball is deliberately played (not deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
-
-[No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?t=13s)
-
-> A player is in an offside position if:
->
-> - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
 
 If you are behind or even with the ball when it is touched by a team-mate, you are never offside. (The direction of the pass is irrelevant.)
 
@@ -38,9 +28,15 @@ If you are behind or even with the second-to-last defender when the ball is touc
 - [No offside. The player with the assist in their run-up, is in line with the second-to-last defender when played by a team-mate. The player that scores is behind the ball when played by a team-mate. ](https://youtu.be/d9gU6kmlagI)
 - [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak&t=18)
 
+> A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
+
+So, if the ball is deliberately played (not deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
+
+[No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?t=13s)
+
 ## Summary
 
-Offside position (Law 11.1) at the moment the ball is touched by a team-mate + becoming involved in active play = offside
+Offside position (Law 11.1) at the moment the ball is touched by a team-mate + becoming involved in active play = offside offense
 
 Active Play:
 - [1a] touching/playing the ball or
