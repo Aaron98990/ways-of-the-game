@@ -61,6 +61,7 @@ The interfering with an opponent must meet at least one of the four these criter
 - [Offside. A player in an offside position moves into the path of an opponent who is going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
 - [Not offside. Although the player in an offside position is close to the goalkeeper, it must meet one the four requirements above to be considered "intergering with an opponent". The player in an offside position is not attempting to play for the ball as he moves out of the way (not 3 or 4) and the goalkeeper has no chance to play the ball after the delection (not 1 or 2).](https://www.youtube.com/watch?v=aG9TN_GCAbs)
 - [Not offside. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
+- [???. As soon as the defender deliberately chests the ball, offside resets. The player in the offside position was not challenging for the ball before the ball hits the chest as he was not yet in playing distance and did not impact the opponent so it is not interfering with an opponent. By the Laws, this is a offside. ](https://youtu.be/a9bc40IUkhM?feature=shared&t=487) But after clarification from IFAB, this should be called offside. Read [here](https://www.thesun.co.uk/sport/football/13855042/offside-rule-change-manchester-city-bernardo-silva/)
 
 > If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
 > 
@@ -111,6 +112,7 @@ A defender can deliberately attempt to block or play the ball (including moving 
 - [Offside. Although the defender deliberately moves towards the ball, the touch by the defender is considered a deflection since they did not "played the ball to where they wanted to or should of been able to" because they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
 - [Offside. The defender did not have enough time to react so this is a deflection. This was the correct call back in 2015 but now this would be a wrong call.](https://youtu.be/YhRDRvl2cTk?feature=shared&t=13)
 
+
 It is subjective and could be interpreted differently by different people. The level of the game would affect this decision.
 
 ## Ball off the goalpost or crossbar
@@ -144,7 +146,7 @@ A deliberate save does not reset offside.
 
 A save can be done by any opponent and not just the goalkeeper. The save does not need to use the hands/arms. Don't overthink the definition. Just think to yourself did the opponent block the ball (e.g. from a cross with some distance from the goal) or did the opponent save the ball (e.g. a shot towards goal or a cross very close to the goal)
 
-
+[Offside. A player is in an offside position when touched by the team-mate. The goalkeeper makes a deliberate save which means that offside is not reset. The player in the offside position then challenges for the for ball.](https://www.youtube.com/watch?v=MCJHXMxxyBk&ab_channel=NottinghamshireFA)
 
 
 ## Player outside the field of play
