@@ -36,7 +36,16 @@ So, if the ball is deliberately played (not deflected) by an opponent who is not
 
 ## Summary
 
-Offside position (Law 11.1) at the moment the ball is touched by a team-mate + becoming involved in active play = offside offense
+> It is not an offence to be in an offside position.
+
+Offside offense:
+- Offside position when the ball is touched by a team-mate and
+- ball not directly from goal kick, throw-in, or corner kick and
+- becoming involved in active play
+
+Offside position:
+- in opponent's half of the field and
+- ahead of ball and second-last defender
 
 Active Play:
 - [1a] touching/playing the ball or
@@ -46,9 +55,10 @@ Active Play:
   - ball off the goalpost or crossbar or
   - deliberate save
 
+Look at the "Player outside the field of play" section below to see some exceptions.
 
 ## Interfering with an opponent
-The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
+A player does not have to touch the ball to commit an offside offense. The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
 > - [1] preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
 > - [2] challenging an opponent for the ball or
 > - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
