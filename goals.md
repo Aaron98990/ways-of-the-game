@@ -17,7 +17,8 @@ Be aware of both situations near a goal:
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
-[Goal. Ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+- [Goal. The ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+- [No goal. The ball enters the nets through a hole.](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports)
 
 ## Crossbar and goalpost
 
