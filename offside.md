@@ -46,32 +46,15 @@ Offside offense:
 Offside position:
 - in opponent's half of the field and
 - ahead of ball and second-last defender
+- player off the the field of play has some exceptions
 
 Active Play:
 - [1a] touching/playing the ball or
 - [2a] interfering with an opponent or
 - gaining an advantage by [1a] or [2a] after:
-  - deflection or
-  - ball off the goalpost or crossbar or
+  - deflection by opponent or
+  - ball off the goalpost or crossbar or match offical or
   - deliberate save
-
-Look at the "Player outside the field of play" section below to see some exceptions.
-
-## Interfering with an opponent
-A player does not have to touch the ball to commit an offside offense. The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
-> - [1] preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
-> - [2] challenging an opponent for the ball or
-> - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
-> - [4] making an obvious action which clearly impacts on the ability of an opponent to play the ball
-
-- [Offside. A player in an offside position moves into the path of an opponent who is going towards the ball. This meets criteria (4). Offside is called.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
-- [Not offside. Although the player in an offside position is close to the goalkeeper, it must meet one the four requirements above to be considered "intergering with an opponent". The player in an offside position is not attempting to play for the ball as he moves out of the way (not 3 or 4) and the goalkeeper has no chance to play the ball after the delection (not 1 or 2).](https://www.youtube.com/watch?v=aG9TN_GCAbs)
-- [Not offside. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
-- [???. As soon as the defender deliberately chests the ball, offside resets. The player in the offside position was not challenging for the ball before the ball hits the chest as he was not yet in playing distance and did not impact the opponent so it is not interfering with an opponent. By the Laws, this is a offside. ](https://youtu.be/a9bc40IUkhM?feature=shared&t=487) But after clarification from IFAB, this should be called offside. Read [here](https://www.thesun.co.uk/sport/football/13855042/offside-rule-change-manchester-city-bernardo-silva/)
-
-> If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
-> 
-> Law 11
 
 ## Close Calls
 
@@ -92,6 +75,22 @@ As a matter of fact if they are in an offside position and touch the ball on the
 > If an offside offense occurs, the referee awards an indirect free kick where the offense occurred, including if it is in the player’s own half of the field of play.
 
 [TODO - Video of restart from offside in offender's own half. ]
+
+## Interfering with an opponent
+A player does not have to touch the ball to commit an offside offense. The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws.
+> - [1] preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or
+> - [2] challenging an opponent for the ball or
+> - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
+> - [4] making an obvious action which clearly impacts on the ability of an opponent to play the ball
+
+- [Offside. A player in an offside position moves into the path of an opponent who is going towards the ball. This meets criteria (4).](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
+- [Not offside. The player in an offside position is not challenging an opponent (not 3) and the goalkeeper has no chance to play the ball after the delection (not 1 or 2 or 4).](https://www.youtube.com/watch?v=aG9TN_GCAbs)
+- [Not offside. The player in the offside position does not touch the ball or interfere with an opponent.](https://youtu.be/svs8ZH0gBgE?t=108)
+- [Offside. The goalkeeper kicks the ball out of play because of the attacker (3,4)](https://youtu.be/D-mcLd3GAPc?feature=shared&t=128)
+
+> If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
+> 
+> Law 11
 
 ## Deflection
 
@@ -117,6 +116,7 @@ A defender can deliberately attempt to block or play the ball (including moving 
 - [MUST WATCH! The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or not for offside.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/).
 - [Offside. Although the defender deliberately moves towards the ball, the touch by the defender is considered a deflection since they did not "played the ball to where they wanted to or should of been able to" because they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
 - [Offside. The defender did not have enough time to react so this is a deflection. This was the correct call back in 2015 but now this would be a wrong call.](https://youtu.be/YhRDRvl2cTk?feature=shared&t=13)
+- [Offside. This is a unique situation as the Laws say the chesting is a deliberate play and therefore offside resets.](https://youtu.be/a9bc40IUkhM?feature=shared&t=487) But, IFAB clarified this [here](https://www.thesun.co.uk/sport/football/13855042/offside-rule-change-manchester-city-bernardo-silva/) saying to wait until a pass, shot, or start dribbling before offside resets.
 
 
 It is subjective and could be interpreted differently by different people. The level of the game would affect this decision.
