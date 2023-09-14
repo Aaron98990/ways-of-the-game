@@ -28,11 +28,6 @@ If you are behind or even with the second-to-last defender when the ball is touc
 - [No offside. The player with the assist in their run-up, is in line with the second-to-last defender when played by a team-mate. The player that scores is behind the ball when played by a team-mate. ](https://youtu.be/d9gU6kmlagI)
 - [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak&t=18)
 
-> A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
-
-So, if the ball is deliberately played (not deflected) by an opponent who is not near the goal you can never be offside. We review less clear examples in the "deflection" section below.
-
-[No offside. The ball is played by an opponent and the play wasn't a deflection. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?t=13s)
 
 ## Summary
 
@@ -103,7 +98,12 @@ A player does not have to touch the ball to commit an offside offense. The inter
 
 ## Deflection
 
-A deflection does not reset offside.
+> A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.
+
+- [No offside. The ball is deliberately played by an opponent. The referee always makes the final decision. ](https://youtu.be/beFY-IF6ahQ?t=13s)
+- [No offside. The ball is deliberately played by a defender.](https://www.youtube.com/watch?v=a_ZGoGb3Bpc)
+
+A deflection (not deliberate play) does not reset offside.
 
 > A player in an offside position at the moment the ball is played or touched by a
 > team-mate is only penalised on becoming involved in active play by:
@@ -112,7 +112,7 @@ A deflection does not reset offside.
 > - gaining an advantage by playing the ball or interfering with an opponent
 >   when it has:
 >   
->   - **rebounded or been deflected off the** goalpost, crossbar, **match official or an opponent**
+>   - **rebounded or been deflected off the** goalpost, crossbar, match official or **an opponent**
 > 
 > Lae 11 - Offside
 
@@ -161,6 +161,7 @@ A deliberate save does not reset offside.
 A save can be done by any opponent and not just the goalkeeper. The save does not need to use the hands/arms. Don't overthink the definition. Just think to yourself did the opponent block the ball (e.g. from a cross with some distance from the goal) or did the opponent save the ball (e.g. a shot towards goal or a cross very close to the goal)
 
 [Offside. A player is in an offside position when touched by the team-mate. The goalkeeper makes a deliberate save which means that offside is not reset. The player in the offside position then challenges for the for ball.](https://www.youtube.com/watch?v=MCJHXMxxyBk&ab_channel=NottinghamshireFA)
+[Offside. The player in an offside position (barely aheaed of the ball and clearly ahead of the second-last defender) touches the ball after a deliberate save.](https://youtu.be/Bdm7Gbd_yQM?feature=shared&t=169)
 
 
 ## Player outside the field of play
