@@ -1,4 +1,4 @@
-!> Important! Please go through Law 11 and the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations. It is linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
+!> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
 
 ## Never offside
 
@@ -116,8 +116,7 @@ A defender can deliberately attempt to block or play the ball (including moving 
 - [MUST WATCH! The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or not for offside.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/).
 - [Offside. Although the defender deliberately moves towards the ball, the touch by the defender is considered a deflection since they did not "played the ball to where they wanted to or should of been able to" because they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
 - [Offside. The defender did not have enough time to react so this is a deflection. This was the correct call back in 2015 but now this would be a wrong call.](https://youtu.be/YhRDRvl2cTk?feature=shared&t=13)
-- [Offside. This is a unique situation as the Laws say the chesting is a deliberate play and therefore offside resets.](https://youtu.be/a9bc40IUkhM?feature=shared&t=487) But, IFAB clarified this [here](https://www.thesun.co.uk/sport/football/13855042/offside-rule-change-manchester-city-bernardo-silva/) saying to wait until a pass, shot, or start dribbling before offside resets.
-
+- [Offside. This is a unique situation as the Laws say the chesting is a deliberate play and therefore offside resets.](https://youtu.be/a9bc40IUkhM?feature=shared&t=487) But, IFAB clarified this [here](https://www.thesun.co.uk/sport/football/13855042/offside-rule-change-manchester-city-bernardo-silva/) saying to wait until a defender clearly has possession of the ball before offside resets.
 
 It is subjective and could be interpreted differently by different people. The level of the game would affect this decision.
 
