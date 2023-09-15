@@ -1,5 +1,3 @@
-!> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
-
 ## Never offside
 
 > There is no offside offense if a player receives the ball directly from:
@@ -40,7 +38,7 @@ Offside offense:
 Offside position:
 - in opponent's half of the field and
 - ahead of ball and second-last defender
-- player off the the field of play has some exceptions
+- specials rules for a player that is off the field of play
 
 Active Play:
 - [1a] touching/playing the ball or
@@ -49,6 +47,8 @@ Active Play:
   - deflection by opponent or
   - ball off the goalpost or crossbar or match offical or
   - deliberate save
+ 
+!> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
 
 ## Close Calls
 
