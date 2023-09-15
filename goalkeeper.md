@@ -84,7 +84,7 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 > 
 > - prevents the goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
 
-[Indirect free kick. Player kicks ball while goalkeeper is releasing it. Also, generally a yellow card because of how blatant it is.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
+[Indirect free kick. Player kicks ball while goalkeeper is releasing it. Generally, an optional yellow card is given because of how blatant.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
 
 ## Six seconds and after releasing
 
@@ -133,7 +133,7 @@ If there is any doubt in the referee's mind, it should not be called. These woul
 ## Attempt to kick to release
 
 The law gives exception to "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play" for goalkeeper handball. Please note an attempt to kick the ball without releasing it to play does not meet the exception.
-- [Goalkeeper attempts to kick the ball to release the ball into play. Therefore, they can pick up the ball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=194)
+- [No offense. Goalkeeper attempts to kick the ball to release the ball into play. Therefore, they can pick up the ball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=194)
 
 ## Circumventing the "backpass" Law
 
