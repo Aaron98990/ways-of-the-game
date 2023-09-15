@@ -23,6 +23,8 @@ Goalkeepers must be distinguishable from other players and the match officials.
 
 Goalkeepers can take any restart (e.g. throw-ins) if it belongs to their team. 
 
+- [Goalkeeper takes a throw-in.](https://youtu.be/i9o1w6tu870?feature=shared&t=3)
+
 ## Boxing out the goalkeeper
 
 On corner kicks (and rarely on free kicks due to offside), players stand in front of the goalkeeper to limit their movement and sight. This is allowed if no other offense is being committed. Referees should warn player doing this that they commit an offense if they move into the path of the goalkeeper.
@@ -155,11 +157,9 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 > - bouncing it on the ground or throwing it in the air
 
 If there is contact with the goalkeeper, it is a direct free kick. If there is no contact with the goalkeeper and just the ball, it is an indirect free kick.
-- [Foul. Direct free kick since it involved contact. The player initiates contact on the goalkeeper or challenges for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
-
+- [Foul. Direct free kick since it involved contact. The player challenges the goalkeeper for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
 - [Foul. Direct free kick since the challenge involved contact with the goalkeeper after touching the ball after goalkeeper has two hands on the ball and its not a rebound. ](https://www.tiktok.com/t/ZPRW7popf/)
-
-- [No foul - Goal. Own team-mate, not an opponent challenges the goalkeeper for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
+- [No foul - Goal. The goalkeeper's team-mate, not their opponent, challenges them for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
 
 
 ## Double touch
