@@ -56,7 +56,7 @@ Some people will say that the goalkeeper is protected too much. In reality, refe
 
 ## Handball by goalkeeper
 
-The goalkeeper committing a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken (no SPA and no DOGSO)(Law 12.1).  If the goalkeeper commits a more serious offense at the same time (talked about in "Two offenses at once" section below), a goalkeeper can be penalised/carded only for the more serious offense.
+The goalkeeper committing a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken (no SPA and no DOGSO)(Law 12.1).  If the goalkeeper touches the ball directly after taking a restart (talked about in "double touch" section below), a goalkeeper can be penalised and carded for that offense.
 
 A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goal kick for their opponents (Law 10.1). 
 
