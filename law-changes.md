@@ -173,7 +173,7 @@ Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal
 Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
 - I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal).
 
-Common Interpretation I don't like: A player, expecting the goalkeeper to dive to attempt to save the ball, changes the direction of the ball and the goalkeeper trips the attacker and is technically a foul. But after the attacker redirected the ball, it was no longer playable and went to straight out of play.
+Common Interpretation I don't like: A player, expecting the goalkeeper to dive to attempt to save the ball, changes the direction of the ball or moves between the ball and the goalkeeper. The goalkeeper then trips the attacker and is technically a foul but the ball was not playable and went to straight out of play.
 - [The attacker kicks the ball out of play. This is penalty kick hunting and not a person trying to score a goal. Why is this rewarded?](https://www.youtube.com/watch?v=Qe-6MXtOtM4)
 - [Another one.](https://youtu.be/matwhFahR2Q?feature=shared&t=420)
 
