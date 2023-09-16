@@ -161,6 +161,9 @@ Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* g
 
 Interpretations or competition rules are below:
 
+Guidelines for Match Officials: If the goalkeeper blatantly moves off the goal line before the ball is kicked and prevents a goal from being scored, the AR should indicate the encroachment **according to the pre-match instructions from the referee** by raising their flag.
+- This is never discussed. Just put it in the Guidlines as this is the most used and won't confuse new referees.
+
 Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
 - I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal).
 
