@@ -61,6 +61,7 @@ These are clear cut cases of unnaturally bigger or not. Some part of the arm may
 
 SUBJECTIVE: When a defender attempts to block a pass or shot, if there is an unfair barrier with the hands/arm it is handball. Even a natural position that makes a player bigger (e.g. running motion) creates an unfair barrier because the intention of the defender is to move into the path of the pass or shot. The defender takes that risk. To avoid this, players often put their arms behind the back or close to their body/sides. Distance and time to react does not matter.
 - [Handball. The hands/arms are in a natural running motion. But, when you deliberately run in to attempt to block a shot/pass and create a barrier for the ball to pass yourself even when hands/arm are in natural position - you take on the risk. I would call that handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43)
+- [Handball. Does not matter if it hits the hand/arm closer or further away from the ball.](https://youtu.be/UbmKlHk2pgE?feature=shared&t=217)
 - [Handball. Although this was at close distance from the last play of the ball, the defender creates an unfair 2D barrier.](https://youtu.be/Y0eWXnECHiw?feature=shared&t=165)
 - [Handball. Similar to above. Distance and time to react does not matter.](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
 <!-- Premier says the above (Leicester City v. Wolves 11/8/2020 is not a handball https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree -->
