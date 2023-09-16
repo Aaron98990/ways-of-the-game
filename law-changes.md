@@ -161,8 +161,14 @@ Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* g
 
 Interpretations or competition rules are below:
 
-Guidelines for Match Officials: If the goalkeeper blatantly moves off the goal line before the ball is kicked and prevents a goal from being scored, the AR should indicate the encroachment **according to the pre-match instructions from the referee** by raising their flag.
+Guidelines for Match Officials: If the goalkeeper blatantly moves off the goal line before the ball is kicked and prevents a goal from being scored, the AR should indicate the encroachment ~~according to the pre-match instructions from the referee~~ *by raising their flag*.
 - This is never discussed. Just put it in the Guidlines as this is the most used and won't confuse new referees.
+
+Guidelines for Match Officials: If there is no fourth official *and there are a limited number of substitutions*, the AR moves to the halfway line to assist with the substitution procedure; the referee must wait until the AR is back in position before restarting play. [Similar change to following paragraph]
+- Most grassroot games have unlimited substitions and an assistant referee moving constantly back and fourth is a waste of time.
+
+Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal kick" section including the associated diagrams]
+- An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees] don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.
 
 Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
 - I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal).
