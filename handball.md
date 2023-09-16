@@ -42,6 +42,7 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 ## Deliberate
 
 [Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/fM_WkMvOogQ?t=29)
+[Handball. Moves hand/arm towards ball - a slight motion still counts.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205)
 
 ## Unnaturally bigger
 
