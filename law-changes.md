@@ -116,6 +116,7 @@ I focus on agreeable changes, not my whacky ones below:
 Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal~~ (even if contact was made with the ball) unless the interference was by the attacking team. (Also, similar change for Law 10.1)
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
 - [The outside agent (dog) enters the field of play and denies the goal.](https://www.tiktok.com/@refsneedlovetoo/video/7273264932186017066)
+- [another one.](https://youtu.be/afhWQumYO24?feature=shared)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
 
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
