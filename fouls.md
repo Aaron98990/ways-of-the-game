@@ -97,7 +97,8 @@ This is covered in the [goalkeeper section](/goalkeeper)
 > - If a [non-player] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
 > 
 > Law 12.4 (I re-worded a lot so not an exact quote)
-[A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
+
+- [A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
 
 ## Other Offenses
 > An indirect free kick is awarded if a player: is guilty of dissent, using offensive, insulting or abusive language and/or action(s) or other verbal offences OR commits any other offence, not mentioned in the Laws, for which play is stopped to caution or send off a player
