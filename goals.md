@@ -154,7 +154,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 > - Guidelines for Match Officials 
 
 - [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701)
-- [TODO - Does anyone have video of assistant referee flagging for a not clear goal. Send it in.]
+- [The assistant referee raises their flag then runs along the touch line on a not clear goal.](https://youtu.be/8XVcUWf562k?feature=shared&t=294)
 
 ## Fighting for the Ball After a Goal
 
