@@ -35,7 +35,7 @@ On corner kicks (and rarely on free kicks due to offside), players stand in fron
 > - Law 12.2
 
 If there is contact with the goalkeeper, the restart is a direct free kick. If there is no contact with the goalkeeper, the restart is an indirect free kick.
-- [A player legally stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
+- [A player fairly stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
 
 ## Playing distance
 
@@ -86,7 +86,8 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 > 
 > - prevents the goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
 
-[Indirect free kick. Player kicks ball while goalkeeper is releasing it. Generally, an optional yellow card is given because of how blatant.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
+- [Indirect free kick. Player kicks ball while goalkeeper is releasing it. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
+- [Indirect free kick. Player attempts to head the ball while goalkeeper is releasing the ball from the hands. Generally, a non-mandatory yellow card is given because of how blatant it is.]([https://www.youtube.com/watch?v=fm0SBD5Pfd0](https://youtu.be/matwhFahR2Q?feature=shared&t=405))
 
 ## Six seconds and after releasing
 
@@ -159,6 +160,7 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 If there is contact with the goalkeeper, it is a direct free kick. If there is no contact with the goalkeeper and just the ball, it is an indirect free kick.
 - [Foul. Direct free kick since it involved contact. The player challenges the goalkeeper for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
 - [Foul. Direct free kick since the challenge involved contact with the goalkeeper after touching the ball after goalkeeper has two hands on the ball and its not a rebound. ](https://www.tiktok.com/t/ZPRW7popf/)
+- [Foul. Indirect free kick since the challenge involved no contact with the goalkeeper. The goalkeeper is in control of the ball when bouncing the ball.](https://youtu.be/vNOd5LPVUcw?feature=shared&t=35)
 - [No foul - Goal. The goalkeeper's team-mate, not their opponent, challenges them for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
 
 
