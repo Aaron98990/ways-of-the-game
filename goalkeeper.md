@@ -157,7 +157,7 @@ Note that initiating the deliberate trick is the offense, whether or not the goa
 > - holding the ball in the outstretched open hand
 > - bouncing it on the ground or throwing it in the air
 
-If there is contact with the goalkeeper, it is a direct free kick. If there is no contact with the goalkeeper and just the ball, it is an indirect free kick.
+If the offense involves contact with the goalkeeper, it is a direct free kick. Else, it is an indirect free kick.
 - [Foul. Direct free kick since it involved contact. The player challenges the goalkeeper for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
 - [Foul. Direct free kick since the challenge involved contact with the goalkeeper after touching the ball after goalkeeper has two hands on the ball and its not a rebound. ](https://www.tiktok.com/t/ZPRW7popf/)
 - [Foul. Indirect free kick since the challenge involved no contact with the goalkeeper. The goalkeeper is in control of the ball when bouncing the ball.](https://youtu.be/vNOd5LPVUcw?feature=shared&t=35)
@@ -169,5 +169,5 @@ If there is contact with the goalkeeper, it is a direct free kick. If there is n
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > - Law 12.1 Direct free kick
 
-Cards cannot be shown for handball by the goalkeeper in their own penalty area but can be shown if the restart taker touches the ball before it touches another person.
+Cards cannot be shown for handball by the goalkeeper in their own penalty area unless the restart taker touches the ball before it touches another person.
 
