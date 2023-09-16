@@ -87,6 +87,7 @@ A player does not have to touch the ball to commit an offside offense. The inter
 - [Not offside. The players in an offside position do not impact the goalkeeper since he made no attempt to save it.](https://www.youtube.com/watch?v=J-NgA7edzy4)
 - [Not offside. The player in the offside position does not impact opponents. The player who is onside plays the ball.](https://youtu.be/svs8ZH0gBgE?t=108)
 - [Not offside. The player in the offside position does not impact opponents. The player who is onside plays the ball.](https://www.youtube.com/watch?v=lkuCCcVbzVU)
+- [Not offside. The player in an offside position on the goalline does not impact thier opponents and moves away from the ball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=159)
 <!-- Aweomse site with examples from PRO - some outdated https://proreferees.com/2015/03/02/pro-training-camp-offside-discussions/ -->
 
 
