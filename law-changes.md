@@ -166,5 +166,6 @@ Common Interpretation I don't like: If a handball is committed when a shot is go
 
 Common Interpretation I don't like: A player, expecting the goalkeeper to dive to attempt to save the ball, changes the direction of the ball and the goalkeeper trips the attacker and is technically a foul. But after the attacker redirected the ball, it was no longer playable and went to straight out of play.
 - [The attacker kicks the ball out of play. This is penalty kick hunting and not a person trying to score a goal. Why is this rewarded?](https://www.youtube.com/watch?v=Qe-6MXtOtM4)
+- [Another one.](https://youtu.be/matwhFahR2Q?feature=shared&t=420)
 
 Competition Rule Gripe: American sports will have the player's number on more than one side of the jersey but soccer teams generally only have one jersey number. It makes it hard to identify players.
