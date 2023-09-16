@@ -111,7 +111,7 @@ Offenses that will nullify a goal.
 > 
 > the referee must disallow the goal if the extra person was:
 > - a player, substitute, substituted player, sent-off player or team official of the team that scored the goal; play is restarted with a direct free kick from the position of the extra person
-> - an outside agent who interfered with play unless a goal results as outlined above in ‘Extra persons on the field of play’; play is restarted with a dropped ball
+> - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
 > - Law 3.9
 
 If the ball goes into the goal but deflected off someone that enters the field of play to block the goal, the goal should generally stand.
@@ -119,6 +119,8 @@ If the ball goes into the goal but deflected off someone that enters the field o
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > 
 > Law 3.7 Extra persons on the field of play
+
+- [TODO - Super rare situation above. Does anyone have a video of it happening - send it in]
 
 ## No footwear or shinguards
 
@@ -151,7 +153,8 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 > 
 > - Guidelines for Match Officials 
 
-[The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701) 
+- [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701)
+- [TODO - Does anyone have video of assistant referee flagging for a not clear goal. Send it in.]
 
 ## Fighting for the Ball After a Goal
 
@@ -168,6 +171,7 @@ It is accepted that referees do not add enough additional time, so the losing te
 > - removing the shirt or covering the head with the shirt
 > - Law 12.3 Disciplinary Action
 
+- [A player celebrating a goal approaches spectators in a manner which causes security issues and must be cautioned.](https://youtu.be/twUjLLSC3EY?feature=shared&t=746)
 - [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
 - [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
 
