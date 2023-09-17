@@ -67,7 +67,7 @@ Handball is often thought of a direct free kick offense. But the Laws of the gam
 > - a handball offense (except for the goalkeeper within their penalty area)
 > - Law 12.2 Direct free kick
 
-The goalkeeper committing a handball offense in their own penalty area (six seconds, after releasing, "backpass") is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken unless the goalkeeper touches the ball directly after taking a restart, a goalkeeper can be penalised and carded for that offense.
+The goalkeeper committing a handball offense in their own penalty area (six seconds, after releasing, "backpass") is always an indirect free kick (not a penalty kick) as shown in the [restarts section](/restarts?id=indirect-free-kick) and no sanction and no disciplinary action is taken unless the goalkeeper touches the ball directly after taking a restart.
 
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > - Law 12.1 Direct free kick
