@@ -62,13 +62,10 @@ Just because a player receives the ball ahead of everyone does not necessarily m
 
 When a player receives a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside position when the ball was touched by a team-mate. 
 
-[TODO - Video of off then not]
-
-As a matter of fact if they are in an offside position and touch the ball on their team's side of the field, the restart will be on the player's own half. Players will be grumpy about this but it is the correct call.
-
 > If an offside offense occurs, the referee awards an indirect free kick where the offense occurred, including if it is in the player’s own half of the field of play.
 
-[TODO - Video of restart from offside in offender's own half. ]
+- [Offside. Player comes from offside position to play the ball from a team-mate after it was deflected by an opponent.](https://youtu.be/hI9GjOGnWbw?feature=shared&t=134)
+- [TODO - Video of restart from offside in offender's own half. ]
 
 ## Interfering with an opponent
 A player does not have to touch the ball to commit an offside offense. The interfering with an opponent must meet at least one of the four these criteria. If not, it is not considered interfering with an opponent by the Laws including cases where an offside player is nearby the ball or an opponent.
