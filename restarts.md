@@ -126,6 +126,7 @@ For all restarts except dropped balls, the person who takes the restart can't to
 "the [kicker/thrower must] not touch the ball again until it has touched another player"
 - [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
 - [Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
+
 "A free kick can be taken by lifting the ball with a foot or both feet simultaneously" - this applies to any restart that is kicked
 
 For dropped balls, the player can start dribbing the ball as the ball is in play.
