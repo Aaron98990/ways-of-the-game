@@ -1,3 +1,25 @@
+> It is not an offence to be in an offside position.
+
+Offside offense:
+- Offside position when the ball is touched by a team-mate and
+- ball not directly from goal kick, throw-in, or corner kick and
+- becoming involved in active play
+
+Offside position:
+- in opponent's half of the field and
+- ahead of ball and second-last defender
+- specials rules for a player that is off the field of play
+
+Active Play:
+- [1a] touching/playing the ball or
+- [2a] interfering with an opponent or
+- gaining an advantage by [1a] or [2a] after:
+  - deflection by opponent or
+  - ball off the goalpost or crossbar or match offical or
+  - deliberate save
+ 
+!> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
+
 ## Never offside
 
 > There is no offside offense if a player receives the ball directly from:
@@ -25,30 +47,6 @@ If you are behind or even with the second-to-last defender when the ball is touc
 
 - [No offside. The player with the assist in their run-up, is in line with the second-to-last defender when played by a team-mate. The player that scores is behind the ball when played by a team-mate. ](https://youtu.be/d9gU6kmlagI)
 - [Offside. The player that scores the goal is behind only one defender when the ball is passed to them by a team-mate.](https://www.youtube.com/watch?v=GMzL2Uym5Ak&t=18)
-
-## Summary
-
-> It is not an offence to be in an offside position.
-
-Offside offense:
-- Offside position when the ball is touched by a team-mate and
-- ball not directly from goal kick, throw-in, or corner kick and
-- becoming involved in active play
-
-Offside position:
-- in opponent's half of the field and
-- ahead of ball and second-last defender
-- specials rules for a player that is off the field of play
-
-Active Play:
-- [1a] touching/playing the ball or
-- [2a] interfering with an opponent or
-- gaining an advantage by [1a] or [2a] after:
-  - deflection by opponent or
-  - ball off the goalpost or crossbar or match offical or
-  - deliberate save
- 
-!> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
 
 ## Close Calls
 
@@ -102,7 +100,7 @@ A player does not have to touch the ball to commit an offside offense. The inter
 A deflection (not deliberate play) does not reset offside.
 
 > - gaining an advantage by playing the ball or interfering with an opponent when it has:
->   - **rebounded or been deflected off the** goalpost, crossbar, match official or **an opponent**
+>   - **rebounded or been deflected off** the goalpost, crossbar, match official or **an opponent**
 
 In Circular no. 26 and the 2023/24 Laws of the Game, IFAB released a major change to whether a touch of the ball should be determined as a deflection or not. Many examples about deflection / deliberate play before 2023 will be wrong since they use outdated deflection interpretation.
 
@@ -116,14 +114,13 @@ A defender can deliberately attempt to block or play the ball (including moving 
 - [Offside. This is a unique situation as the Laws say the chesting is a deliberate play and therefore offside resets.](https://youtu.be/a9bc40IUkhM?feature=shared&t=487) But, IFAB clarified this [here](https://www.thesun.co.uk/sport/football/13855042/offside-rule-change-manchester-city-bernardo-silva/) saying to wait until a defender clearly has possession of the ball before offside resets so offside should be called.
 
 
-## Ball off the goalpost or crossbar
+## Ball off goal or match official
 
 A ball off the goalpost or crossbar does not reset offside.
 
 > - gaining an advantage by playing the ball or interfering with an opponent
 >   when it has:
->   - **rebounded or been deflected off the goalpost, crossbar**, match official or
->     an opponent
+>   - **rebounded or been deflected off the goalpost, crossbar, match official** or an opponent
 
 ## Deliberate save
 
