@@ -141,19 +141,15 @@ If there is any doubt in the referee's mind, it should not be called. These woul
 - the ball was kicked to by an opponent
   - [No offense. The goalkeeper can still pick the ball up after kicking it around since it came from an opponent.](https://youtu.be/kFkFtgqXiO4?t=726) 
 
-## Attempt to kick to release
-
-The law gives exception to "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play" for goalkeeper handball. Please note an attempt to kick the ball without releasing it to play does not meet the exception.
+The "backpass" law gives an exception: "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play". Please note an attempt to kick the ball to continue dribbling (and not releasing it to play) does not meet the exception.
 - [No offense. Goalkeeper attempts to kick the ball to release the ball into play. Therefore, they can pick up the ball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=194)
 
 ## Circumventing the "backpass" Law
 
-> [It is an indirect free kick offense/ caution for unsporting behavior if a player:]
-> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned/penalised if responsible for initiating the deliberate trick
+> [It is an indirect free kick offense and caution for unsporting behavior if a player:]
+> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is penalised and cautioned if responsible for initiating the deliberate trick
 > - Law 12.2/12.3 Indirect free kick/ Disciplinary Action
 
 Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter.
 - [A goalkeeper initiates a deliberate trick to be able to handle the ball. The goalkeeper must be cautioned and play is restarted with an indirect free kick.](https://streamable.com/ohy4r)
 - [A player initiates a deliberate trick for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
-
-
