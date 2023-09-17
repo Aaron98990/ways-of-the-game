@@ -100,7 +100,7 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 > - prevents the goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
 
 - [Indirect free kick. Player kicks ball while goalkeeper is releasing it. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
-- [Indirect free kick. Player attempts to head the ball while goalkeeper is releasing the ball from the hands. Generally, a non-mandatory yellow card is given because of how blatant it is.]([https://www.youtube.com/watch?v=fm0SBD5Pfd0](https://youtu.be/matwhFahR2Q?feature=shared&t=405))
+- [Indirect free kick. Player attempts to head the ball while goalkeeper is releasing the ball from the hands. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://youtu.be/matwhFahR2Q?feature=shared&t=405)
 
 ## Six seconds and after releasing
 
