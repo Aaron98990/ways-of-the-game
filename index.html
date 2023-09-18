@@ -78,9 +78,12 @@
       crossChapter: true,
       crossChapterText: true,
       themeColor: '#3F51B5',
-      search: {
-        paths: ['/excessive-force']
-      }
+      // search: {
+      //   paths: ['/', '/advantage', '/excessive-force', '/goalkeeper', '/goals', '/handball', '/law-changes', '/misconduct','/offside','/reckless','/restarts','/spirit-of-the-game','/tactical-impact']
+      // },
+      // To avoid search index collision
+      // between multiple websites under the same domain
+      namespace: 'ways-of-the-game',
     }
   </script>
 
