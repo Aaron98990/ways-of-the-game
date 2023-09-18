@@ -116,11 +116,13 @@ A defender can deliberately attempt to block or play the ball (including moving 
 
 ## Ball off goal or match official
 
-A ball off the goalpost or crossbar does not reset offside.
+A ball off the goalpost, crossbar, or match offcial does not reset offside.
 
 > - gaining an advantage by playing the ball or interfering with an opponent
 >   when it has:
 >   - **rebounded or been deflected off the goalpost, crossbar, match official** or an opponent
+
+- [Offside. A player in an offside position plays the ball after the ball rebounds off the goal.](https://youtu.be/FfG0XIEu75s?feature=shared&t=238)
 
 ## Deliberate save
 
