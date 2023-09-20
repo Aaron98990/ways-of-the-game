@@ -25,17 +25,17 @@ Windy conditions mean that a ball can't be stationary on the ground although the
 - [Although the ball is not on the field of play and not stationary when kicked, due to the windy conditions I would allow it as it in the spirit of the game.](https://www.tiktok.com/@refsneedlovetoo/video/7262071167090003242)
 
 Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players offending by wearing sleeveless shirts, player offending by wearing non-sport spectacles
-- For lower levels of football, there is no need to strictly apply these Laws unless it creates an unfair advantage or distraction to opponents. 
+- For lower levels of football, there is no need to strictly apply these Laws unless it creates an unfair advantage or distraction to opponents or it is not safe.
 
-Corner flags are missing, the touchline/goal line are not straight, the penalty area is not the proper size, or the goals are not the proper size.
-- For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play.
+Corner flags are missing, the touchline/goal line are not straight, the penalty area is not the proper size, or the goals are not the proper size. No penalty mark for penalty kicks.
+- For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play. If the penalty mark is missing, count 12 yards from the goal line to place the ball when a penalty kick is given.
 
 A ball is about to clearly go outside the field of play but a non-player touches it. 
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
-- [A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as there is no team gains an unfair advantage.](https://www.youtube.com/watch?v=83PkzKCCiYo)
+- [A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as  no team gains an unfair advantage.](https://www.youtube.com/watch?v=83PkzKCCiYo)
 
-For lower levels of football, skipping the coin toss to save time is okay.
-- Especially with back to back games or behind schedule games, the referee may just choose sides or who kick-offs.
+For lower levels of football, skipping the coin toss to save time is okay, havings the assistant referee do the coin toss, or using a different method to determine sides/kick-off when no one has a coin.
+- Especially with back to back games or behind schedule games, the referee may just choose sides or who kick-offs. Although against the Laws, if an assistant referee is doing the coin toss to save time - no one will throw a fit. And in lower levels of the game if no one has coin and they use the guess if one or two fingers are behind, that is fine.
 
 A team had limited or no subs. The opposing team has a full roster. The team with the full roster wants no cooling break (water break) or a shorter drinks break (water break).
 - To allow the teams with limited or no subs to fully recover and for their safety, it is fair to go through with the full cooling break (water break). There is no requirement that both teams must agree to a water break.
@@ -59,13 +59,13 @@ If a player only has one arm, allow them to take the throw-in with their one arm
 - While the Laws of the Game require two hands, there is no clear advantage with throwing the ball with one arm. Allow it.
 
 The goalkeeper goes to retrieve the ball, the referee should hold play until the goalkeeper returns. 
-- [The referees disallow a goal because they started play while the goalkeeper was retrieving a ball (2 whistle).](https://youtu.be/dZU1x2Op9pA?t=433)
+- [The match officials disallow a goal because they started play while the goalkeeper was retrieving a ball.](https://youtu.be/dZU1x2Op9pA?t=433)
 - For lower levels of football, this is acceptable as the goalkeeper may not understand the tactical advantage they are giving the other team or there may not be enough people to retrieve balls.
 
 Allowing all players, including the goalkeeper, to be ready for a kickoff after celebrating a goal.
 - It is the fair thing to do.
 
-A player playing on a multi-line field takes the throw-in from the wrong line.
+A player playing on a multi-sport field takes the throw-in from the wrong line.
 - Allow the player to retake the throw-in from the correct line. If it happens again to the same team, penalize the offense as according to the Laws of the Game.
 
 The referee only allows a player to re-enter the field if they cannot immediately interfere with play.

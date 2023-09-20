@@ -10,14 +10,15 @@
 > 
 > - Law 1.10 - Goals
 
-Goal nets, especially in lower levels of the game, will have holes in them. Just because a ball is in the goal within the nets does not mean that a goal has been scored. So, be aware of both situations:
+Be aware of both situations near a goal:
 
-- The ball enters the goal but leaves through a hole in the net
-- The ball enters the goal through a hole in the net
+- The ball leaving/entering the nets through a hole
+- The match ball hitting the netting support (backpost), water bottle, ball or another object and returning to the field of play
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
-[Goal. Ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+- [Goal. The ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+- [No goal. The ball enters the nets through a hole.](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports)
 
 ## Crossbar and goalpost
 
@@ -109,17 +110,17 @@ Offenses that will nullify a goal.
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
 > 
 > the referee must disallow the goal if the extra person was:
-> 
 > - a player, substitute, substituted player, sent-off player or team official of the team that scored the goal; play is restarted with a direct free kick from the position of the extra person
-> 
-> - an outside agent who interfered with play unless a goal results as outlined above in ‘Extra persons on the field of play’; play is restarted with a dropped ball
->   Law 3.9 Goal scored with an extra person on the field of play
+> - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
+> - Law 3.9
 
 If the ball goes into the goal but deflected off someone that enters the field of play to block the goal, the goal should generally stand.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > 
 > Law 3.7 Extra persons on the field of play
+
+- [TODO - Super rare situation above. Does anyone have a video of it happening - send it in]
 
 ## No footwear or shinguards
 
@@ -152,7 +153,8 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 > 
 > - Guidelines for Match Officials 
 
-[The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701) 
+- [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701)
+- [The assistant referee raises their flag then runs along the touch line on a not clear goal.](https://youtu.be/8XVcUWf562k?feature=shared&t=294)
 
 ## Fighting for the Ball After a Goal
 
@@ -169,9 +171,9 @@ It is accepted that referees do not add enough additional time, so the losing te
 > - removing the shirt or covering the head with the shirt
 > - Law 12.3 Disciplinary Action
 
-[A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
-
-[A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
+- [A player celebrating a goal approaches spectators in a manner which causes security issues and must be cautioned.](https://youtu.be/twUjLLSC3EY?feature=shared&t=746)
+- [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
+- [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
 
 ## Restart after a goal
 
@@ -186,7 +188,7 @@ It is accepted that referees do not add enough additional time, so the losing te
 > - Law 10.2 Winning team
 
 
-## Tie breaker
+## Tie-breaker
 
 Most matches where the score is tied will in a tie. The only exception is where competition rules require a winner.
 

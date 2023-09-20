@@ -78,9 +78,12 @@
       crossChapter: true,
       crossChapterText: true,
       themeColor: '#3F51B5',
-      search: {
-        paths: ['/ways-of-the-game/#/excessive-force/']
-      }
+      // search: {
+      //   paths: ['/', '/advantage', '/excessive-force', '/goalkeeper', '/goals', '/handball', '/law-changes', '/misconduct','/offside','/reckless','/restarts','/spirit-of-the-game','/tactical-impact']
+      // },
+      // To avoid search index collision
+      // between multiple websites under the same domain
+      namespace: 'ways-of-the-game',
     }
   </script>
 
@@ -100,6 +103,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- docsify-glossary - commented out since it cuts links when it has word in glossary _glossary.md file was used for this -->
+  <!-- <script src="//unpkg.com/docsify-glossary/dist/docsify-glossary.min.js"></script> -->
   
 
 </body>

@@ -9,7 +9,7 @@ This is the only place I blatantly insert my opinion. Other places are less blat
 [Law changes document.](https://downloads.theifab.com/downloads/lotg_changes_23_24_en?l=en)
 
 - Major change of the definition of  ‘deflection’ as related to offside
-  - Discussed in [Offside](/offside) - I like this change. I felt like the old deflection definition favored the attackers too much. We can't punish defenders for ... defending.
+  - Discussed in [Offside Section](/offside) - I like this change. Should of happened 10 years ago. The old deflection definition favored the attackers too much. We can't punish defenders for defending ([like here](https://youtu.be/Q_Jzpz-b89E?feature=shared&t=8) and [here](https://www.mlssoccer.com/news/pro-explains-decision-allow-jordan-hamiltons-controversial-goal) and [here](https://www.youtube.com/watch?v=F5W-bCa-t8Y&ab_channel=MajorLeagueSoccer))
 - Clarification for determining the sanction for DOGSO or SPA for an offense that leads to a penalty kick. An attempt to play the ball includes challenging for the ball.
   - A player that charges into the back of an opponent may be attempting to play the ball. Great change! 
 
@@ -111,11 +111,12 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 
 ## Changes I want
 
-I focus on agreeable changes, not my whacky ones.
+I focus on agreeable changes, not my whacky ones below:
 
 Law 3.7 If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded ~~if the ball enters the goal~~ (even if contact was made with the ball) unless the interference was by the attacking team. (Also, similar change for Law 10.1)
 - [The outside agent (spectator) enters the field of play and denies the goal. The restart should be a dropped ball for the goalkeeper under current Laws. The Laws should allow the referee to award an goal here.](https://www.youtube.com/watch?v=5jaJKgk4g1M)
 - [The outside agent (dog) enters the field of play and denies the goal.](https://www.tiktok.com/@refsneedlovetoo/video/7273264932186017066)
+- [another one.](https://youtu.be/afhWQumYO24?feature=shared)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
 
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
@@ -139,14 +140,6 @@ Law 11.4 A defending player who leaves the field of play without the referee’s
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
 - The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from there. 
 
-Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
-- Small fix. 
-
-Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
-- Just to make it clear that it is not contact with the ball. "a team-mate, substitute, substituted or sent-off player, team official or a match official" could be substituted instead" is acceptable but too long.
-
-Law 12.2 commits any other offence, ~~not mentioned in the Laws~~ where the Laws don't mention a restart, for which play is stopped to caution or send off a player
-- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart. But, if the simulation involved contact with a person it is a direct free kick.
 
 Law 9.1 The ball is out of play when: it touches a match official, remains on the field of play and:
 ~~- a team starts a promising attack or~~
@@ -155,5 +148,33 @@ Law 9.1 The ball is out of play when: it touches a match official, remains on th
 - Starts a promising attack is way to vague. In the [tactical impact section](/tactical-impact), I don't even give a real definition for SPA. The vagueness works for giving cautions but does not work after the ball touches the referee. While I'm not the biggest fan of "the team in possession of the ball changes", it is pretty factual.
 - [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed. While I believe the attacker would of lost the ball without the deflection from the referee and is the correct application of the Laws, I would like this goal to stand. There were zero complaints from the opponents.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
 
+Editorial changes are below:
+
+Law 12.2 commits any other offence, not mentioned in the Laws *or where the Laws don't mention a restart*, for which play is stopped to caution or send off a player
+- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart if there is no contact with an opponent. If the simulation involved contact with a person it is a direct free kick.
+
+Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
+- Just to make it clear that it is not contact with the ball. 
+
+Law 12.2 An indirect free kick is awarded if a player: prevents the *opposing* goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the *opposing* goalkeeper is in the process of releasing it
+- Small fix. 
+
+Interpretations or competition rules are below:
+
+Guidelines for Match Officials: If the goalkeeper blatantly moves off the goal line before the ball is kicked and prevents a goal from being scored, the AR should indicate the encroachment ~~according to the pre-match instructions from the referee~~ *by raising their flag*.
+- This is never discussed. Just put it in the Guidlines as this is the most used and won't confuse new referees.
+
+Guidelines for Match Officials: If there is no fourth official *and there are a limited number of substitutions*, the AR moves to the halfway line to assist with the substitution procedure; the referee must wait until the AR is back in position before restarting play. [Similar change to following paragraph]
+- Most grassroot games have unlimited substitions and an assistant referee moving constantly back and fourth is a waste of time.
+
+Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal kick" section including the associated diagrams]
+- An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees] don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.
+
 Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
 - I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal).
+
+Common Interpretation I don't like: A player, expecting the goalkeeper to dive to attempt to save the ball, changes the direction of the ball or moves between the ball and the goalkeeper. The goalkeeper then trips the attacker and is technically a foul but the ball was not playable and went to straight out of play.
+- [The attacker kicks the ball out of play. This is penalty kick hunting and not a person trying to score a goal. Why is this rewarded?](https://www.youtube.com/watch?v=Qe-6MXtOtM4)
+- [Another one.](https://youtu.be/matwhFahR2Q?feature=shared&t=420)
+
+Competition Rule Gripe: American sports will have the player's number on more than one side of the jersey but soccer teams generally only have one jersey number. It makes it hard to identify players.

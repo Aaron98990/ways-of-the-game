@@ -6,7 +6,11 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 > 
 > 12.3 Disciplinary action
 
-You may not give a caution or send-off to an outside agent (e.g. spectator, ball kid) or a sent-off player. In the cases where the referee want an outside agent  or sent-off player removed, the referee can suspend the game until that happens. If the outside agent or sent-off player remains, the referee can abandon match.
+A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee want an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent or sent-off person remains, the referee can abandon the match.
+
+> The referee: keeps a record of the match and provides the appropriate authorities with a match report, including information on disciplinary action and any other incidents that occurred before, during or after the match Law 5.3
+
+Footballl associations (FAs) often create codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
 
 ## Referee's authority
 
@@ -17,6 +21,8 @@ You may not give a caution or send-off to an outside agent (e.g. spectator, ball
 
 A referee can show yellow and red cards when they enter the field of play to start the match including during the coin toss, national anthem, and referee/player walkout until they leave the field of play after the match ends. 
 [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
+
+Temporarily dismissing a player (sin bin) is the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
 
 ## Player send-offs
 
@@ -29,11 +35,15 @@ A referee can show yellow and red cards when they enter the field of play to sta
 > 
 > Law 3.6 Players and substitutes sent off
 
-Game(s) suspension, other than current game, for a send-off or accumulating cautions is found in the competition rules, not in the Laws of the Game. Usually, it's at least a one game suspension for a sending-off. 
+Game(s) suspension other than listed above or fines for a send-off or accumulating cautions is found in the competition rules, not in the Laws of the Game. Usually, it's at least a one game suspension for a sending-off. 
 
 > A player, substitute or substituted player who has been sent off must leave the vicinity of the field of play and the technical area.
 
 Many times competition rules will require the sent-off adult participant to be out-of-sight and out-of-sound and allow sent-off minors to stay in the technical area.
+
+> A match may not start or continue if either team has fewer than seven players. Law 3.1
+
+If a team only has 10 players with no subs and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game. The team would only have six players which is lower than the required seven players.
 
 ## Issuing card after play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
@@ -204,9 +214,14 @@ If you just left the field without the referee's permission (deliberately or not
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
+  - stepping over an opponent
+  - clapping in an opponent's face
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
-- blatantly fouling a player (e.g. holding, tugging shirt with two hands) or blatantly committing handball
+- blatantly commiting an offfense
+  - holding a player's jersey (e.g. holding, tugging shirt with two hands)
+  - blatantly committing handball
+  - attempting to kick the ball the ball when the goalkeeper is releasing it
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
@@ -251,12 +266,17 @@ See the [excessive force section](/excessive-force).
 
 > - using offensive, insulting or abusive language and/or action(s)
 
+<!-- tabs:start -->
+### **Action**
+- [Abusive action. Beckham makes unnecessary contact with a match official and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
+- [Abusive action. The player of the black team gets into the opponent's face daring him to fight.](https://youtu.be/WQUzJf9sHQY?feature=shared&t=910)
+- [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
+- includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
 
-You'll know it when you see it.
-- [Beckham makes unnecessary contact with a match official and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
-- [Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
-- including physical actions towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent 
-
+### **Language**
+- Threatening/wishing violence or injury to another person
+- An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
+<!-- tabs:end -->
 > - receiving a second caution in the same match
 
 ## Team officials

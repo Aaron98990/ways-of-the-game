@@ -4,10 +4,17 @@ Soccer is a physical sport. Not every contact with the opponent is a foul.
 - [No foul. Although there is contact the head, the attacker runs into the defender's path/arm who is clearing the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
 Fouls that occur before or after a player wins/touches the ball should be penalized.
-- [Foul & YC. Player gets the ball then slide tackles their opponent in a reckless manner.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
-- [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
+- [Foul & YC for reckless play. Player gets the ball then slide tackles their opponent.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
+- [Foul & RC for DOGSO. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
+
+> ‘What needs to be seen’ is not always in the vicinity of the ball. The referee should also pay attention to:
+> - player confrontations off the ball
+> - possible offences in the area towards which play is moving
+> - offences occurring after the ball is played away
+
+- [Foul and YC for lack of respect for the game. While away from the ball, the opponent impedes an opponent with contact. A foul while not challenging for the ball is blatant and shows a lack of respect for the game.](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
@@ -17,21 +24,19 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 
 ## Tackles
 
-[No foul. The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been committed. ](https://www.youtube.com/watch?v=AKa17voHa2k)
+- [No foul. The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been committed. ](https://www.youtube.com/watch?v=AKa17voHa2k)
+- [Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Although the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
 
-[Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Although the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
-
-[No foul. The defender comes in with the bottom of his cleats exposed which contain studs. His cleats land on the top of the ball and clears the ball out of the field of play. Going in to a challenge like this is risky and if mis-timed would be an easy yellow or red card.](https://youtu.be/1g2DRURrbAo?t=735)
+- [No foul. The defender comes in with the bottom of his cleats exposed which contain studs. His cleats land on the top of the ball and clears the ball out of the field of play. Going in to a challenge like this is risky and if mis-timed would be an easy yellow or red card.](https://youtu.be/1g2DRURrbAo?t=735)
 
 ## Jumps At
 
-[Foul. No Card. No contact to the head. Both players are genuinely going for the ball.](https://youtu.be/Q3Vg9y1j8vY?t=510)
-
-[Foul. No Card. While one player is not even looking at the ball, the amount of force was minimal. ](https://www.youtube.com/watch?v=mjuiEPfchz0)
+- [Foul. No Card. No contact to the head. Both players are genuinely going for the ball.](https://youtu.be/Q3Vg9y1j8vY?t=510)
+- [Foul. No Card. While one player is not even looking at the ball, the amount of force was minimal. ](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
 ## Charge
 
-A player cannot be charged (even fairly) by an opponent when not in playing distance of the ball.
+A player cannot be charged (even what is normally considered fair) by an opponent when not in playing distance of the ball.
 
 > If the ball is within playing distance, the player may be fairly charged by an opponent.
 > 
@@ -57,7 +62,7 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 >
 > A player may shield the ball by taking a position between an opponent and the ball if the ball is within playing distance and the opponent is not held off with the arms or body. If the ball is within playing distance, the player may be fairly charged by an opponent.
 
-Impeding the progress of an opponent, often called obstruction, is a direct free kick if contact was made. It is an indirect free kick if no contact was made.
+Impeding the progress of an opponent, often called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
 
 [A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
 
@@ -78,7 +83,7 @@ Holding the ball between the thighs and jumping like a kangaroo when an opponent
 
 
 ## Fouls against the goalkeeper
-These are indirect free kicks if no contact is made with the goalkeeper:
+These are indirect free kicks if the offense involves no contact with the goalkeeper:
 - preventing/blocking a goalkeeper from releasing the ball from their hands
 - trying to kick/play the ball when the goalkeeper is holding it
 
@@ -90,12 +95,13 @@ This is covered in the [goalkeeper section](/goalkeeper)
 > - If a [non-player] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
 > 
 > Law 12.4 (I re-worded a lot so not an exact quote)
-[A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
+
+- [A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
 
 ## Other Offenses
 > An indirect free kick is awarded if a player: is guilty of dissent, using offensive, insulting or abusive language and/or action(s) or other verbal offences OR commits any other offence, not mentioned in the Laws, for which play is stopped to caution or send off a player
 
-Simulation / Attempting to deceive the referee would be an indirect free kick if no contact with a person.
+Simulation / Attempting to deceive the referee would be an indirect free kick if the offense involves no contact with another person.
 
 
 ## Offense outside the field of play

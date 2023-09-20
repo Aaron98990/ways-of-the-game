@@ -24,6 +24,7 @@ The goalkeeper releasing the ball after control with the hand/arms is not a rest
 The restart is taken at the position the offense requires or where the ball left the field of play except:
 - Goal kicks can be taken any where in the defending team's goal area
 - Corner kicks can be taken any where in the corner area nearest to the point where the ball passed over the goal line
+    - the corner flagpost must not be moved
 - indirect free kicks to the attacking team for an offense inside the opponents’ goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
 - free kicks to the defending team in their goal area may be taken from anywhere in that area
 - direct free kick offenses by the defender in the opponent's penalty area are a penalty kick taken at the penalty spot
@@ -95,6 +96,7 @@ If the referee measures distance on a free kick or wants to restart play from a 
 
 "An opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play." Law 13
 - [The defender stands right in front of the ball and fails to make an attempt to all allow the free kick to be taken. The player is cautioned.](https://www.youtube.com/watch?v=qDdkvYZLql0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=4)
+- [Same as the above.](https://youtu.be/VqaCkXYPsjM?feature=shared&t=4250)
 
 > Referees must caution players who delay the restart of play by:
 > - appearing to take a throw-in but suddenly leaving it to a team-mate to take
@@ -115,6 +117,8 @@ The referee channel has a list of 21 videos of examples of this that are availab
 
 > A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.3
 
+- [The ball is put into play after the referee measured distance for a free kick. The player is cautioned. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2876)
+
 ## Double touch by restart taker
 
 For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player else its an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule.
@@ -122,6 +126,7 @@ For all restarts except dropped balls, the person who takes the restart can't to
 "the [kicker/thrower must] not touch the ball again until it has touched another player"
 - [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
 - [Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
+
 "A free kick can be taken by lifting the ball with a foot or both feet simultaneously" - this applies to any restart that is kicked
 
 For dropped balls, the player can start dribbing the ball as the ball is in play.
@@ -187,7 +192,7 @@ One just clarifies the other. So, if there are more than one offenses at once we
 - Physical severity
 - Tactical impact
 
-If a non-goalkeeper picks up the ball anywhere or a goalkeeper picks up the ball outside their penalty area, two offenses have been committed at once:
+If directly after taking the restart a non-goalkeeper picks up the ball anywhere or a goalkeeper picks up the ball outside their penalty area, two offenses have been committed at once:
 - handball, punished by a direct free kick
 - restart kicker/thrower touches the ball again before it has touched another player, punished by an indirect free kick
 
@@ -197,8 +202,5 @@ Let's go to our tie-breaker list we stated above:
 
 Therefore, the offense is handball only since it is more serious and we restart with a direct free kick.
 
-If a goalkeeper picks up the ball in their penalty area (covered deeply in the [goalkeeper section](/goalkeeper)), two offenses have been committed at once:
-- handball by the goalkeeper in their own penalty area, punished by an indirect free kick
+If a goalkeeper picks up the ball in their penalty area (covered deeply in the [goalkeeper section](/goalkeeper)) directly after taking the restart, they have committed one offense:
 - restart kicker/thrower touches the ball again before it has touched another player, punished by a indirect free kick
-
-Both are indirect free kick offenses so the restart will be an indirect free kick. I cover the appropriate disciplinary action for the goalkeeper picking up the ball in their penalty area [goalkeeper section](/goalkeeper) in the "Two offenses at once" section.
