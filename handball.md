@@ -82,8 +82,9 @@ A defender clearing or saving the ball into their own hand/arm or a team-mate's 
 - [Not handball. The defender is off balance when attempting to clear the ball and his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
 - [Not handball. A defender attempting to clear the ball when the ball accidentally hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
 - [Not handball. The defender is trying to clear the ball and throwing their entire body to attempt to do so.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
+- [Not handball. Ball is cleared into team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
-When a player falls and the hand (and not any other part of arm) is on the ground (or about to be) to support the body, there is never handball. 
+When a player falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, there is never handball. 
 - [No handball. The hand is on the ground to support the body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
 - [Handball. The arm is on the ground to support the body after falling rather than the hand which creates an unfair 2D barrier.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
