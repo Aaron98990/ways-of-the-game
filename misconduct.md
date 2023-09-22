@@ -311,4 +311,6 @@ Here are common offenses for which team officials are warned, cautioned, or sent
 >   - interfere with play, an opposing player or a match official
 > - entering the opposing technical area in an aggressive or confrontational manner
 
-[Team official is sent-off for delaying the restart of play of the opponents. ](https://www.tiktok.com/t/ZPRWnEKSJ/)
+- [Team official is sent-off for delaying the restart of play of the opponents. ](https://www.tiktok.com/t/ZPRWnEKSJ/)
+- [Team official is sent-off for deliberately leaving the technical area to show dissent towards a match official.](https://youtu.be/vbLVxe8edUw?feature=shared&t=318)
+- [Team official is sent-off for abusive action for splashing water at a match official.](https://youtu.be/rN9I23szfx4?feature=shared&t=153)

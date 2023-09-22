@@ -52,9 +52,12 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 
 For unnaturally bigger, I emphasize on creating a unfair 2D barrier for the ball to pass from the point the ball was last deliberately played by an opponent. The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate creating an unfair 2D barrier from the point the ball was last deliberately played by an opponent.
 - [No handball. The hands/arms are unnaturally bigger - he is deliberately touching the attacker. But, this is not handball as hands/arm was not used as a barrier for the ball to pass himself as the deflection caused the ball to mover laterally rather than forward. Ignore the pundits being sensational.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
+- [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421)
 - [No handball. The hands/arms are unnaturally bigger. But, since the deflection caused the ball to go upwards rather than forward and the ball had not passed the defender, I have no handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
 - [Handball. The ball deflects off a defender's foot then touches their arm. Since the ball is behind him/passed him when the ball touches their arm, this created an unfair 2D barrier.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 - [Handball. The ball deflects off a player's foot and would have easily gone past the defender if it weren't for the arms creating an unfair 2D barrier.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
+- [Handball. The defender creates an unfair 2D barrier. Anywhere else on the field its handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=303)<!-- Instant Replay and Video Review disagrees. -->
+- [Handball. Arm is unnaaturally bigger.](https://youtu.be/rN9I23szfx4?feature=shared&t=382)
 - For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But if the ball was going to still hit their head/body then there is no handball as this did not make the 2D barrier for the ball to pass any bigger.
 
 These are clear cut cases of unnaturally bigger or not. Some part of the arm may be unnaturally bigger while other parts are not and are in line with the body and are not making a player bigger - it depensd on which part of the arm is struck by the ball.
@@ -79,8 +82,9 @@ A defender clearing or saving the ball into their own hand/arm or a team-mate's 
 - [Not handball. The defender is off balance when attempting to clear the ball and his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
 - [Not handball. A defender attempting to clear the ball when the ball accidentally hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
 - [Not handball. The defender is trying to clear the ball and throwing their entire body to attempt to do so.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
+- [Not handball. Ball is cleared into team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
-When a player falls and the hand (and not any other part of arm) is on the ground (or about to be) to support the body, there is never handball. 
+When a player falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, there is never handball. 
 - [No handball. The hand is on the ground to support the body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
 - [Handball. The arm is on the ground to support the body after falling rather than the hand which creates an unfair 2D barrier.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 

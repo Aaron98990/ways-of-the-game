@@ -26,6 +26,6 @@ Want to contribute:
 
 - Click the GitHub icon on the top-right and open an issue (for small fixes) or pull request (for large fixes) on GitHub. Read more [here](/CONTRIBUTING.md)
 
-!> Videos/articles linked may use older Laws (e.g. older terminology), use different rulebooks (e.g. one that allows two referees) but the concepts still applies, or not be available in every country. Information on this site is always up-to-date.
+!> Videos/articles linked may use older Laws (e.g. older terminology), use different rulebooks (e.g. one that allows two referees), or not be available in every country. Where the link's information/commentary and this site conflicts, follow this site. Information on this site is always up-to-date. There may be many valid interpretations of the Law not listed here.
 
 !> Long-term health impacts may occur with excessive contact to the head like with the ball, ground, goalpost, or another person. An excessively loud whistle or environment may cause ear ringing or hearing loss. 
