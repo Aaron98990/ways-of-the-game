@@ -90,7 +90,8 @@ If the referee measures distance on a free kick or wants to restart play from a 
 > 	- substitution
 > - Guideline for Match Officials
 
-[The referee measures the distance for a free kick and puts the white foam where defenders can stand. Because the free kick is taken before the whistle to restart is blown, the free kick has to be re-taken.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2625)
+- [The penalty kick is taken before the referee signals (whistle). The penalty kick is re-taken.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=8659)
+- [The referee measures the distance for a free kick. Because the free kick is taken before the signal (whistle), the free kick has to be re-taken.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2625)
 
 ## Delaying the restart of play
 
@@ -147,7 +148,7 @@ Dropped ball follows the same idea as above - except it also applies if only one
 
 ## Striking the ball at an opponent
 
-Deliberately throwing (from a throw-in only) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play. Striking or attempting to strike an opponent is a direct free kick offense.
+Deliberately throwing (from a throw-in) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play. Striking or attempting to strike an opponent is a direct free kick offense.
 
 > If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
 

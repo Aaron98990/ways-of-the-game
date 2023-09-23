@@ -82,11 +82,20 @@ A high boot near an opponent face is a common offense. A player can kick the bal
 
 Holding the ball between the thighs and jumping like a kangaroo when an opponent is nearby threatens injury to the holder. 
 
+If a player leans on the shoulders of another player of their own team in order to head the ball, they threaten injury to themselves. <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
-## Fouls against the goalkeeper
+## Fouls against/by the goalkeeper
 These are indirect free kicks if the offense involves no contact with the goalkeeper:
 - preventing/blocking a goalkeeper from releasing the ball from their hands
 - trying to kick/play the ball when the goalkeeper is holding it
+
+A goalkeeper cannot push an opponent with the ball while in control with the hand/arms else it's a penalty kick for the goalkeeper's opponents.
+
+<!-- 1) If the goalkeeper either intentionally strikes
+an opponent by throwing the ball vigorously at him
+or pushes him with the ball while holding it, the
+referee shall award a penalty-kick, if the offence
+took place within the penalty-area . Laws of the Game 1990/91 -->
 
 This is covered in the [goalkeeper section](/goalkeeper)
 

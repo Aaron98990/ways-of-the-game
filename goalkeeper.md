@@ -89,6 +89,15 @@ If the offense involves contact with the goalkeeper, it is a direct free kick. E
 - [Foul. Indirect free kick since the offense involved no contact with the goalkeeper and only the ball. The goalkeeper is in control of the ball when bouncing the ball.](https://youtu.be/vNOd5LPVUcw?feature=shared&t=35)
 - [No foul - Goal. The goalkeeper's team-mate, not their opponent, challenges them for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
 
+A goalkeeper cannot push an opponent with the ball while in control with the hand/arms else it's a penalty kick for the goalkeeper's opponents.
+
+<!-- 1) If the goalkeeper either intentionally strikes
+an opponent by throwing the ball vigorously at him
+or pushes him with the ball while holding it, the
+referee shall award a penalty-kick, if the offence
+took place within the penalty-area . Laws of the Game 1990/91 -->
+
+
 ## Releasing the ball
 
 While the goalkeeper is releasing the ball, remember that the boundary lines that makes the penalty area is part of the penalty area. A goalkeeper commits no offense when they have their body outside their own penalty area but the ball is making contact with their hands in their own penalty area (including above the boundary lines that make the penalty area). Also, no offense if committed if their momentum from releasing the ball takes them out of the penalty area if hand/arm contact with the ball only occurred in their penalty area.

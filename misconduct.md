@@ -23,9 +23,9 @@ A referee can show yellow and red cards when they enter the field of play to sta
 
 - [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
 
-A referee can caution or send-off someone without showing cards (e.g they forgot or lost them) by communicating that decision to that person (e.g verbally). This was how misconduct was applied for players until yellow and red cards were used for the first time in the 1970 World Cup. 
+A referee can caution or send-off someone without showing cards (e.g they forgot or lost them) by communicating that decision to that person (e.g verbally). This was how misconduct was applied for players until yellow and red cards were used in the 1970 World Cup. 
 
-Temporarily dismissing a player (sin bin) is the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
+Temporarily dismissing a player (sin bin) is in the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
 
 ## Player send-offs
 

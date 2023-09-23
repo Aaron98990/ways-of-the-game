@@ -24,21 +24,27 @@ Windy conditions mean that a ball can't be stationary on the ground although the
 - There is no benefit if a free kick or goal kick is not stationary when kicked. After explaining the situation to the teams, the referee should allow play to continue.
 - [Although the ball is not on the field of play and not stationary when kicked, due to the windy conditions I would allow it as it in the spirit of the game.](https://www.tiktok.com/@refsneedlovetoo/video/7262071167090003242)
 
+A goal kick is taken a couple of feet from the goal area, the ball is not completely stationary during a goal kick, on a kick-off a player enters their opponent's side before the ball is in play but does not become involved in play.
+- Redoing the restart in the instances above are technically correct, but to who's benefit? Unless the goal kick is being taken quickly and to catch opponent's off guard, I would let play continue.
+
+The ball goes above the goal and out of play after a deflection from a defender. The point where the ball passed over the goal line was closer to the left corner area but the ball bounces closer to the right corner area.
+- Although forcing the restart from the left corner area is technically correct, the ball is already closer to the right corner area. Whatever the referee decides, they must be consistent on this throughout the match.
+
 Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players offending by wearing sleeveless shirts, player offending by wearing non-sport spectacles
 - For lower levels of football, there is no need to strictly apply these Laws unless it creates an unfair advantage or distraction to opponents or it is not safe.
 
-Corner flags are missing, the touchline/goal line are not straight, the penalty area is not the proper size, or the goals are not the proper size. No penalty mark for penalty kicks.
+Corner flags are missing, the lines are not straight, the penalty area is not the proper size, or the goals are not the proper size. No penalty mark for penalty kicks.
 - For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play. If the penalty mark is missing, count 12 yards from the goal line to place the ball when a penalty kick is given.
 
 A ball is about to clearly go outside the field of play but a non-player touches it. 
 - Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
 - [A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as  no team gains an unfair advantage.](https://www.youtube.com/watch?v=83PkzKCCiYo)
 
-For lower levels of football, skipping the coin toss to save time is okay, havings the assistant referee do the coin toss, or using a different method to determine sides/kick-off when no one has a coin.
+For lower levels of football, skipping the coin toss to save time is okay, having the assistant referee do the coin toss, or using a different method to determine sides/kick-off when no one has a coin.
 - Especially with back to back games or behind schedule games, the referee may just choose sides or who kick-offs. Although against the Laws, if an assistant referee is doing the coin toss to save time - no one will throw a fit. And in lower levels of the game if no one has coin and they use the guess if one or two fingers are behind, that is fine.
 
-A team had limited or no subs. The opposing team has a full roster. The team with the full roster wants no cooling break (water break) or a shorter drinks break (water break).
-- To allow the teams with limited or no subs to fully recover and for their safety, it is fair to go through with the full cooling break (water break). There is no requirement that both teams must agree to a water break.
+A team had limited or no subs. The opposing team has a full roster. The team with the full roster wants no cooling break (water break) or a shorter drinks break (water break) or a shorter half-time interval.
+- To allow the teams with limited or no subs to fully recover and for their safety, it is fair to go through with the full cooling break (water break) or water break interval. There is no requirement that both teams must agree to a water break. A referee may take a water break for themselves even if both teams don't one.
 
 Not playing any additional time in second half in a blowout game, especially when there is extreme weather conditions.
 - If the players from both teams clearly want the game to end, there is no need to play additional time. Shortening the half may even be acceptable in lower levels of the game.
@@ -119,3 +125,9 @@ Not using cards in a "friendly", "scrimmage", or pre-season game.
 Not giving a second yellow card for removing one's shirt during a goal celebration because it is harsh.
 - A player does not accidentally remove their shirt - they know what they are doing.
 - [World Cup Example](https://www.youtube.com/watch?v=bsRFCq6rFT4)
+
+> Q: If a Referee cautions a player who in turn apologises for his misconduct, can the Referee omit to report the incident?
+>
+> A. No, all cautions must be reported. 1970/71 Laws of the Game
+
+A referee can't omit a caution or send-off from their match report because of an apology. A referee could of used their discretion before the caution or send-off.
