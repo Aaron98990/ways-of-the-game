@@ -123,10 +123,12 @@ Simulation / Attempting to deceive the referee would be an indirect free kick if
 
 - [A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://youtu.be/kW7fo3kRo14?feature=shared&t=8)
 <!-- Associated article to video is here: https://proreferees.com/2017/09/27/play-of-the-week-29/ -->
-## Offense against an outside agent or team-mate
+
+
+<!-- ## Offense against an outside agent or team-mate
 > If the referee stops play for an offence committed by a player [...] against an outside agent, play is restarted with a dropped ball Law 12.4
 
->  a player commits a physical offence inside the field of play against: a team-mate - a direct free kick or penalty kick
+>  a player commits a physical offence inside the field of play against: a team-mate - a direct free kick or penalty kick -->
 
 ## Extra person on the field
 > If a [non-player on the team lists] enters the field of play, the referee must:
