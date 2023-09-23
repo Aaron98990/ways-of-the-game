@@ -102,7 +102,7 @@ This is covered in the [goalkeeper section](/goalkeeper)
 ## Kicking/throwing an object
 > play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or interfered with play:
 > - If a player [...] throws or kicks an object (including a ball) at [another person] or the match ball or
-> - If a [non-player] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
+> - If a [non-player on the team lists] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
 > 
 > Law 12.4 (I re-worded a lot so not an exact quote)
 
@@ -116,19 +116,20 @@ Simulation / Attempting to deceive the referee would be an indirect free kick if
 
 ## Offense outside the field of play
 > If, when the ball is in play:
-> - a player commits an offense [...] outside the field of play or
-> - a [non-player] commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
+> - a player commits an offense [against anyone except a team-mate or outside agent] outside the field of play or
+> - a [non-player on the team lists] commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
 > play is restarted with a free kick on the boundary line nearest to where the offense/interference occurred;
 > Law 12.4
 
-The above excludes offenses against team-mates or outside agents:
 - [A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://youtu.be/kW7fo3kRo14?feature=shared&t=8)
 <!-- Associated article to video is here: https://proreferees.com/2017/09/27/play-of-the-week-29/ -->
-## Offense against an outside agent
+## Offense against an outside agent or team-mate
 > If the referee stops play for an offence committed by a player [...] against an outside agent, play is restarted with a dropped ball Law 12.4
 
+>  a player commits a physical offence inside the field of play against: a team-mate - a direct free kick or penalty kick
+
 ## Extra person on the field
-> If a [non-player] enters the field of play, the referee must:
+> If a [non-player on the team lists] enters the field of play, the referee must:
 > - only stop play if there is interference with play
 >   
 > If play is stopped and the interference was by:
@@ -137,7 +138,7 @@ The above excludes offenses against team-mates or outside agents:
 
 This is an offense - not a foul. Please note the exception if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
 
-[Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
+- [Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
 
 ## Assistant referees
 > The [assistant referee] must raise the flag when a foul or misconduct is committed in the immediate vicinity or out of the referee’s vision. In all other situations, the AR must wait and offer an opinion if it is required and then inform the referee of what was seen and heard, and which players were involved.
