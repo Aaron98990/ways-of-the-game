@@ -20,7 +20,10 @@ Footballl associations (FAs) often create codes for misconduct. In the United St
 > Law 5.3 Powers and duties
 
 A referee can show yellow and red cards when they enter the field of play to start the match including during the coin toss, national anthem, and referee/player walkout until they leave the field of play after the match ends. 
-[The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
+
+- [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
+
+A referee can caution or send-off someone without showing cards (e.g they forgot or lost them) by communicating that decision to that person (e.g verbally). This was how misconduct was applied for players until yellow and red cards were used for the first time in the 1970 World Cup. 
 
 Temporarily dismissing a player (sin bin) is the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
 
