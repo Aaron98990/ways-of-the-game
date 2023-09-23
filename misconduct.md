@@ -233,9 +233,12 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 
 See the [goalkeeper section](/goalkeeper)
 > - verbally distracts an opponent during play or at a restart
-Here are common examples:
+Here are some examples:
 - You cannot say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
 - You cannot yell/scream for the purpose to scare the opponent generally when they are attempting to play the ball.
+- You cannot clap to distract the opponent when they are attempting to play the ball (e.g. penalty kick) <!-- I remember seeing in one of my matches the team-mates clapping as their team-mate takes the penalty kick. That was weird. -->
+
+There should be no warnings for this because of how blatantly unsporting this is and how hard it is to spot.
 
 ## Unlisted in Law 12 cautions
 For penalty kicks:

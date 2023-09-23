@@ -7,7 +7,7 @@ A goalkeeper is a fundamental part of the game. Each team must always have one g
 
 ## Goalkeeper equipment
 
-Goalkeepers may wear tracksuit bottoms and caps. Any player, including goalkeepers, can wear gloves - there are no size restrictions on gloves.
+Goalkeepers may wear caps. Any player, including goalkeepers, can wear gloves - there are no size restrictions on gloves.
 
 > Goalkeepers may wear tracksuit bottoms.[...] Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
 > - Law 4
