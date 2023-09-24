@@ -22,7 +22,7 @@ The goalkeeper releasing the ball after control with the hand/arms is not a rest
 ## Position of restart
 
 The restart is taken at the position the offense requires or where the ball left the field of play except:
-- Goal kicks can be taken any where in the defending team's goal area
+- Goal kicks can be taken any where in the defending team's goal area 
 - Corner kicks can be taken any where in the corner area nearest to the point where the ball passed over the goal line
     - the corner flagpost must not be moved
 - indirect free kicks to the attacking team for an offense inside the opponents’ goal area are taken from the nearest point on the goal area line which runs parallel to the goal line

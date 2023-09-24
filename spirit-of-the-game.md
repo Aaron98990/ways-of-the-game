@@ -130,4 +130,8 @@ Not giving a second yellow card for removing one's shirt during a goal celebrati
 >
 > A. No, all cautions must be reported. 1970/71 Laws of the Game
 
-A referee can't omit a caution or send-off from their match report because of an apology. A referee could of used their discretion before the caution or send-off.
+- A referee can't omit a caution or send-off from their match report because of an apology. A referee could of used their discretion before the caution or send-off.
+
+Not awarding a clear penalty kick or red card (including second yellow card) because you don't want the game decided like that.
+
+- Not awarding a penalty kick or red card you are not 100% sure about is acceptable. But, when it's 100% clear the choice is not in your hands.

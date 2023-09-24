@@ -31,13 +31,6 @@ On corner kicks, players stand in front of the goalkeeper to limit their movemen
 If the offense involves contact with the goalkeeper, the restart is a direct free kick. Else, the restart is an indirect free kick.
 - [A player fairly stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
 
-## Playing distance
-
-Some people will say that the goalkeeper is protected too much. In reality, referees are applying the rules. Goalkeepers will have greater playing distances than non-goalkeepers because they can use their arms/hands to catch/save the ball inside their penalty area.
-
-> Playing distance: Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player
-> - Glossary
-
 ## Changing the goalkeeper
 
 > Any of the players may change places with the goalkeeper if:
@@ -72,8 +65,6 @@ The goalkeeper committing a handball offense in their own penalty area (six seco
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > - Law 12.1 Direct free kick
 
-A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goal kick for their opponents (Law 10.1). 
-
 ## Control with hand/arms
 
 > A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s).
@@ -88,6 +79,7 @@ If the offense involves contact with the goalkeeper, it is a direct free kick. E
 - [Foul. Indirect free kick since the offense involved contact with the ball not the player after the goalkeeper has two hands on the ball and its not a rebound. ](https://www.tiktok.com/t/ZPRW7popf/)
 - [Foul. Indirect free kick since the offense involved no contact with the goalkeeper and only the ball. The goalkeeper is in control of the ball when bouncing the ball.](https://youtu.be/vNOd5LPVUcw?feature=shared&t=35)
 - [No foul - Goal. The goalkeeper's team-mate, not their opponent, challenges them for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
+- [Foul + YC. The goalkeeper is recklessly kicked in the chest and the attacker made no attempt to pull out.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=5166)
 
 A goalkeeper cannot push an opponent with the ball while in control with the hand/arms else it's a penalty kick for the goalkeeper's opponents.
 
@@ -110,6 +102,8 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 
 - [Indirect free kick. Player kicks ball while goalkeeper is releasing it. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://www.youtube.com/watch?v=fm0SBD5Pfd0)
 - [Indirect free kick. Player attempts to head the ball while goalkeeper is releasing the ball from the hands. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://youtu.be/matwhFahR2Q?feature=shared&t=405)
+
+A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goal kick for their opponents (Law 10.1). 
 
 ## Six seconds and after releasing
 
@@ -146,7 +140,8 @@ A player that heads, knees, chests, or use the area between the knee and ankle (
 If there is any doubt in the referee's mind, it should not be called. These would not be "goalkeeper backpass":
 - the ball comes from a deflection from any player
   - [No offense. The ball comes from a deflection.](https://www.youtube.com/watch?v=7esEwniKXqQ)
-- the ball was meant for a different player
+- the ball was meant for a different player or no one (e.g. kicking the ball away)
+  - [No offense. The ball is deliberately kicked to no one. No one can say with 100% certainty that the ball was meant for the goalkeeper.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=5397)
 - the ball was kicked to by an opponent
   - [No offense. The goalkeeper can still pick the ball up after kicking it around since it came from an opponent.](https://youtu.be/kFkFtgqXiO4?t=726) 
 

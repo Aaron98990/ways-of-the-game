@@ -58,16 +58,16 @@ When a player falls and the hand (and not any other part of arm) is or about to 
 - [Handball. The arm is on the ground to support the body after falling rather than just the hand which creates an unfair 2D barrier.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
 These are clear cut cases of unnaturally bigger or not. Some part of the arm may be unnaturally bigger while other parts are not and are in line with the body and are not making a player bigger - it depends on which part of the arm is struck by the ball.
-- [Handball.](https://youtu.be/vl1DSIjXPnQ?t=180) / [Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
+- [Handball.](https://youtu.be/vl1DSIjXPnQ?t=180)
 - [Handball. Holding a team-mate on the wall means the arm is unnaturally bigger.](https://youtu.be/rN9I23szfx4?feature=shared&t=382)
 - [No handball. The ball hits near the elbow. Not the best angle here. The defender's area between the elbow and shoulder are in line with the body. If the ball hit between the elbow and hand which are not line with the body then it would of been handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
 
 Defenders only: For unnaturally bigger, I emphasize defenders creating a unfair 2D barrier for the ball to pass from the point the ball was last deliberately played by an opponent. 
 
-The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate creating an unfair 2D barrier from the point the ball was last deliberately played by an opponent.
+Defenders only: The ball hitting the hands/arm after a deflection from anyone (including oneself), does not negate creating an unfair 2D barrier from the point the ball was last deliberately played by an opponent.
 - [No handball. The hands/arms are unnaturally bigger - the defender is deliberately touching the attacker. But, this is not handball as hands/arm was not used as a barrier for the ball to pass himself as the deflection caused the ball to mover laterally rather than forward. Ignore the pundits being sensational.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
 - [No handball. The deflection off the defender causes the ball to move upwards rather than past him so there is no unfair 2D barrier. ](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
-- [Handball. The ball deflects off a team-mate and touches the defender arm which created an unfair 2D barrier.](https://youtu.be/rN9I23szfx4?feature=shared&t=421)
+- [Handball. The ball deflects off a team-mate but continues forward and touches the defender arm which created an unfair 2D barrier.](https://youtu.be/rN9I23szfx4?feature=shared&t=421)
 - [Handball. The ball deflects off a defender's foot then touches their arm. Since the ball is behind him/passed him when the ball touches their arm, this created an unfair 2D barrier.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 - [Handball. The ball deflects off a defender's foot and would have easily gone past the defender if it weren't for the arms creating an unfair 2D barrier.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 - For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But if the ball was going to still hit their head/body then there is no handball as this did not make the 2D barrier for the ball to pass any bigger.
@@ -78,20 +78,21 @@ Distance and time to react do not matter. It does not matter if the ball hits th
 - [Handball. Similar to above. Distance and time to react does not matter.](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
 <!-- Premier says the above (Leicester City v. Wolves 11/8/2020 is not a handball https://youtu.be/6ipRs3c5WiU?feature=shared&t=151 https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree. What are they smoking? -->
 
-Defenders only & SUBJECTIVE: When a defender attempts to block a pass or shot, a natural running motion is an unfair 2D barrier. The defender takes that risk. To avoid this, players often put their arms behind the back or close to their body/sides. 
+Defenders only & VERY SUBJECTIVE: When a defender attempts to block a pass or shot, a natural running motion is an unfair 2D barrier. The defender takes that risk. To avoid this, players often put their arms behind the back or close to their body/sides. 
 - [Handball. The defender creates an unfair 2D barrier even if its considered a natural running motion.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43) 
 - [Handball. The defender creates an unfair 2D barrier even if its considered a natural running motion.](https://youtu.be/rN9I23szfx4?feature=shared&t=303)<!-- Instant Replay and Video Review disagrees say no handball. https://youtu.be/rN9I23szfx4?feature=shared&t=303 -->
 
 Defenders only: A defender attempting to head the ball but the ball contacts their hands/arm (which are generally at  shoulder level and away from the body) is not an offense.
 - [No handball. The defender genuinely tries to header the ball but it contacts their hands/arm.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
+- [Handball? The defender is attempting to header the ball. I really don't know. I need to think about this. If the above is not handball in the highest level of the game, then how can you call this handball. ](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 
-Defenders only: A defender clearing or saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger/unfair 2D barrier in other cases, is never handball. 
-- [Not handball. The defender is off balance when attempting to clear the ball and his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
-- [Not handball. A defender attempting to clear the ball when the ball accidentally hits their hand/arm is never handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
-- [Not handball. The defender is trying to clear the ball and throwing their entire body to attempt to do so.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
-- [Not handball. Ball is cleared into team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
+Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger/unfair 2D barrier in other cases, is never handball. 
+- [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
+- [Not handball. The defender clears the ball into his hands/arms.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
+- [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
+- [Not handball. The defender clears the ball into their team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
-Attackers only: Attackers have no leeway compared to defenders for being unnaturally bigger including after a deflection from anyone (including oneself) or attempting to head the ball.
+Attackers only: Attackers have no leeway compared to defenders. It's handball if their hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself) or attempting to head the ball.
 - [Handball. The ball deflects from the attacker's foot and hits his arm that are unnaturally bigger. If he was a defender, there is no handball since the ball moved laterally rather than forward after the deflection.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271)
 ## Accidental handball
 
