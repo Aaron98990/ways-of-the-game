@@ -92,11 +92,14 @@ Defenders only: A defender clearing or deliberately saving the ball into their o
 - [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
 - [Not handball. The defender clears the ball into their team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
-Attackers only: Attackers have no leeway compared to defenders. It's handball if their hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself) or attempting to head the ball.
+Attackers only: Attackers have no leeway compared to defenders and don't follow the unfair 2D barrier standard. It's handball if the attackers hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball.
 - [Handball. The ball deflects from the attacker's foot and hits his arm that are unnaturally bigger. If he was a defender, there is no handball since the ball moved laterally rather than forward after the deflection.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271)
+- [Handball. The defender attempts to clear the ball but it strikes the attacker's arm which are bigger.][https://youtu.be/pDhRUUha6B0?feature=shared&t=53]
 ## Accidental handball
 
 !> 2021/22 IFAB change. Accidental handball by a team-mate before a goal is scored and accidental handball creating a goal-scoring opportunity have been removed as offenses.
+
+Accidental handball is challenging to enforce as the referee will be screened as the attacker will be facing the goal.
 
 - [Handball. The ball contacts the hand/arm then immediately goes into the goal.](https://youtu.be/_MQpnvxeE9g?t=352)
 - [Goal. There was a long time between the ball contacting the hand/arm and the goal.](https://youtu.be/WicGa2_Fw5Q?t=285)
