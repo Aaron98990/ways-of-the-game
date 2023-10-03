@@ -51,7 +51,8 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 > Not every touch of a player’s hand/arm with the ball is an offense.
 
 When arms are close to the body, there is no handball. After the ball hits an arm, the arm may look farther part then it originally was before the contact. We judge the arm position right before the contact.
-- [No handball. The arms are close to the body. ](https://www.youtube.com/watch?v=J2NYg4tmQa4)
+- [No handball. The arms are close to the body and not bigger. ](https://www.youtube.com/watch?v=J2NYg4tmQa4)
+- [Handball. The arms are in a "chicken wing" shape which is unnaturally bigger.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=293)
 
 When a player falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, there is never handball. 
 - [No handball. The hand is on the ground to support the body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
