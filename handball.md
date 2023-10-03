@@ -94,7 +94,7 @@ A player deliberately playing the ball into their own hand/arm or a defender del
 
 Attackers only: Attackers have no leeway compared to defenders and don't follow the unfair 2D barrier standard. Unless the player deliberately plays the ball into their own hand/arm, it's handball if the attackers hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball.
 - [Handball. The ball deflects from the attacker's foot and hits his arm that are unnaturally bigger. If he was a defender, there is no handball since the ball moved laterally rather than forward after the deflection.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271)
-- [Handball. The defender attempts to clear the ball but it strikes the attacker's arm which are bigger.][https://youtu.be/pDhRUUha6B0?feature=shared&t=53]
+- [Handball. The defender attempts to clear the ball but it strikes the attacker's arm which are bigger.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
 ## Accidental handball
 
 !> 2021/22 IFAB change. Accidental handball by a team-mate before a goal is scored and accidental handball creating a goal-scoring opportunity have been removed as offenses.
