@@ -4,7 +4,7 @@
 
 The referee has the power to play advantage. This is an extension of Law 9.1 as the ball is not of play until the "play has been stopped by the referee". If the ball has "wholly passed over the goal line or touchline" or "touches a match official, remains on the field of play, and meets one of the conditions" - advantage cannot be played.
 
-"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball does not necessarily mean it is advantageous to play advantage.
+"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued.
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
@@ -61,12 +61,13 @@ Just because advantage is played does not mean that a referee cannot caution or 
 > If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
 > - Law 12.3 Disciplinary Action
 
-There may be instance where a player commits two cautionable offenses in close proximity - but not at the same time - that should result in two cautions.
-- [A player commits unsporting behavior by impeding the throw-in. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://www.youtube.com/watch?v=VpEhnyG_WWc)
-- [A player makes a reckless challenge on an opponent. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://youtu.be/P1jELHaraJs)
+- [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage wwas played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
 
+There may be instance where a player commits two cautionable offenses in close proximity - but not at the same time - that should result in two cautions.
 > Where two separate cautionable offenses are committed (even in close proximity), they should result in two cautions, for example if a player enters the field of play without the required permission and commits a reckless tackle or stops a promising attack with a foul/handball, etc.
 > - Law 12.3 Disciplinary Action
+- [A player commits unsporting behavior by impeding the throw-in. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://www.youtube.com/watch?v=VpEhnyG_WWc)
+- [A player makes a reckless challenge on an opponent. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://youtu.be/P1jELHaraJs)
 
 A common example of a player committing two offenses at the same time:
 - Stopping a Promising Attack outside the penalty area
@@ -85,7 +86,7 @@ The "(unless as outline below)" enumerates the law above. DOGSO, serious foul pl
 > - biting or spitting at someone
 > - violent conduct
 
-[The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
+- [The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
 
 ## Rare: Delaying the restart of play to show a card
 
