@@ -5,6 +5,7 @@ Soccer is a physical sport. Not every contact with the opponent is a foul.
 
 Fouls that occur before or after a player wins/touches the ball should be penalized.
 - [Foul & YC for reckless play. Player gets the ball then slide tackles their opponent.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
+- [Foul & proper sanction. Player gets the ball then rolls over the top of the ball into the opponents leg.](https://youtu.be/xNAVqoAXnvg?feature=shared&t=243)
 - [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 - [Foul. Defender goes through the opponent to head the ball.](https://youtu.be/o4wWxBZ_vs0?feature=shared&t=252)
 
