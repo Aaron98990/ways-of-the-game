@@ -8,7 +8,7 @@ Soccer is the game played without the use of the hand/arms touching the ball exc
 
 Any player, including goalkeepers, cannot make contact with the ball with a held object (e.g. shirt, boot, another ball). This is not handball but is a related concept.
 
-[Direct free kick. The player makes contact with the ball by holding their shirt. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://www.youtube.com/watch?v=G-ZG7VAAvkU)
+- [Direct free kick. The player makes contact with the ball by holding their shirt. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://www.youtube.com/watch?v=G-ZG7VAAvkU)
 
 ## Handball by goalkeeper
 
