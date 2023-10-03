@@ -86,13 +86,13 @@ Defenders only: A defender attempting to head the ball but the ball contacts the
 - [No handball. The defender genuinely tries to header the ball but it contacts their hands/arm.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
 - [Handball? The defender is attempting to header the ball. I really don't know. I need to think about this. If the above is not handball in the highest level of the game, then how can you call this handball. ](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
 
-A player deliberately playing the ball into their own hand/arm or a defender deliberately plays the ball (like when clearing or saving it) into a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger/unfair 2D barrier in other cases, is never handball. 
+Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger/unfair 2D barrier in other cases, is never handball.
 - [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
 - [Not handball. The defender clears the ball into his hands/arms.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
 - [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
 - [Not handball. The defender clears the ball into their team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
-Attackers only: Attackers have no leeway compared to defenders and don't follow the unfair 2D barrier standard. Unless the player deliberately plays the ball into their own hand/arm, it's handball if the attackers hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball.
+Attackers only: Attackers have no leeway compared to defenders and don't follow the unfair 2D barrier standard. It's handball if the attackers hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball.
 - [Handball. The ball deflects from the attacker's foot and hits his arm that are unnaturally bigger. If he was a defender, there is no handball since the ball moved laterally rather than forward after the deflection.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271)
 - [Handball. The defender attempts to clear the ball but it strikes the attacker's arm which are bigger.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
 ## Accidental handball
