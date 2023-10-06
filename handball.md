@@ -103,7 +103,7 @@ Attackers only: Attackers have no leeway compared to defenders and don't follow 
 Accidental handball is challenging to enforce as the referee will be screened as the attacker will be facing the goal.
 
 - [Handball. The ball contacts the hand/arm then immediately goes into the goal.](https://youtu.be/_MQpnvxeE9g?t=352)
-- [There was a long time between the ball contacting the hand/arm and the goal so accidental handball would not apply. But, the arms were unnaturally bigger so I would want handball.](https://youtu.be/WicGa2_Fw5Q?t=285)
+- [No accidental handball. There was a long time between the ball contacting the hand/arm and the goal so accidental handball would not apply.](https://youtu.be/WicGa2_Fw5Q?t=285)
 
 ## Foul then handball
 
