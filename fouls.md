@@ -65,7 +65,8 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 
 Impeding the progress of an opponent, often called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
 
-- [A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
+- [Direct free kick. A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
+- [A player fairly moves into the opponent's path when the ball is within playing distance and the opponent kicks him. The only foul is for the kick.](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238)
 
 ## Playing in a dangerous manner
 
