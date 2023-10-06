@@ -36,37 +36,39 @@ There are also offensive, insulting or abusive actions, including physical ones 
 
 There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
 
-- [Red Card - Serious Foul Play The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occured.](https://youtu.be/u-y3AiAm2pI?t=269)
-- [Red Card - Serious Foul Play. The player uses excessive force as the momentum of their entire body goes into their opponent's head.](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
-- [Red Card - Serious Foul Play. The player uses excessive force as the player cocks their elbow in their opponent's face.](https://youtu.be/FFf7U5FNLag?t=43)
+- [Serious Foul Play. The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occured.](https://youtu.be/u-y3AiAm2pI?t=269)
+- [Serious Foul Play. The player uses excessive force as the momentum of their entire body goes into their opponent's head.](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
+- [Serious Foul Play. The player uses excessive force as the player cocks their elbow in their opponent's face.](https://youtu.be/FFf7U5FNLag?t=43)
 
 
 ## Jumps at
 
-- [When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=BjQ__f4JG9o)
-- [When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=PT0WGryPBvU)
+- [Serius Foul Play. When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg.](https://www.youtube.com/watch?v=BjQ__f4JG9o)
+- [Serious Foul Play. When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg.](https://www.youtube.com/watch?v=PT0WGryPBvU)
 
-### Tackle
+## Tackle
 
-[The player uses a straight leg and contacts their opponent's thigh with excessive force. The player should be sent-off for Serious Foul Play.](https://www.youtube.com/watch?v=x369hGXJVDc)
+- [Serious Foul Play. The player uses a straight leg and contacts their opponent's thigh with excessive force.](https://www.youtube.com/watch?v=x369hGXJVDc)
+- [Serious Foul Play. Player rolls over the top of the ball into the opponents leg with excessive force.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s)
 
 ## Kicks
 
-- [Red Card (Violent Conduct) - Deliberately kicking an opponent with non-negligible force while the ball is not in the field of play is violent conduct. Outside the field, that is assault. How to deal with the push after the kick is subjective. I prefer no card as this is a reasonable reaction to someone who was just deliberately kicked.](https://youtu.be/gnfbhoNlAKw?t=107)
-- [The player kicks out at the opponent who just fouled him. Although the player does not connect, this is violent conduct and a red card should be shown.](https://youtu.be/2NgJxKL3fgU?t=704)
-- [The player deliberately steps (aka stomps) on their opponent after not getting a foul from the referee. This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=dfDV_bTCGUw)
+- [Violent Conduct. Deliberately kicking an opponent with excessive force.](https://youtu.be/gnfbhoNlAKw?t=107)
+- [Violent Conduct. The player kicks out at the opponent with excessive force who just fouled him.](https://youtu.be/2NgJxKL3fgU?t=704)
+- [Violent Conduct. The player deliberately steps (or stomps) on their opponent after not getting a foul from the referee. ](https://www.youtube.com/watch?v=dfDV_bTCGUw)
+- [Serious Foul Play. The player kicks the player's head with excessive force although he gets the ball first.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 
 ## Push
 
-[The player pushes their opponent with excessive force (aka shove). This is violent conduct and a red card should be shown.](https://www.youtube.com/watch?v=QZDr0jzt4JM)
+- [Violent Conduct. The player pushes (or shoves) their opponent with excessive force.](https://www.youtube.com/watch?v=QZDr0jzt4JM)
 
 ## Striking an object at someone
 
 Kicking or throwing on throw-ins the ball at an opponent (aka striking) is acceptable if reasonable force is used. This is covered in [restarts section](/restarts). If there is no tactical reason to strike the ball in that direction and with that speed, it is violent conduct.
 
-- [RC - Violent Conduct. Kicking the ball at an opponent on the ground. ](https://youtu.be/nDgAA3EtsBg?t=627)
-- [RC - Violent Conduct. Kick the ball at an opponent on the ground during the world cup.](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863)
-- [RC - Violent Conduct. Throwing the ball at an opponent's back with excessive force. ](https://youtu.be/snf9HlPG0dU?feature=shared&t=123)
-- RC - Violent Conduct. Kicking the ball into the crowd with excessive force. [Example 1](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34), [Example 2](https://www.cbssports.com/soccer/news/mls-suspends-kaku-for-intentionally-kicking-ball-into-stands-and-drilling-a-fan-in-the-face/)
+- [Violent Conduct. Kicking the ball at an opponent on the ground. ](https://youtu.be/nDgAA3EtsBg?t=627)
+- [Violent Conduct. Kick the ball at an opponent on the ground during the world cup.](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863)
+- [Violent Conduct. Throwing the ball at an opponent's back with excessive force. ](https://youtu.be/snf9HlPG0dU?feature=shared&t=123)
+- Violent Conduct. Kicking the ball into the crowd with excessive force. [Example 1](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34) / [Example 2](https://www.cbssports.com/soccer/news/mls-suspends-kaku-for-intentionally-kicking-ball-into-stands-and-drilling-a-fan-in-the-face/)
 
 PRO Referees has a great write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
