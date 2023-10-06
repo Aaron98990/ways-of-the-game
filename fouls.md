@@ -28,7 +28,6 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 
 - [No foul. The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been committed. ](https://www.youtube.com/watch?v=AKa17voHa2k)
 - [Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Although the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
-
 - [No foul. The defender comes in with the bottom of his cleats exposed which contain studs. His cleats land on the top of the ball and clears the ball out of the field of play. Going in to a challenge like this is risky and if mis-timed would be an easy yellow or red card.](https://youtu.be/1g2DRURrbAo?t=735)
 
 ## Jumps At
@@ -53,7 +52,7 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 > Law 12.2 Indirect free kick
 
 
-[No Foul. The ball is within playing distance and the charge was not careless, reckless, or using excessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
+- [No Foul. The ball is within playing distance and the charge was not careless, reckless, or using excessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
 
 
 ## Impeding the progress of an opponent
@@ -66,7 +65,7 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 
 Impeding the progress of an opponent, often called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
 
-[A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
+- [A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
 
 ## Playing in a dangerous manner
 
