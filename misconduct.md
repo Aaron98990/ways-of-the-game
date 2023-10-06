@@ -8,6 +8,10 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 
 A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee want an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent or sent-off person remains, the referee can abandon the match.
 
+> The referee: stops, suspends or abandons the match for any offences or because of outside interference Law 5.3
+
+- [A spectator yells at the assistant referee: "Are you fucking blind or something? WTF is wrong with you". The referee could of suspended the game until the spectator is removed but just abandoned the match.](https://youtu.be/rHqSWjHFyh0?feature=shared&t=648)
+
 > The referee: keeps a record of the match and provides the appropriate authorities with a match report, including information on disciplinary action and any other incidents that occurred before, during or after the match Law 5.3
 
 Footballl associations (FAs) often create codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
