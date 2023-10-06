@@ -157,3 +157,4 @@ The "backpass" law gives an exception: "the goalkeeper has clearly kicked or att
 Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter.
 - [A goalkeeper initiates a deliberate trick to be able to handle the ball. The goalkeeper must be cautioned and play is restarted with an indirect free kick.](https://streamable.com/ohy4r)
 - [A player initiates a deliberate trick for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
+- [The goalkeeper initates a deliberate trick to handle the ball by kicking the ball in the air so it can be headed back to him. The goalkeeper is cautioned and play is restarted with an indirect free kick.](https://www.tiktok.com/@fanfootball41nam/video/7281304886464056619?_r=1&_t=8gDoc3zbm2d)
