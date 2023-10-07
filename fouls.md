@@ -30,6 +30,8 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 - [Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Although the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
 - [No foul. The defender comes in with the bottom of his cleats exposed which contain studs. His cleats land on the top of the ball and clears the ball out of the field of play. Going in to a challenge like this is risky and if mis-timed would be an easy yellow or red card.](https://youtu.be/1g2DRURrbAo?t=735)
 
+
+
 ## Jumps At
 
 - [Foul. No Card. No contact to the head. Both players are genuinely going for the ball.](https://youtu.be/Q3Vg9y1j8vY?t=510)
@@ -54,6 +56,11 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 
 - [No Foul. The ball is within playing distance and the charge was not careless, reckless, or using excessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
 
+## Trips
+
+Triping fouls are also "impeding the progress of an opponent". Trips and "impeding the progress of an opponent with contact" are unique in that the player that initiated the contacts does not commit a foul. An attempt to trip (esspecially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
+
+- [Foul. Although the player does not fall, the defender sticks his leg out and slows down the attacker.](https://youtu.be/ySYtHDT99aE?feature=shared&t=401)
 
 ## Impeding the progress of an opponent
 
@@ -66,7 +73,8 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 Impeding the progress of an opponent, often called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
 
 - [Direct free kick. A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
-- [A player fairly moves into the opponent's path when the ball is within playing distance and the opponent kicks him. The only foul is for the kick.](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238)
+- [A player fairly moves into the opponent's path to shield the ball that is within playing distance and the opponent kicks him. The only foul is for the kick.](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238)
+  
 
 ## Playing in a dangerous manner
 
