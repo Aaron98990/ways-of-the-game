@@ -9,6 +9,8 @@ Fouls that occur before or after a player wins/touches the ball should be penali
 - [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 - [Foul. Defender goes through the opponent to head the ball.](https://youtu.be/o4wWxBZ_vs0?feature=shared&t=252)
 
+If the attacking player over-runs the ball, that does not excuse a foul by a defender.
+
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
 > ‘What needs to be seen’ is not always in the vicinity of the ball. The referee should also pay attention to:
