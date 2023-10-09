@@ -82,6 +82,7 @@ Often, this ducking down action is done by other players but is not intentional.
 
 - [There is a great opinion article on undercutting here](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
 - [YC - undercut leads player to land on their neck.](https://www.tiktok.com/t/ZPRW7qUWT/)
+- [YC - undercut.](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
 
 ## Reckless Push
 
