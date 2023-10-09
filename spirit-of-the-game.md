@@ -1,6 +1,6 @@
 Being technically correct is not always in the "spirit of the game". It is the equivalent of giving a ticket for someone going 1 mph over the speed limit - yes they broke the law but they did not make anyone less safe. That same logic applies to refereeing. 
 
-Many people call this Law 18 or Common Sense or Trifling or Tradition. This subjectivity is a blessing and a curse. 
+Many people call this Law 18, Common Sense, Trifling, Tradition or "in the opinion of the referee". This subjectivity is a blessing and a curse. 
 
 > The Laws cannot deal with every possible situation, so where there is no direct provision in the Laws, The IFAB expects the referee to make a decision within the ‘spirit’ of the game and the Laws – this often involves asking the question, “what would football want/expect?”
 > 
