@@ -54,7 +54,7 @@ An American football style charge into an opponent will always be a caution or s
 - [The player recklessly charges the opponent in the face with their shoulder. The player should be shown a caution for the reckless charge.](https://youtu.be/GBHiiU8lekE?t=217)
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge. ](https://youtu.be/7cZpV_ZAfzw)
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge.](https://youtu.be/vR3DpyYTH2k)
-- TODO Video: A player charging the opponent while not challenging for the ball (even a charge that would be considered fair or careless if the ball was in playing distance) could be a yellow because how blatantly stupid it is.
+- [The player shields the ball within plaing distance and the ball is relatively stationary when he is charged from the back.](https://youtu.be/79cBWbiWElA?feature=shared&t=605)
 
 ## Recklessly Jumping At
 
