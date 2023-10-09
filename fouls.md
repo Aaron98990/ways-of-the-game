@@ -60,9 +60,10 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 
 ## Trips
 
-Triping fouls are also "impeding the progress of an opponent". Trips and "impeding the progress of an opponent with contact" are unique in that the player that initiated the contacts does not commit a foul. An attempt to trip (esspecially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
+Trips and "impeding the progress of an opponent with contact" are unique in that the player that initiates the contact does not commit a foul. An attempt to trip (esspecially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
 
 - [Foul. Although the player does not fall, the defender sticks his leg out and slows down the attacker.](https://youtu.be/ySYtHDT99aE?feature=shared&t=401)
+- [Foul. Although the attacker trips from the legs behind the defender, he still impedes his path.](https://youtu.be/FxcrgGIW_pw?feature=shared&t=962)
 
 ## Impeding the progress of an opponent
 
