@@ -60,7 +60,7 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 
 ## Push
 
-- [Violent Conduct. The player pushes (or shoves) their opponent with excessive force.](https://www.youtube.com/watch?v=QZDr0jzt4JM)
+- push/shoves TODO
 
 ## Striking an object at someone
 
@@ -69,6 +69,6 @@ Kicking or throwing on throw-ins the ball at an opponent (aka striking) is accep
 - [Violent Conduct. Kicking the ball at an opponent on the ground. ](https://youtu.be/nDgAA3EtsBg?t=627)
 - [Violent Conduct. Kick the ball at an opponent on the ground during the world cup.](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863)
 - [Violent Conduct. Throwing the ball at an opponent's back with excessive force. ](https://youtu.be/snf9HlPG0dU?feature=shared&t=123)
-- Violent Conduct. Kicking the ball into the crowd with excessive force. [Example 1](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34) / [Example 2](https://www.cbssports.com/soccer/news/mls-suspends-kaku-for-intentionally-kicking-ball-into-stands-and-drilling-a-fan-in-the-face/)
+- [Violent Conduct. Kicking the ball into the crowd with excessive force. ](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34)
 
 PRO Referees has a great write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
