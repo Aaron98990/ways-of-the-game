@@ -43,7 +43,7 @@ A tackle where the boot make direct contact with the opponent's ankle or foot is
 - [A player makes a tackle from behind with no chance to win the ball. The player should be shown a caution for a reckless tackle.](https://youtu.be/ICuWXmOqcho)
 - [A player gets stepped on late above the ankle. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s)
 - [The player is late and catches the opponent's boot. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=WJP50N3Jq-E)
-- [TODO - Reckless stomp]
+- [??? Not sure - a player makes a pass with the foot and when he lands it he accidenyally steps on an opponent.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
 
 ## Reckless Charge
 
