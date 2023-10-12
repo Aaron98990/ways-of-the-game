@@ -25,11 +25,9 @@ Stopping a Promising Attack is not defined in the Laws of the Game. The referee 
 
 Generally, referees require that all four considerations to be met for DOGSO but it is not a requirement. DOGSO (like offside) is a hard call to make because it requires match officials to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul but DOGSO applies to all offenses (see below) and the considerations above must be met.
 
-[PRO Referees have a great example with 9 video examples comparing SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
-
-[The goalkeeper commits a handball offense outside their penalty area. A direct free kick and a red card for DOGSO are the correct outcomes.](https://youtu.be/uzZnBPHsx_0?t=107)
-
-[Luis Suarez denies the opposing team a goal by handball and penalty kick and send-off are the correct outcomes.](https://youtu.be/tDpx9GGH79I?t=202)
+- [PRO Referees have a great example with 9 video examples comparing SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
+- [The goalkeeper commits a handball offense outside their penalty area. A direct free kick and a red card for DOGSO are the correct outcomes.](https://youtu.be/uzZnBPHsx_0?t=107)
+- [Luis Suarez denies the opposing team a goal by handball and penalty kick and send-off are the correct outcomes.](https://youtu.be/tDpx9GGH79I?t=202)
 
 ## Disciplinary Action
 
@@ -47,6 +45,7 @@ Generally, referees require that all four considerations to be met for DOGSO but
 Please note that DOGSO applies to "an offense punishable by a free kick". This means that indirect free kick offenses and direct free kick offenses can lead to a red card for DOGSO.
 
 [The referee should of had the goal kick retaken as the goalkeeper was just setting the ball. Ignoring that, the goalkeeper plays the goal kick twice denying the opponent a clear goal scoring opportunity. Although, the restart is an indirect free kick the offender is sent off.](https://www.youtube.com/watch?v=uivLc9urdBY)
+- [Red card for DOGSO doUble touch from a goalkick. ](https://youtu.be/G6w_qGQkrwc?feature=shared)
 
 ## If Advantage is played
 
