@@ -65,6 +65,8 @@ The goalkeeper committing a handball offense in their own penalty area (six seco
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
 > - Law 12.1 Direct free kick
 
+- [Goalkeeper shown red card for double touch for DOGSO from a goalkick.](https://youtu.be/G6w_qGQkrwc?feature=shared)
+
 ## Control with hand/arms
 
 > A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s).
