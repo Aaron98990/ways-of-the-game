@@ -38,7 +38,7 @@ There are also offensive, insulting or abusive actions, including physical ones 
 
 There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
 
-- [Serious Foul Play. The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occured.](https://youtu.be/u-y3AiAm2pI?t=269)
+- [Serious Foul Play. The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occurred.](https://youtu.be/u-y3AiAm2pI?t=269)
 - [Serious Foul Play. The player uses excessive force as the momentum of their entire body goes into their opponent's head.](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
 - [Serious Foul Play. The player uses excessive force as the player cocks their elbow in their opponent's face.](https://youtu.be/FFf7U5FNLag?t=43)
 
@@ -54,7 +54,7 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 - [Serious Foul Play. Player rolls over the top of the ball into the opponents leg with excessive force.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s)
 
   A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
-- [Serious Foul Play. The atackers foot gets trapped between the defenders legs after a scissor tackle.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
+- [Serious Foul Play. The attacker's foot gets trapped between the defenders legs after a scissor tackle.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
 
 ## Kicks
 
