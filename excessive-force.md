@@ -22,7 +22,9 @@ The level of physical foul does not depend on intention. A player can unintentio
 > 
 > In addition, a player who, when not challenging for the ball, deliberately strikes an opponent or any other person on the head or face with the hand or arm, is guilty of violent conduct unless the force used was negligible.
 
-Both serious foul play and violent counduct are both send-off offenses for using excessive force. It is impossible for an offense to be serious foul play and violent conduct at the same time. It can only be one. 
+A player can be found to be using excessive force even if there is no or minimal contact made with the other person or the other person pulls out/avoids the situation.
+
+Both serious foul play and violent conduct are both send-off offenses for using excessive force. It is impossible for an offense to be serious foul play and violent conduct at the same time. It can only be one. 
 
 It is serious foul play if:
 - a challenge is being made for the ball and
