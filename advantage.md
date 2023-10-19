@@ -44,6 +44,8 @@ It is one arm or two arms pointing in the attacking direction of team playing th
 > 
 > - Law 12.3 Disciplinary Action
 
+It is not recomended to play advantage on offenses against the goalkeeper unless there is a clear opportunity to score a goal. If advantage is played in this case and the goalkeeper is injured, play should be stopped when the goalkeeper's team loses the ball.
+
 ## Advantage while holding
 
 Advantage also includes holding. This is clarified to be clear but is already covered. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
