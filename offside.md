@@ -11,9 +11,9 @@ Offside position:
 - specials rules for a player that is off the field of play
 
 Active Play:
-- [1a] touching/playing the ball or
-- [2a] interfering with an opponent or
-- gaining an advantage by [1a] or [2a] after:
+- (1a) touching/playing the ball or
+- (2a) interfering with an opponent or
+- gaining an advantage by (1a) or (2a) after:
   - deflection by opponent or
   - ball off the goalpost or crossbar or match offical or
   - deliberate save
