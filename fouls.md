@@ -102,6 +102,13 @@ Holding the ball between the thighs and jumping like a kangaroo when an opponent
 
 If a player leans on the shoulders of another player of their own team in order to head the ball, they threaten injury to themselves. <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
+## Retaliation Fouls
+
+Retaliation fouls are generally a yellow card for lack of respect of the game or a reckless challenge. They occur when the referee misses or it is percieved that the referee missed a foul against a team-mate. 
+
+- [A player trips himself on the opponent's leg and the referes correctly call no foul. A team-mate then retailates against a different opponent by charging him then "kicking" into his balls. A send-off for the player that retailates for violent conduct is appropiate.](https://youtu.be/5n2ZDFP8tAM?feature=shared&t=622)
+
+
 ## Fouls against/by the goalkeeper
 These are indirect free kicks if the offense involves no contact with the goalkeeper:
 - preventing/blocking a goalkeeper from releasing the ball from their hands
