@@ -88,6 +88,7 @@ Defenders only: When a defender is in a natural running motion there hand/arms a
 Defenders only: A defender attempting to head the ball but the ball contacts their hands/arm (which are generally at shoulder level and away from the body) is not unnaturally bigger.
 - [No handball. The defender genuinely tries to header the ball but it contacts their hands/arm.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
 - [No handball. The defender is attempting to head the ball and their han/arm position is justifable for a header.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
+- [No handball. The defender is attempting to head the ball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
 Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger in other cases, is never handball.
 - [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
