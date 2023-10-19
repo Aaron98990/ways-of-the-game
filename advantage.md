@@ -44,7 +44,7 @@ It is recommended for the referee to also yell "Advantage" to make it clear to p
 > 
 > - Law 12.3 Disciplinary Action
 
-It is not recomended to play advantage on offenses against the goalkeeper unless there is a clear opportunity to score a goal. If advantage is played in this case and the goalkeeper is injured, play should be stopped when the goalkeeper's team loses the ball.
+It is not recomended to play advantage on offenses against the goalkeeper and the goalkeeper is injured unless there is a clear opportunity to score a goal. If advantage is played and fouled player remains injured, play should be stopped when the team benefiting from the advantage loses possesion the ball.
 
 ## Advantage while holding
 
