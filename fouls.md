@@ -11,6 +11,7 @@ Fouls that occur before or after a player wins/touches the ball should be penali
 
 If the attacking player over-runs or attempts but fails to kick the ball, that does not excuse a foul by a defender. The location of the ball does not excuse a foul.
 - [Foul. The attacker over-runs the ball and is then unfairly tackled.](https://youtu.be/79cBWbiWElA?feature=shared&t=324)
+- [Foul. The attacker over-runs the ball and is fouled.](https://youtu.be/06lqnmddvKQ?feature=shared&t=885)
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
@@ -19,7 +20,7 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > - possible offences in the area towards which play is moving
 > - offences occurring after the ball is played away
 
-- [Foul and YC for lack of respect for the game. While away from the ball, the opponent impedes an opponent with contact. A foul while not challenging for the ball is blatant and shows a lack of respect for the game.](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214)
+- [Foul and YC for lack of respect for the game. While away from the ball, the opponent impedes an opponent with contact in the area towards which play is moving.](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
