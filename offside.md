@@ -37,11 +37,11 @@ So, no offside on the above restarts. A goalkeeper releasing the ball after cont
 
  So, if your completely in your own half when the ball is touched by a team-mate, can never be offside.
 
-[No offside. The player is in their own half when touched by a team-mate.](https://youtu.be/-pv5yvd7FZk?feature=shared&t=1182)
+- [No offside. The player is in their own half when touched by a team-mate.](https://youtu.be/-pv5yvd7FZk?feature=shared&t=1182)
 
 If you are behind or even with the ball when it is touched by a team-mate, you are never offside. (The direction of the pass is irrelevant.)
 
-[No offside. Although they are ahead of the second-last opponent, the player is behind the ball when played by a team-mate. ](https://youtube.com/watch?t=119&v=U01-uArNpdw&feature=youtu.be)
+- [No offside. Although they are ahead of the second-last opponent, the player is behind the ball when played by a team-mate. ](https://youtube.com/watch?t=119&v=U01-uArNpdw&feature=youtu.be)
 
 If you are behind or even with the second-to-last defender when the ball is touched by a teammate, you are never offside. Remember, the goalkeeper counts as a defender.
 
