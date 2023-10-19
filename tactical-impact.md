@@ -49,6 +49,8 @@ Please note that DOGSO applies to "an offense punishable by a free kick". This m
 
 For DOGSO in the penalty area, assume that the defender is going for the ball unless it is clear that they just wanted to take out the defender. "an attempt to play the ball or a challenge for the ball" can include a charge from the back as long as they were attempting to challenge for the ball.
 
+- [This is not a DOGSO situation. Although this was a charge from the back, this is a challenge for the ball. The defender had an open path to the ball but the attacker fairly moves into that path.](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
+
 ## If Advantage is played
 
 > If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
