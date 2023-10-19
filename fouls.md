@@ -9,6 +9,9 @@ Fouls that occur before or after a player wins/touches the ball should be penali
 - [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
 - [Foul. Defender goes through the opponent to head the ball.](https://youtu.be/o4wWxBZ_vs0?feature=shared&t=252)
 
+One player may win the ball fairly, but another team-mate may still commit a foul. 
+- [Example 1](https://youtu.be/1ThajxMxIOI?feature=shared&t=10)
+
 If the attacking player over-runs or attempts but fails to kick the ball, that does not excuse a foul by a defender. The location of the ball does not excuse a foul.
 - [Foul. The attacker over-runs the ball and is then unfairly tackled.](https://youtu.be/79cBWbiWElA?feature=shared&t=324)
 - [Foul. The attacker over-runs the ball and is fouled.](https://youtu.be/06lqnmddvKQ?feature=shared&t=885)
