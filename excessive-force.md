@@ -53,8 +53,11 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 - [Serious Foul Play. The player uses a straight leg and contacts their opponent's thigh with excessive force.](https://www.youtube.com/watch?v=x369hGXJVDc)
 - [Serious Foul Play. Player rolls over the top of the ball into the opponents leg with excessive force.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s)
 
-  A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
+A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
 - [Serious Foul Play. The attacker's foot gets trapped between the defenders legs after a scissor tackle.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
+
+A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
+- [Serious Foul Play. The attacker slides feet first into the goalkeeper with excessive force and no real chance of winning the ball.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924)
 
 ## Kicks
 
