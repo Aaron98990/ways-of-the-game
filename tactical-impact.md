@@ -44,8 +44,10 @@ Generally, referees require that all four considerations to be met for DOGSO but
 
 Please note that DOGSO applies to "an offense punishable by a free kick". This means that indirect free kick offenses and direct free kick offenses can lead to a red card for DOGSO.
 
-[The referee should of had the goal kick retaken as the goalkeeper was just setting the ball. Ignoring that, the goalkeeper plays the goal kick twice denying the opponent a clear goal scoring opportunity. Although, the restart is an indirect free kick the offender is sent off.](https://www.youtube.com/watch?v=uivLc9urdBY)
+- [The referee should of had the goal kick retaken as the goalkeeper was just setting the ball. Ignoring that, the goalkeeper plays the goal kick twice denying the opponent a clear goal scoring opportunity. Although, the restart is an indirect free kick the offender is sent off.](https://www.youtube.com/watch?v=uivLc9urdBY)
 - [Red card for DOGSO doUble touch from a goalkick. ](https://youtu.be/G6w_qGQkrwc?feature=shared)
+
+For DOGSO in the penalty area, assume that the defender is going for the ball unless it is clear that they just wanted to take out the defender. "an attempt to play the ball or a challenge for the ball" can include a charge from the back as long as they were attempting to challenge for the ball.
 
 ## If Advantage is played
 
@@ -64,8 +66,8 @@ No advantage played:
 
 |                         | SPA                                     | DOGSO                                   |
 | ----------------------- | --------------------------------------- | --------------------------------------- |
-| **In penalty area**     | Attempt for the ball:  no card          | Attempt for the ball:  YC               |
-|                         | No attempt for the ball or handball: YC | No attempt for the ball or handball: RC |
+| **In penalty area**     | Attempt/challenge for the ball:  no card          | Attempt/challenge for the ball:  YC               |
+|                         | No attempt/challenge for the ball or handball: YC | No attempt/challenge for the ball or handball: RC |
 | **Out of penalty area** | YC                                      | RC                                      |
 
 Advantage played:
