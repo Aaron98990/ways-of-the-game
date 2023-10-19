@@ -12,6 +12,7 @@ Fouls that occur before or after a player wins/touches the ball should be penali
 If the attacking player over-runs or attempts but fails to kick the ball, that does not excuse a foul by a defender. The location of the ball does not excuse a foul.
 - [Foul. The attacker over-runs the ball and is then unfairly tackled.](https://youtu.be/79cBWbiWElA?feature=shared&t=324)
 - [Foul. The attacker over-runs the ball and is fouled.](https://youtu.be/06lqnmddvKQ?feature=shared&t=885)
+- [Foul. The attacter attempts but fails to kick the ball, then over-runs the ball, and is fouled. The defender takes that risk when they slide tackle.](https://youtu.be/06lqnmddvKQ?feature=shared&t=912)
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
