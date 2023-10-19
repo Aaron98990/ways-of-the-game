@@ -17,7 +17,7 @@ Active Play:
   - deflection by opponent or
   - ball off the goalpost or crossbar or match offical or
   - deliberate save
- 
+
 !> Important! Please go through the 14 diagrams in the "Guidelines of Match Officials" which goes over common offside situations linked [here](https://www.theifab.com/laws/latest/guidelines/other-advice/#offside).
 
 ## Never offside
