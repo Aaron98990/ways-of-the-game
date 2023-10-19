@@ -34,9 +34,9 @@ Knowing when to play advantage is a skill. In higher levels of the game, not sto
 
 ## Advantage signal
 
-Law 5.6 shows two approved referee signals for advantage. 
+Law 5.6 shows two approved referee signals for advantage. It is one arm or two arms pointing in the attacking direction of team benefiting the advantage.
 
-It is one arm or two arms pointing in the attacking direction of team playing the advantage.
+It is recommended for the referee to also yell "Advantage" to make it clear to players that you are not ignoring the foul.
 
 ## When to play advantage
 
