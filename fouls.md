@@ -22,6 +22,7 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > - offences occurring after the ball is played away
 
 - [Foul and YC for lack of respect for the game. While away from the ball, the opponent impedes an opponent with contact in the area towards which play is moving.](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214)
+- [Foul. The attacker jummps at the defender after the ball is played away.](https://youtu.be/5n2ZDFP8tAM?feature=shared&t=514)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
