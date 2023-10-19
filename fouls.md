@@ -81,6 +81,7 @@ Impeding the progress of an opponent, often called obstruction, is a direct free
 - [Direct free kick. A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
 - [Direct free kick. The defender is facing away from the ball and is not within playing distance.](https://youtu.be/79cBWbiWElA?feature=shared&t=657)
 - [A player fairly moves into the opponent's path to shield the ball that is within playing distance and the opponent kicks him. The only foul is for the kick.](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238)
+- [A player fairly moves into the opponent's path to shield the ball that is within playing distance and the opponent charges him. The only foul is for the charge.](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
   
 
 ## Playing in a dangerous manner
