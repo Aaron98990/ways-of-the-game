@@ -85,6 +85,8 @@ A player does not have to touch the ball to commit an offside offense. The inter
 - [Not offside. The player in an offside position on the goalline does not impact thier opponents and moves away from the ball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=159)
 <!-- Aweomse site with examples from PRO - some outdated https://proreferees.com/2015/03/02/pro-training-camp-offside-discussions/ -->
 
+If it is clear that an offside attacker is running to play the ball and there is a high liklihood of attacker and goalkeeper challenging for the ball - it is recommended the assistant referee to raise their flag as soon as possible for the players safety.
+- [Offside. It is recommended for the assistant referee as soon as possible rather than waiting until the ball is about to be touched.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
 > If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
 > 
