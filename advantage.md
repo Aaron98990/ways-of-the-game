@@ -8,6 +8,8 @@ The referee has the power to play advantage. This is an extension of Law 9.1 as 
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
+If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal), a penalty kicks should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage.
+
 Please note the wording "allows play to continue when an offense occurs". This means advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
 - [Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
 
