@@ -67,6 +67,7 @@ The goalkeeper cannot be challenged (including being charged) by an opponent whe
 
 The player who charges into another player may remain standing or appear to have commit a fair charge because of momentum. The player who takes the charge will absorb all the impact.
 
+The Laws do mention anything about "shoulder to shoulder". But, repeating what is already said above you can't charge into an opponent (including with your shoulder) when the ball is not within playing distnace (like when the opponent just kicked/passed the ball away). Two player running a straight path to the ball who are even and whose shoulders make contact is fair.
 
 ## Trips
 
