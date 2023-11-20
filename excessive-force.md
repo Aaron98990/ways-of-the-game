@@ -58,6 +58,7 @@ A scissor tackle is a dangerous challenge with legs apart, so as to trap the opp
 
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
 - [Serious Foul Play. The attacker slides feet first into the goalkeeper with excessive force and no real chance of winning the ball.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924)
+- [Serious Foul Play.](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
 ## Kicks
 
