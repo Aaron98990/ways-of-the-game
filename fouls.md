@@ -76,6 +76,9 @@ Trips and "impeding the progress of an opponent with contact" are unique in that
 - [Foul. Although the player does not fall, the defender sticks his leg out and slows down the attacker.](https://youtu.be/ySYtHDT99aE?feature=shared&t=401)
 - [Foul. Although the attacker trips from the legs behind the defender, he still impedes his path.](https://youtu.be/FxcrgGIW_pw?feature=shared&t=962)
 
+Sometimes when a defender is shoulder to shoulder with an attacker, they stick their foot out in the attacker's path (and is not necessairly an attempt to kick the ball but may be for better positioning) and this causes the attacker to trip. These are tricky because if you are only looking above the waist it looks like a fair challenge (no unfair push or charge) but if you are watching the legs you will the defender put their foot in the attacker's path. Also, these tripping motions are slight and can easily look like a running motion.
+- [Foul. Tripping by the defender.](https://youtu.be/e98hge-imKY?feature=shared&t=481)
+
 ## Impeding the progress of an opponent
 
 > Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
