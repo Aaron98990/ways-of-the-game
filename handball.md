@@ -70,10 +70,10 @@ These are clear cut cases of unnaturally bigger or not. Some part of the arm may
 >  By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
 
 Defenders only: The ball hitting the hands/arm after a deflection from anyone (including oneself) does not negate being unnaturally bigger as the player takes that risk.
-- [Subjective. The hands/arms are unnaturally bigger - the defender is deliberately touching the attacker.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
-- [Subjective. The deflection off the defender hits the hands/arms that are bigger.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
+- [Subjective. The hands/arms are unnaturally bigger - the defender is deliberately touching the attacker. But, I would be fine with a no call as the benefit for the defender is minimal.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
+- [Subjective. The deflection off the defender hits the hands/arms that are bigger. But, I would be fine with a no call as the benefit for the defender is minimal.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
 - [Handball. The ball deflects off a team-mate but continues forward and touches the defender arm which are unnaturally bigger.](https://youtu.be/rN9I23szfx4?feature=shared&t=421)
-- [Handball. The ball deflects off a defender's foot then touches their arm. Since the ball is behind him/passed him when the ball touches their arm, which are unnaturally bigger.](https://www.youtube.com/shorts/_6hqiU4lqPM)
+- [Handball. The ball deflects off a defender's foot then touches their arm. Since the ball is behind him/passed him when the ball touches their arm, which is unnaturally bigger, this is handball.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 - [Handball. The ball deflects off a defender's foot and would have easily gone past the defender if it weren't for the arms which are unnaturally bigger.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 - For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But if the ball was going to still hit their head/body then there is no handball.
 
