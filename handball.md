@@ -43,8 +43,7 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 
 - [Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/fM_WkMvOogQ?t=29)
 - [Handball. Moves hand/arm towards ball - a slight motion still counts.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205)
-
-!> My interpretation: If the ball touches a player's arm which are not bigger, this is not handball even if the player deliberately moved their arm in that position to stop the ball.
+- [Handball. Moves arm toward ball even if the defender is no longer bigger when the ball contacts the arm.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s)
 
 ## Unnaturally bigger
 
