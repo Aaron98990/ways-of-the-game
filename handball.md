@@ -79,12 +79,9 @@ Defenders only: The ball hitting the hands/arm after a deflection from anyone (i
 Distance, time, and whether the ball hits the hand/arm closer or further away from the ball does not negate being unnaturally bigger as the player takes that risk.
 - [Handball. ](https://youtu.be/Y0eWXnECHiw?feature=shared&t=165)
 - [Handball. Does not matter if it hits the hand/arm closer or further away from the ball.](https://youtu.be/UbmKlHk2pgE?feature=shared&t=217)
-- [Handball. Similar to above. Distance and time to react does not matter.](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
+- [Handball. Similar to above. The defender is anticipating a cross on the ground but it's a cross that hits his unnaturally bigger arm..](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
 <!-- Premier says the above (Leicester City v. Wolves 11/8/2020) is not a handball https://youtu.be/6ipRs3c5WiU?feature=shared&t=151 https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree.  -->
-
-Defenders only: When a defender is in a natural running motion there hand/arms are not unnaturally bigger.
-- [No handball. The defender's arm is bigger but he is in a natural running motion.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43) 
-- [No handball. The defender's arm is bigger after the ball deflects off the thigh but he is in a natural running motion.](https://youtu.be/rN9I23szfx4?feature=shared&t=303)<!-- Instant Replay and Video Review disagrees say no handball. https://youtu.be/rN9I23szfx4?feature=shared&t=303 -->
+- [Subjective. The defender's arm is bigger and it denies a shot. But, the shot was taken in an unusual (with the front of the foot rather than the side of the food and lifted up from below the ball) and unexpected (minimal wind up and looking down) manner and the defender's arms were in a natural position.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43) 
 
 Defenders only: A defender attempting to head the ball but the ball contacts their hands/arm (which are generally at shoulder level and away from the body) is not unnaturally bigger.
 - [No handball. The defender genuinely tries to header the ball but it contacts their hands/arm.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
