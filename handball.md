@@ -41,9 +41,7 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 
 ## Deliberate
 
-- [Handball. Moves hand/arm towards ball so its deliberate and makes hands/arm unnaturally bigger.](https://youtu.be/fM_WkMvOogQ?t=29)
-- [Handball. Moves hand/arm towards ball - a slight motion still counts.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205)
-- [Handball. Moves arm toward ball even if the defender is no longer bigger when the ball contacts the arm.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s)
+- [Handball. Deliberately moves hand/arm towards ball - a slight motion counts esspecially on the goalline. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.]](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s)
 
 ## Unnaturally bigger
 
@@ -51,67 +49,55 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 
 > Not every touch of a player’s hand/arm with the ball is an offense.
 
-When arms are close to the body, there is no handball. After the ball hits an arm, the arm may look farther apart then it originally was before the contact. We judge the arm position right before the contact.
-- [No handball. The arms are close to the body and not bigger. ](https://www.youtube.com/watch?v=J2NYg4tmQa4)
-- [Handball. The arms are in a "chicken wing" shape which is unnaturally bigger.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=293)
+When arms are close to the body, there is no handball. After the ball hits an arm, the arm may look farther apart then it originally was before the contact.
+- The arm is close to the body and not bigger. [No handball.](https://www.youtube.com/watch?v=J2NYg4tmQa4)
+- The arm is in a "chicken wing" shape [Handball.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=293)
 
 > A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation.
 
-When a player falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not handball since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
-- [No handball. The hand is on the ground to support the body after falling.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
-- [Handball. The arm is on the ground to support the body after falling rather than just the hand.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
-
-These are clear cut cases of unnaturally bigger or not. Some part of the arm may be unnaturally bigger while other parts are not and are in line with the body and are not making a player bigger - it depends on which part of the arm is struck by the ball.
-- [Handball.](https://youtu.be/vl1DSIjXPnQ?t=180)
-- [Handball. Holding a team-mate on the wall means the arm is unnaturally bigger.](https://youtu.be/rN9I23szfx4?feature=shared&t=382)
-- [No handball. The ball hits near the elbow. Not the best angle here. The defender's area between the elbow and shoulder are in line with the body. If the ball hit between the elbow and hand which are not line with the body then it would of been handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
-
->  By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
-
-Defenders only: The ball hitting the hands/arm after a deflection from anyone (including oneself) does not negate being unnaturally bigger as the player takes that risk.
-- [Subjective. The hands/arms are unnaturally bigger - the defender is deliberately touching the attacker. But, I would be fine with a no call as the benefit for the defender is minimal.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68)
-- [Subjective. The deflection off the defender hits the hands/arms that are bigger. But, I would be fine with a no call as the benefit for the defender is minimal.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
-- [Handball. The ball deflects off a team-mate but continues forward and touches the defender arm which are unnaturally bigger.](https://youtu.be/rN9I23szfx4?feature=shared&t=421)
-- [Handball. The ball deflects off a defender's foot then touches their arm. Since the ball is behind him/passed him when the ball touches their arm, which is unnaturally bigger, this is handball.](https://www.youtube.com/shorts/_6hqiU4lqPM)
-- [Handball. The ball deflects off a defender's foot and would have easily gone past the defender if it weren't for the arms which are unnaturally bigger.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
-- For lower levels of the game, a player's hand/arm may be unnaturally away from the body to protect their face, chest, or torso. But if the ball was going to still hit their head/body then there is no handball.
-
-Distance, time, and whether the ball hits the hand/arm closer or further away from the ball does not negate being unnaturally bigger as the player takes that risk.
-- [Handball. ](https://youtu.be/Y0eWXnECHiw?feature=shared&t=165)
-- [Handball. Does not matter if it hits the hand/arm closer or further away from the ball.](https://youtu.be/UbmKlHk2pgE?feature=shared&t=217)
-- [Handball. Similar to above. The defender is anticipating a cross on the ground but it's a cross that hits his unnaturally bigger arm..](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
-<!-- Premier says the above (Leicester City v. Wolves 11/8/2020) is not a handball https://youtu.be/6ipRs3c5WiU?feature=shared&t=151 https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree.  -->
-- [Subjective. The defender's arm is bigger and it denies a shot. But, the shot was taken in an unusual (with the front of the foot rather than the side of the food and lifted up from below the ball) and unexpected (minimal wind up and looking down) manner and the defender's arms were in a natural position.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43) 
+Defenders only: When a player falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not handball since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
+- Only the hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
+- The arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
 Defenders only: A defender attempting to head the ball but the ball contacts their hands/arm (which are generally at shoulder level and away from the body) is not unnaturally bigger.
-- [No handball. The defender genuinely tries to header the ball but it contacts their hands/arm.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81)
-- [No handball. The defender is attempting to head the ball and their han/arm position is justifable for a header.](https://youtu.be/RpETARCm7_U?feature=shared&t=70)
-- [No handball. The defender is attempting to head the ball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
+- The defender is attempting to head the ball. [No handball.](https://youtu.be/vcgeevnqgwY?feature=shared&t=81) / [No handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [No handball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
+
+Defenders only: Handball is called only if the part of the arm the ball strikes is unnaturally bigger, expected or unexpected
+- The struck part is unnaturally bigger. [Handball.](https://youtu.be/vl1DSIjXPnQ?t=180) / [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=382) / [Handball.](https://youtu.be/Y0eWXnECHiw?feature=shared&t=165) / [Handball.](https://youtu.be/UbmKlHk2pgE?feature=shared&t=217) / [Handball.](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
+<!-- Premier says the above (Leicester City v. Wolves 11/8/2020) is not a handball https://youtu.be/6ipRs3c5WiU?feature=shared&t=151 https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree.  -->
+- A natural running motion may or may not be considered unnaturally bigger depending on the context. [Subjective call.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43) 
+- The struck part is in line with the body. [No handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
+
+Defenders only: The ball hitting the hans/arm after a deflection from anyone (including oneself) does not negate being unnaturally bigger.
+- There is minimal benefit from the hand/arm and ball contacting and wheter a player is unnaturally bigger is subjective. [Subjective call.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / [Subjective call.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
+- Handball after a deflection. [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421) / [Handball.](https://www.youtube.com/shorts/_6hqiU4lqPM) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 
 Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger in other cases, is never handball.
-- [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460)
-- [Not handball. The defender clears the ball into his hands/arms.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614)
-- [Not handball. The defender clears the ball into his hands/arms.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
-- [Not handball. The defender clears the ball into their team-mates arms.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
+- The defender clears the ball into their own hand/arm. [Not handball.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Not handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Not handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
+- The defender clears the ball into their team-mates hand/arm. [Not handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
 Attackers only: Attackers have no leeway compared to defenders. It's handball if the attackers hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
-- [Handball. The ball deflects from the attacker's foot and hits his arm that are unnaturally bigger. If he was a defender, there is no handball since the ball moved laterally rather than forward after the deflection.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271)
-- [Handball. The defender attempts to clear the ball but it strikes the attacker's arm which are bigger.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
+- The attacker's hand/arm is bigger. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
 
 ## Accidental handball
 
 !> 2021/22 IFAB change. Accidental handball by a team-mate before a goal is scored and accidental handball creating a goal-scoring opportunity have been removed as offenses.
 
+> It is an offense if a player:
+> - scores in the opponents’ goal:
+>   - directly from their hand/arm, even if accidental, including by the goalkeeper
+>   - immediately after the ball has touched their hand/arm, even if accidental
+
 Accidental handball is challenging to enforce as the referee will be screened as the attacker will be facing the goal.
 
-- [Handball. The ball contacts the hand/arm then immediately goes into the goal.](https://youtu.be/_MQpnvxeE9g?t=352)
-- [No accidental handball. There was a long time between the ball contacting the hand/arm and the goal so accidental handball would not apply.](https://youtu.be/WicGa2_Fw5Q?t=285)
+- The ball contacts the hand/arm then immediately goes into the goal. [No goal - accidentall handball.](https://youtu.be/_MQpnvxeE9g?t=352)
+- The ball contacts the hand/arm but does not immediatl go in the goal.  [Goal - no accidental handball.](https://youtu.be/WicGa2_Fw5Q?t=285)
 
 ## Foul then handball
 
 When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the fouled player. If no foul was committed, it is handball. Referees don't like when players do this because it forces referees to make a decision. I would advice against a caution for the blatant handball if no foul is called - there are bigger fish to fry.
 
-[The player is carelessly fouled, falls down, and commits handball. The restart is for the careless foul.](https://youtu.be/xqQqe-LwWXc?t=951)
+- [The player is carelessly fouled, falls down, and commits handball. The restart is for the careless foul.](https://youtu.be/xqQqe-LwWXc?t=951)
 
 ## Disciplinary Action
 
