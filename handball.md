@@ -41,9 +41,15 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 
 ## Deliberate
 
+> It is an offense if a player:
+> - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
+
 - [Handball. Deliberately moves hand/arm towards ball - a slight motion counts esspecially on the goalline. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.]](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s)
 
 ## Unnaturally bigger
+
+> It is an offense if a player:
+> - touches the ball with their hand/arm when it has made their body unnaturally bigger. A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation. By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
 
 !> This is my interpretation. There is *a lot* of subjectivity in this.
 
