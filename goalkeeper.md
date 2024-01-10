@@ -94,7 +94,9 @@ took place within the penalty-area . Laws of the Game 1990/91 -->
 
 ## Releasing the ball
 
-While the goalkeeper is releasing the ball, remember that the boundary lines that makes the penalty area is part of the penalty area. A goalkeeper commits no offense when they have their body outside their own penalty area but the ball is making contact with their hands in their own penalty area (including above the boundary lines that make the penalty area). Also, no offense if committed if their momentum from releasing the ball takes them out of the penalty area if hand/arm contact with the ball only occurred in their penalty area.
+While the goalkeeper is releasing the ball, remember that the boundary lines that makes the penalty area is part of the penalty area (see Law 1.2 quote below). A goalkeeper commits no offense when they have their body outside their own penalty area but the ball is making contact with their hands in their own penalty area (including above the boundary lines that make the penalty area). Also, no offense if committed if their momentum from releasing the ball takes them out of the penalty area if hand/arm contact with the ball only occurred in their penalty area.
+
+- [No offense. Goalkeeper did not contact the ball with their hand/arm outside the penalty area.](https://youtu.be/2rXfqVkmMII?feature=shared&t=375)
 
 > lines belong to the areas of which they are boundaries.
 > - Law 1.2 - Field Markings
