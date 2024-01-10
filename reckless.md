@@ -10,10 +10,10 @@ The Laws of the Game designates three levels of physical severity - Careless, Re
 
 The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
 
-There are increased risk factors that a player takes that make a player pull out of a challenge due to momentum. Whenever a player does these, they are taking a risk:
-- Running at a high rate of speed
-- Lunging or slide tackle
-- Making an Ariel Challenge
+Whenever a player does these, they are taking an increased risk:
+- running
+- slide tackling
+- jumping
 
 Soccer has a reputation of being soft but the fact is that referees do not sanction players enough by a lot. Many of the video clips that are shown, do not show the correct sanction.
 
