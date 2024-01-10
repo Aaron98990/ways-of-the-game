@@ -10,7 +10,7 @@ The Laws of the Game designates three levels of physical severity - Careless, Re
 
 The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
 
-Whenever a player does these, they are taking an increased risk:
+Whenever a player does these, they are taking an increased risk as its harder to pull out of a challenge and if contact is made with another player, it's more likely to injure them:
 - running
 - slide tackling
 - jumping
