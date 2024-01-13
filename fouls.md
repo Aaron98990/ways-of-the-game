@@ -3,7 +3,7 @@ Fouls are physical (as opposed to verbal) offenses, generally listed in Law 12, 
 Soccer is a physical sport. Not every contact with the opponent is a foul. 
 - [No foul. Although there is contact the head, the attacker runs into the defender's path/arm who is clearing the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
-Fouls that occur before or after a player wins/touches/shoots the ball should be penalized.
+Fouls that occur before (going through an opponent) or after (the follow through) a player wins/touches/shoots the ball should be penalized.
 - [Foul & YC for reckless play. Player gets the ball then slide tackles their opponent.](https://youtu.be/FBvnXY29jHs?feature=shared&t=85)
 - [Foul & proper sanction. Player gets the ball then rolls over the top of the ball into the opponents leg.](https://youtu.be/xNAVqoAXnvg?feature=shared&t=243)
 - [Foul. Defender kicks the attacker then kicks the ball (goes through the opponent).](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s)
