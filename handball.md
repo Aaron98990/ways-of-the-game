@@ -61,7 +61,10 @@ When arms are close to the body, there is no handball. After the ball hits an ar
 
 > A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation.
 
-Defenders only: When a player falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not handball since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
+Attackers or any player after the ball bounces or any player after the ball travels a long distance: There is no leeway in these situations. It's handball if the player's hand/arm is bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
+- The attacker's hand/arm is bigger. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
+
+Defenders only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not handball since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
 - Only the hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
 - The arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
@@ -81,9 +84,6 @@ Defenders only: The ball hitting the hans/arm after a deflection from anyone (in
 Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger in other cases, is never handball.
 - The defender clears the ball into their own hand/arm. [Not handball.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Not handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Not handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
 - The defender clears the ball into their team-mates hand/arm. [Not handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
-
-Attackers only: Attackers have no leeway compared to defenders. It's handball if the attackers hand/arms are bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
-- The attacker's hand/arm is bigger. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
 
 ## Accidental handball
 
