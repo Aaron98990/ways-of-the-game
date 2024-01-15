@@ -69,8 +69,8 @@ Attackers or neutral situation / no team clearly in possession (e.g. ball bounci
 - The attacker's hand/arm is bigger. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53)
 
 Defenders only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
-- Only the hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg)
-- The arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
+- Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
+- The entire arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
 Defenders only: A defender attempting to or is near a player attempting to head the ball that was last deliberately played (not deflected) not closeby but the ball contacts their hand/arm is not unnaturally bigger.
 - The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3)
