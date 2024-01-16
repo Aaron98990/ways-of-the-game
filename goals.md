@@ -160,7 +160,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 
 It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. 
 
-[The referee should of been present to stop the players from fighting for the ball.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s)
+- [The referee should of been present to stop the players from fighting for the ball.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s)
 
 ## Celebration of a goal
 
@@ -174,6 +174,7 @@ It is accepted that referees do not add enough additional time, so the losing te
 - [A player celebrating a goal approaches spectators in a manner which causes security issues and must be cautioned.](https://youtu.be/twUjLLSC3EY?feature=shared&t=746)
 - [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
 - [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
+- [A player acts in a provacative way by mimicking the goalkeeper failing to save the goal and must be cautioned.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=350)
 
 ## Restart after a goal
 
