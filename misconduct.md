@@ -82,17 +82,14 @@ Things to say:
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
-- delaying the restart of play
-  - Covered in the [restarts section](/restarts).
-- (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
-  - Covered in the [restarts section](/restarts).
+
+<!-- tabs:start -->
+
+#### **Not dissent**
 
 > - dissent by word or action
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
-<!-- tabs:start -->
-
-#### **Not dissent**
 
 Simply disagreeing with the referee is not an offense or stating a simple opinion/fact is not dissent. 
 
@@ -107,6 +104,10 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 
 #### **Dissent by word**
 
+> - dissent by word or action
+
+Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
+
 - Yelling at a match official, especially at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
 - Continuous, prolonged, persistent complaining
 - Provocative or Personal Comments
@@ -116,6 +117,10 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
   - Swearing at a referee "That's a fucking foul!"
 
 #### **Dissent by action**
+
+> - dissent by word or action
+
+Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
 The NBA has an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
 
@@ -163,6 +168,13 @@ PRO Referees has a write up on persistent offenses (formerly called persistent i
 
 If a referee issues a caution for persistent offenses, they often count with their hands 1,2,3 to signify this or point to different parts of the field where the offenses occurred.
 
+#### **Other offenses**
+
+- delaying the restart of play
+  - Covered in the [restarts section](/restarts).
+- (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
+  - Covered in the [restarts section](/restarts).
+
 #### **Unsporting behavior**
 
 > - unsporting behaviour
@@ -173,9 +185,6 @@ This is the most common reason to give a caution because it covers a lot of offe
 
 
 ## Cautions for unsporting behaviour
-
-
-
 <!-- tabs:start -->
 
 #### **Simulation**
@@ -246,17 +255,6 @@ If you just left the field without the referee's permission (deliberately or not
 
 This section applies to a player, substitute or substituted player.
 
-- denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offense (except a goalkeeper within their penalty area)
-  - See the [tactical impact section](/tactical-impact)
-- denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
-  - See the [tactical impact section](/tactical-impact)
-- serious foul play
-  - See the [excessive force section](/excessive-force)
-- biting or spitting at someone
-  - See the [excessive force section](/excessive-force)
-- violent conduct
-  - See the [excessive force section](/excessive-force)
-
 <!-- tabs:start -->
 ### **Action**
 
@@ -277,6 +275,19 @@ This section applies to a player, substitute or substituted player.
 ### **Second caution**
 
 > - receiving a second caution in the same match
+
+### **Other offenses**
+
+- denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offense (except a goalkeeper within their penalty area)
+  - See the [tactical impact section](/tactical-impact)
+- denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
+  - See the [tactical impact section](/tactical-impact)
+- serious foul play
+  - See the [excessive force section](/excessive-force)
+- biting or spitting at someone
+  - See the [excessive force section](/excessive-force)
+- violent conduct
+  - See the [excessive force section](/excessive-force)
 
 <!-- tabs:end -->
 
