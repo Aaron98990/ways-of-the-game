@@ -101,6 +101,7 @@ Simply disagreeing with the referee is not an offense or stating a simple opinio
 - "What are you calling?"
 - "Keep my players safe! Control the game."
 - "How can you call that when you're that far away?"
+- jumping in frustration
 
 #### **Dissent by word**
 
@@ -126,14 +127,13 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 
 - gesture the wearing of spectacles
 - invading a match official's personal space
-- jumping in frustration
+- surrounding a match official
 - Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324)
 - coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic clapping
 - throwing (spiking) the ball to the ground [Example 1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart when done tactically)
-- surrounding a match official
 
 Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
