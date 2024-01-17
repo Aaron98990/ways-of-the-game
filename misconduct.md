@@ -68,10 +68,10 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Warnings
 
-Warnings are an important tool that is not technically misconduct. They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
+Warnings are an important tool that is not technically misconduct. They are an important tool to set a message to everyone watching the game on what is acceptable. No one should be surprised when you give a caution - esspecially in situations that referees enforce differently. If you give a public warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
 
 Things to avoid saying:
-- If you do X, I will do Y. (Don't tie yourself.)
+- If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
 - This is your only warning. (Don't tie yourself.)
 
 Things to say:
@@ -80,11 +80,13 @@ Things to say:
 
 ## Players cautionable offenses
 
-This section applies to a player, substitute or substituted player.
+This section applies to a player, substitute or substituted player unless otherwise stated.
 
-> - delaying the restart of play
+- delaying the restart of play
+  - Covered in the [restarts section](/restarts).
+- (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
+  - Covered in the [restarts section](/restarts).
 
-Covered in the [restarts section](/restarts).
 > - dissent by word or action
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
@@ -146,11 +148,6 @@ A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too m
 
 A player re-entering the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission).
 
-
-> - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
-
-Covered in the [restarts section](/restarts).
-
 > - (player only) persistent offenses (no specific number or pattern of offenses constitutes ‘persistent’)
 
 This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for persistent offenses:
@@ -172,6 +169,12 @@ This is the most common reason to give a caution because it covers a lot of offe
 
 ## Cautions for unsporting behaviour
 
+
+
+<!-- tabs:start -->
+
+#### **Simulation**
+
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
 
 This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
@@ -188,36 +191,8 @@ Usual acts of simulation or embellishment include:
 - falling to the ground when the contact between him and the opponent was not sufficient to cause the fall
 - Falling in an overly dramatic manner designed to attract the referee’s attention
 
+#### **Lack of respect for the game**
 
-> - changes places with the goalkeeper during play or without the referee’s permission (see Law 3)
-
-See the [goalkeeper section](/goalkeeper). Only applies among players. Does not apply between halves (including extra time) or before penalties.
-
-> - commits in a reckless manner a direct free kick offense
-
-See the [reckless section](/reckless).
-> - handles the ball to interfere with or stop a promising attack
-> - commits any other offense which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offense which was an attempt to play the ball or a challenge for the ball
-> - denies an opponent an obvious goal-scoring opportunity by committing an offense which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
-
-See the [tactical impact section](/tactical-impact)
-
-> - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
-
-See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
-See the [handball section](/handball) for "handles the ball in an attempt to score".
-
-> - makes unauthorized marks on the field of play
-
-I have only seen a caution for this when players scuffing up the penalty spot or the area near the penalty spot to make the player slip when taking a penalty kick.
-
-[Goalkeeper should of gotten a caution for scuffing up the area near the penalty area.](https://www.youtube.com/watch?v=yZN_2D5nlRg)
-
-> - plays the ball when leaving the field of play after being given permission to leave
-
-Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.3. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
-
-If you just left the field without the referee's permission (deliberately or not) you still count as a defender for determining offside position "until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area" (Law 11.4).
 > - shows a lack of respect for the game
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
@@ -233,54 +208,56 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
-> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
 
-See the [goalkeeper section](/goalkeeper)
+#### **Unauthorized marks**
+
+> - makes unauthorized marks on the field of play
+
+I have only seen a caution for this when players scuffing up the penalty spot or the area near the penalty spot to make the player slip when taking a penalty kick.
+
+[Goalkeeper should of gotten a caution for scuffing up the area near the penalty area.](https://www.youtube.com/watch?v=yZN_2D5nlRg)
+
+#### **Verbal distraction**
+
 > - verbally distracts an opponent during play or at a restart
+
 Here are some examples:
 - You cannot say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
 - You cannot yell/scream for the purpose to scare the opponent generally when they are attempting to play the ball.
 - You cannot clap to distract the opponent when they are attempting to play the ball (e.g. penalty kick) <!-- I remember seeing in one of my matches the team-mates clapping as their team-mate takes the penalty kick. That was weird. -->
 
-There should be no warnings for this because of how blatantly unsporting this is and how hard it is to spot.
+#### **Permission to leave**
 
-## Unlisted in Law 12 cautions
-For penalty kicks:
-- a team-mate of the identified kicker takes the kick; the referee cautions the player who took the kick
-- feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
-- If the goalkeeper’s offense results in the kick being retaken (e.g. touching crossbar/nets, not on goal line), the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game
-- Law 14
+> - plays the ball when leaving the field of play after being given permission to leave
 
-If a player is wearing or using unauthorised/dangerous equipment or jewelry, the referee must order the player to:
-- remove the item
-- leave the field of play at the next stoppage if the player is unable or unwilling to comply
+Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.3. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
 
-A player who refuses to comply or wears the item again must be cautioned. Law 4.1
+If you just left the field without the referee's permission (deliberately or not) you still count as a defender for determining offside position "until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area" (Law 11.4).
+
+<!-- tabs:end -->
 
 
 ## Players sending-off offenses
 
-> A player, substitute or substituted player who commits any of the following offenses is sent off:
+This section applies to a player, substitute or substituted player.
 
-
-> - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offense (except a goalkeeper within their penalty area)
-> - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
-
-See the [tactical impact section](/tactical-impact)
-
-> - serious foul play
-> - biting or spitting at someone
-> - violent conduct
-
-
-See the [excessive force section](/excessive-force).
+- denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offense (except a goalkeeper within their penalty area)
+  - See the [tactical impact section](/tactical-impact)
+- denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
+  - See the [tactical impact section](/tactical-impact)
+- serious foul play
+  - See the [excessive force section](/excessive-force)
+- biting or spitting at someone
+  - See the [excessive force section](/excessive-force)
+- violent conduct
+  - See the [excessive force section](/excessive-force)
 
 > - using offensive, insulting or abusive language and/or action(s)
 
 <!-- tabs:start -->
 ### **Action**
 - [Abusive action. Beckham makes unnecessary contact with a match official and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
-- [Abusive action. The player of the black team gets into the opponent's face daring him to fight.](https://youtu.be/WQUzJf9sHQY?feature=shared&t=910)
+- [Abusive action. Grabbing an opponent's jersey and pulling them to your face is an abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
 - includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
 
