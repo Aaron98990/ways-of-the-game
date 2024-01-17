@@ -213,6 +213,8 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - showboating or taunting
   - stepping over an opponent
   - clapping in an opponent's face
+  - signaling the score in an opponent's face
+  - imitating or mocking a player who messed up
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - blatantly commiting an offfense
@@ -247,6 +249,30 @@ Here are some examples:
 Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.3. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
 
 If you just left the field without the referee's permission (deliberately or not) you still count as a defender for determining offside position "until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area" (Law 11.4).
+
+#### **Other offenses**
+
+- changes places with the goalkeeper during play or without the referee’s permission (see Law 3)
+  - See the [goalkeeper section](/goalkeeper). Only applies among players. Does not apply between halves (including extra time) or before penalties.
+- commits in a reckless manner a direct free kick offense
+  - See the [reckless section](/reckless).
+- handles the ball to interfere with or stop a promising attack
+- commits any other offense which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offense which was an attempt to play the ball or a challenge for the ball
+- denies an opponent an obvious goal-scoring opportunity by committing an offense which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
+  - For the three above, see the [tactical impact section](/tactical-impact)
+- handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
+  - See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
+  - See the [handball section](/handball) for "handles the ball in an attempt to score".
+- initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
+  - See the [goalkeeper section](/goalkeeper).
+ 
+For penalty kicks (Law 14):
+- a team-mate of the identified kicker takes the kick; the referee cautions the player who took the kick
+- feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
+- If the goalkeeper’s offense results in the kick being retaken (e.g. touching crossbar/nets, not on goal line), the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game
+
+For unauthorised/dangerous equipment or jewelry (Law 4.1):
+- A player who refuses to comply or wears the item again must be cautioned.
 
 <!-- tabs:end -->
 
