@@ -17,7 +17,7 @@ A referee cannot give a caution or send-off to an outside agent (e.g. spectator,
 Footballl associations (FAs) often create codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
 
 ## Referee's authority
-
+> The referee:
 > - has the authority to take disciplinary action from entering the field of play for the pre-match inspection until leaving the field of play after the match ends (including penalties). 
 > - has the power to show yellow or red cards and, where competition rules permit, temporarily dismiss a player, from entering the field of play at the start of the match until after the match has ended, including during the half-time interval, extra time and penalties
 > 
@@ -31,7 +31,7 @@ A referee can caution or send-off someone without showing cards (e.g they forgot
 
 Temporarily dismissing a player (sin bin) is in the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
 
-## Player send-offs
+## Playing short
 
 > A player who is sent off:
 > - before submission of the team list cannot be named on the team list in any capacity
@@ -52,7 +52,7 @@ Many times competition rules will require the sent-off adult participant to be o
 
 If a team only has 10 players with no subs and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game. The team would only have six players which is lower than the required seven players.
 
-## Issuing card after play has restarted
+## After play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
 > Law 5.2
 
@@ -60,7 +60,7 @@ If the assistant referee has their flag up and the referee misses it (e.g for di
 
 An additional (rare) exception is listed in the [advantage section](/advantage) when a free kick is taken quickly and there is a goal-scoring scoring opportunity and the referee has not stopped the restart/taken the card outs. The [advantage section](/advantage) also discusses committing two cautionable offense at close proximity but not at the same time (often times after an advantage) and committing two cautionable offenses at the same time.
 
-## Penalty kicks
+## Penalties
 
 > A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
 > 
@@ -78,7 +78,7 @@ Things to say:
 - X is not acceptable. Don't do it again.
 - Enough is enough.
 
-## Players cautionable offenses
+## Cautions
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
@@ -184,7 +184,7 @@ This is the most common reason to give a caution because it covers a lot of offe
 <!-- tabs:end -->
 
 
-## Cautions for unsporting behaviour
+## Unsporting behaviour
 <!-- tabs:start -->
 
 #### **Simulation**
@@ -276,7 +276,7 @@ For unauthorised/dangerous equipment or jewelry (Law 4.1):
 <!-- tabs:end -->
 
 
-## Players sending-off offenses
+## Send-offs
 
 This section applies to a player, substitute or substituted player.
 
