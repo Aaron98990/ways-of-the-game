@@ -132,7 +132,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 
 Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
-<!-- tabs:end -->
+#### **Entering/Leaving**
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
@@ -148,6 +148,8 @@ A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too m
 
 A player re-entering the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission).
 
+#### **Persistent offenses**
+
 > - (player only) persistent offenses (no specific number or pattern of offenses constitutes ‘persistent’)
 
 This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for persistent offenses:
@@ -161,10 +163,13 @@ PRO Referees has a write up on persistent offenses (formerly called persistent i
 
 If a referee issues a caution for persistent offenses, they often count with their hands 1,2,3 to signify this or point to different parts of the field where the offenses occurred.
 
+#### **Unsporting behavior**
+
 > - unsporting behaviour
 
 This is the most common reason to give a caution because it covers a lot of offenses that are listed below.
 
+<!-- tabs:end -->
 
 
 ## Cautions for unsporting behaviour
@@ -252,20 +257,28 @@ This section applies to a player, substitute or substituted player.
 - violent conduct
   - See the [excessive force section](/excessive-force)
 
-> - using offensive, insulting or abusive language and/or action(s)
-
 <!-- tabs:start -->
 ### **Action**
+
+> - using offensive, insulting or abusive language and/or action(s)
+
 - [Abusive action. Beckham makes unnecessary contact with a match official and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
 - [Abusive action. Grabbing an opponent's jersey and pulling them to your face is an abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
 - includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
 
 ### **Language**
+
+> - using offensive, insulting or abusive language and/or action(s)
+
 - Threatening/wishing violence or injury to another person
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
-<!-- tabs:end -->
+
+### **Second caution**
+
 > - receiving a second caution in the same match
+
+<!-- tabs:end -->
 
 ## Team officials
 
