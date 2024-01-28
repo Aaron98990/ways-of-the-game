@@ -60,6 +60,12 @@ If the assistant referee has their flag up and the referee misses it (e.g for di
 
 An additional (rare) exception is listed in the [advantage section](/advantage) when a free kick is taken quickly and there is a goal-scoring scoring opportunity and the referee has not stopped the restart/taken the card outs. The [advantage section](/advantage) also discusses committing two cautionable offense at close proximity but not at the same time (often times after an advantage) and committing two cautionable offenses at the same time.
 
+## Mass Confrontations
+
+After a mass confrontation, separate the teams to their benches. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
+
+[Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
+
 ## Penalties
 
 > A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
