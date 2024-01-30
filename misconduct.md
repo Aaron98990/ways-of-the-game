@@ -65,6 +65,7 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 After a mass confrontation, separate the teams to their benches to avoid any secondary confrontations and so the referee is not surrounded. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
 
 -[Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
+-[Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
 
 ## Penalties
 
