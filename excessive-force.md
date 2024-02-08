@@ -58,7 +58,7 @@ A scissor tackle is a dangerous challenge with legs apart, so as to trap the opp
 
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
 - [Serious Foul Play. The attacker slides feet first into the goalkeeper with excessive force and no real chance of winning the ball.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924)
-- [Serious Foul Play.](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
+- [Serious Foul Play. "Kung Fu Kick".](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
 ## Kicks
 
@@ -66,6 +66,7 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 - [Violent Conduct. The player kicks out at the opponent with excessive force who just fouled him.](https://youtu.be/2NgJxKL3fgU?t=704)
 - [Violent Conduct. The player deliberately steps (or stomps) on their opponent after not getting a foul from the referee. ](https://www.youtube.com/watch?v=dfDV_bTCGUw)
 - [Serious Foul Play. The player kicks the player's head with excessive force although he gets the ball first.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
+- [Serious Foul Play. Kung Fu kick.]([https://youtu.be/ybVefZeKoxE?feature=shared&t=314](https://youtu.be/ybVefZeKoxE?feature=shared&t=314))
 
 ## Push
 
