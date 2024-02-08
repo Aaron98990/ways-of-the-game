@@ -14,6 +14,7 @@ Whenever a player does these, they are taking an increased risk as its harder to
 - running
 - slide tackling
 - jumping
+- flailing their arms
 
 Soccer has a reputation of being soft but the fact is that referees do not sanction players enough by a lot. Many of the video clips that are shown, do not show the correct sanction.
 
