@@ -66,7 +66,7 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 - [Violent Conduct. The player kicks out at the opponent with excessive force who just fouled him.](https://youtu.be/2NgJxKL3fgU?t=704)
 - [Violent Conduct. The player deliberately steps (or stomps) on their opponent after not getting a foul from the referee. ](https://www.youtube.com/watch?v=dfDV_bTCGUw)
 - [Serious Foul Play. The player kicks the player's head with excessive force although he gets the ball first.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
-- [Serious Foul Play. Kung Fu kick.]([https://youtu.be/ybVefZeKoxE?feature=shared&t=314](https://youtu.be/ybVefZeKoxE?feature=shared&t=314))
+- [Serious Foul Play. Kung Fu kick.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
 
 ## Push
 
