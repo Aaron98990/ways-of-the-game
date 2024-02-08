@@ -1,19 +1,17 @@
 Fouls are physical offenses, generally listed in Law 12, committed against a single opponent including when no contact is made. Handball, "makes contact with the ball with a held object", and offside are not considered a foul since it is not against any one opponent.
 
 Soccer is a physical sport. Not every contact with the opponent is a foul. 
-- [No foul.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
+- [No foul by the player that clears the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
 Fouls that occur before (going through an opponent) or after (the follow through) a player wins/touches/shoots the ball should be penalized.
-- Unfair follow through. [Example 1](https://youtu.be/FBvnXY29jHs?feature=shared&t=85), [Example 2.](https://youtu.be/xNAVqoAXnvg?feature=shared&t=243), [Example 3](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
+- Unfair follow through. [Example 1](https://youtu.be/FBvnXY29jHs?feature=shared&t=85), [Example 2](https://youtu.be/xNAVqoAXnvg?feature=shared&t=243), [Example 3](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
 - Unfirly going through the opponent. [Example 1](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s), [Example 2](https://youtu.be/o4wWxBZ_vs0?feature=shared&t=252)
 
 One player may win the ball fairly, but another team-mate may still commit a foul. 
 - [Example 1](https://youtu.be/1ThajxMxIOI?feature=shared&t=10)
 
 If the attacking player over-runs or attempts but fails to kick the ball, that does not excuse a foul by a defender. The location of the ball does not excuse a foul.
-- [Foul. The attacker over-runs the ball and is then unfairly tackled.](https://youtu.be/79cBWbiWElA?feature=shared&t=324)
-- [Foul. The attacker over-runs the ball and is fouled.](https://youtu.be/06lqnmddvKQ?feature=shared&t=885)
-- [Foul. The attacter attempts but fails to kick the ball, then over-runs the ball, and is fouled. The defender takes that risk when they slide tackle.](https://youtu.be/06lqnmddvKQ?feature=shared&t=912)
+- [Example 1](https://youtu.be/79cBWbiWElA?feature=shared&t=324), [Example 2](https://youtu.be/06lqnmddvKQ?feature=shared&t=885), [Example 3](https://youtu.be/06lqnmddvKQ?feature=shared&t=912)
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
