@@ -4,7 +4,7 @@
 
 The referee has the power to play advantage. This is an extension of Law 9.1 as the ball is not of play until the "play has been stopped by the referee". If the ball has "wholly passed over the goal line or touchline" or "touches a match official, remains on the field of play, and meets one of the conditions" - advantage cannot be played.
 
-"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued.
+"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. If anyone from the offended team wants the free kick rather than advantage, the referee should stop play.
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
@@ -98,3 +98,4 @@ The "(unless as outline below)" enumerates the law above. DOGSO, serious foul pl
 
 This is rarely used. This is not advantage since the ball is out of play but is a similar concept as the referee decides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is beneficial for the team that's losing. 
 - [The referee could have not delayed the restart and allowed the quick free kick under this Law. If the referee does this, since the offense was Stopping a Promising Attack outside penalty area (YC), it would be downgraded to no card. ](https://youtu.be/XBaIqWtWkGA)
+- [The referee could have not delayed the restart and allowed the quick free kick under this law. If the referee determined this was a reckless tackle, a yellow card is given. Else, no card is given for SPA.](https://youtu.be/6A0qaGsLwCc?feature=shared&t=472)
