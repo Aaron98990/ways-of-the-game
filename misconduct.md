@@ -329,7 +329,7 @@ This section applies to a player, substitute or substituted player.
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
-Many times, competition rules will require to be out-of-sight and out-of-sound.
+Many times, competition rules will require to be out-of-sight and out-of-sound. **Other than the senior team coach, all team coaches are on a short leash and any offense or misconduct should be dealt with strictly.**
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
