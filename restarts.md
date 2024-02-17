@@ -112,6 +112,7 @@ Time-wasting often falls into this category. The referee must be aware that in c
 - [The player keeps dribbling the ball although the restart belongs to the other team. The player is cautioned.](https://www.youtube.com/watch?v=IsPq6DlxrG0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=18)
 - [During a substitution the player takes longer than necessary to leave the field. The player is cautioned.](https://www.youtube.com/watch?v=ilHTBKTW-Kg&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=20)
 - [The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
+- [The player provokes a confrontation by holding onto the ball. The player should be cautioned.](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 
 The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called). 
 
