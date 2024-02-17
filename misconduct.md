@@ -64,8 +64,8 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 After a mass confrontation, separate the teams to their benches to avoid any secondary confrontations and so the referee is not surrounded. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
 
--[Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
--[Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
+- [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
+- [Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
 
 ## Penalties
 
@@ -135,7 +135,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - gesture the wearing of spectacles
 - invading a match official's personal space
 - surrounding a match official
-- Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324)
+- Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [Example 2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic clapping
 - throwing (spiking) the ball to the ground [Example 1](https://www.youtube.com/watch?v=oaRIL13l-hE)
