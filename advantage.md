@@ -4,7 +4,7 @@
 
 The referee has the power to play advantage. This is an extension of Law 9.1 as the ball is not of play until the "play has been stopped by the referee". If the ball has "wholly passed over the goal line or touchline" or "touches a match official, remains on the field of play, and meets one of the conditions" - advantage cannot be played.
 
-"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. If anyone from the offended team wants the free kick rather than advantage, the referee should stop play.
+"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. **Don't make it complicated: If anyone from the offended team wants the free kick rather than advantage, the referee should stop play.**
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
