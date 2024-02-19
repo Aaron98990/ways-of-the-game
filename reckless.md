@@ -38,7 +38,9 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 
 A tackle where the boot make direct contact with the opponent's ankle or foot is generally a caution. A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
 
-Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is played laterally is not needed and has limited benefit and generally should be cautioned if not successful.
+Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit and generally should be cautioned if not successful.
+
+Slide tackles from the back, which I define as starting a slide tackle from the opposite direction the ball is travelling, even when the player wins the ball, are dangerous. Even if the player wins the ball their trail leg is likely to catch their opponent.
 
 - [A player commits a late reckless tackle that causes a third player to fall down from the impact. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
 - [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
@@ -58,6 +60,9 @@ An American football style charge into an opponent will always be a caution or s
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge. ](https://youtu.be/7cZpV_ZAfzw)
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge.](https://youtu.be/vR3DpyYTH2k)
 - [The player shields the ball within plaing distance and the ball is relatively stationary when he is charged from the back.](https://youtu.be/79cBWbiWElA?feature=shared&t=605)
+
+A charge into a person's back while the ball is relatively still is a yellow card.
+- [Example 1](https://youtu.be/yueTdu0S_Js?feature=shared&t=120)
 
 ## Recklessly Jumping At
 
