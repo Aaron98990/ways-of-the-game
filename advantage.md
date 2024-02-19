@@ -4,11 +4,14 @@
 
 The referee has the power to play advantage. This is an extension of Law 9.1 as the ball is not of play until the "play has been stopped by the referee". If the ball has "wholly passed over the goal line or touchline" or "touches a match official, remains on the field of play, and meets one of the conditions" - advantage cannot be played.
 
-"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. **Don't make it complicated: If anyone from the offended team wants the free kick rather than advantage, the referee should stop play.**
+"penalizing the offense if the anticipated advantage does not ensue ... within a few seconds." is also a skill. Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. **Don't make it complicated: If anyone from the team of the offended player wants the free kick rather than advantage, the referee should stop play.**
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
 If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal), a penalty kicks should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage.
+
+**If there is an injury due to an offense which the referee did not stop play for advantage, the referee should stop play when the offended player's team loses possession rather than having their team play short due to no fault of their own.**
+- [The referee should stop play when the offending team gained possession.](https://youtu.be/eFxYX4x1za0?feature=shared&t=790)
 
 Please note the wording "allows play to continue when an offense occurs". This means advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
 - [Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
@@ -46,7 +49,7 @@ It is recommended for the referee to also yell "Advantage" to make it clear to p
 > 
 > - Law 12.3 Disciplinary Action
 
-It is not recomended to play advantage on offenses against the goalkeeper and the goalkeeper is injured unless there is a clear opportunity to score a goal. If advantage is played and fouled player remains injured, play should be stopped when the team benefiting from the advantage loses possesion the ball.
+It is not recomended to play advantage on offenses against the goalkeeper. If advantage is played and fouled player remains injured, play should be stopped when the team benefiting from the advantage loses possesion the ball.
 
 ## Advantage while holding
 
@@ -57,6 +60,8 @@ Advantage also includes holding. This is clarified to be clear but is already co
 > - Law 12.3 Disciplinary Action
 
 ## Disciplinary action
+
+**Advantage is commonly apllied to where the offended player was able to pass or kick the ball away before the offender fouls them late and while the ball is away. When advantage is applied, the referee needs to be thinking if a yellow card is appropiate and remember the player that commited the foul.**
 
 Just because advantage is played does not mean that a referee cannot caution or send-off the offender - the referee will show the cards when play stops. 
 - [A player commits a reckless tackle. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
