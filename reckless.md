@@ -39,6 +39,7 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 A tackle where the boot make direct contact with the opponent's ankle or foot is generally a caution. A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
 
 Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit and generally should be cautioned if not successful.
+- [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
 
 Slide tackles from the back, which I define as starting a slide tackle from the opposite direction the ball is travelling, even when the player wins the ball, are dangerous. Even if the player wins the ball their trail leg is likely to catch their opponent.
 
