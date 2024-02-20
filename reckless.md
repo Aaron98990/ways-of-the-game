@@ -46,6 +46,9 @@ Slide tackles from the back, which I define as starting a slide tackle from the 
 Make sure to watch the kicker lands their feet esspecially when kicking with a large follow through.
 - [Attacking kicker steps on defender.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786)
 
+Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person.
+- [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
+
 - [A player commits a late reckless tackle that causes a third player to fall down from the impact. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
 - [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
 - [The player moving at a high rate of speed tackles their opponent. The player should be shown a caution for a reckless tackle.](https://youtu.be/D6964pIyGlg)
