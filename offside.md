@@ -29,7 +29,7 @@ Active Play:
 
 So, no offside on the above restarts. A goalkeeper releasing the ball after control with the hands is not a goal kick and offside can be called. 
 
-[No offside. There is never offside when ball received directly from a throw-in. ](https://youtu.be/4C961hfCY6I?t=21)
+- [No offside. There is never offside when ball received directly from a throw-in. ](https://youtu.be/4C961hfCY6I?t=21)
 
 > A player is in an offside position if:
 > - any part of the head, body or feet is in the opponents’ half (excluding the halfway line) and
@@ -109,6 +109,8 @@ In Circular no. 26 and the 2023/24 Laws of the Game, IFAB released a major chang
 The changes comes down to this -  it's not a deflection (deliberate play) for offside if the defender played the ball to where they wanted to or should of been able to.
 
 A defender can deliberately attempt to block or play the ball (including moving towards the ball), but still can be a deflection for purposes of offside. That's why I prefer to use non-deflection rather than deliberate play - it causes too much confusion. This call is subjective and could be interpreted differently by different people. The level of the game and players would affect this decision.
+
+**The referee should yell DELIBERATE / DEFENDER to be clear to all that no offside is possible. **
 
 - [MUST WATCH! The IFAB released 15 video examples of whether a touch of the ball should be determined as a deflection or not for offside.](https://www.theifab.com/news/law-11-offside-deliberate-play-guidelines-clarified/).
 - [Offside. Although the defender deliberately moves towards the ball, the touch by the defender is considered a deflection since they did not "played the ball to where they wanted to or should of been able to" because they did not have enough time to react.](https://youtu.be/isgWI1hpWuI?t=506)
