@@ -3,7 +3,7 @@ Fouls are physical offenses, generally listed in Law 12, committed against a sin
 Soccer is a physical sport. Not every contact with the opponent is a foul. 
 - [No foul by the player that clears the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
-Fouls that occur before (going through an opponent) or after (the follow through) a player wins/touches/shoots the ball should be penalized.
+Fouls that occur before (going through an opponent) or after (the follow through) a player wins/touches/shoots the ball should be penalized. This includes when they are off balance or in their kicking motion.
 - Unfair follow through. [Example 1](https://youtu.be/FBvnXY29jHs?feature=shared&t=85), [Example 2](https://youtu.be/xNAVqoAXnvg?feature=shared&t=243), [Example 3](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
 - Unfirly going through the opponent. [Example 1](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s), [Example 2](https://youtu.be/o4wWxBZ_vs0?feature=shared&t=252)
 
@@ -36,13 +36,16 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 - [No foul. The defender comes in with the bottom of his cleats exposed which contain studs. His cleats land on the top of the ball and clears the ball out of the field of play. Going in to a challenge like this is risky and if mis-timed would be an easy yellow or red card.](https://youtu.be/1g2DRURrbAo?t=735)
 
 
-
 ## Jumps At
 
 - [Foul. No Card. No contact to the head. Both players are genuinely going for the ball.](https://youtu.be/Q3Vg9y1j8vY?t=510)
 - [Foul. No Card. While one player is not even looking at the ball, the amount of force was minimal. ](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
 ## Charge
+
+> Charge (an opponent): Physical challenge against an opponent, usually using the shoulder and upper arm (which is kept close to the body)
+>
+> Glossary
 
 A player cannot be charged (even what is normally considered fair) by an opponent when not in playing distance of the ball.
 
@@ -51,6 +54,8 @@ A player cannot be charged (even what is normally considered fair) by an opponen
 > Law 12.2 Indirect Free Kick
 
 > Playing distance: Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player Glossary
+
+**After a player shoots or passes the ball, the opponent cannot charge them as the ball is not in playing distance.**
 
 The goalkeeper cannot be challenged (including being charged) by an opponent when in control of the ball with the hand(s).
 
@@ -109,6 +114,8 @@ A high boot near an opponent face is a common offense. A player can kick the bal
 Holding the ball between the thighs and jumping like a kangaroo when an opponent is nearby threatens injury to the holder. 
 
 If a player leans on the shoulders of another player of their own team in order to head the ball, they threaten injury to themselves. <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
+
+**For me: I am interpreting flailing arms and arms above the head when attempting to play the ball as playing a dangerous manner..**
 
 **Don't make it complicated: If anyone from the team of the offended player thinks its playing in a dangerous manner other than when a player is on the gorund, the referee should call this offense.**
 
