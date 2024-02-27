@@ -56,9 +56,11 @@ Just because a player receives the ball ahead of everyone does not necessarily m
 - [No offside. The assistant referee correctly keeps their flag down. ](https://youtu.be/d9gU6kmlagI?feature=shared&t=175)
 - [PRO has an amazing offside perception quiz located here. It's hard.](https://proreferees.com/2020/05/01/try-the-latest-offside-perception-quiz/)
 
-## Offside then not
+## Offside position then not
 
-When a player receives a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside position when the ball was touched by a team-mate. 
+When a player receives a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside position when the ball was touched by a team-mate. You see this during corner kicks when the player that takes the corner is passed the ball back, when the the ball travels a distance, or when an attacker fails to retreat after their team loses the ball.
+
+**An offside offense is an offense - even if no advantage is gained. Don't ignore it because no one asks for it. Yell the referee's name if they don't see your flag.**
 
 > If an offside offense occurs, the referee awards an indirect free kick where the offense occurred, including if it is in the player’s own half of the field of play.
 
@@ -157,3 +159,9 @@ A save can be done by any opponent and not just the goalkeeper. The save does no
 > The AR must be in line with the second-last defender or the ball if it is nearer to the goal line than the second-last defender. The AR must always face the field of play, even when running.
 
 > The first action of the AR for an offside decision is to raise the flag (using the right hand, giving the AR a better line of vision) and then, if the referee stops play, use the flag to indicate the area of the field of play in which the offence occurred [until the ball is in the correct position]. If the flag is not immediately seen by the referee, the AR must maintain the signal until it has been acknowledged or the ball is clearly in the control of the defending team.
+
+**When a no offside call is made, it helpful to call out the number of the second-to-last defender who kept the attacker onside. This shifts the framing of the referee called an offense against our team to X player did not hold the line.**
+
+**When a player is in an offside position and may not understand they are, tell them. Like when a player has a foot on each side of the field, tell the player they are not in their own half.**
+
+**It is helpful to count with your fingers the number of players in an offside position. You must be paying attention to the players who are in an offside position before the ball is touched by an attacker.**
