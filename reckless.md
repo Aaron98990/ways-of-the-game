@@ -34,6 +34,8 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 - [The player recklessly strikes the opponent in the face. The player should be shown a caution for a reckless strike.](https://www.youtube.com/watch?v=nRJUKBI9Fnk&t=717s)
 - [A player reckless strikes the opponent in teh face. The player should be shown a caution for a reckless strike.](https://youtu.be/nRJUKBI9Fnk?t=711)
 
+**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken their and just give the foul but give no cards.**
+
 ## Reckless Tackle
 
 A tackle where the boot make direct contact with the opponent's ankle or foot is generally a caution. A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
@@ -101,6 +103,6 @@ Often, this ducking down action is done by other players but is not intentional.
 
 ## Reckless Push
 
-If the push causes a third person to fall down from the impact, a caution should generally be given to offender.
+If the push causes a third person to fall down from the impact or someone to hit the goalpost, a caution should generally be given to offender.
 
 [The player pushes their opponent. The momentum of the push causes the opponent to run unto a third player causing them to gall. The player should be shown a caution for the reckless push.](https://youtu.be/qUwa-YNH-ek)
