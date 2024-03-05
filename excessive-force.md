@@ -68,6 +68,9 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 - [Serious Foul Play. The player kicks the player's head with excessive force although he gets the ball first.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 - [Serious Foul Play. Kung Fu kick.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
 
+When the ball is on the ground and a player gets kicked above the ankle with excessive force, it's a red card.
+- [Example 1](https://youtu.be/ayKcck441n8?feature=shared&t=88)
+
 ## Push
 
 - push/shoves TODO
