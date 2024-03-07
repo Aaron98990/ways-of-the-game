@@ -60,8 +60,9 @@ If a player taps the ball with the bottom of their boot, that is a kick. Now, "c
 Until the ball is in play:
 - For dropped balls, all other players except the one who the ball is dropped to (of both teams) must remain at least 4 m (4.5 yds) from the ball
 - For kick-offs, all players, except the player taking the kick-off, must be in their own half of the field of play. 
-- For free kicks, kick-offs, and corner kicks, all opponents must remain 10 yards from the ball
- - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
+- For free kicks, kick-offs all opponents must remain 10 yards from the ball
+    - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
+- For corner kicks, oppenents must stand 10 yards from the corner arc
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
 - For free kicks in the opponents' penalty area and all goal kicks, opponents must remain out of the opponents' penalty area
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
