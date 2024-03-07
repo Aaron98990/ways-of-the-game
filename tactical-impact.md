@@ -68,9 +68,9 @@ No advantage played:
 
 |                         | SPA                                     | DOGSO                                   |
 | ----------------------- | --------------------------------------- | --------------------------------------- |
-| **In penalty area**     | Attempt/challenge for the ball:  no card          | Attempt/challenge for the ball:  YC               |
+| **Penalty kick**     | Attempt/challenge for the ball:  no card          | Attempt/challenge for the ball:  YC               |
 |                         | No attempt/challenge for the ball or handball: YC | No attempt/challenge for the ball or handball: RC |
-| **Out of penalty area** | YC                                      | RC                                      |
+| **Free kick** | YC                                      | RC                                      |
 
 Advantage played:
 
