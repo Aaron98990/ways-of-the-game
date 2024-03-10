@@ -57,11 +57,10 @@ A scissor tackle is a dangerous challenge with legs apart, so as to trap the opp
 - [Serious Foul Play. The attacker's foot gets trapped between the defenders legs after a scissor tackle.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
 
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
-- [Serious Foul Play. The attacker slides feet first into the goalkeeper with excessive force and no real chance of winning the ball.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924)
-- [Serious Foul Play. "Kung Fu Kick".](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
+- [Serious Foul Play 1.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2.](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
 [PROCESSING-Might take out] A slide tackle with a kicking combines two powerful forces and can easily be a recipe for excessive force.
-- [Serious Foul Play](https://youtu.be/8kmliIasCfQ?feature=shared&t=784)
+- [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590)
 
 ## Kicks
 
