@@ -8,7 +8,7 @@ Soccer is the game played without the use of the hand/arms touching the ball exc
 
 Any player, including goalkeepers, cannot make contact with the ball with a held object (e.g. shirt, boot, another ball). This is not handball but is a related concept.
 
-- [Direct free kick. The player makes contact with the ball by holding their shirt. Generally, a non-mandatory yellow card is given because of how blatant it is.](https://www.youtube.com/watch?v=G-ZG7VAAvkU)
+- [Direct free kick. The player makes contact with the ball by holding their shirt.](https://www.youtube.com/watch?v=G-ZG7VAAvkU)
 
 ## Handball by goalkeeper
 
@@ -88,8 +88,8 @@ Defenders only: The ball hitting the hans/arm after a deflection from anyone (in
 - The ball would have passed the defender if the hand/arm has not interfered. [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421) / [Handball.](https://www.youtube.com/shorts/_6hqiU4lqPM) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 
 Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger in other cases, is not considered unnaturally bigger.
-- The defender clears the ball into their own hand/arm. [Not handball.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Not handball.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Not handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
-- The defender clears the ball into their team-mates hand/arm. [Not handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
+- Not handball. The defender clears the ball into their own hand/arm. [Example 1.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Example 2.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Example 3.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
+- Not handball. The defender clears the ball into their team-mates hand/arm. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454)
 
 ## Accidental handball
 
@@ -102,12 +102,12 @@ Defenders only: A defender clearing or deliberately saving the ball into their o
 
 Accidental handball is challenging to enforce as the referee will be screened as the attacker will be facing the goal.
 
-- The ball contacts the hand/arm then immediately goes into the goal. [No goal - accidentall handball.](https://youtu.be/_MQpnvxeE9g?t=352)
-- The ball contacts the hand/arm but does not immediatl go in the goal.  [Goal - no accidental handball.](https://youtu.be/WicGa2_Fw5Q?t=285)
+- No goal. The ball contacts the hand/arm then immediately goes into the goal. [Example 1](https://youtu.be/_MQpnvxeE9g?t=352)
+- Goal. The ball contacts the hand/arm but does not immediately go in the goal. [Example 1](https://youtu.be/WicGa2_Fw5Q?t=285)
 
 ## Foul then handball
 
-When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the fouled player. If no foul was committed, it is handball. Referees don't like when players do this because it forces referees to make a decision. I would advice against a caution for the blatant handball if no foul is called - there are bigger fish to fry.
+When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the fouled player. If no foul was committed, it is handball. Referees don't like when players do this because it forces them to make a decision.
 
 - [The player is carelessly fouled, falls down, and commits handball. The restart is for the careless foul.](https://youtu.be/xqQqe-LwWXc?t=951)
 
@@ -121,5 +121,4 @@ If goalkeeper commits a handball offense (as discussed in the [goalkeeper sectio
 > 
 > Law 12
 
-- [Messi deliberately touches the ball with the hand/arms to score a goal. The goal should be disallowed and Messi should be shown a caution.](https://youtu.be/fM_WkMvOogQ?t=29)
-- [No goal + YC. Player pushes ball into the goal with the hand.](https://www.youtube.com/watch?v=v383WX_Jaxw)
+- No goal + YC. [Example 1](https://youtu.be/fM_WkMvOogQ?t=29), [Example 2](https://www.youtube.com/watch?v=v383WX_Jaxw)
