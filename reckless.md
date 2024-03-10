@@ -20,7 +20,7 @@ Soccer has a reputation of being soft but the fact is that referees do not sanct
 
 The Referee Channel on YouTube has a list of 80+ reckless challenges: check it out [here](https://www.youtube.com/playlist?list=PL4OiywE4asSdqTZIY2Lpw9ks2BY5ExiR9).
 
-## Reckless Strike
+## Reckless strike
 
 A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top.
 
@@ -36,11 +36,11 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 
 **In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken their and just give the foul but give no cards.**
 
-## Reckless Tackle
+## Reckless tackle
 
 A tackle where the boot make direct contact with the opponent's ankle or foot is generally a caution. A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
 
-Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit and generally should be cautioned if not successful.
+Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit.
 - [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
 
 Slide tackles from the back, which I define as starting a slide tackle from the opposite direction the ball is travelling, even when the player wins the ball, are dangerous. Even if the player wins the ball their trail leg is likely to catch their opponent.
@@ -50,7 +50,6 @@ Make sure to watch the kicker lands their feet esspecially when kicking with a l
 
 Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person.
 - [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
-
 - [A player commits a late reckless tackle that causes a third player to fall down from the impact. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
 - [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
 - [The player moving at a high rate of speed tackles their opponent. The player should be shown a caution for a reckless tackle.](https://youtu.be/D6964pIyGlg)
@@ -59,7 +58,7 @@ Slide tackling an oponent when face to face is a dangerous maneaurver because yo
 - [The player is late and catches the opponent's boot. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=WJP50N3Jq-E)
 - [??? Not sure - a player makes a pass with the foot and when he lands it he accidenyally steps on an opponent.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
 
-## Reckless Charge
+## Reckless charge / push
 
 An American football style charge into an opponent will always be a caution or send-off. I call it the bulldozing into an opponent. 
 
@@ -70,10 +69,14 @@ An American football style charge into an opponent will always be a caution or s
 - [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge.](https://youtu.be/vR3DpyYTH2k)
 - [The player shields the ball within plaing distance and the ball is relatively stationary when he is charged from the back.](https://youtu.be/79cBWbiWElA?feature=shared&t=605)
 
-A charge into a person's back while the ball is relatively still is a yellow card.
+A charge into a person's back while the ball is relatively still is gnerally a yellow card.
 - [Example 1](https://youtu.be/yueTdu0S_Js?feature=shared&t=120)
 
-## Recklessly Jumping At
+If a challenge causes a third person to fall down from the impact or someone to hit the goalpost, a caution should generally be given to offender.
+- [The player pushes their opponent. The momentum of the push causes the opponent to run unto a third player causing them to fall. The player should be shown a caution for the reckless push.](https://youtu.be/qUwa-YNH-ek)
+
+
+## Recklessly jumping at
 
 When a player jumps directly up, the risk to the any other player is zeo. But, player when jumping also cover distance while jumping takes a risk at putting the jumper and the other players at risk. 
 
@@ -82,14 +85,14 @@ When a player jumps directly up, the risk to the any other player is zeo. But, p
 - [The player makes no attempt win the ball as they never look for the ball when jumping at the opponent. In addition, the player makes contact with the opponent's head. The player should be shown caution for the recklessly jumping at.](https://youtu.be/CjSmyUcN_XY)
 - [A player jumps at the goalkeeper when they have no chance to win the ball. Thee player should be shown a caution for recklessly jumping at.](https://youtu.be/7S_jphEXARY)
 
-## Reckless Kick
+## Reckless kick
 
 Kicks to the face or a kick where a players significantly cocks their foot back or would have had significant follow-through will always be a caution or send-off.
 
 Attempting to kick the ball when the goalkeeper clearly has control with the hand qualifies as reckless.
 - TODO: video.
 
-## Reckless Trip
+## Reckless trip
 
 A defender that comes in at a high rate of speed to make a trip should be cautioned. 
 
@@ -100,9 +103,3 @@ Often, this ducking down action is done by other players but is not intentional.
 - [There is a great opinion article on undercutting here](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
 - [YC - undercut leads player to land on their neck.](https://www.tiktok.com/t/ZPRW7qUWT/)
 - [YC - undercut.](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
-
-## Reckless Push
-
-If the push causes a third person to fall down from the impact or someone to hit the goalpost, a caution should generally be given to offender.
-
-[The player pushes their opponent. The momentum of the push causes the opponent to run unto a third player causing them to gall. The player should be shown a caution for the reckless push.](https://youtu.be/qUwa-YNH-ek)
