@@ -59,8 +59,8 @@ A scissor tackle is a dangerous challenge with legs apart, so as to trap the opp
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
 - [Serious Foul Play 1.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2.](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
-[PROCESSING-Might take out] A slide tackle with a kicking combines two powerful forces and can easily be a recipe for excessive force.
-- [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590)
+A slide tackle with a kicking combines two powerful forces and can easily be a recipe for excessive force.
+- [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
 ## Kicks
 
