@@ -1,10 +1,10 @@
-## Anchored Goals
+## Anchored goals
 
 > Goals (including portable goals) must be firmly secured to the ground.
 > 
 > - Law 1.10 - Goals
 
-## Goal Nets
+## Goal nets
 
 > Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper.
 > 
@@ -66,11 +66,6 @@ Offenses that will nullify a goal.
 > 
 > If the ball becomes defective during a penalty kick or kicks from the penalty mark as it moves forward and before it touches a player, crossbar or goalposts the penalty kick is retaken.
 
-> If a dropped ball enters the goal without touching at least two players, play is restarted with:
-> - a goal kick if it enters the opponents’ goal
-> - a corner kick if it enters the team’s goal
-> - Law 8.2 - Dropped ball
-
 > The ball is out of play when:
 > - it touches a match official, remains on the field of play and:
 >   - a team starts a promising attack or
@@ -78,14 +73,9 @@ Offenses that will nullify a goal.
 > -  In all these cases, play is restarted with a dropped ball.
 > - Law 9.1 - Ball out of play
 
-[No goal. The ball touches a match official then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
+- [No goal. The ball touches a match official then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
-> An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal.
-> 
-> if an indirect free kick is kicked directly into the opponents’ goal, a goal kick is awarded
-> 
-> if a direct or indirect free kick is kicked directly into the team’s own goal, a corner kick is awarded
-> 
+> An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal. 
 > - Law 13.1 - Types of free kick
 
 > It is an offense if a player:
@@ -97,15 +87,9 @@ Offenses that will nullify a goal.
 > If the goalkeeper throws the ball directly into the opponents’ goal, a goal kick is awarded.
 > - Law 10.1 - Goal scored
 
-> A goal cannot be scored directly from a throw-in:
-> - if the ball enters the opponents’ goal – a goal kick is awarded
-> - if the ball enters the thrower’s goal – a corner kick is awarded
-> - Law 15 - The Throw-in - Introduction
+In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
 
->  if the ball directly enters the kicker’s goal [from a corner kick or goal kick or kick-off], a corner kick is awarded to the opponents.
-> - Law 8, 16, 17 Kick-ff / The Goal Kick / The Corner Kick
-
-## Goal After Interference
+## Goal after interference
 
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
 > 
@@ -128,20 +112,11 @@ If the ball goes into the goal but deflected off someone that enters the field o
 > 
 > Law 4.2 Compulsory equipment
 
-## Goal Signal
+## Goal signal
 
-Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle to stop play for a a goal that is not clear.
-
-> The whistle is NOT needed to:
-> - stop play for a clear:
->   - goal kick, corner kick, throw-in or goal
-> - Guidelines for Match Officials
+Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle to stop play only for a goal that is not clear.
 
 Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
-
-> [Assistant referees] indicate when:
-> - the whole of the ball leaves the field of play
-> - Law 6.1 - Assistant referees
 
 > **Goal/no goal**
 > 
@@ -156,7 +131,7 @@ Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickof
 - [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701)
 - [The assistant referee raises their flag then runs along the touch line on a not clear goal.](https://youtu.be/8XVcUWf562k?feature=shared&t=294)
 
-## Fighting for the Ball After a Goal
+## Fighting for the ball after a goal
 
 It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. 
 
@@ -187,9 +162,6 @@ It is accepted that referees do not add enough additional time, so the losing te
 > The team scoring the greater number of goals is the winner. If both teams score no goals or an equal number of goals, the match is drawn.
 > 
 > - Law 10.2 Winning team
-
-
-## Tie-breaker
 
 Most matches where the score is tied will in a tie. The only exception is where competition rules require a winner.
 
