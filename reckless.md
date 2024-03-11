@@ -38,7 +38,7 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 
 ## Reckless tackle
 
-A tackle where the boot makes direct contact with the opponent's ankle or foot is generally a caution. 
+A tackle where the studs of a boot makes direct contact with the opponent's ankle or foot is generally a caution. 
 - [A player gets stepped on late above the ankle. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s)
 - [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
 - [Studs in the foot.](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
