@@ -50,6 +50,8 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 
 ## Tackle
 
+Studs on any body part except the foot or ankle should be excessive force. **Ask the player where they were hit and if possible to show the marks from the studs before making a decision - it helps sell the descision and gives you extra time to think.**
+
 - [Serious Foul Play. The player uses a straight leg and contacts their opponent's thigh with excessive force.](https://www.youtube.com/watch?v=x369hGXJVDc)
 - [Serious Foul Play. Player rolls over the top of the ball into the opponents leg with excessive force.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s)
 
@@ -70,7 +72,7 @@ A slide tackle with a kicking combines two powerful forces and can easily be a r
 - [Serious Foul Play. The player kicks the player's head with excessive force although he gets the ball first.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 - [Serious Foul Play. Kung Fu kick.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
 
-When the ball is on the ground and a player gets kicked above the ankle with excessive force, it's a red card.
+When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force, it's a red card.
 - [Example 1](https://youtu.be/ayKcck441n8?feature=shared&t=88)
 
 ## Push
