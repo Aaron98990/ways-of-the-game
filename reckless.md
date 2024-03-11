@@ -38,25 +38,27 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 
 ## Reckless tackle
 
-A tackle where the boot make direct contact with the opponent's ankle or foot is generally a caution. A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
+A tackle where the boot makes direct contact with the opponent's ankle or foot is generally a caution. 
+- [A player gets stepped on late above the ankle. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s)
+- [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
+- [Studs in the foot.](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
+
+A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
+- [The player is late and catches the opponent's boot. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=WJP50N3Jq-E)
+- [A player commits a late reckless tackle that causes a third player to fall down from the impact. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
 
 Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit.
 - [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
 
 Slide tackles from the back, which I define as starting a slide tackle from the opposite direction the ball is travelling, even when the player wins the ball, are dangerous. Even if the player wins the ball their trail leg is likely to catch their opponent.
-
-Make sure to watch the kicker lands their feet esspecially when kicking with a large follow through.
-- [Attacking kicker steps on defender.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786)
-
-Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person.
-- [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
-- [A player commits a late reckless tackle that causes a third player to fall down from the impact. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
-- [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
-- [The player moving at a high rate of speed tackles their opponent. The player should be shown a caution for a reckless tackle.](https://youtu.be/D6964pIyGlg)
 - [A player makes a tackle from behind with no chance to win the ball. The player should be shown a caution for a reckless tackle.](https://youtu.be/ICuWXmOqcho)
-- [A player gets stepped on late above the ankle. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s)
-- [The player is late and catches the opponent's boot. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=WJP50N3Jq-E)
-- [??? Not sure - a player makes a pass with the foot and when he lands it he accidenyally steps on an opponent.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
+
+Make sure to watch the kicker lands their feet esspecially when kicking with a large follow through. The kicker is responsible for landing safely.
+- [Attacking kicker steps on defender.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786)
+- [A player makes a pass with the foot and when he lands it he accidenyally steps on an opponent.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
+
+Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person even if you get the ball.
+- [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
 
 ## Reckless charge / push
 
