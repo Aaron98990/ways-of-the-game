@@ -34,29 +34,27 @@ This distinction matters as competitions generally will suspend players for more
 
 There are also offensive, insulting or abusive actions, including physical ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the the [misconduct section](/misconduct).
 
-## Charge / Strikes At
+## Strikes At
 
 There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
-
-- [Serious Foul Play. The person on the red team charges and jumps at with significant force into the white team's player. That would be just a yellow card. What pushes this to a red card is the offender leads shoulder first and with excessive force and the momentum of their entire body into their opponent's head. There was no way for the victim to pull out of the challenge. While the offender did not deliberately want to endanger the safety of an opponent that is what occurred.](https://youtu.be/u-y3AiAm2pI?t=269)
-- [Serious Foul Play. The player uses excessive force as the momentum of their entire body goes into their opponent's head.](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
 - [Serious Foul Play. The player uses excessive force as the player cocks their elbow in their opponent's face.](https://youtu.be/FFf7U5FNLag?t=43)
 
 
-## Jumps at
+## Jumps at / Charge
 
-- [Serius Foul Play. When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg.](https://www.youtube.com/watch?v=BjQ__f4JG9o)
-- [Serious Foul Play. When a player jumps, they take a risk and are responsible for landing without injuring their opponents. The player after jumping lands their foot on the opponent's leg.](https://www.youtube.com/watch?v=PT0WGryPBvU)
+A shoulder to the neck or head while not jumping laterally, is generally excessive force. 
+
+- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269)
+- [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602)
 
 ## Tackle
 
 Studs on any body part except the foot or ankle should be excessive force. **Ask the player where they were hit and if possible to show the marks from the studs before making a decision - it helps sell the descision and gives you extra time to think.**
 
-- [Serious Foul Play. The player uses a straight leg and contacts their opponent's thigh with excessive force.](https://www.youtube.com/watch?v=x369hGXJVDc)
-- [Serious Foul Play. Player rolls over the top of the ball into the opponents leg with excessive force.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s)
+- [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o)
 
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
-- [Serious Foul Play. The attacker's foot gets trapped between the defenders legs after a scissor tackle.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
+- [Serious Foul Play 1.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
 
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
 - [Serious Foul Play 1.](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2.](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
