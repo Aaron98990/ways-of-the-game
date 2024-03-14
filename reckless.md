@@ -38,14 +38,11 @@ PRO Referees have an excellent write-up on the subject with video examples from 
 
 ## Reckless tackle
 
-A tackle where the studs of a boot makes direct contact with the opponent's ankle or foot is generally a caution. 
-- [A player gets stepped on late above the ankle. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s)
-- [A player commits a reckless tackle where their boot directly makes contact with the opponent's boot. The player is cautioned for the reckless tackle.](https://youtu.be/GBHiiU8lekE?t=386)
-- [Studs in the foot.](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
+A tackle where the studs of a boot makes contact with the opponent's ankle or foot is generally a caution.
+- [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/GBHiiU8lekE?t=386) / [Example 3](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144) / [Example 4](https://youtu.be/FxcrgGIW_pw?feature=shared&t=285)
 
 A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
-- [The player is late and catches the opponent's boot. The player should be shown a caution for a reckless tackle.](https://www.youtube.com/watch?v=WJP50N3Jq-E)
-- [A player commits a late reckless tackle that causes a third player to fall down from the impact. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
+- [Example 1](https://www.youtube.com/watch?v=WJP50N3Jq-E) / [Example 2](https://youtu.be/eFxYX4x1za0?t=790)
 
 Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit.
 - [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
