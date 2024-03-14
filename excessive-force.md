@@ -37,11 +37,11 @@ There are also offensive, insulting or abusive actions, including physical ones 
 ## Strikes at
 
 There is a great write up from PRO about striking with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
-- [Serious Foul Play 1.](https://youtu.be/FFf7U5FNLag?t=43)
+- [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
 If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. PRO has a  write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
-- [Violent Conduct 1](https://youtu.be/nDgAA3EtsBg?t=627), [Violent Conduct 2](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863), [Violent Conduct 3](https://youtu.be/snf9HlPG0dU?feature=shared&t=123), [Violent Conduct 4.](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34)
+- [Violent Conduct 1](https://youtu.be/nDgAA3EtsBg?t=627), [Violent Conduct 2](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863), [Violent Conduct 3](https://youtu.be/snf9HlPG0dU?feature=shared&t=123), [Violent Conduct 4](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34)
 
 Headbutting (striking at someone with the head) unless negligible is violent conduct.
 
@@ -70,8 +70,8 @@ A scissor tackle is a dangerous challenge with legs apart, so as to trap the opp
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
 - [Serious Foul Play 1](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
-A slide tackle with a kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
-- [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
+A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
+- [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play 3](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
-When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force.
-- [Serious Foul Play 1](https://youtu.be/ayKcck441n8?feature=shared&t=88), [Violent Conduct 1.](https://youtu.be/gnfbhoNlAKw?t=107)
+When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force it's violent conduct
+- [Violent Conduct 1](https://youtu.be/ayKcck441n8?feature=shared&t=88), [Violent Conduct 2](https://youtu.be/gnfbhoNlAKw?t=107)
