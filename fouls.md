@@ -190,3 +190,11 @@ This is an offense - not a foul. Please note the exception if the ball enters th
 > Before signalling for an offence, the [assistant referee] must determine that:
 > - the offence was out of the referee’s view or the referee’s view was obstructed
 > - the referee would not have applied the advantage
+
+## Inexperienced / Non-acknowledging players
+Many times a player may believe that they did nothing wrong. Whether this is a misunderstanding of the Laws of the Game or failure to acknowledge a fairly obvious offense. 
+
+For inexperienced players, please explain the rule before showing a card unless it is 100% necessary card (e.g. excessive force, reckless, tactial impact). After setting up the player with your expectations if another player from that team commits a similar offense, please show the card. If a card is 100% necessary, explain the rule so they don't do it again. 
+- [This player beleives that a you can charge a player when the ball is not in playing distance which is incorrect.](https://youtu.be/X5YG0FXFwAo?feature=shared&t=744)
+
+Some players, some with significant soccer experience, act like an obvious foul or offense they commited did not happen. Stop the game and don't continue the game until they acknowledge that they have commited that offense. If they are failing to acknowledge that they are not commiting obvious fouls esspeically after multime times, card them.
