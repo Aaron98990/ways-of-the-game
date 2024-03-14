@@ -24,15 +24,9 @@ The Referee Channel on YouTube has a list of 80+ reckless challenges: check it o
 
 A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top.
 
-Often time players move their arms out to know where there opponents are or to create space from their opponent or to shield the ball from an opponent. Even if accidental and even if the opponent's head is lower than usually (e.g. short player, when getting up from the ground), players take the risk of having there arms out like that. 
+Often time players move their arms out to know where there opponents are or to create space from their opponent or to shield the ball from an opponent. Even if accidental and even if the opponent's head is lower than usually (e.g. short player, when getting up from the ground), players take the risk of having there arms out like that. PRO Referees have an excellent write-up on the subject with video examples from the MLS: [Challenging with Hands/Arms](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
 
-PRO Referees have an excellent write-up on the subject with video examples from the MLS: [Challenging with Hands/Arms](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
-
-- [The player reckless strikes the opponent in the face. The player should be shown a caution for the reckless strike.](https://youtu.be/Zxnn7GNixcQ?t=876)
-- [The player reckless strikes the opponent in the face. The player should be shown a caution for the reckless strike.](https://youtu.be/06lqnmddvKQ?t=142)
-- [The player recklessly strikes the opponent in the face. The player should be shown a caution for a reckless strike.](https://youtu.be/N9gHcVw_aws?t=714)
-- [The player recklessly strikes the opponent in the face. The player should be shown a caution for a reckless strike.](https://www.youtube.com/watch?v=nRJUKBI9Fnk&t=717s)
-- [A player reckless strikes the opponent in teh face. The player should be shown a caution for a reckless strike.](https://youtu.be/nRJUKBI9Fnk?t=711)
+- [Example 1](https://youtu.be/Zxnn7GNixcQ?t=876) / [Example 2](https://youtu.be/06lqnmddvKQ?t=142) / [Example 3](https://youtu.be/N9gHcVw_aws?t=714) / [Example 4](https://www.youtube.com/watch?v=nRJUKBI9Fnk&t=717s) / [Example 5](https://youtu.be/nRJUKBI9Fnk?t=711)
 
 **In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken their and just give the foul but give no cards.**
 
@@ -51,38 +45,32 @@ Slide tackles from the back, which I define as starting a slide tackle from the 
 - [A player makes a tackle from behind with no chance to win the ball. The player should be shown a caution for a reckless tackle.](https://youtu.be/ICuWXmOqcho)
 
 Make sure to watch the kicker lands their feet esspecially when kicking with a large follow through. The kicker is responsible for landing safely.
-- [Attacking kicker steps on defender.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786)
-- [A player makes a pass with the foot and when he lands it he accidenyally steps on an opponent.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
+- [Example 1.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786) / [Example 2.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
 
 Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person even if you get the ball.
 - [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
 
 ## Reckless charge / push
 
-An American football style charge into an opponent will always be a caution or send-off. I call it the bulldozing into an opponent. 
+An American football style charge into an opponent will always be a caution or send-off, esspecially when its made when the ball is no longer in playing distance. I call it the bulldozing into an opponent. 
 
-- [The recklessly charges into an opponent with significant force after the ball is no longer in playing distance. The player should be shown a caution for a reckless charge.](https://youtu.be/Zxnn7GNixcQ?t=678)
-- [The recklessly charges into an opponent while running quickly after the ball is no longer in playing distance. Although not deliberate, the player should be shown a caution for a reckless charge.](https://youtu.be/GBHiiU8lekE?t=420)
-- [The player recklessly charges the opponent in the face with their shoulder. The player should be shown a caution for the reckless charge.](https://youtu.be/GBHiiU8lekE?t=217)
-- [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge. ](https://youtu.be/7cZpV_ZAfzw)
-- [The player charges the opponent when there is no chance to win the ball. The player should be shown a caution for a reckless charge.](https://youtu.be/vR3DpyYTH2k)
-- [The player shields the ball within plaing distance and the ball is relatively stationary when he is charged from the back.](https://youtu.be/79cBWbiWElA?feature=shared&t=605)
+- [Example 1](https://youtu.be/Zxnn7GNixcQ?t=678) / [Example 2](https://youtu.be/GBHiiU8lekE?t=420) / [Example 3](https://youtu.be/7cZpV_ZAfzw) / [Example 4](https://youtu.be/vR3DpyYTH2k)
+
+Contact to the head with the body while not jumping is generally caution.
+- [Example 1](https://youtu.be/GBHiiU8lekE?t=217)
 
 A charge into a person's back while the ball is relatively still is gnerally a yellow card.
-- [Example 1](https://youtu.be/yueTdu0S_Js?feature=shared&t=120)
+- [Example 1](https://youtu.be/yueTdu0S_Js?feature=shared&t=120) / [Example 2](https://youtu.be/79cBWbiWElA?feature=shared&t=605)
 
 If a challenge causes a third person to fall down from the impact or someone to hit the goalpost, a caution should generally be given to offender.
-- [The player pushes their opponent. The momentum of the push causes the opponent to run unto a third player causing them to fall. The player should be shown a caution for the reckless push.](https://youtu.be/qUwa-YNH-ek)
+- [Example 1](https://youtu.be/qUwa-YNH-ek)
 
 
 ## Recklessly jumping at
 
-When a player jumps directly up, the risk to the any other player is zeo. But, player when jumping also cover distance while jumping takes a risk at putting the jumper and the other players at risk. 
+When a player jumps directly up and laterally, the risk to the any other player is zeo. But a player when jumping that cover distance while jumping takes a risk at putting the jumper and the other players at risk. 
 
-- [ The white players jumps at and charges an opponent with significant force on the back and was not attempting to play the ball. The player should be shown a caution for a reckless play.](https://youtu.be/u-y3AiAm2pI?t=606)
-- [Although the player jumps and wins the ball their momentum causes them to fall into an opponent's back. The player should be shown a caution for reckless play.](https://youtu.be/GYWeklAEl_0?t=6)
-- [The player makes no attempt win the ball as they never look for the ball when jumping at the opponent. In addition, the player makes contact with the opponent's head. The player should be shown caution for the recklessly jumping at.](https://youtu.be/CjSmyUcN_XY)
-- [A player jumps at the goalkeeper when they have no chance to win the ball. Thee player should be shown a caution for recklessly jumping at.](https://youtu.be/7S_jphEXARY)
+- [Example 1](https://youtu.be/u-y3AiAm2pI?t=606) / [Example 2](https://youtu.be/GYWeklAEl_0?t=6) / - [Example 3](https://youtu.be/7S_jphEXARY) / [Example 4 - although there is head contact the force is minimal as far as jumps go](https://youtu.be/CjSmyUcN_XY)
 
 ## Reckless kick
 
@@ -95,10 +83,5 @@ Attempting to kick the ball when the goalkeeper clearly has control with the han
 
 A defender that comes in at a high rate of speed to make a trip should be cautioned. 
 
-Also, when an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under.
-
-Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move.
-
-- [There is a great opinion article on undercutting here](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
-- [YC - undercut leads player to land on their neck.](https://www.tiktok.com/t/ZPRW7qUWT/)
-- [YC - undercut.](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
+Also, when an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
+- [Example 1](https://www.tiktok.com/t/ZPRW7qUWT/) / [Example 2](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
