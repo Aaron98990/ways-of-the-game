@@ -42,10 +42,9 @@ There is a great write up from PRO about challenging with the hands/arms [here](
 
 ## Jumps at / Charge
 
-A shoulder to the neck or head while not jumping laterally, is generally excessive force. 
+A shoulder or body to the opponent's neck or head while you are jumping and while you are not moving laterally, is generally excessive force. 
 
-- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269)
-- [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602)
+- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417)
 
 ## Tackle
 
