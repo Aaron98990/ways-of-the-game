@@ -32,7 +32,7 @@ Often time players move their arms out to know where there opponents are or to c
 
 ## Reckless tackle
 
-A tackle where the studs of a boot makes contact with the opponent's ankle or foot is generally a caution.
+A tackle where the studs of a boot makes contact with the opponent's foot is generally a caution.
 - [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/GBHiiU8lekE?t=386) / [Example 3](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144) / [Example 4](https://youtu.be/FxcrgGIW_pw?feature=shared&t=285)
 
 A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
@@ -44,7 +44,7 @@ Another important point to think about is where the slide tackle took place. A s
 Slide tackles from the back, which I define as starting a slide tackle from the opposite direction the ball is travelling, even when the player wins the ball, are dangerous. Even if the player wins the ball their trail leg is likely to catch their opponent.
 - [A player makes a tackle from behind with no chance to win the ball. The player should be shown a caution for a reckless tackle.](https://youtu.be/ICuWXmOqcho)
 
-Make sure to watch the kicker lands their feet esspecially when kicking with a large follow through. The kicker is responsible for landing safely.
+Make sure to watch the kicker lands their feet esspecially when kicking or tackling with a large follow through. The kicker is responsible for landing safely.
 - [Example 1.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786) / [Example 2.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
 
 Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person even if you get the ball.
