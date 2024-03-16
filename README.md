@@ -8,10 +8,12 @@ Helpful Official Resources
 
 - [The Laws of the Game](http://www.theifab.com/?side-menu-open=true)
   - [Download the Mobile App](https://www.theifab.com/logapp/)
-  - The IFAB Socials [Twitter](https://twitter.com/TheIFAB/) / [Facebook](https://www.facebook.com/theifab/) 
+  - The IFAB Socials - [Twitter](https://twitter.com/TheIFAB/) / [Facebook](https://www.facebook.com/theifab/)
 - [Simplified Laws of the Game](http://www.footballrules.com)
   - Mobile App - [Google Play](https://play.google.com/store/apps/details?id=com.theifab.footballrules) / [App Store](https://apps.apple.com/us/app/football-rules-by-the-ifab/id6450178840)
 - [Professional Referee Organization (PRO)](https://proreferees.com/)
+- [FIFA Referee Education & Development (RED)](https://red.fifa.com/)
+  - [Registration here](https://fifa.eu.qualtrics.com/jfe/form/SV_0v4p742FVilnOpU)
 
 Helpful Unofficial Resources
 
