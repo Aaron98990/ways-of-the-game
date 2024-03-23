@@ -124,7 +124,15 @@ Law 3.3 if a player who is to be substituted refuses to leave, play continues **
 
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
 - [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
- 
+
+Law 14.2 If the goalkeeper’s offence results in the kick being retaken, the goalkeeper is warned for the first offence ~~in the game~~ *during a single penalty kick* and cautioned for any subsequent offence(s) ~~in the game~~ *during a single penalty kick*
+If the goalkeeper’s offence results in the kick being retaken:
+- For the first retake caused by the goalkeeper during a single penalty kick, no discipinary action is taken
+- For any subsequent retake caused by the goalkeeper during a single penalty kick, they are cautioned even if the goalkeeper changed
+
+
+- Harder and more complex for referees to keep track of warnings issued throughout the game esspecially with goalkeeper substitutions. Also, avoids unfairly penalizing goalkeepers who have to defend multipe penalty kicks during a game.
+
 Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a substitute for a goalkeeper who is unable to continue,~~ only players who are on the field of play or are temporarily off the field of play (injury, adjusting equipment etc.) at the end of the match are eligible to take kicks, unless their team has not used its maximum permitted number of substitutes
 - [Un-needed controversy about subs before penalties.](https://youtu.be/Cl6zluuAiwI?feature=shared&t=1763)
 - [Un-needed pause in play and substitution moment near the end of extra time which could of been done right before penalties.](https://youtu.be/C3f7HPIPG0s?feature=shared)
@@ -148,7 +156,7 @@ Law 11.4 A defending player who leaves the field of play without the referee’s
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
 - The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from there. 
 
-_Law 9.1 If the ball touches any non-player or outside agent and was clearly going outside the boundary lines before any player can touch it and the ball was not going into the goal, the restart should be as if the ball had went outside the boundary lines._
+*Law 9.1 If the ball touches any non-player or outside agent and was clearly going outside the boundary lines before any player can touch it and the ball was not going into the goal, the restart should be as if the ball had went outside the boundary lines.*
 - [The ball hits the assistant referee and may have never left the field of play - either way football expects to treat that as the ball went out of play.](https://youtu.be/N7o-yMLslR0?feature=shared&t=887)
 - [The ball hits a substitute before it was about to clearly leave the field of play.](https://youtu.be/83PkzKCCiYo?feature=shared)
 
