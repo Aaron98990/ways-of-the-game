@@ -121,6 +121,11 @@ Law 3.7 If a ball is going into the goal and the interference does not prevent a
 
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
 - [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
+ 
+Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a substitute for a goalkeeper who is unable to continue,~~ only players who are on the field of play or are temporarily off the field of play (injury, adjusting equipment etc.) at the end of the match are eligible to take kicks, unless their team has not used its maximum permitted number of substitutes
+- [Un-needed controversy about subs before penalties.](https://youtu.be/Cl6zluuAiwI?feature=shared&t=1763)
+- [Un-needed pause in play and substitution moment near the end of extra time which could of been done right before penalties.](https://youtu.be/C3f7HPIPG0s?feature=shared)
+- The reality is most grassroot games have unlimited substitutions and return substitions and even if there is no exception in the competition rules, referees allow anyone to take penalties.
 
 Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses: controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
 - The Laws need to reflect reality. No match official counts the time second by second and the Law is often ignored.
