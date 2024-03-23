@@ -140,13 +140,9 @@ Law 11.4 A defending player who leaves the field of play without the referee’s
 Law 11.4 An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line ~~and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area~~, the player will be considered to be positioned on the goal line for the purposes of offside.
 - The attacking player doesn't exist anymore if they are off the field of play and the ball goes out of play. Doesn't make sense. We can still punish for deliberately leaving but the attacking player should still be considered on their goal line if they come back in from there. 
 
-
-Law 9.1 The ball is out of play when: it touches a match official, remains on the field of play and:
-~~- a team starts a promising attack or~~
-- the ball goes directly into the goal or
-- the team in possession of the ball changes
-- Starts a promising attack is way to vague. In the [tactical impact section](/tactical-impact), I don't even give a real definition for SPA. The vagueness works for giving cautions but does not work after the ball touches the referee. While I'm not the biggest fan of "the team in possession of the ball changes", it is pretty factual.
-- [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed. While I believe the attacker would of lost the ball without the deflection from the referee and is the correct application of the Laws, I would like this goal to stand. There were zero complaints from the opponents.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
+_Law 9.1 If the ball touches any non-player or outside agent and was clearly going outside the boundary lines before any player can touch it and the ball was not going into the goal, the restart should be as if the ball had went outside the boundary lines._
+- [The ball hits the assistant referee and may have never left the field of play - either way football expects to treat that as the ball went out of play.](https://youtu.be/N7o-yMLslR0?feature=shared&t=887)
+- [The ball hits a substitute before it was about to clearly leave the field of play.](https://youtu.be/83PkzKCCiYo?feature=shared)
 
 Editorial changes are below:
 
@@ -171,10 +167,12 @@ Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal
 - An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees] don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.
 
 Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
-- I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal).
-
-Common Interpretation I don't like: A player, expecting the goalkeeper to dive to attempt to save the ball, changes the direction of the ball or moves between the ball and the goalkeeper. The goalkeeper then trips the attacker and is technically a foul but the ball was not playable and went to straight out of play.
-- [The attacker kicks the ball out of play. This is penalty kick hunting and not a person trying to score a goal. Why is this rewarded?](https://www.youtube.com/watch?v=Qe-6MXtOtM4)
-- [Another one.](https://youtu.be/matwhFahR2Q?feature=shared&t=420)
+- I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal). **Non-deliberate handball that stops a promising attack is now no card by the 24/25 Laws.**
 
 Competition Rule Gripe: American sports will have the player's number on more than one side of the jersey but soccer teams generally only have one jersey number. It makes it hard to identify players.
+
+## Interesting Videos
+
+- [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
+- [Goalkeeper tackle causes penalty.](https://www.youtube.com/watch?v=Qe-6MXtOtM4)
+- [Goalkeeper tackle causes penalty.](https://youtu.be/matwhFahR2Q?feature=shared&t=420)
