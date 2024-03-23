@@ -119,6 +119,9 @@ Law 3.7 If a ball is going into the goal and the interference does not prevent a
 - [another one.](https://youtu.be/afhWQumYO24?feature=shared)
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
 
+Law 3.3 if a player who is to be substituted refuses to leave, play continues **and the team loses a substitution and if applicable, a substitution moment**
+- The time is takes for a substitution and associated refusal is the same, and often times longer, than a normal substition and should still be counted as such.
+
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
 - [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
  
@@ -127,15 +130,15 @@ Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a s
 - [Un-needed pause in play and substitution moment near the end of extra time which could of been done right before penalties.](https://youtu.be/C3f7HPIPG0s?feature=shared)
 - The reality is most grassroot games have unlimited substitutions and return substitions and even if there is no exception in the competition rules, referees allow anyone to take penalties.
 
+Law 10.3 Substitutions and sendings-off during penalties (penalty shoot-out) The referee must ~~not~~ abandon the match if a team is reduced to fewer than seven players
+- I don't understand this Law. If all but one player gets sent-off, that player takes every penalty kick and the opposing team must reduce to one player to take penalties. Also, that many send-offs is not in the spirit of the game.
+
 Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses: controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
 - The Laws need to reflect reality. No match official counts the time second by second and the Law is often ignored.
 
 Law 10.3 ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
 - [Goalkeeper gets a YC for SPA at 5:25. At 16:24, the goalkeeper gets another YC during penalties. Just look at the chaos and confusion this Law caused in an already tense game. The entire penalties and post-match pushing sequence don't make football look attractive.](https://youtu.be/AF7vLz5UyNM?feature=shared&t=984)
-
-Law 14.1 ~~If the goalkeeper’s offense results in the kick being retaken, the goalkeeper is warned for the first offense in the game and cautioned for any subsequent offense(s) in the game unless the offense is a goalkeeper not on their goal line.~~
-- Warnings before mandatory cautions are dumb. It's not even a good tactic to be off the goal line or touching the nets, crossbar, goalpost as the ball can still enter the goal and in games with VAR if the goalkeeper blocks the ball off their line, its always a retake. Doesn't stop the referee from cautioning blatant offenses (e.g goalkeeper 5 yards off goal line). 
 
 Law 11.4 A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the ~~defending team has played the ball towards the halfway line and it is outside its penalty area~~ *ball completely leaves that side of the field of play*.
 - Too aggressive/over-correction. For accounting for injured players, a more fair balance would be the above.  
@@ -181,3 +184,5 @@ Competition Rule Gripe: American sports will have the player's number on more th
 - [The ball deflects off the referee, starts a promising attack, and leads to a goal. After VAR review, the goal is disallowed.](https://youtu.be/8DNP_PBSH78?feature=shared&t=301)
 - [Goalkeeper tackle causes penalty.](https://www.youtube.com/watch?v=Qe-6MXtOtM4)
 - [Goalkeeper tackle causes penalty.](https://youtu.be/matwhFahR2Q?feature=shared&t=420)
+- [This was when there was a YC each time a goalkeeper is off their line - no player, even from the opposing team, even wanted the goalkeeper to get a yellow card.](https://www.mlssoccer.com/news/what-happened-orlando-city-vs-nycfc-penalty-shootout-here-are-official-explanati)
+- [I think the IFAB wants to avoid this - under 24/25 Laws only the 3rd penalty retake would require a retake and that would only be a warning.](https://www.youtube.com/watch?v=Nr4vufNwG4s), and this [under 24/25 the goalkeeper would receive a warning and caution for the subsequent offense](https://www.youtube.com/watch?v=9o6zJz1neG0)
