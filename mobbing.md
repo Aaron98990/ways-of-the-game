@@ -34,3 +34,23 @@ Montreal was one goal disallowed and called offside but was clearly onside (once
 
 [Video from Reddit](https://www.reddit.com/r/MLS/comments/1bgieyv/montreal_players_confront_officials_after_final/)
 ![image](media/2024-03-16-MON-CHI.png)
+
+## 2023-11-05 VAN-LA 0-2 Full time - 7 players from VAN - no sanction from referee
+The referee runs into an attacker who had a clear shot on goal from outside the penalty area. The attacking team immediatly lose possession and their opponents score a goal. They then mob the referee. The goal was later reversed after VAR review due to offside.
+
+Four of the players should of been sent-off for deliberately initiating contact on the referee or putting their hand in the referee's face. I don't care if this is a playoff game. There is literally no other major sport that tolerates this.
+
+
+[Video on YouTube](https://www.youtube.com/watch?v=3HmBOeHGUeI)
+![image](media/2023-11-05-VAN-LA-1.png)
+![image](media/2023-11-05-VAN-LA-2.png)
+
+## 2023-11-04 RBNY-CIN 1-1 End of regular time / penalties upcoming - 6 players from RBNY - one player cautioned
+
+After the goal-winning goal is disallowed after VAR review for handball and a foul and the referee signals the end of regular time, the referee is surrounded.
+
+The final decision was correct and none of these actions are warranted. Even after multiple times of pointing to go away, the players refuse to stop condronting the referee.
+
+![image](media/2023-11-04-1)
+![image](media/2023-11-04-2)
+![image](media/2023-11-04-3)
