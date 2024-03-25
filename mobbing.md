@@ -45,6 +45,15 @@ Four of the players should of been sent-off for deliberately initiating contact 
 ![image](media/2023-11-05-VAN-LA-1.png)
 ![image](media/2023-11-05-VAN-LA-2.png)
 
+## 2024-03-04 (Competition: La Liga) VAL-RMA 2-2 Full time - 6 players from VAL - one player sent-off
+The referee blows the final whistle then the ball enters the goal.
+
+The referee sends off a player for running in and yelling in his face. Someone needed to be sent-off - it didn't really matter who.
+
+![image](media/2024-03-04-1)
+![image](media/2024-03-04-2)
+![image](media/2024-03-04-3)
+
 ## 2023-11-04 RBNY-CIN 1-1 End of regular time / penalties upcoming - 6 players from RBNY - one player cautioned
 
 After the goal-winning goal is disallowed after VAR review for handball and a foul and the referee signals the end of regular time, the referee is surrounded.
@@ -54,3 +63,4 @@ The final decision was correct and none of these actions are warranted. Even aft
 ![image](media/2023-11-04-1)
 ![image](media/2023-11-04-2)
 ![image](media/2023-11-04-3)
+
