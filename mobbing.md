@@ -50,9 +50,9 @@ The referee blows the final whistle then the ball enters the goal.
 
 The referee sends off a player for running in and yelling in his face. Someone needed to be sent-off - it didn't really matter who.
 
-![image](media/2024-03-04-1)
-![image](media/2024-03-04-2)
-![image](media/2024-03-04-3)
+![image](media/2024-03-04-1.png)
+![image](media/2024-03-04-2.png)
+![image](media/2024-03-04-3.png)
 
 ## 2023-11-04 RBNY-CIN 1-1 End of regular time / penalties upcoming - 6 players from RBNY - one player cautioned
 
@@ -60,7 +60,7 @@ After the goal-winning goal is disallowed after VAR review for handball and a fo
 
 The final decision was correct and none of these actions are warranted. Even after multiple times of pointing to go away, the players refuse to stop condronting the referee.
 
-![image](media/2023-11-04-1)
-![image](media/2023-11-04-2)
-![image](media/2023-11-04-3)
+![image](media/2023-11-04-1.png)
+![image](media/2023-11-04-2.png)
+![image](media/2023-11-04-3.png)
 
