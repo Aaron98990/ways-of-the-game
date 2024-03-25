@@ -1,3 +1,5 @@
+## Mobbing
+
 3/23/2024 SJ 2 vs SEA 0 69:28 - 5 players from SJ (top left player was a peacemeker) - referee cautions one player
 SEA player is pushed in the penalty area by a defender after heading the ball backwards and outside the penalty area to a team-mate. The referee immediatly calls a penalty kick.
 
