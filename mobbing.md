@@ -18,7 +18,7 @@ I believe referee should have stopped play as this was a head injury. It is not 
 ![image](media/2024-03-23-COL-HOU-2.png)
 ![image](media/2024-03-23-COL-HOU-3.png)
 
-## 3/23/2024 NE 1 vs CHI 1 Full time - 6+ people from NE - one player cautioned
+## 3/23/2024 NE 1 vs CHI 1 Full time - 5 people from NE - one player cautioned
 There was no major match changing decision that was missed.
 
 I only watched from the 70th minute upward. The referee failed to give a foul for NE near the assistant referee for a charge when the ball was not in playing distance and on the opposite touchline for a trip. That's it. The mobbing and agression had no basis unless I missed something - NE continues to be last in the standings.
@@ -30,10 +30,30 @@ I only watched from the 70th minute upward. The referee failed to give a foul fo
 ## 3/16/2024 Montreal 3 vs Chicago 4 Full time - 4 players from Montreal (others are peacemakers) - no sanction from referee
 After a thrilling come back win by Chicago with a 60+ yard wind assisted wonder goal, Montreal seems to believe that many decisions went against their team and contributed to their lose.
 
-Montreal was one goal disallowed and called offside but was clearly onside (once you draw lines) but not overturned even after VAR review but this happened in the first half. There was a goalkeeper handball in the second half that was missed that was outside the penalty area that should of been a caution for SPA.
+Montreal had one goal disallowed and called offside but was clearly (once you draw lines) onside but not overturned even after VAR review but this happened in the first half. There was a goalkeeper handball in the second half that was missed that was outside the penalty area that should of been a caution for SPA - which they thought was DOGSO.
 
 [Video from Reddit](https://www.reddit.com/r/MLS/comments/1bgieyv/montreal_players_confront_officials_after_final/)
 ![image](media/2024-03-16-MON-CHI.png)
+
+## 2024-03-04 VAL-RMA 2-2 Full time (Competition: La Liga) - 6 players from VAL - one player sent-off
+The referee blows the final whistle then the ball enters the goal.
+
+This is an acceptable decision by the Laws. The referee sends off a player for running in and yelling in his face. Someone needed to be sent-off - it didn't really matter who - well done to the referee.
+
+![image](media/2024-03-04-1.png)
+![image](media/2024-03-04-2.png)
+![image](media/2024-03-04-3.png)
+
+## Dec 3, 2023 MC 3 vs TOT 3 - 5 players from MC - no sanction from referee
+
+The referee stops play rather than playing advantage when the offended team, MC, was on a fast break away alone to goal.
+
+The referee should have played advantage.
+
+[Video (USA only)](https://youtu.be/gLYCjQpxzF4?feature=shared&t=733) / [Anohter video.](https://www.youtube.com/watch?v=Ze4MYeEOLDc)
+
+![image](media/2023-12-03-1.png)
+![image](media/2023-12-03-2.png)
 
 ## 2023-11-05 VAN-LA 0-2 Full time - 7 players from VAN - no sanction from referee
 The referee runs into an attacker who had a clear shot on goal from outside the penalty area. The attacking team immediatly lose possession and their opponents score a goal. They then mob the referee. The goal was later reversed after VAR review due to offside.
@@ -45,14 +65,6 @@ Four of the players should of been sent-off for deliberately initiating contact 
 ![image](media/2023-11-05-VAN-LA-1.png)
 ![image](media/2023-11-05-VAN-LA-2.png)
 
-## 2024-03-04 (Competition: La Liga) VAL-RMA 2-2 Full time - 6 players from VAL - one player sent-off
-The referee blows the final whistle then the ball enters the goal.
-
-The referee sends off a player for running in and yelling in his face. Someone needed to be sent-off - it didn't really matter who.
-
-![image](media/2024-03-04-1.png)
-![image](media/2024-03-04-2.png)
-![image](media/2024-03-04-3.png)
 
 ## 2023-11-04 RBNY-CIN 1-1 End of regular time / penalties upcoming - 6 players from RBNY - one player cautioned
 
@@ -64,3 +76,11 @@ The final decision was correct and none of these actions are warranted. Even aft
 ![image](media/2023-11-04-2.png)
 ![image](media/2023-11-04-3.png)
 
+## 2 December 2022 Ghana 0 - Uruguay 2 Full time - 6 players from Uruguay - one player cautioned
+
+Uruguay needed one more goal to move into the knockout round from the group stage. At the end of the game, they believe they were denied a penalty kick for a foul.
+
+The foul was not worthy of a penalty kick as I believe the Uruguay player embelleshed the minimal contact. FIFA suspended two players for one match and two other players for four matches ([source](https://inside.fifa.com/legal/media-releases/fifa-disciplinary-committee-reaches-decisions-on-ghana-v-uruguay-match)). Most people watching the match will never hear of the suspensions so I would prefer to have the referee sent-off at least one player.
+
+![image](media/2022-12-02-1.png)
+![image](media/2022-12-02-2.png)
