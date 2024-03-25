@@ -31,5 +31,5 @@ After a thrilling come back win by Chicago with a 60+ yard wind assisted wonder 
 
 Montreal was one goal disallowed and called offside but was clearly onside (once you draw lines) but not overturned even after VAR review but this happened in the first half. There was a goalkeeper handball in the second half that was missed that was outside the penalty area that should of been a caution for SPA.
 
-![Video from Reddit](https://www.reddit.com/r/MLS/comments/1bgieyv/montreal_players_confront_officials_after_final/)
+[Video from Reddit](https://www.reddit.com/r/MLS/comments/1bgieyv/montreal_players_confront_officials_after_final/)
 ![image](media/2024-03-16-MON-CHI.png)
