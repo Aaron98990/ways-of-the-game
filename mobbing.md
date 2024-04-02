@@ -1,6 +1,6 @@
 # Mobbing
 
-## 3/23/2024 SJ 2 vs SEA 0 69:28 - 5 players from SJ (top left player was a peacemeker) - referee cautions one player
+## 3/23/2024 SJ 2 vs SEA 0 69:28 - 5 players from SJ (top left player was a peacemeker) - one player cautioned
 
 SEA player is pushed in the penalty area by a defender after heading the ball backwards and outside the penalty area to a team-mate. The referee immediatly calls a penalty kick.
 
@@ -44,7 +44,7 @@ This is an acceptable decision by the Laws. The referee sends off a player for r
 ![image](media/2024-03-04-2.png)
 ![image](media/2024-03-04-3.png)
 
-## Dec 3, 2023 MC 3 vs TOT 3 - 5 players from MC - no sanction from referee
+## Dec 3, 2023 MC 3 vs TOT 3 - 5 players from MC - one player cautioned
 
 The referee stops play rather than playing advantage when the offended team, MC, was on a fast break away alone to goal.
 
