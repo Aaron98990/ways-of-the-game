@@ -56,9 +56,13 @@ A shoulder or body to the opponent's neck or head while you are jumping and whil
 
 ## Tackle / kicks
 
-Studs on any body part except the foot should be excessive force. **Ask the player where they were hit and if possible to show the marks from the studs before making a decision - it helps sell the descision and gives you extra time to think.**
+Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and if possible to show the marks from the studs before making a decision - it helps sell the descision and gives you extra time to think.**
 
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
+
+Studs on a player's foot that occurs after a jump should be excessive force.
+
+- [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 A kick/tackle to the head that that uses high force.
 
