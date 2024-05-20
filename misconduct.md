@@ -98,15 +98,15 @@ This section applies to a player, substitute or substituted player unless otherw
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
-Simply disagreeing with the referee is not an offense or stating a simple opinion/fact is not dissent. 
+Simply disagreeing with the referee or stating an opinion or fact is not dissent. 
 
 - "You can overrule the linesman"
 - "That's a flop"
 - "That was outside the penalty area."
-- "Call it both ways. You're calling everything for the other team."
 - "No way that's a foul."
 - "What are you calling?"
-- "Keep my players safe! Control the game."
+- "Keep my players safe!"
+- "Control the game."
 - "How can you call that when you're that far away?"
 - jumping in frustration
 
@@ -123,6 +123,11 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
   - “Whose side are you on?” / "How much did they pay you?"
   - Swearing at a referee "That's a fucking foul!"
+- Repeating questions or statements
+  - Why? Why? Why? Why? Why?
+  - What did I do? What did I do? What did I do?
+- Suggesting a team is getting favorable calls without referencing specific calls
+  - "Call it both ways. You're calling everything for the other team."
 
 #### **Dissent by action**
 
@@ -245,8 +250,8 @@ I have only seen a caution for this when players scuffing up the penalty spot or
 
 Here are some examples:
 - You cannot say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
-- You cannot yell/scream for the purpose to scare the opponent generally when they are attempting to play the ball.
-- You cannot clap to distract the opponent when they are attempting to play the ball (e.g. penalty kick) <!-- I remember seeing in one of my matches the team-mates clapping as their team-mate takes the penalty kick. That was weird. -->
+- You cannot yell/scream for the purpose to scare the opponent when they are attempting to play the ball (e.g. goalkeeper punting the ball)
+<!-- - You cannot clap to distract the opponent when they are attempting to play the ball (e.g. penalty kick)  I remember seeing in one of my matches the team-mates clapping as their team-mate takes the penalty kick. That was weird. -->
 
 #### **Permission to leave**
 
