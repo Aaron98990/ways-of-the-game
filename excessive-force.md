@@ -50,9 +50,7 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 
 ## Jumps at / charge / push
 
-A shoulder or body to the opponent's neck or head is generally excessive force. Cases to look for are:
-- jumping non-laterally or
-- running shoulder first
+A shoulder or body to the opponent's neck or head is generally excessive force. Cases to look for are jumping non-laterally or running shoulder first.
 
 - [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417), [Serious Foul Play 4](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1)
 
