@@ -98,15 +98,15 @@ This section applies to a player, substitute or substituted player unless otherw
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
-Simply disagreeing with the referee or stating an opinion or fact is not dissent. 
+Simply disagreeing with the referee or stating an opinion or fact or having a short and immediate frustration burst at the call/non-call is not dissent.
 
 - "You can overrule the linesman"
 - "That's a flop"
 - "That was outside the penalty area."
 - "No way that's a foul."
 - "What are you calling?"
-- "Keep my players safe!"
-- "Control the game."
+- "Keep my players safe!" (the person wants the game called more tightly)
+- "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
 - jumping in frustration
 
@@ -121,18 +121,23 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - players can't complain about every single call, esspecially trivial ones
   - failing to move on after an explanation or being warned to
 - Provocative or Personal Comments
-  - “Referee, are you blind? You're a joke. Do your job!”
+  - “Referee, are you blind? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
+  - "My grandma could do better."
 - Demanding a call
   - Using profanity "That's a fucking foul!" - they probably don't use profanity on their teammates
 - Repeating questions or statements
   - Why? Why? Why? Why? Why?
   - What did I do? What did I do? What did I do?
+  - No. No. No. No.
 - Suggesting a team is getting favorable calls without referencing specific calls
-  - "Call it both ways. You're calling everything for the other team."
+  - "Call it both ways." / "You're calling everything for the other team."
+  - "Call the game fairly" / "We don’t get those type of fouls"
   - “Whose side are you on?” / "How much did they pay you?"
 - Failing to acknowledge obvious fouls
-  - after an obvious foul, a player can not shrug it off, esspecially after multipe times
+  - after an obvious foul, a player can not complain about it. If they do, they 1) really believe what they did notthing wrong (and it needs to be explained to what was wrong without caution) or 2) they are complaining in bad faith or showing willful ignorance (and they should be cautioned as nothing you will say will get to them and to signal to everyone else that this is not okay)
+ 
+For any remark above: think if it was public or private. If private and towards you, you may just go with a verbal warning or ignore completely, if you deem appropiate. If public, you can't let your self be undermined as everyone will treat you with less respect so a caution is required.
 
 #### **Dissent by action**
 
@@ -306,7 +311,7 @@ This section applies to a player, substitute or substituted player.
 - [Abusive action. Grabbing an opponent's jersey and pulling them to your face is an abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
 - includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
-- intefering with the referee from showing a card or writing
+- intefering with the match offical from showing a card or writing or taking their equiptment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 
 ### **Language**
@@ -315,9 +320,11 @@ This section applies to a player, substitute or substituted player.
 
 - Threatening/wishing violence or injury to another person
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
-- Insulting the referee or another person
-  - "You are terrible. You are the worst"
+- Insulting the referee or any another person
+  - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt."
   - "* you" - "Fuck you"
+ 
+For any remark above: think if it was public or private. If private and towards you, you may just go with dissent, if you deem appropiate. If public, you can't let your self be undermined as everyone will treat you with less respect so a send-off is required.
 
 ### **Second caution**
 
