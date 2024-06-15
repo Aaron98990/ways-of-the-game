@@ -118,16 +118,21 @@ Different match officials handle dissent/disagreement differently, but here's a 
 
 - Yelling at a match official, especially at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
 - Continuous, prolonged, persistent complaining
+  - players can't complain about every single call, esspecially trivial ones
+  - failing to move on after an explanation or being warned to
 - Provocative or Personal Comments
   - “Referee, are you blind? You're a joke. Do your job!”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
-  - “Whose side are you on?” / "How much did they pay you?"
-  - Swearing at a referee "That's a fucking foul!"
+- Demanding a call
+  - Using profanity "That's a fucking foul!" - they probably don't use profanity on their teammates
 - Repeating questions or statements
   - Why? Why? Why? Why? Why?
   - What did I do? What did I do? What did I do?
 - Suggesting a team is getting favorable calls without referencing specific calls
   - "Call it both ways. You're calling everything for the other team."
+  - “Whose side are you on?” / "How much did they pay you?"
+- Failing to acknowledge obvious fouls
+  - after an obvious foul, a player can not shrug it off, esspecially after multipe times
 
 #### **Dissent by action**
 
