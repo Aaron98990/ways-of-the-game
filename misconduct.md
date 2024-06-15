@@ -105,10 +105,14 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "That was outside the penalty area."
 - "No way that's a foul."
 - "What are you calling?"
+- "Where's the card?" or asking, not demanding for a card (the person wants the game called more tightly)
 - "Keep my players safe!" (the person wants the game called more tightly)
 - "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
 - jumping in frustration
+
+
+Players give information on how they want the game called. Take it in sometimes.
 
 #### **Dissent by word**
 
@@ -136,6 +140,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - “Whose side are you on?” / "How much did they pay you?"
 - Failing to acknowledge obvious fouls
   - after an obvious foul, a player can not complain about it. If they do, they 1) really believe what they did notthing wrong (and it needs to be explained to what was wrong without caution) or 2) they are complaining in bad faith or showing willful ignorance (and they should be cautioned as nothing you will say will get to them and to signal to everyone else that this is not okay)
+
  
 For any remark above: think if it was public or private. If private and towards you, you may just go with a verbal warning or ignore completely, if you deem appropiate. If public, you can't let your self be undermined as everyone will treat you with less respect so a caution is required.
 
@@ -323,6 +328,7 @@ This section applies to a player, substitute or substituted player.
 - Insulting the referee or any another person
   - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt."
   - "* you" - "Fuck you"
+
  
 For any remark above: think if it was public or private. If private and towards you, you may just go with dissent, if you deem appropiate. If public, you can't let your self be undermined as everyone will treat you with less respect so a send-off is required.
 
