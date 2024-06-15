@@ -66,7 +66,7 @@ Studs on a player's foot that occurs after a jump should be excessive force.
 
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
-A kick/tackle to the head that that uses high force.
+A kick/tackle to the head that that uses high force (e.g. bicycle kicks) or unnessary/avoidable contact to the goalkeeper's haead esspecially when on the ground.
 
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 
