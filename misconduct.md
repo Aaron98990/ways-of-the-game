@@ -317,6 +317,7 @@ This section applies to a player, substitute or substituted player.
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
 - Insulting the referee or another person
   - "You are terrible. You are the worst"
+  - "* you" - "Fuck you"
 
 ### **Second caution**
 
