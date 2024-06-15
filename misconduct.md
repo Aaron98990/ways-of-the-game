@@ -147,7 +147,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - surrounding a match official
 - Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [Example 2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
-- sarcastic clapping
+- sarcastic or condescending clap/clapping
 - throwing (spiking) the ball to the ground [Example 1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart when done tactically)
@@ -306,6 +306,7 @@ This section applies to a player, substitute or substituted player.
 - [Abusive action. Grabbing an opponent's jersey and pulling them to your face is an abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
 - includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
+- intefering with the referee from showing a card or writing
 
 ### **Language**
 
@@ -313,6 +314,8 @@ This section applies to a player, substitute or substituted player.
 
 - Threatening/wishing violence or injury to another person
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
+- Insulting the referee or another person
+  - "You are terrible. You are the worst"
 
 ### **Second caution**
 
