@@ -234,7 +234,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - blatantly commiting an offfense
-  - holding a player's jersey (e.g. holding, tugging shirt with two hands)
+  - holding a player's jersey (e.g. holding from the front, tugging shirt with two hands)
   - blatantly committing handball
   - attempting to kick the ball the ball when the goalkeeper is releasing it
 - excessive swearing that's not abusive
@@ -307,6 +307,7 @@ This section applies to a player, substitute or substituted player.
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
 - includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
 - intefering with the referee from showing a card or writing
+  - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 
 ### **Language**
 
