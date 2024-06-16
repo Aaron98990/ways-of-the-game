@@ -318,8 +318,10 @@ This section applies to a player, substitute or substituted player.
 - [Abusive action. Grabbing an opponent's jersey and pulling them to your face is an abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
 - includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
-- intefering with the match offical from showing a card or writing or taking their equiptment
+- intefering with the match offical from showing a card or writing or taking a match offical's equiptment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
+- [mobbing a match offical](/mobbing)
+  - if there or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off
 
 ### **Language**
 
