@@ -4,6 +4,13 @@ The IFAB makes available past Laws of the Game (including the 1903/04 edition) w
 
 This is the only place I blatantly insert my opinion. Other places are less blatant.
 
+## 2024/25
+
+[Law changes document.](https://downloads.theifab.com/downloads/lotg_changes_24_25_en?l=en)
+
+- non-deliberate handball offences for which penalties are awarded are to be sanctioned in the same way as fouls which are an attempt to play the ball or a challenge for the ball
+- encroachment by players will be penalised only if it has an impact (same philosophy as goalkeeper encroachment)
+
 ## 2023/24
 
 [Law changes document.](https://downloads.theifab.com/downloads/lotg_changes_23_24_en?l=en)
@@ -133,7 +140,7 @@ If the goalkeeper’s offence results in the kick being retaken:
 
 - Harder and more complex for referees to keep track of warnings issued throughout the game esspecially with goalkeeper substitutions. Also, avoids unfairly penalizing goalkeepers who have to defend multipe penalty kicks during a game.
 
-Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a substitute for a goalkeeper who is unable to continue,~~ only players who are on the field of play or are temporarily off the field of play (injury, adjusting equipment etc.) at the end of the match are eligible to take kicks, unless their team has not used its maximum permitted number of substitutes
+Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a substitute for a goalkeeper who is unable to continue,~~ only players who are on the field of play or are temporarily off the field of play (injury, adjusting equipment etc.) at the end of the match are eligible to take kicks*, unless their team has not used its maximum permitted number of substitutes*
 - [Un-needed controversy about subs before penalties.](https://youtu.be/Cl6zluuAiwI?feature=shared&t=1763)
 - [Un-needed pause in play and substitution moment near the end of extra time which could of been done right before penalties.](https://youtu.be/C3f7HPIPG0s?feature=shared)
 - The reality is most grassroot games have unlimited substitutions and return substitions and even if there is no exception in the competition rules, referees allow anyone to take penalties.
