@@ -321,13 +321,14 @@ This section applies to a player, substitute or substituted player.
 - intefering with the match offical from showing a card or writing or taking a match offical's equiptment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - [mobbing a match offical](/mobbing)
-  - if there or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off
+  - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off
 
 ### **Language**
 
 > - using offensive, insulting or abusive language and/or action(s)
 
 - Threatening/wishing violence or injury to another person
+  - "I'll fuck you up"
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
 - Insulting the referee or any another person
   - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt."
