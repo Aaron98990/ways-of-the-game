@@ -66,9 +66,12 @@ Studs on a player's foot that occurs after a jump should be excessive force.
 
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
-A kick/tackle to the head that that uses high force (e.g. bicycle kicks) or unnessary/avoidable contact to the goalkeeper's haead esspecially when on the ground.
+A kick/tackle to the head that that uses high force (e.g. bicycle kicks)
 
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
+
+Unnessary/avoidable contact to the goalkeeper's head esspecially when on the ground. The attacker must make every attempt to avoid the goalkeeper.
+- [PRO write up here](https://proreferees.com/2022/07/02/talking-points-avoidable-contact-with-goalkeepers/)
 
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
 - [Serious Foul Play 1.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
