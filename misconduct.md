@@ -246,7 +246,8 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - blatantly commiting an offfense
-  - holding a player's jersey (e.g. holding from the front, tugging shirt with two hands)
+  - holding a player's jersey from the front while moving or tugging jersey with two hands
+    - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
   - blatantly committing handball
   - attempting to kick the ball the ball when the goalkeeper is releasing it
 - excessive swearing that's not abusive
