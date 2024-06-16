@@ -32,14 +32,16 @@ Generally, referees require that all four considerations to be met for DOGSO but
 ## Disciplinary Action
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
-> - handles the ball to interfere with or stop a promising attack
-> - commits any other offense which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offense which was an attempt to play the ball or a challenge for the ball
-> - denies an opponent an obvious goal-scoring opportunity by committing an offense which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
+> - handles the ball to interfere with or stop a promising attack, except where the referee awards a penalty kick for a non-deliberate handball offence
+> - denies the opposing team a goal or an obvious goal-scoring opportunity and the referee awards a penalty kick for a non-deliberate handball offence
+> - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
+> - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
 > - Law 12.3 Disciplinary Action
 
 > A player, substitute or substituted player who commits any of the following offenses is sent off:
-> - denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offense (except a goalkeeper within their penalty area)
-> - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick
+> - denying the opposing team a goal or an obvious goal-scoring opportunity by committing a deliberate handball offence (except a goalkeeper within their penalty area)
+> - denying the opposing team a goal or an obvious goal-scoring opportunity by committing a non-deliberate handball offence outside their own penalty area
+> - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
 > - Law 12.3 Disciplinary Action
 
 Please note that DOGSO applies to "an offense punishable by a free kick". This means that indirect free kick offenses and direct free kick offenses can lead to a red card for DOGSO.
@@ -68,8 +70,7 @@ No advantage played:
 
 |                         | SPA                                     | DOGSO                                   |
 | ----------------------- | --------------------------------------- | --------------------------------------- |
-| **Penalty kick**     | Attempt/challenge for the ball:  no card          | Attempt/challenge for the ball:  YC               |
-|                         | No attempt/challenge for the ball or handball: YC | No attempt/challenge for the ball or handball: RC |
+| **Penalty kick**     | - an attempt to play the ball or a challenge for the ball or non-deliberate handball:  no card <br>- Other cases: YC        | - an attempt to play the ball or a challenge for the ball or non-deliberate handball:  YC<br>- Other cases: RC               |
 | **Free kick** | YC                                      | RC                                      |
 
 Advantage played:
