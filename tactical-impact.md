@@ -58,7 +58,7 @@ For DOGSO in the penalty area, assume that the defender is going for the ball un
 > If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
 > - Law 12.3 Disciplinary Action
 
-This does not stop the referee from penalizing a more serious offense that occurs at the same time. Read more about two offenses at once in the [misconduct section](/misconduct). If a player SPA in the penalty area which was an attempt for the ball (no card) and commits:
+This, like anything else that is not expressly prohibited, does not stop the referee from penalizing a more serious offense that occurs at the same time. Read more about two offenses at once in the [restarts section](/restarts). If a player SPA in the penalty area which was an attempt for the ball (no card) and commits:
 
 - reckless foul. The referee would still show a yellow card for the reckless foul.
 - lack of respect of the game - (e.g. blatant holding). The referee would still show a yellow card for lack of respect of the game.
