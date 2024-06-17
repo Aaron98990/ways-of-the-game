@@ -248,7 +248,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - blatantly commiting an offfense
   - holding a player's jersey from the front while moving or tugging jersey with two hands
     - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
-  - blatantly committing handball
+  - blatantly committing handball unless the ball was going out
   - attempting to kick the ball the ball when the goalkeeper is releasing it
 - excessive swearing that's not abusive
 
@@ -285,10 +285,11 @@ If you just left the field without the referee's permission (deliberately or not
   - See the [goalkeeper section](/goalkeeper). Only applies among players. Does not apply between halves (including extra time) or before penalties.
 - commits in a reckless manner a direct free kick offense
   - See the [reckless section](/reckless).
-- handles the ball to interfere with or stop a promising attack
+- handles the ball to interfere with or stop a promising attack, except where the referee awards a penalty kick for a non-deliberate handball offence
+- denies the opposing team a goal or an obvious goal-scoring opportunity and the referee awards a penalty kick for a non-deliberate handball offence
 - commits any other offense which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offense which was an attempt to play the ball or a challenge for the ball
 - denies an opponent an obvious goal-scoring opportunity by committing an offense which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
-  - For the three above, see the [tactical impact section](/tactical-impact)
+  - For the four above, see the [tactical impact section](/tactical-impact)
 - handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
   - See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
   - See the [handball section](/handball) for "handles the ball in an attempt to score".
@@ -346,16 +347,14 @@ Do yourself a favor and don't make excuses for a player. If you would have carde
 
 ### **Other offenses**
 
-- denying the opposing team a goal or an obvious goal-scoring opportunity by a handball offense (except a goalkeeper within their penalty area)
-  - See the [tactical impact section](/tactical-impact)
+- denying the opposing team a goal or an obvious goal-scoring opportunity by committing a deliberate handball offence (except a goalkeeper within their penalty area)
+- denying the opposing team a goal or an obvious goal-scoring opportunity by committing a non-deliberate handball offence outside their own penalty area
 - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
-  - See the [tactical impact section](/tactical-impact)
+  - For the three above, see the [tactical impact section](/tactical-impact)
 - serious foul play
-  - See the [excessive force section](/excessive-force)
 - biting or spitting at someone
-  - See the [excessive force section](/excessive-force)
 - violent conduct
-  - See the [excessive force section](/excessive-force)
+  - For the three above, see the [excessive force section](/excessive-force)
 
 <!-- tabs:end -->
 
@@ -365,7 +364,7 @@ Do yourself a favor and don't make excuses for a player. If you would have carde
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
-Many times, competition rules will require to be out-of-sight and out-of-sound. **Other than the senior team coach, all team coaches are on a short leash and any offense or misconduct should be dealt with strictly.**
+Many times, competition rules will require them to be out-of-sight and out-of-sound. **Other than the senior team coach, all team people from the technical area are on a short leash and any offense or misconduct should be dealt with strictly.**
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
