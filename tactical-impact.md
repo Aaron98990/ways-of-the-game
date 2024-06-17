@@ -36,6 +36,7 @@ Generally, referees require that all four considerations to be met for DOGSO but
 > - denies the opposing team a goal or an obvious goal-scoring opportunity and the referee awards a penalty kick for a non-deliberate handball offence
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
+> - handles the ball [...] in an unsuccessful attempt to prevent a goal
 > - Law 12.3 Disciplinary Action
 
 > A player, substitute or substituted player who commits any of the following offenses is sent off:
