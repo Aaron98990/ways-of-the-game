@@ -48,30 +48,29 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 - [Violent Conduct 1](https://www.youtube.com/watch?v=zIGRzIf3nZ8&ab_channel=NBCSports)
 
 
-## Jumps at / charge / push
+## Jumps at / charge / push / trip
 
 A shoulder or body to the opponent's neck or head is generally excessive force. Cases to look for are jumping non-laterally or running shoulder first.
-
 - [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417), [Serious Foul Play 4](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1)
-
 - [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
+
+Any foul that causes an opponent's head or neck to directly hit an object (the ground, goalpost, wall) is excessive force.
+- [Undercut - Head to ground - Serious Foul Play](https://youtu.be/QEU4KZdTRMM?feature=shared&t=68)
+- [Push - Head to goalpost - Serious Foul Play](https://www.youtube.com/watch?v=vYtQzJfhrqg)
 
 ## Tackle / kicks
 
 Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and if possible to show the marks from the studs before making a decision - it helps sell the descision and gives you extra time to think.**
-
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
 Studs on a player's foot that occurs after a jump should be excessive force.
-
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 A kick/tackle to the head that that uses high force (e.g. bicycle kicks)
-
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 
 Unnessary/avoidable contact to the goalkeeper's head esspecially when on the ground. The attacker must make every attempt to avoid the goalkeeper.
-- [PRO write up here](https://proreferees.com/2022/07/02/talking-points-avoidable-contact-with-goalkeepers/)
+- [PRO write up here. I consider it Serious Foul Play.](https://proreferees.com/2022/07/02/talking-points-avoidable-contact-with-goalkeepers/)
 
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
 - [Serious Foul Play 1.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
