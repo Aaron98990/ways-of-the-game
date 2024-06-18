@@ -36,10 +36,10 @@ There are also offensive, insulting or abusive actions, including physical ones 
 
 ## Strikes at
 
-There is a great write up from PRO about striking with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
+There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
-If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. PRO has a  write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
+If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. Throwing or kicking any other object at someone is violent conduct. PRO has a  write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
 - [Violent Conduct 1](https://youtu.be/nDgAA3EtsBg?t=627), [Violent Conduct 2](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863), [Violent Conduct 3](https://youtu.be/snf9HlPG0dU?feature=shared&t=123), [Violent Conduct 4](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34)
 
@@ -50,23 +50,24 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 
 ## Jumps at / charge / push / trip
 
-A shoulder or body to the opponent's neck or head is generally excessive force. Cases to look for are jumping non-laterally or running shoulder first.
+A shoulder or body to the opponent's neck or head is generally excessive force after jumping non-laterally or running shoulder first.
 - [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417), [Serious Foul Play 4](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1)
 - [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
 
-Any foul that causes an opponent's head or neck to directly hit an object (the ground, goalpost, wall) is excessive force.
+Any offense that causes an opponent's head or neck to directly hit an object (the ground, goalpost, wall) is excessive force.
 - [Undercut - Head to ground - Serious Foul Play](https://youtu.be/QEU4KZdTRMM?feature=shared&t=68)
 - [Push - Head to goalpost - Serious Foul Play](https://www.youtube.com/watch?v=vYtQzJfhrqg)
+- [Charge - Head to advertising bpard/wall - Serious Foul Play](https://youtu.be/Ysl1u1yBaQ0?feature=shared&t=120)
 
 ## Tackle / kicks
 
-Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and if possible to show the marks from the studs before making a decision - it helps sell the descision and gives you extra time to think.**
+Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and show the marks from the studs penetrating the skin before making a decision - it is okay to make or change a decision based on the injury in this case. If skin is red with no penetration, studs grazed the skin and did not penetrate it and is usually just a caution.**
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
-Studs on a player's foot that occurs after a jump should be excessive force.
+Studs on a player's foot that occurs after a jump or lunge should be excessive force.
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
-A kick/tackle to the head that that uses high force (e.g. bicycle kicks)
+A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 
 Unnessary/avoidable contact to the goalkeeper's head esspecially when on the ground. The attacker must make every attempt to avoid the goalkeeper.
@@ -75,7 +76,7 @@ Unnessary/avoidable contact to the goalkeeper's head esspecially when on the gro
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
 - [Serious Foul Play 1.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
 
-A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force.
+A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force (whether or not studs grazed or penetrated the skin)
 - [Serious Foul Play 1](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
 A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
