@@ -64,17 +64,17 @@ Any offense that causes an opponent's head or neck to directly hit an object (th
 Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and show the marks from the studs penetrating the skin before making a decision - it is okay to make or change a decision based on the injury in this case. If skin is red with no penetration, studs grazed the skin and did not penetrate it and is usually just a caution.**
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
-Studs on a player's foot that occurs after a jump or lunge should be excessive force.
+Studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
 
-Unnessary/avoidable contact to the goalkeeper's head esspecially when on the ground. The attacker must make every attempt to avoid the goalkeeper.
-- [PRO write up here. I consider it Serious Foul Play.](https://proreferees.com/2022/07/02/talking-points-avoidable-contact-with-goalkeepers/)
-
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
 - [Serious Foul Play 1.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
+
+Unnessary/avoidable contact to the goalkeeper's head or neck (esspecially when on the ground). The attacker must make every attempt to avoid the goalkeeper.
+- [PRO write up here. I consider it Serious Foul Play.](https://proreferees.com/2022/07/02/talking-points-avoidable-contact-with-goalkeepers/)
 
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force (whether or not studs grazed or penetrated the skin)
 - [Serious Foul Play 1](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
