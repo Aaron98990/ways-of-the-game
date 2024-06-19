@@ -18,3 +18,19 @@ There is this awkward time where you spend 15 seconds writing and everyone is wa
 Most referees like to stay on the field but I prefer to leave the field of play as soon as possible. It causes less problems as I don't need to hear complains or additional paperwork and sanctions I issue after the game. All pleasentries should be done before kickoff or during half-time.
 
 If a match report needs to be signed or returned - leave the field and fill it out next to your stuff. 
+
+## Assistant referees
+
+Ball out of bounds: Y for deflection. For direction, hold hand in correct hand but to opposing leg. I don't know - hand on opposing shoulder.
+
+No need to wait for me to make first go ever for fouls. Push offs and holding on the other side of the field you may see - call it yell Aaron.
+
+For every foul: I don't know - hand on opposing shoulder.
+
+No card - arm in L pointed down 90 degrees.
+
+YC - arm in L pointed up 90 degrres.
+
+RC - elbow up then arm across head 90 degrees.
+
+For all dissent: you always have the final say.
