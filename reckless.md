@@ -32,23 +32,24 @@ Often time players move their arms out to know where there opponents are or to c
 
 ## Reckless tackle
 
-A tackle where the studs of a boot makes contact with the opponent's foot is generally a caution.
-- [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/GBHiiU8lekE?t=386) / [Example 3](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144) / [Example 4](https://youtu.be/FxcrgGIW_pw?feature=shared&t=285)
+Stepping or cataching on an opponent's foot without sliding, jumping, or lunging is generally a caution.
+- [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
 
-A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball) is generally also a caution. Not all tackles are automatic cautions.
+Any slide tackle that directly catches an opponent is at least a caution (including after winning the ball). Slide tackles which occur between the opponent and the ball and don't directly catch the opponent are less serious.
+- [Example 1](https://youtu.be/GBHiiU8lekE?t=386) / [Example 2](https://youtu.be/FxcrgGIW_pw?feature=shared&t=285)
+
+A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball or a late tackle) is generally also a caution. 
 - [Example 1](https://www.youtube.com/watch?v=WJP50N3Jq-E) / [Example 2](https://youtu.be/eFxYX4x1za0?t=790)
 
-Another important point to think about is where the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) is not needed and has limited benefit.
-- [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
-
-Slide tackles from the back, which I define as starting a slide tackle from the opposite direction the ball is travelling, even when the player wins the ball, are dangerous. Even if the player wins the ball their trail leg is likely to catch their opponent.
+Slide tackles from the back of the player, from the front when face to face with an oponent, or in which they are chasing the ball (starting a slide tackle from the opposite direction the ball is travelling) are dangerous. Even when the player wins the ball their trail leg is likely to directly catch their opponent.
 - [A player makes a tackle from behind with no chance to win the ball. The player should be shown a caution for a reckless tackle.](https://youtu.be/ICuWXmOqcho)
+- - [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
 
 Make sure to watch the kicker lands their feet esspecially when kicking or tackling with a large follow through. The kicker is responsible for landing safely.
 - [Example 1.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786) / [Example 2.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
 
-Slide tackling an oponent when face to face is a dangerous maneaurver because you will catch the person even if you get the ball.
-- [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
+Another important point to think about is where and when the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) or in a blowout game is not needed and has limited benefit. Use your judgement and game managment skills. 
+- [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
 
 ## Reckless charge / push
 
