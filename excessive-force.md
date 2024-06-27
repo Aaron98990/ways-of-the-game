@@ -36,8 +36,11 @@ There are also offensive, insulting or abusive actions, including physical ones 
 
 ## Strikes at
 
-There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/).
+There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping, clotheslining) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
+
+Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging clothesline.
+- [Violent Conduct](https://youtu.be/mHhim5gIfWw?feature=shared&t=152)
 
 If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. Throwing or kicking any other object at someone is violent conduct. PRO has a  write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
@@ -46,6 +49,7 @@ If there is no tactical reason to strike the ball at someone (by throwing or kic
 Headbutting (striking at someone with the head) unless negligible is violent conduct.
 
 - [Violent Conduct 1](https://www.youtube.com/watch?v=zIGRzIf3nZ8&ab_channel=NBCSports)
+
 
 
 ## Jumps at / charge / push / trip
