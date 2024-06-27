@@ -20,7 +20,7 @@ Soccer has a reputation of being soft but the fact is that referees do not sanct
 
 The Referee Channel on YouTube has a list of 80+ reckless challenges: check it out [here](https://www.youtube.com/playlist?list=PL4OiywE4asSdqTZIY2Lpw9ks2BY5ExiR9).
 
-## Reckless strike
+## Strikes at
 
 A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top.
 
@@ -28,9 +28,9 @@ Often time players move their arms out to know where there opponents are or to c
 
 - [Example 1](https://youtu.be/Zxnn7GNixcQ?t=876) / [Example 2](https://youtu.be/06lqnmddvKQ?t=142) / [Example 3](https://youtu.be/N9gHcVw_aws?t=714) / [Example 4](https://www.youtube.com/watch?v=nRJUKBI9Fnk&t=717s) / [Example 5](https://youtu.be/nRJUKBI9Fnk?t=711)
 
-**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken their and just give the foul but give no cards.**
+**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken and just give the foul but give no cards.**
 
-## Reckless tackle
+## Tackle / kicks
 
 Stepping or cataching on an opponent's foot without sliding, jumping, or lunging is generally a caution.
 - [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
@@ -51,7 +51,9 @@ Make sure to watch the kicker lands their feet esspecially when kicking or tackl
 Another important point to think about is where and when the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) or in a blowout game is not needed and has limited benefit. Use your judgement and game managment skills. 
 - [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
 
-## Reckless charge / push
+Kicks to the head or neck are generally at least a caution.
+
+## Jumps at / charge / push / trip
 
 An American football style charge into an opponent will always be a caution or send-off, esspecially when its made when the ball is no longer in playing distance. I call it the bulldozing into an opponent. 
 
@@ -66,23 +68,11 @@ A charge into a person's back while the ball is relatively still is gnerally a y
 If a challenge causes a third person to fall down from the impact or someone to hit the goalpost, a caution should generally be given to offender.
 - [Example 1](https://youtu.be/qUwa-YNH-ek)
 
-
-## Recklessly jumping at
-
 When a player jumps directly up and laterally, the risk to the any other player is zeo. But a player when jumping that cover distance while jumping takes a risk at putting the jumper and the other players at risk. 
 
 - [Example 1](https://youtu.be/u-y3AiAm2pI?t=606) / [Example 2](https://youtu.be/GYWeklAEl_0?t=6) / - [Example 3](https://youtu.be/7S_jphEXARY) / [Example 4 - although there is head contact the force is minimal as far as jumps go](https://youtu.be/CjSmyUcN_XY)
 
-## Reckless kick
+A defender that comes in at a high rate of speed to trip someone should be cautioned. 
 
-Kicks to the face or a kick where a players significantly cocks their foot back or would have had significant follow-through will always be a caution or send-off.
-
-Attempting to kick the ball when the goalkeeper clearly has control with the hand qualifies as reckless.
-- TODO: video.
-
-## Reckless trip
-
-A defender that comes in at a high rate of speed to make a trip should be cautioned. 
-
-Also, when an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
+When an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
 - [Example 1](https://www.tiktok.com/t/ZPRW7qUWT/) / [Example 2](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
