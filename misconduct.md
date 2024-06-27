@@ -204,21 +204,20 @@ If a referee issues a caution for persistent offenses, they often count with the
 
 #### **Other offenses**
 
+- unsporting behaviour
+  - This is the most common reason to give a caution because it covers a lot of offenses that are listed below.
 - delaying the restart of play
   - Covered in the [restarts section](/restarts).
 - (player only) failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in
   - Covered in the [restarts section](/restarts).
 
-#### **Unsporting behavior**
-
-> - unsporting behaviour
-
-This is the most common reason to give a caution because it covers a lot of offenses that are listed below.
-
 <!-- tabs:end -->
 
 
 ## Unsporting behaviour
+
+Unsporting behaviour is a caution.
+
 <!-- tabs:start -->
 
 #### **Simulation**
@@ -341,8 +340,16 @@ This section applies to a player, substitute or substituted player.
   - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt."
   - "* you" - "Fuck you"
 
+
+93% of interpersonal communication is not what is being said. Scientific analysis has determined that in person-to-person communication:
+- Words convey 7% of the message
+- Intonation, pitch and pace of speech convey 38%
+- Vibes, body movements, gestures, facial expressions convey 55% .
+
+<a href="Bad%20Language%20Mapping.pdf" target=”_blank”>Bad Language Mapping</a>
  
-For any remark above: think if it was public or private. If private and towards you, you may just go with dissent, if you deem appropiate. If public, you can't let your self be undermined as everyone will treat you with less respect so a send-off is required.
+For any remark above: think if it was public or private and how it's delivered. If private and towards you or its delivery is weak, you may just go with dissent (caution), if you deem appropiate. If public and its delivery is condescending/demanding, you can't let your self be undermined as everyone will treat you with less respect so a send-off is required.
+
 
 ### **Second caution**
 
