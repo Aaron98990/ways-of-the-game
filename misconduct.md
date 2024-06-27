@@ -80,6 +80,7 @@ Warnings are an important tool that is not technically misconduct. They are an i
 Things to avoid saying:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
 - This is your only warning. (Don't tie yourself.)
+- This is the last play of the game. (Don't tie yourself.)
 
 Things to say:
 - X is not acceptable. Don't do it again.
@@ -128,8 +129,6 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - “Referee, are you blind? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
   - "My grandma could do better."
-- Demanding a call
-  - Using profanity "That's a fucking foul!" - they probably don't use profanity on their teammates
 - Repeating questions or statements
   - Why? Why? Why? Why? Why?
   - What did I do? What did I do? What did I do?
@@ -143,8 +142,14 @@ Different match officials handle dissent/disagreement differently, but here's a 
 - Failing to acknowledge obvious fouls
   - after an obvious foul, a player can not complain about it. If they do, they 1) really believe what they did notthing wrong (and it needs to be explained to what was wrong without caution) or 2) they are complaining in bad faith or showing willful ignorance (and they should be cautioned as nothing you will say will get to them and to signal to everyone else that this is not okay)
 
+93% of interpersonal communication is not what is being said. Scientific analysis has determined that in person-to-person communication:
+- Words convey 7% of the message
+- Intonation, pitch and pace of speech convey 38%
+- Vibes, body movements, gestures, facial expressions convey 55% .
+
+<a href="Bad%20Language%20Mapping.pdf" target=”_blank”>Bad Language Mapping</a>
  
-For any remark above: think if it was public or private. If private and towards you, you may just go with a verbal warning or ignore completely, if you deem appropiate. If public, you can't let your self be undermined as everyone will treat you with less respect so a caution is required.
+For any remark above: think if it was public or private and how it's delivered. If private and towards you or its delivery is weak, you may just go with a verbal warning or ignore completely, if you deem appropiate. If public and its delivery is condescending/demanding, you can't let your self be undermined as everyone will treat you with less respect so a caution is required.
 
 #### **Dissent by action**
 
