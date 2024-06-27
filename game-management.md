@@ -7,6 +7,10 @@ Most grassroots games do not have medical personnel. When you beckon a non-medic
 If the injury occurs, please go to the nearest match official and ask if they saw anything out of the ordinary. 
 
 
+## Verbal warnings
+
+For all slide tackles which are deemed unfair, have a conference with that player even if not givning a sanction.
+
 ## Issuing cards
 
 Most referees issue the card then write. In games without a sin bin, I am a proponent of being the player for a conference while writing their information then showing the card.
