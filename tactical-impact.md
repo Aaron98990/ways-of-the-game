@@ -45,7 +45,7 @@ Generally, referees require that all four considerations to be met for DOGSO but
 > - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
 > - Law 12.3 Disciplinary Action
 
-Please note that DOGSO applies to "an offense punishable by a free kick". This means that indirect free kick offenses and direct free kick offenses can lead to a red card for DOGSO.
+Please note that DOGSO applies to "an offense punishable by a free kick". This means that all indirect and direct free kick offenses except for a goalkeeper handling offense in their own penalty area (as discuseed in the [goalkeeper section](/goalkeeper)) can lead to a red card for DOGSO.
 
 - [The referee should of had the goal kick retaken as the goalkeeper was just setting the ball. Ignoring that, the goalkeeper plays the goal kick twice denying the opponent a clear goal scoring opportunity. Although, the restart is an indirect free kick the offender is sent off.](https://www.youtube.com/watch?v=uivLc9urdBY)
 - [Red card for DOGSO doUble touch from a goalkick. ](https://youtu.be/G6w_qGQkrwc?feature=shared)
@@ -54,28 +54,27 @@ For DOGSO in the penalty area, assume that the defender is going for the ball un
 
 - [This is not a DOGSO situation. Although this was a charge from the back, this is a challenge for the ball. The defender had an open path to the ball but the attacker fairly moves into that path.](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
 
-## If Advantage is played
-
 > If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
 > - Law 12.3 Disciplinary Action
 
-This, like anything else that is not expressly prohibited, does not stop the referee from penalizing a more serious offense that occurs at the same time. Read more about two offenses at once in the [restarts section](/restarts). If a player SPA in the penalty area which was an attempt for the ball (no card) and commits:
-
-- reckless foul. The referee would still show a yellow card for the reckless foul.
-- lack of respect of the game - (e.g. blatant holding). The referee would still show a yellow card for lack of respect of the game.
-- persistent offenses. The referee would still show a yellow card for persistent offenses.
+The referee always penalizes the more serious offense if multipe occur at the same time. Read more about two offenses at once in the [restarts section](/restarts). If a player SPA and advantage is played (no card) but also simultaneously commits a reckless foul, persistent offenses, or lack of respect of the game (e.g. blatant two-hand holded), the referee still shows the yellow card since its the more serious offense.
 
 ## Comparison Table
 
 No advantage played:
 
-|                         | SPA                                     | DOGSO                                   |
+|  Restart                       | SPA                                     | DOGSO                                   |
 | ----------------------- | --------------------------------------- | --------------------------------------- |
 | **Penalty kick**     | - an attempt to play the ball or a challenge for the ball or non-deliberate handball:  no card <br>- Other cases: YC        | - an attempt to play the ball or a challenge for the ball or non-deliberate handball:  YC<br>- Other cases: RC               |
-| **Free kick** | YC                                      | RC                                      |
+| **Free kick** | YC*                                      | RC*                                      |
+
 
 Advantage played:
 
 | SPA     | DOGSO |
 | ------- | ----- |
 | no card | YC    |
+
+
+
+\* Goalkeeper handling offense in their own penalty area is no card unless other offense
