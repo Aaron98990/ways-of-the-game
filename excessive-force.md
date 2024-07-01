@@ -54,14 +54,15 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 
 ## Jumps at / charge / push / trip
 
-A shoulder or body to the opponent's neck or head is generally excessive force after jumping non-laterally or running shoulder first.
-- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417), [Serious Foul Play 4](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1)
+Any offense with a shoulder or body to a completely upright opponent's neck or head is generally excessive force after jumping non-laterally or running shoulder first.
+- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417) <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
 - [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
 
-Any offense that causes an opponent's head or neck to directly hit an object (the ground, goalpost, wall) is excessive force.
+Any offense where there is no attempt to challenge for or play the ball that causes an opponent's head or neck to directly hit an object (the ground, goalpost, wall) is generally excessive force.
 - [Undercut - Head to ground - Serious Foul Play](https://youtu.be/QEU4KZdTRMM?feature=shared&t=68)
 - [Push - Head to goalpost - Serious Foul Play](https://www.youtube.com/watch?v=vYtQzJfhrqg)
-- [Charge - Head to advertising bpard/wall - Serious Foul Play](https://youtu.be/Ysl1u1yBaQ0?feature=shared&t=120)
+- [Push - Head to wall - Serious Foul Play](https://youtu.be/BJuuShcWtas?feature=shared&t=238)
+<!-- [Charge - Head to advertising bpard/wall - Serious Foul Play](https://youtu.be/Ysl1u1yBaQ0?feature=shared&t=120) -->
 
 ## Tackle / kicks
 
