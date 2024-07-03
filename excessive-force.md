@@ -39,8 +39,8 @@ There are also offensive, insulting or abusive actions, including physical ones 
 There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping, clotheslining) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
-Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging clothesline. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind) - don't excuse it.
-- [Violent Conduct](https://youtu.be/mHhim5gIfWw?feature=shared&t=152)
+Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind).
+- [Violent Conduct](https://youtu.be/mHhim5gIfWw?feature=shared&t=152), [Not a clothesline](https://youtu.be/u-y3AiAm2pI?feature=shared&t=157)
 
 If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. Throwing or kicking any other object at someone is violent conduct. PRO has a  write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
