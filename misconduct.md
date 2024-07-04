@@ -137,7 +137,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - "Call it both ways." / "You're calling everything for the other team."
   - "Call the game fairly" / "We don’t get those type of fouls"
   - “Whose side are you on?” / "How much did they pay you?"
-- For a match offical who has done past games with a team, referencing past games is not appropirate while disagreeing with a decision
+- For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
 - Failing to acknowledge obvious fouls
   - after an obvious foul, a player can not complain about it. If they do, they 1) really believe what they did notthing wrong (and it needs to be explained to what was wrong without caution) or 2) they are complaining in bad faith or showing willful ignorance (and they should be cautioned as nothing you will say will get to them and to signal to everyone else that this is not okay)
