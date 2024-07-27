@@ -318,16 +318,21 @@ This section applies to a player, substitute or substituted player.
 <!-- tabs:start -->
 ### **Action**
 
+https://youtu.be/CsXRRa6KUSQ?t=21
+
 > - using offensive, insulting or abusive language and/or action(s)
 
-- [Abusive action. Beckham makes unnecessary contact with a match official and should of been sent off for abusive actions.](https://youtu.be/CsXRRa6KUSQ?t=21)
-- [Abusive action. Grabbing an opponent's jersey and pulling them to your face is an abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
-- [Abusive action. Deliberately touching someone's asshole. ](https://reddit.com/r/soccer/s/KUxPZP36QU)
-- includes physical actions towards another person that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, pulling down someone by their hair, or kissing an opponent
-- intefering with the match offical from showing a card or writing or taking a match offical's equiptment
+- aggressive and avoidable contact with an offical while dissenting
+  - [Abusive action.](https://youtu.be/CsXRRa6KUSQ?t=21)
+- Grabbing an opponent's jersey and pulling them to your face is an abusive action. 
+  - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
+- Standing on top of a player on the ground
+  - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
+- includes sexual physical actions that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down, non-consensual slapping an opponent's butt, or non-consensual kissing an opponent
+- intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
-- [mobbing a match offical](/mobbing)
-  - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off
+- mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
+  - [Writeup ](/mobbing)
 
 ### **Language**
 
