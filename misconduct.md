@@ -128,7 +128,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 - Provocative or Personal Comments
   - “Referee, are you blind? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
-  - "My grandma could do better."
+  - "My grandma could do better." / The AR could ref better.
 - Repeating questions or statements
   - Why? Why? Why? Why? Why?
   - What did I do? What did I do? What did I do?
@@ -139,10 +139,10 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - “Whose side are you on?” / "How much did they pay you?"
 - For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
-- Failing to acknowledge obvious fouls
+- complaining about obvious fouls
   - after an obvious foul, a player can not complain about it. If they do, they 1) really believe what they did notthing wrong (and it needs to be explained to what was wrong without caution) or 2) they are complaining in bad faith or showing willful ignorance (and they should be cautioned as nothing you will say will get to them and to signal to everyone else that this is not okay)
 
-93% of interpersonal communication is not what is being said. Scientific analysis has determined that in person-to-person communication:
+93% of interpersonal communication is not what is being said. In person-to-person communication:
 - Words convey 7% of the message
 - Intonation, pitch and pace of speech convey 38%
 - Vibes, body movements, gestures, facial expressions convey 55% .
@@ -244,10 +244,10 @@ Usual acts of simulation or embellishment include:
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - standing or stepping over an opponent
+  - stepping over an opponent
   - clapping or signaling the score in an opponent's face
   - imitating, mocking, or celebrating near a player who messed up
-- failure to respect a referee's command (e.g. asking a player to come to talk to the referee)
+- failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - blatantly commiting an offfense
   - holding a player's jersey from the front while moving or tugging jersey with two hands
