@@ -244,9 +244,11 @@ Usual acts of simulation or embellishment include:
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - stepping over an opponent
+  - stepping over or staring down an opponent
   - clapping or signaling the score in an opponent's face
   - imitating, mocking, or celebrating near a player who messed up
+  - doing push ups over the ball or sitting on the ball
+  - trash talking (talking about being gay/straight or someone's appearance, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - blatantly commiting an offfense
