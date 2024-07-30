@@ -10,7 +10,7 @@ Many people will call SPA or DOGSO tactical/professional fouls. Many SPA and DOG
 
 ## SPA
 
-Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball.
+Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Obviously, less leniency should be given if there is no attempt to challenge or play the ball in transition (known as a "take foul" in basketball).
 - [A playlist of 9 videos of SPA from Key Match Incidents.](https://www.youtube.com/playlist?list=PLzf0-UFHPjPdTEI9Z2kzC3pCgBgXSaywF)
 - [A playlist of 50+ of SPA from the Referee Channel](https://www.youtube.com/playlist?list=PL4OiywE4asSe_F4qnxKcKjOx7FSjNYszR)
 
@@ -23,11 +23,18 @@ Stopping a Promising Attack is not defined in the Laws of the Game. The referee 
 > - location and number of defenders
 > - Law 12.3 Direct Free Kick
 
-Generally, referees require that all four considerations to be met for DOGSO but it is not a requirement. DOGSO (like offside) is a hard call to make because it requires match officials to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul but DOGSO applies to all offenses (see below) and the considerations above must be met.
+Generally, referees require that all four considerations to be met for DOGSO but it is not a requirement. DOGSO (like offside) is a hard call to make because it requires match officials to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul but DOGSO applies to all offenses (see below). 
 
 - [PRO Referees have a great example with 9 video examples comparing SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
 - [The goalkeeper commits a handball offense outside their penalty area. A direct free kick and a red card for DOGSO are the correct outcomes.](https://youtu.be/uzZnBPHsx_0?t=107)
 - [Luis Suarez denies the opposing team a goal by handball and penalty kick and send-off are the correct outcomes.](https://youtu.be/tDpx9GGH79I?t=202)
+
+DOGSO can be separated in three situations: 
+- denial of goal (the ball was going in the goal)
+- open goal (1 vs 0 - no goalkeeper)
+- defended goal (1 vs 1 - goalkeeper is there)
+
+In all cases, distance from goal should be considered. The player who commited the foul is not considered a defender for DOGSO purposes. When there is an open goal, if the attacker would be able to get to ball and shoot the ball (even at a tough angle) without the offense then it is DOGSO. [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization) When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense then it is DOGSO.
 
 ## Disciplinary Action
 
