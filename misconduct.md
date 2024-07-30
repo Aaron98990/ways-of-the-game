@@ -246,7 +246,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - showboating or taunting
   - stepping over or staring down an opponent
   - clapping or signaling the score in an opponent's face
-  - imitating, mocking, or celebrating near a player who messed up
+  - imitating, mocking, or celebrating near an opponent
   - doing push ups over the ball or sitting on the ball
   - trash talking (talking about being gay/straight or someone's appearance, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
