@@ -50,10 +50,11 @@ If you are behind or even with the second-to-last defender when the ball is touc
 
 ## Close Calls
 
-Just because a player receives the ball ahead of everyone does not necessarily mean they are offside.
+Just because a player receives the ball ahead of everyone does not necessarily mean there is an offside offense.
 
 - [The assistant referee incorrectly flags the player for offside.](https://youtu.be/57Gs6vLMnvU?feature=shared&t=36)
 - [No offside. The assistant referee correctly keeps their flag down. ](https://youtu.be/d9gU6kmlagI?feature=shared&t=175)
+- [No offside.](https://youtu.be/Fz6T9sIjoek?feature=shared&t=57)
 - [PRO has an amazing offside perception quiz located here. It's hard.](https://proreferees.com/2020/05/01/try-the-latest-offside-perception-quiz/)
 
 ## Offside position then not
