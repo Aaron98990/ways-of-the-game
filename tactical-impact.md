@@ -10,7 +10,7 @@ Many people will call SPA or DOGSO tactical/professional fouls. Many SPA and DOG
 
 ## SPA
 
-Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Obviously, less leniency should be given if there is no attempt to challenge or play the ball in transition (known as a "take foul" in basketball).
+Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Obviously, less leniency should be given if there is no attempt to challenge for or play the ball in transition (known as a "take foul" in basketball).
 - [A playlist of 9 videos of SPA from Key Match Incidents.](https://www.youtube.com/playlist?list=PLzf0-UFHPjPdTEI9Z2kzC3pCgBgXSaywF)
 - [A playlist of 50+ of SPA from the Referee Channel](https://www.youtube.com/playlist?list=PL4OiywE4asSe_F4qnxKcKjOx7FSjNYszR)
 
@@ -31,10 +31,10 @@ Generally, referees require that all four considerations to be met for DOGSO but
 
 DOGSO can be separated in three situations: 
 - denial of goal (the ball was going in the goal)
-- open goal (1 vs 0 - no goalkeeper)
+- open goal (1 vs 0 - no goalkeeper) [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization)
 - defended goal (1 vs 1 - goalkeeper is there)
 
-In all cases, distance from goal should be considered. The player who commited the foul is not considered a defender for DOGSO purposes. When there is an open goal, if the attacker would be able to get to ball and shoot the ball (even at a tough angle) without the offense then it is DOGSO. [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization) When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense then it is DOGSO.
+In all cases, distance from goal should be considered. The player who commited the offense is not considered a defender for DOGSO purposes. When there is an open goal, if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot) then it is DOGSO. When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) and the attacker has possession of the ball without the offense then it is DOGSO.
 
 ## Disciplinary Action
 
