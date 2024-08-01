@@ -34,7 +34,11 @@ DOGSO can be separated in three situations:
 - open goal (1 vs 0 - no goalkeeper) [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization)
 - defended goal (1 vs 1 - goalkeeper is there)
 
-In all cases, distance from goal should be considered. The player who commited the offense is not considered a defender for DOGSO purposes. When there is an open goal, if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot) then it is DOGSO. When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) and the attacker has possession of the ball without the offense then it is DOGSO.
+In all cases, distance from goal should be considered. The player who commited the offense is not considered a defender for DOGSO purposes. 
+
+When there is an open goal, if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot) then it is DOGSO. 
+
+When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot) and the attacker had and would of continued to have possession of the ball then it is DOGSO.
 
 ## Disciplinary Action
 
