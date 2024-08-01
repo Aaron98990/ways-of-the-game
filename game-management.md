@@ -1,3 +1,12 @@
+## Pre-Game
+
+Check in starts 10 mins before kickoff. 
+Captains called 5 mins before kickoff.
+Coin toss occurs 4 mins before kickoff. 
+After toss, pregame with officials. 
+Players to field at 2 mins before kick off
+Game starts on kick-off.
+
 ## Injuries
 
 Most grassroots games do not have medical personnel. When you beckon a non-medical personnel move away from the injured player and move away from the path that non-medical personnel has to get to the injured player. This is avoid confrontation or arguments.
@@ -6,18 +15,21 @@ If the injury occurs, please go to the nearest match official and ask if they sa
 
 ## Consult with the player
 
-For all slide tackles which are deemed unfair, have a conference with that player even if not givning a sanction.
+For all slide tackles which are deemed unfair, have a conference with that player even if not givning a sanction. All consults with players are written down.
 
 ## Whistle tone
 
-Normal: Foul, Restart play
-Long: unfair slide tackles, penalty kicks, yellow or red cards
+Short: Basic Offense, Restart play, Water break (with verbal announccement)
+Long: unfair slide tackles, penalty kicks (ensure to wait for advantage), denying a goal, yellow or red cards
+Short Short: Sub, Injury
+Short Long: Halftime (including for extra time)
+Short Shot Long: Abandon, Fulltime (including for extra time) or when penalties are complete
 
 ## Issuing cards
 
 For any DOGSO-ish offfenses: consult AR
 
-For yellow card or red card to one player: Ensure no advantage, do a long whistle, identify the player to card, ensure no quick restart goal scoring opportunity, pull out card and yell reason, while in the air look at the card to see if they have already carded and if so show the second yellow card, write down info on card.
+For yellow card or red card to one player: Ensure no advantage, do a long whistle, identify the player to card, ensure no quick restart goal scoring opportunity, pull out card and yell reason, while in the air look if already cautioned, write down info on card.
 
 For cards to multiple players: Identify the players to card. Write first. Separate teams to their own bench or halves. Consult with AR if needed. Call players over. Show cards.
 
@@ -29,8 +41,12 @@ If a match report needs to be signed or returned - leave the field and fill it o
 
 ## Assistant referees
 
-Deflection: Yell deflection and wave flag while signaling restart
+Deflection: Yell deflection and wave flag while signaling restart (I will also make a deflection symbol when I see it)
 
-No need to wait for me to make first go ever for fouls. Push offs and holding on the other side of the field you may see - call it yell Aaron.
+Offside: For delebiterate play, I will yell defender or deliberate.
 
-For all dissent: you always have the final say.
+Call all offenses/fouls immediatly (including obvious ones, where I'm in the area, and in penalty area) - I will decide advantage. Push offs and holding on the other side of the field you may see - call it and yell Aaron.
+
+For any offense which is card worthy: Raise flag up, yell if needed, and let's talk about it
+
+For all dissent: you always have the final say (warning/card, move/remove person)
