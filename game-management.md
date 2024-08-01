@@ -5,7 +5,7 @@ Captains called 5 mins before kickoff.
 Coin toss occurs 4 mins before kickoff. 
 After toss, pregame with officials. 
 Players to field at 2 mins before kick off
-Game starts on kick-off.
+Game starts on kick-off. (stay in pocket - never at the 90's)
 
 ## Injuries
 
