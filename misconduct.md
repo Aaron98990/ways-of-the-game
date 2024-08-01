@@ -110,7 +110,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "Keep my players safe!" (the person wants the game called more tightly)
 - "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
-- jumping in frustration
+- jumping in frustration or the universal "what?" gesture with hand(s) out or hand(s) on the head
 
 
 Players give information on how they want the game called. Take it in sometimes.
@@ -124,6 +124,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 - Yelling at a match official, especially at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
 - Continuous, prolonged, persistent complaining
   - players can't complain about every single call, esspecially trivial ones
+  - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
 - Provocative or Personal Comments
   - “Referee, are you blind? You're a joke. Do your job! Do better.”
@@ -167,7 +168,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - sarcastic or condescending clap/clapping
 - throwing (spiking) the ball to the ground [Example 1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
-- kicking/throwing the ball away or holding/blocking it (could also be delay of the restart when done tactically)
+- kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
 
 Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
@@ -326,15 +327,17 @@ https://youtu.be/CsXRRa6KUSQ?t=21
 
 - aggressive and avoidable contact with an offical while dissenting
   - [Abusive action.](https://youtu.be/CsXRRa6KUSQ?t=21)
-- Grabbing an opponent's jersey and pulling them to your face is an abusive action. 
-  - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
-- Standing on top of a player on the ground
-  - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
-- includes sexual physical actions that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down, non-consensual slapping an opponent's butt, or non-consensual kissing an opponent
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup ](/mobbing)
+- an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, waving fists, deliberately revealing genitals)
+- Grabbing an opponent's jersey and pulling them to your face is an abusive action. 
+  - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
+- Standing on top of a player on the ground
+  - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
+- includes sexual physical actions towards another person that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down, non-consensual slapping an opponent's butt, or non-consensual kissing an opponent
+
 
 ### **Language**
 
