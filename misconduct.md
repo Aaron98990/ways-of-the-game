@@ -111,6 +111,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "How can you call that when you're that far away?"
 - jumping in frustration or the universal "what?" gesture with hand(s) out or hand(s) on the head
 - the person disagreeing gets the last word in
+- finger wagging or pointing to locations of missed percieved offenses
 
 
 Players give information on how they want the game called. Take it in sometimes.
