@@ -75,16 +75,15 @@ After a mass confrontation, separate the teams to their benches to avoid any sec
 
 ## Warnings
 
-Warnings are an important tool that is not technically misconduct. They are an important tool to set a message to everyone watching the game on what is acceptable. No one should be surprised when you give a caution - esspecially in situations that referees enforce differently. If you give a public warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
+Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. No one should be surprised when you give a caution - esspecially in situations that referees enforce differently. If you give a public warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
 
-Things to avoid saying:
+Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
 - This is your only warning. (Don't tie yourself.)
 - This is the last play of the game. (Don't tie yourself.)
 
-Things to say:
-- X is not acceptable. Don't do it again.
-- Enough is enough.
+Things to say publically:
+- We don't do that here
 
 ## Cautions
 
@@ -111,6 +110,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
 - jumping in frustration or the universal "what?" gesture with hand(s) out or hand(s) on the head
+- the person disagreeing gets the last word in
 
 
 Players give information on how they want the game called. Take it in sometimes.
