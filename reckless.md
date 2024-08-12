@@ -8,7 +8,7 @@ The Laws of the Game designates three levels of physical severity - Careless, Re
 > 
 > Law 12.1 Direct Free Kicks
 
-The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
+The level of physical foul does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). 
 
 Whenever a player does these, they are taking an increased risk as its harder to pull out of a challenge and if contact is made with another player, it's more likely to injure them:
 - running
@@ -16,7 +16,7 @@ Whenever a player does these, they are taking an increased risk as its harder to
 - jumping
 - flailing their arms
 
-Soccer has a reputation of being soft but the fact is that referees do not sanction players enough by a lot. Many of the video clips that are shown, do not show the correct sanction.
+Soccer has a reputation of being soft but the fact is that referees do not sanction players enough by a lot. Many of the video clips that are shown do not show the correct sanction.
 
 The Referee Channel on YouTube has a list of 80+ reckless challenges: check it out [here](https://www.youtube.com/playlist?list=PL4OiywE4asSdqTZIY2Lpw9ks2BY5ExiR9).
 
