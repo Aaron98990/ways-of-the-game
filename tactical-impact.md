@@ -4,13 +4,11 @@ Whenever an offense occurs, the referee must judge its tactical impact. There ar
 - Stopping a Promising Attack (SPA)
 - Denial of an Obvious Goal Scoring Opportunity (DOGSO)
 
-The level of tactical impact does not depend on intention. A player can unintentionally and not deliberately stop a promising attack or deny an obvious goal scoring opportunity but that does not change the referee's sanction.
-
-Many people will call SPA or DOGSO tactical/professional fouls. Many SPA and DOGSO offenses are tactical/professional fouls but not all. A tactical/professional foul is committed when a player deliberately fouls another but as said above for SPA/DOGSO intention/being deliberate does not matter and SPA/DOGSO apply to any offense (see below).
+The level of tactical impact does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). Many people call SPA or DOGSO tactical or professional fouls.
 
 ## SPA
 
-Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Obviously, less leniency should be given if there is no attempt to challenge for or play the ball in transition (known as a "take foul" in basketball).
+Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Obviously, less leniency should be given if there is no attempt to challenge for or play the ball in transition (known as a taking the foul or a "take foul" in basketball).
 - [A playlist of 9 videos of SPA from Key Match Incidents.](https://www.youtube.com/playlist?list=PLzf0-UFHPjPdTEI9Z2kzC3pCgBgXSaywF)
 - [A playlist of 50+ of SPA from the Referee Channel](https://www.youtube.com/playlist?list=PL4OiywE4asSe_F4qnxKcKjOx7FSjNYszR)
 
@@ -31,14 +29,16 @@ Generally, referees require that all four considerations to be met for DOGSO but
 
 DOGSO can be separated in three situations: 
 - denial of goal (the ball was going in the goal)
-- open goal (1 vs 0 - no goalkeeper) [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization)
+- open goal (1 vs 0 - no goalkeeper) [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [Example 2](https://youtu.be/ymp9iw-18_I?feature=shared&t=226)
 - defended goal (1 vs 1 - goalkeeper is there)
 
-In all cases, distance from goal should be considered. The player who commited the offense is not considered a defender for DOGSO purposes. 
+In all cases, distance from goal should be considered and the player who commited the offense is not considered a defender for DOGSO purposes. 
 
-When there is an open goal, if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot) then it is DOGSO. 
+When there is an open goal, if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot/pass as in both cases they could pass the ball/defender) then it is DOGSO. 
 
-When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot) and the attacker had and would of continued to have possession of the ball then it is DOGSO.
+When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot/pass) and the attacker had and would of continued to have possession of the ball then it is DOGSO.* 
+
+*A well-passed ball that would of *obviously or 100%* been of been able to be played by the attacker's foot and with *no or 0%* possibility goalkeeper reaching the ball first is the only exception for not having possession before the DOGSO offense. [Not DOGSO](https://youtu.be/3wohxDXUZDc?feature=shared&t=8), [DOGSO](https://youtu.be/iLlZ61OyPPs?feature=shared&t=286)
 
 ## Disciplinary Action
 
