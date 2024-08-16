@@ -332,8 +332,8 @@ https://youtu.be/CsXRRa6KUSQ?t=21
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup ](/mobbing)
-- an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, waving fists, deliberately revealing genitals)
-- Grabbing an opponent's jersey and pulling them to your face is an abusive action. 
+- an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, waving fists, deliberately revealing genitals, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
+- Grabbing an someone's shirt and pulling them to your face is an abusive action. 
   - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - Standing on top of a player on the ground
   - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
