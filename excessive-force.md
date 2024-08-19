@@ -30,26 +30,23 @@ It is serious foul play if:
 - a challenge is being made for the ball and
 - the offense is against an opponent 
 
-This distinction matters as competitions generally will suspend players for more games for violent conduct than serious foul play.
-
-There are also offensive, insulting or abusive actions, including physical ones towards another person, that are not violent conduct and don't involve excessive force but should be a send-off. This includes deliberately pulling an opponent's pants down, slapping an opponent's butt, or kissing an opponent - this is covered in the the [misconduct section](/misconduct).
+This distinction matters as competitions generally will suspend players for more games for violent conduct than serious foul play. There is also "biting or spitting at someone" as a send-off offense which should be used rather than violent conduct when it applies.
 
 ## Strikes at
 
-There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping, clotheslining) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
+There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping, clotheslining, stamping someone's face to the ground, choking, lifting someone, throwing someone to the ground) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
 Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind).
 - [Violent Conduct](https://youtu.be/mHhim5gIfWw?feature=shared&t=152), [Not a clothesline](https://youtu.be/u-y3AiAm2pI?feature=shared&t=157)
 
-If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. Throwing or kicking any other object at someone is violent conduct. PRO has a  write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
+If there is no tactical reason to strike the ball at someone (by throwing or kicking it) in their direction and with high speed, it is violent conduct. Throwing or kicking any other object at someone is violent conduct. PRO has a write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
 
 - [Violent Conduct 1](https://youtu.be/nDgAA3EtsBg?t=627), [Violent Conduct 2](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863), [Violent Conduct 3](https://youtu.be/snf9HlPG0dU?feature=shared&t=123), [Violent Conduct 4](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34)
 
 Headbutting (striking at someone with the head) unless negligible is violent conduct.
 
 - [Violent Conduct 1](https://www.youtube.com/watch?v=zIGRzIf3nZ8&ab_channel=NBCSports)
-
 
 
 ## Jumps at / charge / push / trip
@@ -69,7 +66,7 @@ Any offense where there is no attempt to challenge for or play the ball that cau
 Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and show the marks from the studs penetrating the skin before making a decision - it is okay to make or change a decision based on the injury in this case. If skin is red with no penetration, studs grazed the skin and did not penetrate it and is usually just a caution.**
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
-Studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
+studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
