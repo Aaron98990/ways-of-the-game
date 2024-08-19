@@ -8,7 +8,7 @@ The Laws of the Game designates three levels of physical severity - Careless, Re
 >
 > Law 12.1 Direct Free Kicks
 
-The level of physical foul does not depend on intention. A player can unintentionally and not deliberately use excessive force or recklessly commit a foul but that does not change the outcome of the referee's sanction.
+The level of physical foul does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). 
 
 > Serious foul play
 > 
