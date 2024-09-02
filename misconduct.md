@@ -135,7 +135,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
 - Provocative or Personal Comments
-  - “Referee, are you blind? You're a joke. Do your job! Do better.”
+  - “Referee, are you blind/asleep/dumb? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
   - "My grandma could do better." / The AR could ref better.
 - Repeating questions or statements
