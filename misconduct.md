@@ -50,7 +50,7 @@ Many times competition rules will require the sent-off adult participant to be o
 
 > A match may not start or continue if either team has fewer than seven players. Law 3.1
 
-If a team only has 10 players with no subs and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game. The team would only have six players which is lower than the required seven players.
+(Please note penalties exception below) If a team only has 10 players with no subs and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game. The team would only have six players which is lower than the required seven players. 
 
 ## After play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
@@ -70,6 +70,9 @@ After a mass confrontation, separate the teams to their benches to avoid any sec
 ## Penalties
 
 > A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
+>
+> Substitutions and sendings-off during penalties (penalty shoot-out):
+> - The referee must not abandon the match if a team is reduced to fewer than seven players
 > 
 > Law 9 Determining a winner
 
@@ -84,6 +87,7 @@ Things to avoid saying publically:
 
 Things to say publically:
 - We don't do that here
+- Be smart / Use your head (often times accompanies by pointing to one's head)
 
 ## Cautions
 
@@ -98,7 +102,7 @@ This section applies to a player, substitute or substituted player unless otherw
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
-Simply disagreeing with the referee or stating an opinion or fact or having a short and immediate frustration burst at the call/non-call is not dissent.
+Simply disagreeing with the referee or stating an opinion or fact or having a short and immediate frustration burst at the call/non-call is not in itself dissent:
 
 - "You can overrule the linesman"
 - "That's a flop"
@@ -112,9 +116,12 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - jumping in frustration or the universal "what?" gesture with hand(s) out or hand(s) on the head
 - the person disagreeing gets the last word in
 - finger wagging or pointing to locations of missed percieved offenses
+- "The other team is getting more fouls than us"
 
 
-Players give information on how they want the game called. Take it in sometimes.
+Players give information on how they want the game called. Take it in sometimes. 
+
+Obviously, game temperature or the accumulation of small things can lead for these to be considered dissent.
 
 #### **Dissent by word**
 
@@ -135,10 +142,10 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - Why? Why? Why? Why? Why?
   - What did I do? What did I do? What did I do?
   - No. No. No. No.
-- Suggesting a team is getting favorable calls without referencing specific calls
-  - "Call it both ways." / "You're calling everything for the other team."
-  - "Call the game fairly" / "We don’t get those type of fouls"
-  - “Whose side are you on?” / "How much did they pay you?"
+- implying bias because the other team is getting favorable calls
+  - "Call it both ways." / "Call the game fairly"
+  - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls"
+  - “Whose side are you on?” / “You hate us” / "How much did they pay you?"
 - For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
 - complaining about obvious fouls
@@ -163,7 +170,8 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 
 - gesture the wearing of spectacles
 - invading a match official's personal space
-- surrounding a match official (don't bother explaining anything if there are more than two people)
+- surrounding a match official (don't bother explaining anything if there are more than two people from the same team)
+- a player being held back from a match offical but continues disagreeing
 - Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [Example 2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
@@ -198,7 +206,7 @@ This is very subjective and a tool in the referee's toolbox. Here are some valid
 - A team committing too many fouls, generally after a public warning or
 - A team committing too many fouls against one player, generally after a public warning
 
-Please note that technically any offense in the Laws of the Game is eligible for this, but this usually applied to just fouls.
+Please note that technically any offense in the Laws of the Game is eligible for this, but this usually applies to just fouls.
 
 PRO Referees has a write up on persistent offenses (formerly called persistent infringements) on this on their website and is available [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
 
@@ -326,18 +334,18 @@ https://youtu.be/CsXRRa6KUSQ?t=21
 
 > - using offensive, insulting or abusive language and/or action(s)
 
-- aggressive and avoidable contact with an offical while dissenting
+- aggressive and avoidable contact with a match offical while dissenting that does not rise to violent conduct
   - [Abusive action.](https://youtu.be/CsXRRa6KUSQ?t=21)
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup ](/mobbing)
-- an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, waving fists, deliberately revealing genitals, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
+- an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
 - Grabbing an someone's shirt and pulling them to your face is an abusive action. 
   - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - Standing on top of a player on the ground
   - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
-- includes sexual physical actions towards another person that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down, non-consensual slapping an opponent's butt, or non-consensual kissing an opponent
+- includes sexual physical actions towards another person that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down, non-consensual slapping an opponent's butt, or non-consensual kissing an opponent (these may even be considered violent conduct)
 
 
 ### **Language**
