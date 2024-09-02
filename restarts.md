@@ -19,6 +19,9 @@ The goalkeeper releasing the ball after control with the hand/arms is not a rest
 
 > The referee may not change a restart decision [..] if play has restarted or the referee has signalled the end of the first or second half (including extra time) and left the field of play or abandoned the match. Law 5.2
 
+**Deflections that occur when kicked from close distance are one of the most challening calls to make as it is hard to see the trajectory of the ball change or hear the touches since they are close. [Example 1](https://youtu.be/WSQOZZeL0T4?feature=shared&t=293) If the assistant referee says they saw the deflection, follow them.**
+
+
 ## Position of restart
 
 The restart is taken at the position the offense requires or where the ball left the field of play except:
