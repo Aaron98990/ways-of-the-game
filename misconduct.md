@@ -330,7 +330,6 @@ This section applies to a player, substitute or substituted player.
 <!-- tabs:start -->
 ### **Action**
 
-https://youtu.be/CsXRRa6KUSQ?t=21
 
 > - using offensive, insulting or abusive language and/or action(s)
 
@@ -354,6 +353,7 @@ https://youtu.be/CsXRRa6KUSQ?t=21
 
 - Threatening/wishing violence or injury to another person
   - "I'll fuck you up"
+- Bringing up one's family or one's role in a family
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
 - Insulting the referee or any another person
   - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt."
