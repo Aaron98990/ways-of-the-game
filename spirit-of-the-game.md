@@ -30,8 +30,8 @@ A goal kick is taken a couple of feet from the goal area, the ball is not comple
 The ball goes above the goal and out of play after a deflection from a defender. The point where the ball passed over the goal line was closer to the left corner area but the ball bounces closer to the right corner area.
 - Although forcing the restart from the left corner area is technically correct, the ball is already closer to the right corner area. Whatever the referee decides, they must be consistent on this throughout the match.
 
-Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players offending by wearing sleeveless shirts, player offending by wearing non-sport spectacles
-- For lower levels of football, there is no need to strictly apply these Laws unless it creates an unfair advantage or distraction to opponents or it is not safe.
+Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players by wearing sleeveless shirts, player wearing non-sport spectacles
+- For lower levels of football, there is no need to strictly apply equptment Laws unless it creates an unfair advantage or distraction to opponents or it is not safe.
 
 Corner flags are missing, the lines are not straight, the penalty area is not the proper size, or the goals are not the proper size. No penalty mark for penalty kicks.
 - For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play. If the penalty mark is missing, count 12 yards from the goal line to place the ball when a penalty kick is given.
@@ -43,17 +43,14 @@ A ball is about to clearly go outside the field of play but a non-player touches
 For lower levels of football, skipping the coin toss to save time is okay, having the assistant referee do the coin toss, or using a different method to determine sides/kick-off when no one has a coin.
 - Especially with back to back games or behind schedule games, the referee may just choose sides or who kick-offs. Although against the Laws, if an assistant referee is doing the coin toss to save time - no one will throw a fit. And in lower levels of the game if no one has coin and they use the guess if one or two fingers are behind, that is fine.
 
-A team had limited or no subs. The opposing team has a full roster. The team with the full roster wants no cooling break (water break) or a shorter drinks break (water break) or a shorter half-time interval.
-- To allow the teams with limited or no subs to fully recover and for their safety, it is fair to go through with the full cooling break (water break) or water break interval. There is no requirement that both teams must agree to a water break. A referee may take a water break for themselves even if both teams don't one.
+A team had limited or no subs. The opposing team has a full roster. The team with the full roster wants no cooling break (water break) or a shorter drinks break (water break) or a shorter half-time interval and wants to play the full game.
+- To allow the teams with limited or no subs to fully recover and for their safety, it is fair to go through with the full cooling break (water break) and the full half-time interval. There is no requirement that both teams must agree to a water break amd evem the referee may call a water break for themselves even if both teams don't one. But, decreasing the length of the halfs requires agreement from both teams.
 
 Not playing any additional time in second half in a blowout game, especially when there is extreme weather conditions.
-- If the players from both teams clearly want the game to end, there is no need to play additional time. Shortening the half may even be acceptable in lower levels of the game.
+- If the players from both teams clearly want the game to end, there is no need to play additional time. Shortening the half may even be acceptable in lower levels of the game without the referee needing permission.
 
 Not forcing a retake of a penalty kick because the goalkeeper was off their line but the ball was kicked right down the middle and being off the line caused no advantage.
 - The goalkeeper did not gain any advantage - the goalkeeper would of caught the ball if they were on the goal line or not. 
-
-Not penalizing encroachment by an attacker or defender who does not directly become involved in play.
-- The penalty kick law is not meant to be strictly read. If the ball enters the goal or completely misses the goal, the encroachment by one yard does not change anything and does not need to be penalized.
 
 Not penalizing a goalkeeper when they are releasing the ball and are handling the ball less than one yard outside the penalty area.
 - As the benefit is minimal and the direct free kick restart is very beneficial for the opponents, giving a warning to the goalkeeper before penalizing this would be the best action.
@@ -88,6 +85,9 @@ There is no need to kick the ball out for an injured player.
 
 ## Subjective
 
+A player is the second-to-last defender and is technically offside by having one foot in their opponent's half and one foot in their own half but clearly understands they can't be in their opponent's half.
+- For recreational soccer, I have allowed this to slide twice.
+
 Disallowing a goal for kneeling down on the ground to showboat while scoring.
 - Some referees deem this as unsporting behavior. It's not wrong. Personally, I would allow the goal to stand. 
 
@@ -113,8 +113,8 @@ A player on the losing team commits DOGSO outside the penalty area in a blowout 
 
 ## Not Commonly Acceptable
 
-Allowing jewelry because you expect the game not to be aggressive.
-- The game is physical and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. For games with small children (under 10) you may be able to get away with this.
+Allowing jewelry, including when covered, because you expect the game not to be aggressive.
+- The game is physical and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. This includes for small children. **Match officails are not allowed to wear jewellery, including wedding rings, as well althoggh I see this a lot.**
 
 Ignoring a handball because the ball barely grazes a defender's arm.
 - A handball offense should always be penalized as it will affect the trajectory and curve of the ball. 
@@ -130,7 +130,7 @@ Not giving a second yellow card for removing one's shirt during a goal celebrati
 >
 > A. No, all cautions must be reported. 1970/71 Laws of the Game
 
-- A referee can't omit a caution or send-off from their match report because of an apology. A referee could of used their discretion before the caution or send-off.
+- A referee can't omit a caution or send-off from their match report because of an apology or laziness. A referee could of used their discretion before the caution or send-off.
 
 Not awarding a clear penalty kick or red card (including second yellow card) because you don't want the game decided like that.
 
