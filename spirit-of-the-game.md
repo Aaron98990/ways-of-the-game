@@ -88,6 +88,9 @@ There is no need to kick the ball out for an injured player.
 A player is the second-to-last defender and is technically offside by having one foot in their opponent's half and one foot in their own half but clearly understands they can't be in their opponent's half.
 - For recreational soccer, I have allowed this to slide twice.
 
+A foul occurs by the defense barely in the penalty area and is barely a foul.
+- For recreational soccer, rather than a penalty kick I have moved the foul right outside the penalty area since a penalty kick is too harsh.
+
 Disallowing a goal for kneeling down on the ground to showboat while scoring.
 - Some referees deem this as unsporting behavior. It's not wrong. Personally, I would allow the goal to stand. 
 
@@ -96,7 +99,7 @@ Showing a yellow card for showboating with the ball.
 - Some referees deem this as unsporting behavior. It's not wrong as a retaliation foul would be common after showboating like that. Personally, I would allow the play to continue.
 
 Legally kicking the ball far away outside the field while the ball is in play for no tactical reason other than to waste time.
-- For lower levels of football where the number of balls are limited and the main purpose is to have fun, I would show a yellow card or unsporting behavior. 
+- For lower levels of football where the number of balls are limited and the main purpose is to have fun, I would show a yellow card for unsporting behavior. 
 
 Ending the game on a corner kick during a close game. 
 - If time is up and the ball is not about to enter the goal and their is no promising attack in a close game, there is no need to play through an a corner. Not everyone would agree.
@@ -114,7 +117,7 @@ A player on the losing team commits DOGSO outside the penalty area in a blowout 
 ## Not Commonly Acceptable
 
 Allowing jewelry, including when covered, because you expect the game not to be aggressive.
-- The game is physical and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. This includes for small children. **Match officails are not allowed to wear jewellery, including wedding rings, as well althoggh I see this a lot.**
+- The game is physical and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. This includes for small children or recreational games. **Match officails are not allowed to wear jewellery (other than watch(es)), including wedding rings, although I see this a lot. A bracelet is a piece of jewelery.**
 
 Ignoring a handball because the ball barely grazes a defender's arm.
 - A handball offense should always be penalized as it will affect the trajectory and curve of the ball. 
@@ -130,7 +133,7 @@ Not giving a second yellow card for removing one's shirt during a goal celebrati
 >
 > A. No, all cautions must be reported. 1970/71 Laws of the Game
 
-- A referee can't omit a caution or send-off from their match report because of an apology or laziness. A referee could of used their discretion before the caution or send-off.
+- A referee can't omit a caution or send-off from their match report because of an apology or laziness (unless the match reporting system is insanely stupid/broken). A referee could of used their discretion before the caution or send-off.
 
 Not awarding a clear penalty kick or red card (including second yellow card) because you don't want the game decided like that.
 
