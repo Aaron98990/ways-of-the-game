@@ -1,4 +1,4 @@
-The Laws of the Game designates three levels of physical severity - Careless, Reckless, and Excessive force. This wording is important - especially in match reports. A player is never sent-off for a reckless challenge and a player is never cautioned for a careless challenge.
+The Laws of the Game designates three levels of physical severity - Careless, Reckless, and Excessive force. This wording is important - especially in match reports.
 
 > Careless is when a player shows a lack of attention or consideration when making a challenge or acts without precaution. No disciplinary sanction is needed
 > 
@@ -34,7 +34,7 @@ This distinction matters as competitions generally will suspend players for more
 
 ## Strikes at
 
-There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping, clotheslining, stamping someone's face to the ground, choking, lifting someone, throwing someone to the ground) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
+There is a great write up from PRO about striking with the hands/arms (like elbowing, punching, slapping, clotheslining, stamping someone's face to the ground, choking, lifting someone, throwing someone to the ground/body slam) [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
 Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind).
