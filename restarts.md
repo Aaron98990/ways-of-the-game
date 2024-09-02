@@ -1,4 +1,4 @@
-The restarts in soccer are the:
+The start and restarts of play (commonly just called restarts) are the:
 
 - kick-off ([Law 8.1](https://www.theifab.com/laws/latest/the-start-and-restart-of-play/))
 - dropped ball (Law 8.2)
