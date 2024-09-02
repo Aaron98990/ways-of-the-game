@@ -11,7 +11,7 @@ The restarts in soccer are the:
 
 I cover commonality among the laws and provide video links - I am not re-writing the Laws here and exclude some things. I encourage you to read directly from the Laws of the Game. Each restart Law is  short (less than one-page) and only takes about a minute to read. 
 
-Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they do build on top of the penalty kick (Law 15).
+Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they do build on top of the penalty kick (Law 14).
 
 The goalkeeper releasing the ball after control with the hand/arms is not a restart as the ball remains in play. Read more in the [goalkeepers section](/goalkeeper).
 
