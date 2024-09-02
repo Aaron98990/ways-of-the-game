@@ -1,4 +1,4 @@
-The Laws of the Game designates three levels of physical severity - Careless, Reckless, and Excessive force. This wording is important - especially in match reports. A player is never sent-off for a reckless challenge and a player is never cautioned for a careless challenge.
+The Laws of the Game designates three levels of physical severity - Careless, Reckless, and Excessive force. This wording is important - especially in match reports.
 
 > Careless is when a player shows a lack of attention or consideration when making a challenge or acts without precaution. No disciplinary sanction is needed
 > 
