@@ -66,7 +66,7 @@ Any offense where there is no attempt to challenge for or play the ball that cau
 Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and show the marks from the studs penetrating the skin with clear stud outlines before making a decision - it is okay to make or change a decision based on the injury in this case. If skin is red with no penetration and no stud outlines, studs grazed the skin is usually just a caution.**
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
-studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
+Studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
 - [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
@@ -84,7 +84,7 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
 - [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play 3](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
-A slide tackle with high intensity that is two-footed (with or without contact).
+A slide tackle with high intensity that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground.
 - [Serious Foul Play 1](https://www.youtube.com/watch?v=pR8DROokqqM&ab_channel=gameagain1)
 
 When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force it's violent conduct
