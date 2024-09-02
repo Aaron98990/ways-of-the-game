@@ -189,9 +189,6 @@ Guidelines for Match Officials: If there is no fourth official *and there are a 
 Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal kick" section including the associated diagrams]
 - An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees] don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.
 
-Common Interpretation I don't like: If a handball is committed when a shot is going on goal, a YC should be given for SPA, including if a penalty in given.
-- I think its too harsh. It's not a wrong interpretation. But if I give a penalty kick for handball (not DOGSO), I rarely give a caution (and no one complains because a penalty is generally a free goal). **Non-deliberate handball that stops a promising attack is now no card by the 24/25 Laws.**
-
 Competition Rule Gripe: American sports will have the player's number on more than one side of the jersey but soccer teams generally only have one jersey number. It makes it hard to identify players.
 
 ## Interesting Videos
