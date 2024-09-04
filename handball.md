@@ -22,7 +22,7 @@ A goalkeeper committing a handball offense outside their own penalty area is jus
 
 The goalkeeper committing a handball offense in their own penalty area and there are no other offenses is always an indirect free kick (not a penalty kick) and no sanction and no disciplinary action is taken. Read more about goalkeepers including goalkeeper handling offenses in their own penalty area [here](/goalkeeper).
 
-## Hand/arm
+## Handling the ball
 
 The hand/arm excludes the shoulders and the arm pits. The ball can contact the "shirt sleeve" and still be handball.
 
@@ -30,7 +30,9 @@ The hand/arm excludes the shoulders and the arm pits. The ball can contact the "
 
 ![image](https://www.datocms-assets.com/43623/1653641422-illustration-book-handball-chosen_en.png?auto=format&q=90&w=1920&fit=max)
 
-## Handling the ball 
+When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the fouled player. If no foul was committed, it is handball. Referees don't like when players do this because it forces them to make a decision.
+
+- [The player is carelessly fouled, falls down, and commits handball. The restart is for the careless foul.](https://youtu.be/xqQqe-LwWXc?t=951)
 
 > It is an offense if a player:
 > - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
@@ -105,11 +107,6 @@ Accidental handball is challenging to enforce as the referee will be screened as
 - No goal. The ball contacts the hand/arm then immediately goes into the goal. [Example 1](https://youtu.be/_MQpnvxeE9g?t=352)
 - Goal. The ball contacts the hand/arm but does not immediately go in the goal. [Example 1](https://youtu.be/WicGa2_Fw5Q?t=285)
 
-## Foul then handball
-
-When a player believes they have been fouled and goes to ground, they will often commit handball. Since referees punish the first offense to determine restarts, it would be a free kick for the team of the fouled player. If no foul was committed, it is handball. Referees don't like when players do this because it forces them to make a decision.
-
-- [The player is carelessly fouled, falls down, and commits handball. The restart is for the careless foul.](https://youtu.be/xqQqe-LwWXc?t=951)
 
 ## Disciplinary Action
 
