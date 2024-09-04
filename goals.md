@@ -1,10 +1,8 @@
-## Anchored goals
+## About the goal
 
 > Goals (including portable goals) must be firmly secured to the ground.
 > 
 > - Law 1.10 - Goals
-
-## Goal nets
 
 > Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper.
 > 
@@ -20,7 +18,6 @@ While the assistant referee has the best view of the ball passing the goal line,
 - [Goal. The ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
 - [No goal. The ball enters the nets through a hole.](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports)
 
-## Crossbar and goalpost
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
@@ -48,15 +45,12 @@ The team the goal is awarded to is determined by the coin toss before the match.
 > - for the second half, the teams change ends and attack the opposite goals
 > - Law 8.1 Kick-off
 
-## Advantage
-
-If the defense commits an offense (e.g. handball) then the ball enters the goal, the goal still counts if the referee head not stopped play.
-
-Read more about advantage [here](/advantage)
 
 ## Offenses
 
-Offenses that will nullify a goal.
+If the defense commits an offense (e.g. handball) then the ball enters the goal, the goal still counts if the referee had not stopped play. Read more about advantage [here](/advantage).
+
+Offenses that will nullify a goal:
 
 > If the ball becomes defective:
 > - play is stopped and
@@ -74,6 +68,9 @@ Offenses that will nullify a goal.
 > - Law 9.1 - Ball out of play
 
 - [No goal. The ball touches a match official then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
+
+> A player whose footwear or shinguard is lost accidentally must replace it as soon as possible and no later than when the ball next goes out of play; if before doing so the player plays the ball and/or scores a goal, the goal is awarded.
+> - Law 4.2 Compulsory equipment
 
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal. 
 > - Law 13.1 - Types of free kick
@@ -106,15 +103,10 @@ If the ball goes into the goal but deflected off someone that enters the field o
 
 - [TODO - Super rare situation above. Does anyone have a video of it happening - send it in]
 
-## No footwear or shinguards
-
-> A player whose footwear or shinguard is lost accidentally must replace it as soon as possible and no later than when the ball next goes out of play; if before doing so the player plays the ball and/or scores a goal, the goal is awarded.
-> 
-> Law 4.2 Compulsory equipment
 
 ## Goal signal
 
-Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle to stop play only for a goal that is not clear.
+Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle for a goal when the ball appears still to be in play.
 
 Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
 
