@@ -70,7 +70,7 @@ For DOGSO in the penalty area, assume that the defender is going for the ball un
 
 The referee always penalizes the more serious offense if multipe occur at the same time. Read more about two offenses at once in the [restarts section](/restarts). If a player SPA and advantage is played (no card) but also simultaneously commits a reckless foul, persistent offenses, or lack of respect of the game (e.g. blatant two-hand holded), the referee still shows the yellow card since its the more serious offense.
 
-## Comparison Table
+## Summary table
 
 No advantage played:
 
@@ -88,4 +88,4 @@ Advantage played:
 
 
 
-\* Goalkeeper handling offense in their own penalty area is no card unless other offense
+\* Goalkeeper handling offense in their own penalty area is no card unless also double touch from a restart
