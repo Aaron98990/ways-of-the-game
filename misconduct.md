@@ -135,6 +135,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
 - Provocative or Personal Comments
+  - "What the hell/fuck. That's bullshit/horseshit."
   - “Referee, are you blind/asleep/dumb? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
   - "My grandma could do better." / The AR could ref better.
@@ -171,7 +172,8 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - gesture the wearing of spectacles
 - invading a match official's personal space
 - surrounding a match official (don't bother explaining anything if there are more than two people from the same team)
-- a player being held back from a match offical but continues disagreeing
+- a player being held but continues disagreeing
+- unnesessairly touching a match official to get their attention
 - Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [Example 2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
@@ -353,10 +355,10 @@ This section applies to a player, substitute or substituted player.
 
 - Threatening/wishing violence or injury to another person
   - "I'll fuck you up"
-- Bringing up one's family or one's role in a family
+- Inappropiately bringing up one's family or one's role in a family
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
 - Insulting the referee or any another person
-  - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt."
+  - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt/bitch/pussy."
   - "* you" - "Fuck you"
 
 
