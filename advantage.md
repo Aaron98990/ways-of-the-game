@@ -78,26 +78,20 @@ There may be instance where a player commits two cautionable offenses in close p
 - [A player commits unsporting behavior by impeding the throw-in. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://www.youtube.com/watch?v=VpEhnyG_WWc)
 - [A player makes a reckless challenge on an opponent. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://youtu.be/P1jELHaraJs)
 
-A common example of a player committing two offenses at the same time:
-- Stopping a Promising Attack outside the penalty area
-- Unsporting behavior / Reckless
-
-Although the player committed more than one offense, the sanction (caution) and restart (direct free kick) are the same but reckless behavior is considered to have more "physical severity" and therefore will only be shown one caution for for reckless behavior.
+### Multiple offenses at once
 
 > punishes the more serious offense, in terms of sanction, restart, physical severity and tactical impact, when more than one offense occurs at the same time
 > - Law 5.3 Powers and duties
 
-The "(unless as outline below)" enumerates the law above. DOGSO, serious foul play, biting or spitting at someone have the same sanction (send-off) and restart (direct free kick) but serious foul play, biting or spitting at someone, and violent conduct have more "physical severity" than DOGSO and therefore on the referee's match report - the incident will be reported only as the more serious offense.
+A common example of a player committing two offenses at the same time:
+- Stopping a Promising Attack outside the penalty area
+- Unsporting behavior / Reckless
 
-> A player, substitute or substituted player who commits any of the following offenses is sent off:
-> - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
-> - serious foul play
-> - biting or spitting at someone
-> - violent conduct
+Although the player committed more than one offense, the sanction (caution) and restart (direct free kick) are the same but reckless behavior is considered to have more "physical severity" and therefore will only be shown one caution for reckless behavior.
 
 - [The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
 
-## Rare: Delaying the restart of play to show a card
+## Delaying the restart of play to show a card
 
 > Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered, unless the non-offending team takes a quick free kick, has a clear goal-scoring opportunity and the referee has not started the disciplinary sanction procedure. The sanction is administered at the next stoppage; if the offense was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned; if the offense interfered with or stopped a promising attack, the player is not cautioned. Law 12.3
 
