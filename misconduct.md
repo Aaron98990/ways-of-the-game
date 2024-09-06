@@ -83,11 +83,12 @@ Warnings are an important tool that is not technically misconduct. There are two
 Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
 - This is your only warning. (Don't tie yourself.)
-- This is the last play of the game. (Don't tie yourself.)
+- This is the last play of the game. (Don't tie yourself. Prefer to say less than a minute.)
 
 Things to say publically:
 - We don't do that here
 - Be smart / Use your head (often times accompanies by pointing to one's head)
+- Yo. Yo. Yo. Move on, fam.
 
 ## Cautions
 
