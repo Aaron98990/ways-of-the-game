@@ -1,13 +1,13 @@
 ["Football Rules" great summary of the Laws about goalkeepers.](https://footballrules.com/participants/goalkeepers)
 
-A goalkeeper is a fundamental part of the game. Each team must always have one goalkeeper. 
+Each team must always have one goalkeeper. 
 
 > A match is played by two teams, each with a maximum of eleven players; one must be the goalkeeper.
 > 3.1 Number of players
 
 ## Goalkeeper equipment
 
-Goalkeepers may wear caps. Any player, including goalkeepers, can wear gloves - there are no size restrictions on gloves.
+Goalkeepers may wear caps. Any player, including goalkeepers, can wear gloves - there are no size, color, or stickiness restrictions on gloves.
 
 > Goalkeepers may wear tracksuit bottoms.[...] Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
 > - Law 4
@@ -21,7 +21,7 @@ Goalkeepers must be distinguishable from other players and the match officials.
 
 ## Boxing out the goalkeeper
 
-On corner kicks, players stand in front of the goalkeeper to limit their movement and sight. This is allowed if no other offense is being committed. Referees should warn player doing this that they commit an offense if they move into the path of the goalkeeper.
+On corner kicks, players stand in front of the goalkeeper to limit their movement and sight. This is allowed if no other offense is being committed. Referees should warn player doing this that they commit an offense if they move into the path of the goalkeeper or hold them.
 
 > Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
 > 
@@ -83,13 +83,22 @@ If the offense involves contact with the goalkeeper, it is a direct free kick. E
 - [No foul - Goal. The goalkeeper's team-mate, not their opponent, challenges them for the ball](https://www.tiktok.com/t/ZPRW7n6RJ/)
 - [Foul + YC. The goalkeeper is recklessly kicked in the chest and the attacker made no attempt to pull out.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=5166)
 
-A goalkeeper cannot push an opponent with the ball while in control with the hand/arms else it's a penalty kick for the goalkeeper's opponents.
+<!-- A goalkeeper cannot push an opponent with the ball while in control with the hand/arms else it's a penalty kick for the goalkeeper's opponents - but generally this is retaliation for the first foul by the opposing team (e.g. impeding/charging) -->
 
 <!-- 1) If the goalkeeper either intentionally strikes
 an opponent by throwing the ball vigorously at him
 or pushes him with the ball while holding it, the
 referee shall award a penalty-kick, if the offence
 took place within the penalty-area . Laws of the Game 1990/91 -->
+
+### Approaching the goalkeeper when they are in control with hand/arm
+
+When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach or make contact with the goalkeeper. Referees must be firm on this - including using cautions or send-offs as these are bad-faith plays or using preventative refereeing.
+
+- [Example 1](https://youtu.be/_lqz14fMquo?feature=shared&t=60)
+- [Example 2](https://youtu.be/HS2DLCxfeYU?feature=shared&t=247)
+
+<!-- Just experienced this Sept 15, 2024 which led to a double red card. -->
 
 
 ## Releasing the ball
