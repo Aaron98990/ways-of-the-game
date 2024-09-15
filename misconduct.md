@@ -91,7 +91,7 @@ Things to say publically:
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 
-If you ask a player to come to you to card them - don't card them until they come over. If you ask a player to come to you to warn them but they don't, card them. 
+If you ask a player to come to you to card them - don't card them until they come over. If you ask a player to come to you to warn them but they don't, card them. [Funny Example.](https://www.youtube.com/watch?v=CZHZkJ7HzIE&ab_channel=FootballShorts)
 
 ## Cautions
 
