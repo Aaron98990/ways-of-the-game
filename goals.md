@@ -8,10 +8,11 @@
 > 
 > - Law 1.10 - Goals
 
-Be aware of both situations near a goal:
+Be aware of these situations near a goal:
 
 - The ball leaving/entering the nets through a hole
-- The match ball hitting the netting support (backpost), water bottle, ball or another object and returning to the field of play
+- The ball passing the goal line but hitting the netting support (backpost), water bottle, another ball or another object and returning to the field of play
+- The ball hitting the goal net or netting support (e.g. wheel) does not necessairly mean a goal has been scored
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
