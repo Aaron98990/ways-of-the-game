@@ -136,7 +136,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - players can't complain about every single call, esspecially trivial ones
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
-- Provocative or Personal Comments
+- Provocative/Condescending or Personal Comments
   - "What the hell/fuck. That's bullshit/horseshit."
   - “Referee, are you blind/asleep/dumb? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
@@ -151,9 +151,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - “Whose side are you on?” / “You hate us” / "How much did they pay you?"
 - For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
-- complaining about obvious fouls
-  - they are complaining in bad faith or showing willful ignorance
-- excessive complaining about changing a decision on advice of another match official / "overruling" the assistant referee
+- excessive complaining about changing a decision on advice of another match official or "overruling" the assistant referee
   - [Example 1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336) Strong referees have other match officials assist them but this often causes dissent. 
   - "You don't know what you're doing?"
 
