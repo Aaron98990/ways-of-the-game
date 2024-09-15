@@ -78,7 +78,7 @@ After a mass confrontation, separate the teams to their benches to avoid any sec
 
 ## Warnings
 
-Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. No one should be surprised when you give a caution - esspecially in situations that referees enforce differently. If you give a public warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
+Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a public warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
 
 Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
@@ -90,6 +90,8 @@ Things to say publically:
 - Be smart / Use your head / Dont do something stupid (often times accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
+
+If you ask a player to come to you to card them - don't card them until they come over. If you ask a player to come to you to warn them but they don't, card them. 
 
 ## Cautions
 
@@ -118,7 +120,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - jumping in frustration or the universal "what?" gesture with hand(s) out or hand(s) on the head
 - the person disagreeing gets the last word in
 - finger wagging or pointing to locations of missed percieved offenses
-- "The other team is getting more fouls than us"
+- "The other team is getting more fouls than us" / "That's the third time"
 
 
 Players give information on how they want the game called. Take it in sometimes. 
