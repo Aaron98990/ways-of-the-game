@@ -108,7 +108,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "You can overrule the linesman"
 - "That's a flop"
 - "That was outside the penalty area."
-- "No way that's a foul."
+- "No way that's a foul." / "That's not a foul as well?"
 - "What are you calling?"
 - "Where's the card?" or asking, not demanding for a card (the person wants the game called more tightly)
 - "Keep my players safe!" (the person wants the game called more tightly)
