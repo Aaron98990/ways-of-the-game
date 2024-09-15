@@ -87,8 +87,9 @@ Things to avoid saying publically:
 
 Things to say publically:
 - We don't do that here
-- Be smart / Use your head (often times accompanies by pointing to one's head)
+- Be smart / Use your head / Dont do something stupid (often times accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
+- No more (with baseball safe sign)
 
 ## Cautions
 
