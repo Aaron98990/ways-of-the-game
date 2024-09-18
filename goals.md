@@ -1,22 +1,20 @@
 ## About the goal
 
 > Goals (including portable goals) must be firmly secured to the ground.
-> 
-> - Law 1.10 - Goals
+> - Law 1.10 Goals
 
 > Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper. Law 1.10
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
 > The ball is in play [,,,] when it rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
-> 
-> Law 9.2 Ball in play
+> - Law 9.2 Ball in play
 
 ## Goal scored
 
 > A goal is scored when the whole of the ball passes over the goal line, between the goalposts and under the crossbar, provided that no offense has been committed by the team scoring the goal.
 > 
-> - Law 10.1 - Goal scored
+> - Law 10.1 Goal scored
 
 ![image](https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d)
 
@@ -36,7 +34,8 @@ The team the goal is awarded to is determined by the coin toss before the match.
 > - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
 > - the team that decided which goal to attack in the first half takes the kick-off to start the second half
 > - for the second half, the teams change ends and attack the opposite goals
-> - Law 8.1 Kick-off
+> 
+> Law 8.1 Kick-off
 
 
 ## Offenses
@@ -52,6 +51,7 @@ Laws that will nullify a goal:
 > If the ball becomes defective at a kick-off, goal kick, corner kick, free kick, penalty kick or throw-in, the restart is retaken.
 > 
 > If the ball becomes defective during a penalty kick or kicks from the penalty mark as it moves forward and before it touches a player, crossbar or goalposts the penalty kick is retaken.
+> - Law 2.2 Replacement of a defective ball
 
 > The ball is out of play when:
 > - it touches a match official, remains on the field of play and:
@@ -59,7 +59,8 @@ Laws that will nullify a goal:
 >   - the ball goes directly into the goal or
 >   - the team in possession of the ball changes
 > -  In all these cases, play is restarted with a dropped ball.
-> - Law 9.1 - Ball out of play
+>   
+> Law 9.1 Ball out of play
 
 - [No goal. The ball touches a match official then directly goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
@@ -67,16 +68,17 @@ Laws that will nullify a goal:
 > - Law 4.2 Compulsory equipment
 
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal. 
-> - Law 13.1 - Types of free kick
+> - Law 13.1 Types of free kick
 
 > It is an offense if a player:
 > - scores in the opponents’ goal:
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
 >   - immediately after the ball has touched their hand/arm, even if accidental
-> - Law 12.1 - Direct free kick
+>     
+>  Law 12.1 Direct free kick
 
 > If the goalkeeper throws the ball directly into the opponents’ goal, a goal kick is awarded.
-> - Law 10.1 - Goal scored
+> - Law 10.1 Goal scored
 
 In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
 
@@ -87,12 +89,11 @@ In addition to the above, the [restarts](/restarts) section covers restart offen
 > the referee must disallow the goal if the extra person was:
 > - a player, substitute, substituted player, sent-off player or team official of the team that scored the goal; play is restarted with a direct free kick from the position of the extra person
 > - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
-> - Law 3.9
+> - Law 3.9 Goal scored with an extra person on the field of play
 
 If the ball goes into the goal but deflected off an outside agent that enters the field of play to block the goal, the goal should generally stand.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
-> 
 > Law 3.7 Extra persons on the field of play
 
 - [TODO - Super rare situation above. Does anyone have a video of it happening - send it in]
@@ -101,9 +102,9 @@ If the ball goes into the goal but deflected off an outside agent that enters th
 
 ## Goal signal
 
-_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. I make no signal. The Guidelines for Match Officials recommends a whistle for a goal only when the ball appears still to be in play. 
+_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. Personally, I make no hand signal. _The Guidelines for Match Officials_ recommends a whistle for a goal only when the ball appears still to be in play. 
 
-_Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
+_Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kickoff but _The Guidelines for Match Officials_ offers guidance.
 
 > **Goal/no goal**
 > 
@@ -155,8 +156,7 @@ Most matches where the score is tied will in a tie. The only exception is where 
 > - two equal periods of extra time not exceeding 15 minutes each
 > - penalties (penalty shoot-out)
 >
-> A combination of the above procedures may be used.
-> Law 10.2 Winning team
+>  Law 10.2 Winning team
 
 > Away goals rule: goals scored away from home count double. Glossary
 
