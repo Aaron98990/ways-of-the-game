@@ -29,14 +29,14 @@ Generally, referees require that all four considerations to be met for DOGSO but
 
 DOGSO can be separated in three situations: 
 - denial of goal (the ball was going in the goal)
-- open goal (1 vs 0 - no goalkeeper) [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [Example 2](https://youtu.be/ymp9iw-18_I?feature=shared&t=226)
+- open goal (1 vs 0 - no goalkeeper/goalkeeper commited the offense) [Example 1](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [Example 2](https://youtu.be/ymp9iw-18_I?feature=shared&t=226)
 - defended goal (1 vs 1 - goalkeeper is there)
 
-In all cases, distance from goal should be considered and the player who commited the offense is not considered a defender for DOGSO purposes.
+The player who commited the offense is not considered a defender for DOGSO purposes.
 
 When there is an open goal, if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot/pass as in both cases they could pass the ball/defender) then it is DOGSO. 
 
-When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot/pass) and the attacker would of **_obviously_** have possession of the ball then it is DOGSO.*  [Not DOGSO](https://youtu.be/3wohxDXUZDc?feature=shared&t=8), [DOGSO](https://youtu.be/iLlZ61OyPPs?feature=shared&t=286)
+When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot/pass) and the attacker would of **_obviously_** have gotten possession of the ball then it is DOGSO.*  [Not DOGSO](https://youtu.be/3wohxDXUZDc?feature=shared&t=8), [DOGSO](https://youtu.be/iLlZ61OyPPs?feature=shared&t=286)
 
 ## Disciplinary Action
 
