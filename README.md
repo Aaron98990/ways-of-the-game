@@ -25,10 +25,14 @@ Helpful Unofficial Resources
 - [r/Referees - Reddit](http://reddit.com/r/referees)
 - [Refs Need Love Too - TikTok](https://www.tiktok.com/@refsneedlovetoo)
 
-Want to contribute:
+Want to contribute
 
 - Click the GitHub icon on the top-right and open an issue (for small fixes) or pull request (for large fixes) on GitHub. Read more [here](/CONTRIBUTING.md)
 
 !> Videos/articles linked may use older Laws (e.g. older terminology), use different rulebooks (e.g. one that allows two referees), or not be available in every country. Where the link's information/commentary and this site conflicts, follow this site. There may be many valid interpretations of the Law not listed.
 
 !> Long-term health impacts may occur with excessive contact to the head like with the ball, ground, goalpost, or another person. An excessively loud whistle or environment may cause ear ringing or hearing loss. 
+
+About me
+
+- I am Aaron Feleke and have been a soccer referee since 2013 in Houston, Texas and San Antonio, Texas (USA). For personal inquiries, message me in LinkedIn.
