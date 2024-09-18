@@ -4,27 +4,11 @@
 > 
 > - Law 1.10 - Goals
 
-> Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper.
-> 
-> - Law 1.10 - Goals
-
-Be aware of these situations near a goal:
-
-- The ball leaving/entering the nets through a hole
-- The ball passing the goal line but hitting the netting support (backpost), water bottle, another ball or another object and returning to the field of play
-- The ball hitting the goal net or netting support (e.g. wheel) does not necessairly mean a goal has been scored
-
-While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
-
-- [Goal. The ball exits net through hole. It is not any match official's responsibility to fix holes but can inform teams to fix.](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
-- [No goal. The ball enters the nets through a hole.](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports)
-
+> Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper. Law 1.10
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
-Many shots will hit the crossbar or goalpost and remain in play.
-
-> The ball is in play [,,,] when [the ball] rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
+> The ball is in play [,,,] when it rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
 > 
 > Law 9.2 Ball in play
 
@@ -37,6 +21,14 @@ Many shots will hit the crossbar or goalpost and remain in play.
 ![image](https://github.com/Aaron98990/ways-of-the-game/assets/45950113/0894ab34-dc35-4b54-88d9-aba8694f795d)
 
 Seeing green grass under the ball does not mean a goal has been scored. 
+
+Be aware of these situations near a goal:
+
+- The ball leaving/entering the nets through a hole [Example 1](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports), [Example 2](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
+- The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play
+- The ball hitting the goal net or goal/netting support (e.g. wheel) inside the goal but not completely crossing the goal line
+
+While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
 The team the goal is awarded to is determined by the coin toss before the match.
 
@@ -51,7 +43,7 @@ The team the goal is awarded to is determined by the coin toss before the match.
 
 If the defense commits an offense (e.g. handball) then the ball enters the goal, the goal still counts if the referee had not stopped play. Read more about advantage [here](/advantage).
 
-Offenses that will nullify a goal:
+Laws that will nullify a goal:
 
 > If the ball becomes defective:
 > - play is stopped and
@@ -64,11 +56,12 @@ Offenses that will nullify a goal:
 > The ball is out of play when:
 > - it touches a match official, remains on the field of play and:
 >   - a team starts a promising attack or
->   - the ball goes directly into the goal
+>   - the ball goes directly into the goal or
+>   - the team in possession of the ball changes
 > -  In all these cases, play is restarted with a dropped ball.
 > - Law 9.1 - Ball out of play
 
-- [No goal. The ball touches a match official then goes into the goal](https://youtu.be/MhWyCGQ9HDU)
+- [No goal. The ball touches a match official then directly goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
 > A player whose footwear or shinguard is lost accidentally must replace it as soon as possible and no later than when the ball next goes out of play; if before doing so the player plays the ball and/or scores a goal, the goal is awarded.
 > - Law 4.2 Compulsory equipment
@@ -96,7 +89,7 @@ In addition to the above, the [restarts](/restarts) section covers restart offen
 > - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
 > - Law 3.9
 
-If the ball goes into the goal but deflected off someone that enters the field of play to block the goal, the goal should generally stand.
+If the ball goes into the goal but deflected off an outside agent that enters the field of play to block the goal, the goal should generally stand.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > 
@@ -104,12 +97,13 @@ If the ball goes into the goal but deflected off someone that enters the field o
 
 - [TODO - Super rare situation above. Does anyone have a video of it happening - send it in]
 
+> If, after a goal is scored and play has restarted, the referee realises an extra person was on the field of play when the goal was scored, the goal cannot be disallowed. [..] The referee must report the incident to the appropriate authorities. Law 3.7
 
 ## Goal signal
 
-Law 5.6 - Referee signals does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. The Guidelines for Match Officials recommends a whistle for a goal when the ball appears still to be in play.
+_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. I make no signal. The Guidelines for Match Officials recommends a whistle for a goal only when the ball appears still to be in play. 
 
-Law 6.6 - Assistant referee signals does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
+_Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kickoff but the Guidelines for Match Officials offers guidance.
 
 > **Goal/no goal**
 > 
