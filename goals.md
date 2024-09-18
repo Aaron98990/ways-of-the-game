@@ -7,6 +7,8 @@
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
+- [Example 1](https://www.tiktok.com/t/ZTF2U74Jy/)
+
 > The ball is in play [,,,] when it rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
 > - Law 9.2 Ball in play
 
