@@ -93,10 +93,11 @@ took place within the penalty-area . Laws of the Game 1990/91 -->
 
 ### Approaching the goalkeeper when they are in control with hand/arm
 
-When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach or make contact with the goalkeeper. Referees must be firm on this - including using cautions or send-offs as these are bad-faith plays or using preventative refereeing.
+When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach or make contact with the goalkeeper. Referees must be firm on this - including using cautions or send-offs as these are bad-faith plays or using preventative refereeing. If the goaleeper retailates, the first foul is called. 
 
 - [Example 1](https://youtu.be/_lqz14fMquo?feature=shared&t=60)
 - [Example 2](https://youtu.be/HS2DLCxfeYU?feature=shared&t=247)
+- [Example 3](https://www.tiktok.com/t/ZTF2y5CAR/)
 
 <!-- Just experienced this Sept 15, 2024 which led to a double red card. -->
 
