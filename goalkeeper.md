@@ -158,7 +158,7 @@ If there is any doubt in the referee's mind, it should not be called. These woul
 - the ball was kicked to by an opponent
   - [No offense. The goalkeeper can still pick the ball up after kicking it around since it came from an opponent.](https://youtu.be/kFkFtgqXiO4?t=726) 
 
-The "backpass" law gives an exception: "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play". Please note an attempt to kick the ball to continue dribbling (and not releasing it to play) does not meet the exception.
+The "backpass" law gives an exception: "the goalkeeper has clearly kicked or attempted to kick the ball to release it into play". Please note an attempt to kick the ball to continue dribbling (and not releasing it to play) does not meet the exception. Also, an attempt to throw the ball does not meet the exception.
 - [No offense. Goalkeeper attempts to kick the ball to release the ball into play. Therefore, they can pick up the ball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=194)
 
 ## Circumventing the "backpass" Law
