@@ -111,7 +111,7 @@ If goalkeeper commits a handball offense (as discussed in the [goalkeeper sectio
 - Otherwise, if the handball offense had tactical impact, the proper sanction is talked about in the [tactical impact section](/tactical-impact).
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
-> - [deliberately] handles the ball in an attempt to score a goal (whether or not the attempt is successful)
+> - handles the ball in an attempt to score a goal (whether or not the attempt is successful)
 > 
 > Law 12
 
