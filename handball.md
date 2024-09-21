@@ -77,16 +77,16 @@ Defenders only: When a defender falls and the hand (and not any other part of ar
 - Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
 - The entire arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
-Defenders only: A defender attempting to or is near a player attempting to head the ball that was last deliberately played (not deflected) not closeby but the ball contacts their hand/arm is not unnaturally bigger.
-- The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3)
+Defenders only: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders.
+- The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3) / [Not Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [Not Handball.](https://www.youtube.com/watch?v=E4a3ibwKnoM)
+- The defender is attempting to head the ball. [Not handball](https://youtu.be/vmis513lhSY?feature=shared&t=230)
 - Remember an attacker gets no special exceptions if the hand/arm is bigger. [Handball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
-- The ball is deliberately played closeby. [Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [Handball.](https://www.youtube.com/watch?v=E4a3ibwKnoM)
 
-Defenders only: The ball hitting the hans/arm after a deflection from anyone (including oneself) does not negate a defender being unnaturally bigger and stopping the ball from going past them.
-- There is minimal benefit from the hand/arm as the ball already changed direction and would not go past the defender [No handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
+Defenders only: The ball hitting the hands/arm after a deflection from anyone (including oneself) does not negate a defender being unnaturally bigger and stopping the ball from going past them.
+- There is minimal benefit from the hand/arm as the ball already changed direction after a deflection and would not go past the defender [No handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346)
 - The ball would have passed the defender if the hand/arm has not interfered. [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421) / [Handball.](https://www.youtube.com/shorts/_6hqiU4lqPM) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 
-Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even if the hand/arm may be considered unnaturally bigger in other cases, is not considered unnaturally bigger.
+Defenders only: A defender clearing or deliberately saving the ball into their own hand/arm or a team-mate's hand/arm, even when their arms are above their head or away from the body, is not considered unnaturally bigger.
 - Not handball. The defender clears the ball into their own hand/arm. [Example 1.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Example 2.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Example 3.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153)
 - Not handball. The defender clears the ball into their team-mates hand/arm. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454) / [Example 2](https://youtu.be/h_M-c9ZeJ8g?feature=shared&t=68)
 
