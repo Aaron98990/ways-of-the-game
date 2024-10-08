@@ -1,9 +1,9 @@
 > It is not an offence to be in an offside position.
 
 Offside offense:
-- Offside position when the ball is touched by a team-mate and
+- **Offside position** when the ball is touched by a team-mate and
 - ball not directly from goal kick, throw-in, or corner kick and
-- becoming involved in active play
+- becoming involved in **active play**
 
 Offside position:
 - in opponent's half of the field and
