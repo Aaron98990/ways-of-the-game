@@ -118,7 +118,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "Keep my players safe!" (the person wants the game called more tightly)
 - "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
-- jumping in frustration or the universal "what?" gesture with hand(s) out or hand(s) on the head
+- jumping in frustration or the universal "what?" gesture with hand(s) out, up, or on the heaed
 - the person disagreeing gets the last word in
 - finger wagging or pointing to locations of missed percieved offenses
 - "The other team is getting more fouls than us" / "That's the third time"
@@ -134,9 +134,9 @@ Obviously, game temperature or the accumulation of small things can lead for the
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
-- Yelling at a match official, especially at close distance [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
+- Yelling at a match official, especially at close distance or at an assistant referee [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
 - Continuous, prolonged, persistent complaining
-  - players can't complain about every single call, esspecially trivial ones
+  - players can't complain about every single call, esspecially trivial or obvious ones
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
 - Provocative/Condescending or Personal Comments
@@ -178,7 +178,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - gesture the wearing of spectacles
 - invading a match official's personal space
 - surrounding a match official (don't bother explaining anything if there are more than two people from the same team)
-- a player being held but continues disagreeing
+- a player being held back but continues disagreeing
 - unnesessairly touching a match official to get their attention
 - Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [Example 2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
