@@ -34,7 +34,7 @@ This distinction matters as competitions generally will suspend players for more
 
 ## Strikes at
 
-Striking with the hand/arm is one of the most serious offenses in the game (elbowing, punching, slapping, clotheslining, stamping someone's face to the ground, choking, lifting someone, throwing someone to the ground/body slam, hair pulling) There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
+Striking with the hand/arm is one of the most serious offenses in the game (elbowing, punching, slapping, clotheslining, stamping someone's face to the ground, choking, eye poking, lifting someone, throwing someone to the ground/body slam, hair pulling) There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
 Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind).
@@ -67,7 +67,7 @@ Studs on any body part except the foot that is not glancing should be excessive 
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
 Studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
-- [Serious Foul Play 1](https://www.youtube.com/shorts/tad64vUazbM)
+- [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM), [Serious Foul Play 1](https://youtu.be/CP5o_bPAYrg?feature=shared&t=751)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
@@ -84,8 +84,8 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
 - [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play 3](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
-A slide tackle with high intensity that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground.
-- [Serious Foul Play 1](https://www.youtube.com/watch?v=pR8DROokqqM&ab_channel=gameagain1)
+A tackle/stomp with high intensity or that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground.
+- [Serious Foul Play 1](https://www.youtube.com/watch?v=pR8DROokqqM&ab_channel=gameagain1) / [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force it's violent conduct
 - [Violent Conduct 1](https://youtu.be/ayKcck441n8?feature=shared&t=88), [Violent Conduct 2](https://youtu.be/gnfbhoNlAKw?t=107)
