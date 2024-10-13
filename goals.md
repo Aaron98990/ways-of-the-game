@@ -93,7 +93,7 @@ In addition to the above, the [restarts](/restarts) section covers restart offen
 > - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
 > - Law 3.9 Goal scored with an extra person on the field of play
 
-If the ball goes into the goal but deflected off an outside agent that enters the field of play to block the goal, the goal should generally stand.
+If the ball goes into the goal but deflected off an outside agent or defending teams non-player that enters the field of play to block the goal, the goal should generally stand.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > Law 3.7 Extra persons on the field of play
@@ -125,7 +125,7 @@ _Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kick
 
 It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. 
 
-- [The referee should of been present to stop the players from fighting for the ball.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s)
+- [Should be double yellow card.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s), [Should be double yellow card](https://youtu.be/ArwmdgVJHVU?feature=shared&t=331)
 
 The Laws do talk also talk about goal celebrations.
 
