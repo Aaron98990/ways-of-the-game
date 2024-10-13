@@ -110,7 +110,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 Simply disagreeing with the referee or stating an opinion or fact or having a short and immediate frustration burst at the call/non-call is not in itself dissent:
 
 - "You can overrule the linesman"
-- "That's a flop" / "All ball"
+- "That's a flop" / "All ball" / "50/50"
 - "That was outside the penalty area."
 - "No way that's a foul." / "That's not a foul as well?"
 - "What are you calling?"
