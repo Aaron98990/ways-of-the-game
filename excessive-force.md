@@ -67,7 +67,7 @@ Studs on any body part except the foot that is not glancing should be excessive 
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
 Studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
-- [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM), [Serious Foul Play 1](https://youtu.be/CP5o_bPAYrg?feature=shared&t=751)
+- [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM), [Serious Foul Play 1](https://youtu.be/CP5o_bPAYrg?feature=shared&t=751), [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
