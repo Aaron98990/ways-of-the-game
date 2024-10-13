@@ -83,7 +83,8 @@ Warnings are an important tool that is not technically misconduct. There are two
 Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
 - This is your only warning. (Don't tie yourself.)
-- This is the last play of the game. (Don't tie yourself. Prefer to say less than a minute.)
+- This is the last play of the game / The game is over when the ball is cleared. (Don't tie yourself. Prefer to say less than a minute.)
+- In the pre-game and during the game: Do not tell players how you are going to call the game and what you are going to call and not call. Just do it.
 
 Things to say publically:
 - We don't do that here
@@ -345,13 +346,13 @@ This section applies to a player, substitute or substituted player.
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
-  - [Writeup ](/mobbing)
+  - [Writeup](/mobbing)
 - an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
 - Grabbing an someone's shirt and pulling them to your face is an abusive action. 
   - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - Standing on top of a player on the ground
   - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
-- includes sexual physical actions towards another person that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down, non-consensual slapping an opponent's butt, or non-consensual kissing an opponent (these may even be considered violent conduct)
+- includes physical actions towards another person that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down.
 
 
 ### **Language**
@@ -381,8 +382,6 @@ For any remark above: think if it was public or private and how it's delivered. 
 
 > - receiving a second caution in the same match
 
-Do yourself a favor and don't make excuses for a player. If you would have carded them if they have no yellow cards, card them if they already have a yellow card.
-
 ### **Other offenses**
 
 - denying the opposing team a goal or an obvious goal-scoring opportunity by committing a deliberate handball offence (except a goalkeeper within their penalty area)
@@ -402,7 +401,7 @@ Do yourself a favor and don't make excuses for a player. If you would have carde
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
-Many times, competition rules will require them to be out-of-sight and out-of-sound. **Other than the senior team coach, all team people from the technical area are on a short leash and any offense or misconduct should be dealt with strictly.**
+Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound. **Other than the senior team coach, all people in the technical area are on a short leash and any misconduct should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
