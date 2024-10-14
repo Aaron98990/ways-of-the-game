@@ -69,7 +69,7 @@ Until the ball is in play:
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
 - For free kicks in the opponents' penalty area and all goal kicks, opponents must remain out of the opponents' penalty area
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
-- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty spot, and 10 yards from the penalty mark. 
+- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty mark, and 10 yards from the penalty mark. 
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
 
@@ -118,7 +118,7 @@ Time-wasting often falls into this category. The referee must be aware that in c
 - [The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
 - [The player provokes a confrontation by holding onto the ball. The player should be cautioned.](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 
-The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called or the losing team wasting their own time). 
+The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called when in/near the penalty area or the losing team wasting their own time). 
 
 ## Failure to respect distance
 
