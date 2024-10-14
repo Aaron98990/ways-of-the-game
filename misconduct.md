@@ -1,4 +1,4 @@
-Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/excessive-force) and [tactical impact (SPA and DOGSO)](/tactical-impact) are broken out of the misconduct section because of the importance of the topics. Misconduct, disciplinary action, disciplinary sanction, sanction, caution/send-off, and yellow/red card all mean the same thing.
+Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/excessive-force) and [tactical impact (SPA and DOGSO)](/tactical-impact) are broken out of the misconduct section because of the importance of the topics. Misconduct, disciplinary action, disciplinary sanction, sanction, warning/caution/send-off, and warning/yellow/red card all generally mean the same thing.
 
 > The yellow card communicates a caution and the red card communicates a sending-off.
 > 
@@ -267,7 +267,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - clapping or signaling the score in an opponent's face
   - imitating, mocking, or celebrating near an opponent
   - doing push ups over the ball or sitting on the ball
-  - trash talking (talking about being gay/straight or someone's appearance, skill, or equipment)
+  - trash talking (talking about being gay/straight or someone's appearance, height, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - blatantly commiting an offfense
@@ -360,7 +360,7 @@ This section applies to a player, substitute or substituted player.
 
 > - using offensive, insulting or abusive language and/or action(s)
 
-- Threatening/wishing violence or injury to another person
+- Threatening/wishing violence or injury to another person or damage or loss of property
   - "I'll fuck you up"
 - Inappropiately bringing up one's family or one's role in a family
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
