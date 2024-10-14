@@ -1,4 +1,4 @@
-Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/excessive-force) and [tactical impact (SPA and DOGSO)](/tactical-impact) are broken out of the misconduct section because of the importance of the topics. 
+Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/excessive-force) and [tactical impact (SPA and DOGSO)](/tactical-impact) are broken out of the misconduct section because of the importance of the topics. Misconduct, disciplinary action, disciplinary sanction, sanction, caution/send-off, and yellow/red card all mean the same thing.
 
 > The yellow card communicates a caution and the red card communicates a sending-off.
 > 
