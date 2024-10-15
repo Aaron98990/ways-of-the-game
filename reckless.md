@@ -51,7 +51,7 @@ Make sure to watch the kicker lands their feet esspecially when kicking or tackl
 Another important point to think about is where and when the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) or in a blowout game is not needed and has limited benefit. Use your judgement and game managment skills. 
 - [Defensive third slide tackle.](https://youtu.be/yueTdu0S_Js?feature=shared&t=1016)
 
-Kick above the knee
+Kick above the knee or kicking someone's leg from behind when they're running
 - [Example 1](https://youtu.be/CP5o_bPAYrg?feature=shared&t=751)
 
 ## Jumps at / charge / push / trip
