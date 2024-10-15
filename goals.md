@@ -60,7 +60,7 @@ Laws that will nullify a goal:
 >   - a team starts a promising attack or
 >   - the ball goes directly into the goal or
 >   - the team in possession of the ball changes
-> -  In all these cases, play is restarted with a dropped ball.
+> - In all these cases, play is restarted with a dropped ball.
 >   
 > Law 9.1 Ball out of play
 
@@ -77,12 +77,14 @@ Laws that will nullify a goal:
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
 >   - immediately after the ball has touched their hand/arm, even if accidental
 >     
->  Law 12.1 Direct free kick
+> - Law 12.1 Direct free kick
 
 > If the goalkeeper throws the ball directly into the opponents’ goal, a goal kick is awarded.
 > - Law 10.1 Goal scored
 
-In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
+> If a referee signals a goal before the ball has passed wholly over the goal line, play is restarted with a dropped ball. Law 10.1
+
+In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball, the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
 
 ## Goal after interference
 
@@ -93,7 +95,7 @@ In addition to the above, the [restarts](/restarts) section covers restart offen
 > - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
 > - Law 3.9 Goal scored with an extra person on the field of play
 
-If the ball goes into the goal but deflected off a spectator that enters the field of play to block the goal, the goal should generally stand. If it's an animal or any other type of outside agent, it's a dropped ball.
+If the ball goes into the goal but the ball touched a spectator or ball kid that enters the field of play to block the goal, the goal should generally stand. If it's an animal or object that the ball touched, it's a dropped ball.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > Law 3.7 Extra persons on the field of play
@@ -158,7 +160,7 @@ Most matches where the score is tied will in a tie. The only exception is where 
 > - two equal periods of extra time not exceeding 15 minutes each
 > - penalties (penalty shoot-out)
 >
->  Law 10.2 Winning team
+> - Law 10.2 Winning team
 
 > Away goals rule: goals scored away from home count double. Glossary
 
