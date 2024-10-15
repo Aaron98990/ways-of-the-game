@@ -93,7 +93,7 @@ In addition to the above, the [restarts](/restarts) section covers restart offen
 > - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
 > - Law 3.9 Goal scored with an extra person on the field of play
 
-If the ball goes into the goal but deflected off an outside agent or defending teams non-player that enters the field of play to block the goal, the goal should generally stand.
+If the ball goes into the goal but deflected off a spectator that enters the field of play to block the goal, the goal should generally stand. If it's an animal or any other type of outside agent, it's a dropped ball.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > Law 3.7 Extra persons on the field of play
