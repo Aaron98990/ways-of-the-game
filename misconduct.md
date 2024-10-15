@@ -408,7 +408,7 @@ For any remark above: think if it was public or private and how it's delivered. 
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
-Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound. **Other than the senior team coach, all people in the technical area are on a short leash and any misconduct should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
+Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound. **Other than the senior team coach second caution, all misconduct by people in the technical area should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
