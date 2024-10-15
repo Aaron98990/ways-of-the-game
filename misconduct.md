@@ -92,7 +92,13 @@ Things to say publically:
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 
-If you ask a player to come to you to card them - don't card them until they come over. If you ask a player to come to you to warn them but they don't, card them. [Funny Example.](https://www.youtube.com/watch?v=CZHZkJ7HzIE&ab_channel=FootballShorts)
+If you ask a player to come to you to caution them, tell them "come here" then:
+- don't card them until they come over or
+- if they don't come, go to them and show only the YC
+
+If you ask a player to come to you to warn them but they don't:
+- go to them and show only the YC
+- [Funny Example.](https://www.youtube.com/watch?v=CZHZkJ7HzIE&ab_channel=FootballShorts)
 
 ## Cautions
 
@@ -348,7 +354,7 @@ This section applies to a player, substitute or substituted player.
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup](/mobbing)
-- an abusive gesture made without touching another person (e.g. middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
+- an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
 - Grabbing an someone's shirt and pulling them to your face is an abusive action. 
   - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - Standing on top of a player on the ground
