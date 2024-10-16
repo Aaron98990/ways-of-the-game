@@ -25,12 +25,11 @@ The goalkeeper releasing the ball after control with the hand/arms is not a rest
 ## Position of restart
 
 The restart is taken at the position the offense requires or where the ball left the field of play except:
-- Goal kicks can be taken any where in the defending team's goal area 
 - Corner kicks can be taken any where in the corner area nearest to the point where the ball passed over the goal line
     - the corner flagpost must not be moved
-- indirect free kicks to the attacking team for an offense inside the opponents’ goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
-- free kicks to the defending team in their goal area may be taken from anywhere in that area
-- direct free kick offenses by the defender in the opponent's penalty area are a penalty kick taken at the penalty spot
+- indirect free kicks for attackers in their oponent's goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
+- free kicks going out in goal area or goal kicks may be taken from anywhere in the goal area
+- direct free kick for attackers in their oponent's penalty area are a penalty kick (taken at the penalty mark)
 - The ball is dropped for the defending team goalkeeper anywhere in their penalty area if, when play was stopped when the ball was in the penalty area or the last touch of the ball was in the penalty area
     - In all other cases, the referee drops the ball for **one player** of the team that last touched the ball at the position where it last touched a player, an outside agent or, as outlined in Law 9.1, a match official 
 
@@ -50,11 +49,12 @@ Feinting is allowed on all restarts except one scenario during a penalty kick: "
     - have part of each foot on the touchline or on the ground outside the touchline
         - both feet can be on the field of play as long part of each foot is touching the touchline
      - throw the ball with both hands from behind and over the head from the point where it left the field of play
+         - no offense in itself if the ball curves or one hand only guides the ball
 - For a dropped a ball, the ball is when it directly touches the ground on the field of play after being dropped. 
 
 > Kick: The ball is kicked when a player makes contact with it with the foot and/or the ankle. Glossary
 
-If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play. 
+If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play and because I hate the trick corner kick play.
 - [The ball does not clearly move. The restart should of been retaken. ](https://youtu.be/-FqA3g7-PTs)
 - [The ball clearly moves (in my opinion) as even the opponent recognizes it. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
 
@@ -63,13 +63,13 @@ If a player taps the ball with the bottom of their boot, that is a kick. Now, "c
 Until the ball is in play:
 - For dropped balls, all other players except the one who the ball is dropped to (of both teams) must remain at least 4 m (4.5 yds) from the ball
 - For kick-offs, all players, except the player taking the kick-off, must be in their own half of the field of play. 
-- For free kicks, kick-offs all opponents must remain 10 yards from the ball
+- For free kicks and kick-offs all opponents must remain 10 yards from the ball
     - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
 - For corner kicks, oppenents must stand 10 yards from the corner arc
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
-- For free kicks in the opponents' penalty area and all goal kicks, opponents must remain out of the opponents' penalty area
+- For free kicks going out and all goal kicks, opponents must remain outside the penalty area the restart is taken from
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
-- For penalty kicks, the goalkeeper must have part of both feet in line or behind the goal line. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty mark, and 10 yards from the penalty mark. 
+- For penalty kicks, the goalkeeper must have part of one foot in line or behind the goal line when the ball is kicked. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty mark, and 10 yards from the penalty mark.
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
 
@@ -80,8 +80,11 @@ Until the ball is in play:
 > If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. 
 
 Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play else its a retake. 
-- "After the players have taken positions in accordance with this Law, the referee signals for the penalty kick to be taken."
-- "For every kick-off: the referee gives a signal"
+
+> After the players have taken positions in accordance with this Law, the referee signals for the penalty kick to be taken. Law 14
+
+
+> For every kick-off: the referee gives a signal Law 8
 
 If the referee measures distance on a free kick or wants to restart play from a card, sub, or injury (or any other extended break like a cooling/drinks "water" break), the whistle should be used. 
 
@@ -128,15 +131,14 @@ The referee channel has a list of 21 videos of examples of this that are availab
 
 ## Double touch by restart taker
 
-For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player else its an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule.
+For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player else its an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule. Read more in the "two offenses at once" section
 
-"the [kicker/thrower must] not touch the ball again until it has touched another player"
 - [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
 - [Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
 
 "A free kick can be taken by lifting the ball with a foot or both feet simultaneously" - this applies to any restart that is kicked
 
-For dropped balls, the player can start dribbing the ball as the ball is in play.
+For dropped balls, any player can start dribbing the ball as the ball is in play.
 
 ## Two touches before opponent's goal
 
@@ -154,7 +156,7 @@ Dropped ball follows the same idea as above - except it also applies if only one
 
 ## Striking the ball at an opponent
 
-Deliberately throwing (from a throw-in) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play. Striking or attempting to strike an opponent is a direct free kick offense.
+Deliberately throwing (from a throw-in) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play else it's a direct free kick for striking.
 
 > If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
 
@@ -174,12 +176,15 @@ On corner kicks, players like to stand in front of goalkeepers to limit their mo
 
 ## Indirect Free Kick
 
-Only direct free kick offenses may lead to a penalty kick. Some players call indirect free kicks "two touches" because it requires a touch from two different players.
+Only direct free kick offenses may lead to a penalty kick. Indirect free kicks can occur in the opponent's penalty area and if they do and the ball is closer than 10 yards from the goal line, defenders can stand on the goal line. Some players call indirect free kicks "two touches" because it requires a touch from two different players before entering the opponent's goal else it's a goal kick. Most indirect free kick offenses are covered [here](https://www.theifab.com/laws/latest/fouls-and-misconduct/#indirect-free-kick) but the most common indirect free kick offnese is offside.
 
 > The referee indicates an indirect free kick by raising the arm above the head; this signal is maintained until the kick has been taken and the ball touches another player, goes out of play or it is clear that a goal cannot be scored directly.
 > - Law 13 Free Kicks
 
-"Until the ball is in play, all opponents must remain: at least 9.15 m (10 yds) from the ball, unless they are on their own goal line between the goalposts"
+> if an indirect free kick is kicked directly into the opponents’ goal, a goal kick is awarded Law 13
+
+> Until the ball is in play, all opponents must remain: at least 9.15 m (10 yds) from the ball, unless they are on their own goal line between the goalposts. Law 13
+
 - [Example 1: The referee has their hand up. All opponents are on the goal line between the goalposts since they are less than 10 yds from the ball.](https://youtu.be/57Gs6vLMnvU?t=25)
 - [Example 2: The referee has their hand up. All opponents are on the goal line between the goalposts since they are less than 10 yds from the ball.](https://www.youtube.com/watch?v=ARC-zVHgsA8)
 
