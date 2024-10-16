@@ -92,12 +92,13 @@ Things to say publically:
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 
-If you ask a player to come to you to caution them, tell them "come here" then:
+(Private) If you ask a player to come to you to caution them, tell them "come here" without mentioning the YC then:
 - don't card them until they come over or
-- if they don't come, go to them and show only the YC
+- if they don't come, go to them and show only the YC or
+- if you think it's not enough to be a second YC, ask them if they have been cautioned already before making a decision
 
-If you ask a player to come to you to warn them but they don't:
-- go to them and show only the YC
+(Privatee) If you ask a player to come to you to warn them, tell them "come here" without mentioning it's a warning. If they don't come:
+- go to them and show the YC
 - [Funny Example.](https://www.youtube.com/watch?v=CZHZkJ7HzIE&ab_channel=FootballShorts)
 
 ## Cautions
@@ -116,7 +117,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 Simply disagreeing with the referee or stating an opinion or fact or having a short and immediate frustration burst at the call/non-call is not in itself dissent:
 
 - "You can overrule the linesman"
-- "That's a flop" / "All ball" / "50/50"
+- "That's a flop" / "All ball" / "50/50" / "Shoulder to shoulder"
 - "That was outside the penalty area."
 - "No way that's a foul." / "That's not a foul as well?"
 - "What are you calling?"
@@ -254,14 +255,13 @@ This is known as the flop. A player can be cautioned for this whether or not con
 - [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 - [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
 
-PRO writes about with three video examples [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
+Things to look out for:
 
-Usual acts of simulation or embellishment include:
-
-- exaggerating the effect of a normal contact challenge
-- intentionally moving his leg towards his opponent to make it appear that he has been tripped
-- falling to the ground when the contact between him and the opponent was not sufficient to cause the fall
-- Falling in an overly dramatic manner designed to attract the referee’s attention
+- intentionally moving their leg towards the opponent to make it appear that they have been tripped
+- falling to the ground when there is no or minimal contact
+- exsive screaming, yelling, rolling, and other theatrics, even if they have been fouled
+- holding a body part (e.g. head or neck) where no or minimal contact is made
+- clearly faking an injury to waste time 
 
 #### **Lack of respect for the game**
 
@@ -272,7 +272,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - stepping over or staring down an opponent
   - clapping or signaling the score in an opponent's face
   - imitating, mocking, or celebrating near an opponent
-  - doing push ups over the ball or sitting on the ball
+  - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's appearance, height, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
