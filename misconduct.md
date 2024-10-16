@@ -92,12 +92,13 @@ Things to say publically:
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 
-(Private) If you ask a player to come to you to caution them, tell them "come here" without mentioning the YC then:
+(Private 1v1) If you ask a player to come to you to caution them, tell them "come here" without mentioning the YC then:
 - don't card them until they come over or
 - if they don't come, go to them and show only the YC or
 - if you think it's not enough to be a second YC, ask them if they have been cautioned already before making a decision
+- if another player joins the 1v1 and they stay after warning, show the YC
 
-(Privatee) If you ask a player to come to you to warn them, tell them "come here" without mentioning it's a warning. If they don't come:
+(Private 1v1) If you ask a player to come to you to warn them, tell them "come here" without mentioning it's a warning. If they don't come:
 - go to them and show the YC
 - [Funny Example.](https://www.youtube.com/watch?v=CZHZkJ7HzIE&ab_channel=FootballShorts)
 
