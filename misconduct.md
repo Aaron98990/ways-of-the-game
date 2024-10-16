@@ -123,13 +123,13 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "No way that's a foul." / "That's not a foul as well?"
 - "What are you calling?"
 - "Where's the card?" or asking, not demanding for a card (the person wants the game called more tightly)
-- "Keep my players safe!" (the person wants the game called more tightly)
+- "Keep my players safe!" / "Protecy my players" (the person wants the game called more tightly)
 - "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
-- jumping in frustration or the universal "what?" gesture with hand(s) out, up, or on the heaed
+- jumping in frustration or the universal "what?" gesture with hand(s) out, up, or on the head
 - the person disagreeing gets the last word in
 - finger wagging or pointing to locations of missed percieved offenses
-- "The other team is getting more fouls than us" / "That's the third time"
+- "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
 
 
 Players give information on how they want the game called. Take it in sometimes. 
@@ -147,6 +147,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - players can't complain about every single call, esspecially trivial or obvious ones
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
+  - threatening to lose their cool, if x happens
 - Provocative/Condescending or Personal Comments
   - "What the hell/fuck. That's bullshit/horseshit."
   - “Referee, are you blind/asleep/dumb? You're a joke. Do your job! Do better.”
