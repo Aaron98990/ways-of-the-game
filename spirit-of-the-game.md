@@ -71,7 +71,7 @@ Allowing all players, including the goalkeeper, to be ready for a kickoff after 
 A player playing on a multi-sport field takes the throw-in from the wrong line.
 - Allow the player to retake the throw-in from the correct line. If it happens again to the same team, penalize the offense as according to the Laws of the Game.
 
-The referee only allows a player to re-enter the field if they cannot immediately interfere with play.
+The referee only allows a player to re-enter the field if they cannot immediately interfere with play. Also, after a substitution allowing the new player to get in position. Or if you change the direction for the restart or its not what the player expected, allow teams to readjust to the new or unexpected call including by holding the reastart.
 - Although not explicitly stated, this is the fairest thing.
 
 When to end the game although time is up.
@@ -82,6 +82,8 @@ A player forgot to bring their red jersey to the game so they wear their pink sh
 
 There is no need to kick the ball out for an injured player.
 - No one is obligated to kick the ball out of play for an injured player. The referee will stop play if they deem it serious.
+
+There is a higher standard to earn a foul in the attacking third then compared to midfield or the defending third.
 
 ## Subjective
 
