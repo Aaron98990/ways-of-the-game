@@ -121,7 +121,8 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "That's a flop" / "All ball" / "50/50" / "Shoulder to shoulder"
 - "That was outside the penalty area."
 - "No way that's a foul." / "That's not a foul as well?"
-- "What are you calling?"
+- "What are you calling?" / After explaining, acting like they couldn't hear you so you have to repeat yourself / being passive agressive
+- saying something clearly wrong or made up (don't fall for the bait - ignore)
 - "Where's the card?" or asking, not demanding for a card (the person wants the game called more tightly)
 - "Keep my players safe!" / "Protecy my players" (the person wants the game called more tightly)
 - "Control the game." (the person wants the game called more tightly)
@@ -133,6 +134,8 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "I'm going to report you" (say name is on match report)
 
 Players give information on how they want the game called. Take it in sometimes. 
+
+If you respond publically, keep your response brief (1-2 sentences). No need to respond again or be sucked into an argument.
 
 Obviously, game temperature or the accumulation of small things can lead for these to be considered dissent.
 
@@ -147,6 +150,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - players can't complain about every single call, esspecially trivial or obvious ones
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
+  - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
 - Provocative/Condescending or Personal Comments
   - "What the hell/fuck. That's bullshit/horseshit."
@@ -160,7 +164,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 - implying bias because the other team is getting favorable calls
   - "Call it both ways." / "Call the game fairly"
   - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls"
-  - “Whose side are you on?” / “You hate us Africans”  / "How much did they pay you?"
+  - “Whose side are you on?” / “You hate us", "You hate Africans”  / "How much did they pay you?"
 - For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
 - excessive complaining about changing a decision on advice of another match official or "overruling" the assistant referee
