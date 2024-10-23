@@ -130,7 +130,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - the person disagreeing gets the last word in
 - finger wagging or pointing to locations of missed percieved offenses
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
-
+- "I'm going to report you" (say name is on match report)
 
 Players give information on how they want the game called. Take it in sometimes. 
 
@@ -160,7 +160,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 - implying bias because the other team is getting favorable calls
   - "Call it both ways." / "Call the game fairly"
   - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls"
-  - “Whose side are you on?” / “You hate us” / "How much did they pay you?"
+  - “Whose side are you on?” / “You hate us Africans”  / "How much did they pay you?"
 - For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
 - excessive complaining about changing a decision on advice of another match official or "overruling" the assistant referee
@@ -196,6 +196,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
+- complaining with no shirt on (can't identify the player if it rises to dissent - don't engage)
 
 Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
