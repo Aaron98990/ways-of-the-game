@@ -152,15 +152,12 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - failing to move on after an explanation or being warned to
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
+  - Repeating questions or statements ("Why? Why? Why? Why?", "What did I do?" x4)
 - Provocative/Condescending or Personal Comments
   - "What the hell/fuck. That's bullshit/horseshit."
-  - “Referee, are you blind/asleep/dumb? You're a joke. Do your job! Do better.”
+  - “Referee, are you blind/asleep/dumb/drunk/high? You're a joke. Do your job! Do better.”
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
   - "My grandma could do better." / The AR could ref better.
-- Repeating questions or statements
-  - Why? Why? Why? Why? Why?
-  - What did I do? What did I do? What did I do?
-  - No. No. No. No.
 - implying bias because the other team is getting favorable calls
   - "Call it both ways." / "Call the game fairly"
   - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls"
@@ -200,7 +197,7 @@ The NBA has an 11 video playlist for "overt gestures" available [here](https://v
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
-- complaining with no shirt on (can't identify the player if it rises to dissent - don't engage)
+- complaining with no shirt on (tell them to go away - can't identify the player if it rises to dissent)
 
 Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
