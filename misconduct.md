@@ -154,11 +154,11 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
   - Repeating questions or statements ("Why?" x4, "What did I do?" x4) [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)
-- Provocative, condescending, or personal Comments
+- Provocative, condescending, or personal comments
   - "What the hell/fuck. That's bullshit/horseshit." / "You are ruining the game"
   - “Referee, are you blind/asleep/dumb/drunk/high?" / "You're a joke." / "Do your job!" / "Do better.”
     - framing as a question or conditional "If you did your job, no one would complain"
-  - "Do I need to teach you how to ref? / Is this your first time reffing?"
+  - "Do I need to teach you how to ref? / Is this your first time reffing?" / "Where did you get you license?" / "Go back to ref school."
   - "My grandma could do better." / The AR could ref better.
 - Implying bias
   - "Call it both ways." / "Call the game fairly"
