@@ -52,7 +52,7 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 ## Jumps at / charge / push / trip
 
 Any offense with a shoulder or body to a completely upright opponent's neck or head is generally excessive force after jumping non-laterally or charging shoulder first. 
-- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Serious Foul Play 4](https://youtu.be/I9Uybj3sKpA?feature=shared&t=518), [Serious Foul Play 5](https://youtu.be/hUVn1myV7FY?feature=shared&t=170) [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417) <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
+- [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Serious Foul Play 4](https://youtu.be/I9Uybj3sKpA?feature=shared&t=518), [Serious Foul Play 5](https://youtu.be/hUVn1myV7FY?feature=shared&t=170), [Serious Foul Play 6](https://youtu.be/cGAVbgZfIWw?feature=shared&t=176) [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417) <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
 - [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
 
 Any offense where there is no attempt to challenge for or play the ball that causes an opponent's head or neck to directly hit a fixed object (the ground, goalpost, wall) is generally excessive force.
@@ -86,7 +86,7 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
 - [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play 3](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
-A tackle/stomp with high intensity or that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground.
+A tackle/stomp with high intensity or that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground or a tackle/stomp when the ball is not playable.
 - [Serious Foul Play 1](https://www.youtube.com/watch?v=pR8DROokqqM&ab_channel=gameagain1) / [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force it's violent conduct
