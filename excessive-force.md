@@ -72,7 +72,7 @@ Studs on a player's foot that occurs after a slide, jump, or lunge should be exc
 - [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM), [Serious Foul Play 1](https://youtu.be/CP5o_bPAYrg?feature=shared&t=751), [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks)
-- [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220)
+- [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220), [Serious Foul Play 2](https://youtu.be/8kmliIasCfQ?feature=shared&t=63)
 
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
 - [Serious Foul Play 1.](https://youtu.be/ZGnfVHgeO88?feature=shared&t=32)
@@ -90,4 +90,4 @@ A tackle/stomp with high intensity or that is two-footed (with or without contac
 - [Serious Foul Play 1](https://www.youtube.com/watch?v=pR8DROokqqM&ab_channel=gameagain1) / [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM)
 
 When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force it's violent conduct
-- [Violent Conduct 1](https://youtu.be/ayKcck441n8?feature=shared&t=88), [Violent Conduct 2](https://youtu.be/gnfbhoNlAKw?t=107)
+- [Violent Conduct 1](https://youtu.be/ayKcck441n8?feature=shared&t=88), [Violent Conduct 2](https://youtu.be/gnfbhoNlAKw?t=107), [Violent Conduct](https://youtu.be/ERQAXPmcdFg?feature=shared&t=887)
