@@ -145,28 +145,30 @@ Obviously, game temperature or the accumulation of small things can lead for the
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
-- Yelling at a match official, especially at close distance or at an assistant referee [The player should of gotten a caution for yelling at the referee "All ball" at close distance.](https://youtu.be/1g2DRURrbAo?t=935)
-- Continuous, prolonged, persistent complaining
+- Yelling at a match official
+  - especially at close distance or at an assistant referee [1](https://youtu.be/1g2DRURrbAo?t=935)
+- Continuous, prolonged, or persistent complaining
   - players can't complain about every single call, esspecially trivial or obvious ones
   - players farther away have less leniency to complain, esspecially the goalkeeper
   - failing to move on after an explanation or being warned to
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
-  - Repeating questions or statements ("Why? Why? Why? Why?", "What did I do?" x4)
-- Provocative/Condescending or Personal Comments
-  - "What the hell/fuck. That's bullshit/horseshit."
-  - “Referee, are you blind/asleep/dumb/drunk/high? You're a joke. Do your job! Do better.”
+  - Repeating questions or statements ("Why?" x4, "What did I do?" x4) [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)
+- Provocative, condescending, or personal Comments
+  - "What the hell/fuck. That's bullshit/horseshit." / "You are ruining the game"
+  - “Referee, are you blind/asleep/dumb/drunk/high?" / "You're a joke." / "Do your job!" / "Do better.”
+    - framing as a question or conditional "If you did your job, no one would complain"
   - "Do I need to teach you how to ref? / Is this your first time reffing?"
   - "My grandma could do better." / The AR could ref better.
-- implying bias because the other team is getting favorable calls
+- Implying bias
   - "Call it both ways." / "Call the game fairly"
-  - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls"
+  - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls" / "Hometown ref"
   - “Whose side are you on?” / “You hate us", "You hate Africans”  / "How much did they pay you?"
-- For a match offical who has done past games with a team/person, referencing past games is not appropirate while disagreeing with a decision
+  - "Whose reffing the game, you or the spectators?"
+- For a match offical who has done past games with a team or person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
-- excessive complaining about changing a decision on advice of another match official or "overruling" the assistant referee
-  - [Example 1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336) Strong referees have other match officials assist them but this often causes dissent. 
-  - "You don't know what you're doing?"
+- Excessive complaining after changing a decision or "overruling" the assistant referee
+  - "You don't know what you're doing?" [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)
 
 93% of interpersonal communication is not what is being said. In person-to-person communication:
 - Words convey 7% of the message
@@ -183,7 +185,7 @@ For any remark above: think if it was public or private and how it's delivered. 
 
 Different match officials handle dissent/disagreement differently, but here's a good guideline to follow.
 
-The NBA has an 11 video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
+The NBA has a video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
 
 - gesture the wearing of spectacles
 - invading a match official's personal space
