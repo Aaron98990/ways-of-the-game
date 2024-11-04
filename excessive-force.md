@@ -61,7 +61,7 @@ Any offense where there is no attempt to challenge for or play the ball that cau
 - [Push - Head to wall - Violent Conduct](https://youtu.be/BJuuShcWtas?feature=shared&t=238)
 <!-- [Charge - Head to advertising bpard/wall - Serious Foul Play](https://youtu.be/Ysl1u1yBaQ0?feature=shared&t=120) -->
 
-When the ball is out of play; the ball has cleary been held by the goalkeeper for a while; or the ball is no where close, any action that causes a player to involuntairly fall down is violent conduct. [Violent Conduct 1](https://youtu.be/FxcrgGIW_pw?feature=shared&t=1205), [Violent Conduct 2](https://youtu.be/2A5eBRoAv6Y?feature=shared&t=596)
+When the ball is out of play; the ball has cleary been held by the goalkeeper for a while; or the ball is no where close and no tactical reason, any deliberate action that causes an opponent to involuntairly fall down is violent conduct. [Violent Conduct 1](https://youtu.be/FxcrgGIW_pw?feature=shared&t=1205), [Violent Conduct 2](https://youtu.be/2A5eBRoAv6Y?feature=shared&t=596)
 
 ## Tackle / kicks
 
