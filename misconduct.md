@@ -189,13 +189,13 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 
 - gesture the wearing of spectacles
 - invading a match official's personal space
-- surrounding a match official (don't bother explaining anything if there are more than two people from the same team)
+- unnesessairly touching a match official to get their attention [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
+- surrounding a match official (don't bother explaining anything if there are more than two people from the same team) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - a player being held back but continues disagreeing
-- unnesessairly touching a match official to get their attention
-- Air punching towards or away a match official or any other aggressive motion [Example 1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [Example 2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
-- coming a distance or running to complain [The goalkeeper comes a distance to complain with the referee.](https://youtu.be/1g2DRURrbAo?t=805)
+- Air punching towards or away a match official or any other aggressive motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
+- coming a distance or running to complain, esspecially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
-- throwing (spiking) the ball to the ground [Example 1](https://www.youtube.com/watch?v=oaRIL13l-hE)
+- throwing (spiking) the ball to the ground [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
@@ -355,7 +355,7 @@ This section applies to a player, substitute or substituted player.
 > - using offensive, insulting or abusive language and/or action(s)
 
 - aggressive and avoidable contact with a match offical while dissenting that does not rise to violent conduct
-  - [Abusive action.](https://youtu.be/CsXRRa6KUSQ?t=21)
+  - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
