@@ -26,6 +26,8 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
 > If an offence involves contact [with a person excluding an outside agent], it is penalised by a direct free kick.
+>
+> If the referee stops play for an offence committed by a player against an outside agent, play is restarted with a dropped ball.
 > 
 > Law 12
 
@@ -106,40 +108,13 @@ When a ball is passed, sometimes a player moves in a position to block the oppon
 
 The restart is an indirect free kick. If the offense involves contact with an opponent it is not playing in a dangerous manner and a direct free kick should be given.
 
-It is not an offense to play the ball on the ground - goalkeepers do that a lot. It is only an offense if the player makes it impossible for opponents to play the ball without injuring themselves or an opponent (e.g. kicking the player).
-- [Indirect free kick. Heading the ball on the ground that should be kicked when an opponent is nearby threatens injury to someone.](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
+- a player on the ground trapping the ball, making it impossible for others to kick the ball. It is not an offense to play the ball on the ground - goalkeepers do that a lot. [1](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
+- A boot with studs in an opponent's face. It is not an offense to kick the ball from above the head.
+- Holding the ball between the thighs and jumping like a kangaroo
+- If a player uses the shoulders of a teammate to jump higher to head the ball <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
-A high boot near an opponent face is a common offense. A player can kick the ball from above the head as long as it does not threaten to injure someone.
-
-Holding the ball between the thighs and jumping like a kangaroo when an opponent is nearby threatens injury to the holder. 
-
-If a player leans on the shoulders of another player of their own team in order to head the ball, they threaten injury to themselves. <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
-
-**For me: I am interpreting flailing arms and arms above the head when attempting to play the ball as playing a dangerous manner..**
 
 **Don't make it complicated: If anyone from the team of the offended player thinks its playing in a dangerous manner other than when a player is on the gorund, the referee should call this offense.**
-
-## Retaliation Fouls
-
-Retaliation fouls are generally a yellow card for lack of respect of the game or a reckless challenge. They occur when the referee misses or it is percieved that the referee missed a foul against a team-mate. 
-
-- [A player trips himself on the opponent's leg and the referes correctly call no foul. A team-mate then retailates against a different opponent by charging him then "kicking" into his balls. A send-off for the player that retailates for violent conduct is appropiate.](https://youtu.be/5n2ZDFP8tAM?feature=shared&t=622)
-
-
-## Fouls against/by the goalkeeper
-These are indirect free kicks if the offense involves no contact with the goalkeeper:
-- preventing/blocking a goalkeeper from releasing the ball from their hands
-- trying to kick/play the ball when the goalkeeper is holding it
-
-A goalkeeper cannot push an opponent with the ball while in control with the hand/arms else it's a penalty kick for the goalkeeper's opponents.
-
-<!-- 1) If the goalkeeper either intentionally strikes
-an opponent by throwing the ball vigorously at him
-or pushes him with the ball while holding it, the
-referee shall award a penalty-kick, if the offence
-took place within the penalty-area . Laws of the Game 1990/91 -->
-
-This is covered in the [goalkeeper section](/goalkeeper)
 
 ## Kicking/throwing an object
 > play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or interfered with play:
@@ -149,11 +124,6 @@ This is covered in the [goalkeeper section](/goalkeeper)
 > Law 12.4 (I re-worded a lot so not an exact quote)
 
 - [A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
-
-## Other Offenses
-> An indirect free kick is awarded if a player: is guilty of dissent, using offensive, insulting or abusive language and/or action(s) or other verbal offences OR commits any other offence, not mentioned in the Laws, for which play is stopped to caution or send off a player
-
-Simulation / Attempting to deceive the referee would be an indirect free kick if the offense involves no contact with another person.
 
 
 ## Offense outside the field of play
