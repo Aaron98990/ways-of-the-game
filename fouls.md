@@ -157,6 +157,12 @@ Use different whistle lengths and volume. A softer whistle for a minor foul and 
 
 I recommend to never signal or announe "no foul" until it's clear that your lead assistant referee agrees its no foul. It looks bad to change after announcing no foul.
 
+A lot of emphasis is put in being in the right position to make a call rather than whether a call or is correct or not. Being in the pocket or having the best angle to see the most things possible (pushing, holding, handball)is important. Vicinity, while less important than angle, helps sells the desision. 
+
+> The best position is one from which the referee can make the correct decision.
+>
+> Guidelines for Match Officials
+
 Even if you get complaints, always side on calling more fouls (including the soft ones) and slowing the game down (being strict on free kick and throw-in position and ball rolling, asking player to come over to warn them, strictly following the substitution procedure with no substitute entering until the player their replacing left the field of play, tieing your shoes) if you are new or unfamiliar with the teams, competition, or level of play. Calling a game loose from the start, which is common mistake for new referees in adult games, does not give you credibility and is a recipe for disaster. Loosen or tighten up the game as the game goes.
 
 > The [assistant referee] must raise the flag when a foul or misconduct is committed in the immediate vicinity or out of the referee’s vision. In all other situations, the AR must wait and offer an opinion if it is required and then inform the referee of what was seen and heard, and which players were involved.
@@ -164,4 +170,6 @@ Even if you get complaints, always side on calling more fouls (including the sof
 > Before signalling for an offence, the [assistant referee] must determine that:
 > - the offence was out of the referee’s view or the referee’s view was obstructed
 > - the referee would not have applied the advantage
+>
+> Guidelines for Match Officials
 
