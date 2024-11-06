@@ -37,7 +37,7 @@ You can hear when another person is kicked.
 
 - [No foul. The player cleanly tackles the ball. Their opponent then runs into the player.](https://www.youtube.com/watch?v=AKa17voHa2k)
 - [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
-- 
+
 ## Jumps At
 
 Jumping is okay. Jumping (generally not straight up) at another player is not.
@@ -153,7 +153,7 @@ This is an offense - not a foul. Please note the exception if the ball enters th
 ## Other guidnace
 The thirds - a soccer field can be divided into the defensive third, middle third, and offensive third. Fouls in the defensive third are the easiest to get while fouls in the offenive third are harder to get due to their advantagous restart.
 
-Use different whistle lengths and volume. A softer whistle for a minor foul and a longer and louder whistle for a harder foul. Use stong body language to help control the match.
+Use different whistle lengths and volume. A softer whistle for a minor foul and a longer and louder whistle for a harder foul. Use stong body language and voice to show confidence and help control the match.
 
 Even if you get complaints, always side on calling more fouls (including the soft ones) and slowing the game down (being strict on free kick and throw-in position and ball rolling, asking player to come over to warn them, strictly following the substitution procedure with no substitute entering until the player their replacing left the field of play, tieing your shoes) if you are new or unfamiliar with the teams, competition, or level of play. Calling a game loose from the start, which is common mistake for new referees in adult games, does not give you credibility and is a recipe for disaster. Loosen or tighten up the game as the game goes.
 
