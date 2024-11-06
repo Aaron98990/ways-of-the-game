@@ -31,17 +31,19 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > 
 > Law 12
 
-## Tackles
+## Tackles / kicks
 
-- [No foul. The player cleanly tackles the ball. Their opponent then runs into the player. No foul has been committed. ](https://www.youtube.com/watch?v=AKa17voHa2k)
-- [Foul. No card. Not all tackles are yellow cards. I have this as a careless tackle. Although the ball was no longer in playing distance when contact was made by the offender, the contact made by the offender is minimal/glancing and the attempt to play the ball was genuine. ](https://youtu.be/1g2DRURrbAo?t=700)
-- [No foul. The defender comes in with the bottom of his cleats exposed which contain studs. His cleats land on the top of the ball and clears the ball out of the field of play. Going in to a challenge like this is risky and if mis-timed would be an easy yellow or red card.](https://youtu.be/1g2DRURrbAo?t=735)
+You can hear when another person is kicked.
 
-
+- [No foul. The player cleanly tackles the ball. Their opponent then runs into the player.](https://www.youtube.com/watch?v=AKa17voHa2k)
+- [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
+- 
 ## Jumps At
 
-- [Foul. No Card. No contact to the head. Both players are genuinely going for the ball.](https://youtu.be/Q3Vg9y1j8vY?t=510)
-- [Foul. No Card. While one player is not even looking at the ball, the amount of force was minimal. ](https://www.youtube.com/watch?v=mjuiEPfchz0)
+Jumping is okay. Jumping (generally not straight up) at another player is not.
+
+- [Foul.](https://youtu.be/Q3Vg9y1j8vY?t=510)
+- [Foul.](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
 ## Charge
 
@@ -49,7 +51,7 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 >
 > Glossary
 
-A player cannot be charged (even what is normally considered fair) by an opponent when not in playing distance of the ball.
+A player cannot be charged (even what is normally considered fair) by an opponent when not in playing distance of the ball. **After a player shoots or passes the ball, the opponent cannot charge them as the ball is not in playing distance.**
 
 > If the ball is within playing distance, the player may be fairly charged by an opponent.
 > 
@@ -57,20 +59,17 @@ A player cannot be charged (even what is normally considered fair) by an opponen
 
 > Playing distance: Distance to the ball which allows a player to touch the ball by extending the foot/leg or jumping or, for goalkeepers, jumping with arms extended. Distance depends on the physical size of the player Glossary
 
-**After a player shoots or passes the ball, the opponent cannot charge them as the ball is not in playing distance.**
-
 The goalkeeper cannot be challenged (including being charged) by an opponent when in control of the ball with the hand(s).
 
 > A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s).
 > 
 > Law 12.2 Indirect free kick
 
-
-- [No Foul. The ball is within playing distance and the charge was not careless, reckless, or using excessive force.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
+- [No Foul. The ball is within playing distance and the charge was fair.](https://www.youtube.com/watch?v=tiPsNRm5xV8)
 
 The player who charges into another player may remain standing or appear to have commit a fair charge because of momentum. The player who takes the charge will absorb all the impact.
 
-The Laws do mention anything about "shoulder to shoulder". But, repeating what is already said above you can't charge into an opponent (including with your shoulder) when the ball is not within playing distnace (like when the opponent just kicked/passed the ball away). Two player running a straight path to the ball who are even and whose shoulders make contact is fair.
+The Laws do mention anything about "shoulder to shoulder". Two player running a straight path to the ball who are even and whose shoulders make contact is fair.
 
 ## Trips
 
@@ -78,9 +77,6 @@ Trips and "impeding the progress of an opponent with contact" are unique in that
 
 - [Foul. Although the player does not fall, the defender sticks his leg out and slows down the attacker.](https://youtu.be/ySYtHDT99aE?feature=shared&t=401)
 - [Foul. Although the attacker trips from the legs behind the defender, he still impedes his path.](https://youtu.be/FxcrgGIW_pw?feature=shared&t=962)
-
-Sometimes when a defender is shoulder to shoulder with an attacker, they stick their foot out in the attacker's path (and is not necessairly an attempt to kick the ball but may be for better positioning) and this causes the attacker to trip. These are tricky because if you are only looking above the waist it looks like a fair challenge (no unfair push or charge) but if you are watching the legs you will the defender put their foot in the attacker's path. Also, these tripping motions are slight and can easily look like a running motion.
-- [Foul. Tripping by the defender.](https://youtu.be/e98hge-imKY?feature=shared&t=481)
 
 ## Impeding the progress of an opponent
 
@@ -154,7 +150,13 @@ This is an offense - not a foul. Please note the exception if the ball enters th
 
 - [Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
 
-## Assistant referees
+## Other guidnace
+The thirds - a soccer field can be divided into the defensive third, middle third, and offensive third. Fouls in the defensive third are the easiest to get while fouls in the offenive third are harder to get due to their advantagous restart.
+
+Use different whistle lengths and volume. A softer whistle for a minor foul and a longer and louder whistle for a harder foul. Use stong body language to help control the match.
+
+Even if you get complaints, always side on calling more fouls (including the soft ones) and slowing the game down (being strict on free kick and throw-in position and ball rolling, asking player to come over to warn them, strictly following the substitution procedure with no substitute entering until the player their replacing left the field of play, tieing your shoes) if you are new or unfamiliar with the teams, competition, or level of play. Calling a game loose from the start, which is common mistake for new referees in adult games, does not give you credibility and is a recipe for disaster. Loosen or tighten up the game as the game goes.
+
 > The [assistant referee] must raise the flag when a foul or misconduct is committed in the immediate vicinity or out of the referee’s vision. In all other situations, the AR must wait and offer an opinion if it is required and then inform the referee of what was seen and heard, and which players were involved.
 >
 > Before signalling for an offence, the [assistant referee] must determine that:
