@@ -1,4 +1,4 @@
-The Laws of the Game designates three levels of physical severity - Careless, Reckless, and Excessive force. This wording is important - especially in match reports.
+The Laws of the Game designates three levels of physical severity for misconduct - careless, reckless, and excessive force. This wording is important - especially in match reports.
 
 > Careless is when a player shows a lack of attention or consideration when making a challenge or acts without precaution. No disciplinary sanction is needed
 > 
@@ -8,7 +8,7 @@ The Laws of the Game designates three levels of physical severity - Careless, Re
 >
 > Law 12.1 Direct Free Kicks
 
-The level of physical foul does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). 
+The level of physical severity does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). 
 
 > Serious foul play
 > 
