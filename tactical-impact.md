@@ -1,4 +1,4 @@
-Whenever an offense occurs, the referee must judge its tactical impact. There are three levels of tactical impact:
+Whenever an offense occurs, the referee must judge its tactical impact. There are three levels of tactical impact for misconduct:
 
 - Minimal/None
 - Stopping a Promising Attack (SPA)
