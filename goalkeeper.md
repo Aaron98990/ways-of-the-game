@@ -125,7 +125,7 @@ A goalkeeper that directly throws the ball from their own penalty area into the 
 > - controls the ball with the hand/arm for more than six seconds before releasing it
 > - touches the ball with the hand/arm after releasing it and before it has touched another player
 
-It is ~~accepted~~ expected to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 15 seconds of control with the hand/arm - it is meant only for egregious/blatant cases. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule.
+It is ~~accepted~~ expected to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 12 seconds of control with the hand/arm - it is meant only for egregious/blatant cases. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule.
 
 If the ball rebounds off a goalkeeper hand/arms or any part of the body, they have never released the ball. To release the ball the goalkeeper must be in control with the hand/arms (defined below) and rebounds (deliberate or not) do not count. 
 
