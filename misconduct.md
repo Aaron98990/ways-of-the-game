@@ -276,9 +276,8 @@ Things to look out for:
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - putting a finger near the opponent's face
   - stepping over or staring down an opponent
-  - clapping or signaling the score in an opponent's face
+  - clapping, signaling the score, pointing, or any gesture near an opponent's face
   - imitating, mocking, or celebrating near an opponent
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's appearance, height, skill, or equipment)
