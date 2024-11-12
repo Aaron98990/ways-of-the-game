@@ -275,6 +275,7 @@ Things to look out for:
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
+  - putting a finger near the opponent's face
   - stepping over or staring down an opponent
   - clapping or signaling the score in an opponent's face
   - imitating, mocking, or celebrating near an opponent
@@ -282,8 +283,8 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - trash talking (talking about being gay/straight or someone's appearance, height, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
-- blatantly commiting an offfense
-  - holding a player's jersey from the front while moving or tugging jersey with two hands or refusing to let go of a player (e.g leg-locking)
+- non-soccer plays
+  - holding a player when they are ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking)
     - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
   - blatantly committing handball unless the ball was going out
   - attempting to kick the ball the ball when the goalkeeper is releasing it
@@ -360,13 +361,11 @@ This section applies to a player, substitute or substituted player.
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup](/mobbing)
-- an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur), staring someone done when inches from them)
-- Grabbing an someone's shirt and pulling them to your face is an abusive action. 
+- an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
+- Grabbing an someone's shirt and pulling them to your face
   - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
-- Standing on top of a player on the ground
+- Standing on top of a player on the ground while staring them down
   - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
-- includes physical actions towards another person that doesn't involve excessive force. This includes deliberately pulling an opponent's pants down.
-
 
 ### **Language**
 
