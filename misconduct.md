@@ -62,7 +62,7 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Mass Confrontations
 
-After a mass confrontation, separate the teams to their benches to avoid any secondary confrontations and so the referee is not surrounded. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
+After a mass confrontation, suspend the game, separate the teams to their benches to avoid any secondary confrontations and so the referee is not surrounded. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
 
 - [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
 - [Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
@@ -191,7 +191,7 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - gesture the wearing of spectacles
 - invading a match official's personal space
 - unnesessairly touching a match official to get their attention [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
-- surrounding a match official (don't bother explaining anything if there are more than two people from the same team) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
+- surrounding a match official (don't bother explaining anything if there are more than two people from the same team) (if persistent and ignoring warnings, suspend the game & send players to benches & show at least two cautions) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - a player being held back but continues disagreeing
 - Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain, esspecially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
