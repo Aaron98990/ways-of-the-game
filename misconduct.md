@@ -132,6 +132,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - finger wagging or pointing to locations of missed percieved offenses
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
 - "I'm going to report you" (say name is on match report)
+- "Ask the assistant" (sometimes helpful to ask)
 
 Players give information on how they want the game called. Take it in sometimes. 
 
