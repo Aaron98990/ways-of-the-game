@@ -128,7 +128,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "Control the game." (the person wants the game called more tightly)
 - "How can you call that when you're that far away?"
 - jumping in frustration or the universal "what?" gesture with hand(s) out, up, or on the head
-- the person disagreeing gets the last word in
+- the person disagreeing gets the last word in / patronizing attitude
 - finger wagging or pointing to locations of missed percieved offenses
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
 - "I'm going to report you" (say name is on match report)
@@ -192,7 +192,7 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - unnesessairly touching a match official to get their attention [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
 - surrounding a match official (don't bother explaining anything if there are more than two people from the same team) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - a player being held back but continues disagreeing
-- Air punching towards or away a match official or any other aggressive motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
+- Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain, esspecially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
 - throwing (spiking) the ball to the ground [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
