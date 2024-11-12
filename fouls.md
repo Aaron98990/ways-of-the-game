@@ -43,6 +43,8 @@ Jumping is okay. Jumping (generally not straight up) at another player is not.
 - [Foul.](https://youtu.be/Q3Vg9y1j8vY?t=510)
 - [Foul.](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
+Push off before headers are not okay. [Foul.](https://youtu.be/IP-4dxu721E?feature=shared&t=127)
+
 ## Charge
 
 > Charge (an opponent): Physical challenge against an opponent, usually using the shoulder and upper arm (which is kept close to the body)
