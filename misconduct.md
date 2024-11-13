@@ -136,7 +136,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 
 Players give information on how they want the game called. Take it in sometimes. 
 
-If you respond publically, keep your response brief (1-2 sentences). No need to respond again or be sucked into an argument.
+If you respond publically, keep your response brief (1-2 sentences). No need to respond again or be sucked into an argument. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called".
 
 Obviously, game temperature or the accumulation of small things can lead for these to be considered dissent.
 
