@@ -43,7 +43,9 @@ Jumping is okay. Jumping (generally not straight up) at another player is not.
 - [Foul.](https://youtu.be/Q3Vg9y1j8vY?t=510)
 - [Foul.](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
-Push off before headers are not okay. [Foul.](https://youtu.be/IP-4dxu721E?feature=shared&t=127)
+Push off before headers are fouls. [Foul.](https://youtu.be/IP-4dxu721E?feature=shared&t=127)
+
+Small push that puts a player ahead of the ball is a foul. [Foul](https://youtu.be/bAgwBqYVUhM?feature=shared&t=24)
 
 ## Charge
 
