@@ -70,8 +70,8 @@ I make the distinction for identyifing the hand/arm as unnaturally bigger for th
 - a attacker or neutral situation / no team clearly in possession (e.g. ball bouncing)
 - a defender
 
-Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing): There is no leeway in these situations. It's handball if the player's hand/arm is bigger (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
-- The attacker's hand/arm is bigger. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
+Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing): There is no leeway in these situations. It's handball if the player's hand/arm touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
+- The attacker's hand/arm makes contact with the ball. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
 
 Defenders only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
 - Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
@@ -92,8 +92,6 @@ Defenders only: A defender deliberately clearing or deliberately saving the ball
 
 ## Accidental handball
 
-!> 2021/22 IFAB change. Accidental handball by a team-mate before a goal is scored and accidental handball creating a goal-scoring opportunity have been removed as offenses.
-
 > It is an offense if a player:
 > - scores in the opponents’ goal:
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
@@ -102,7 +100,7 @@ Defenders only: A defender deliberately clearing or deliberately saving the ball
 Accidental handball is challenging to enforce as the referee will be screened as the attacker will be facing the goal.
 
 - No goal. The ball contacts the hand/arm then immediately goes into the goal. [Example 1](https://youtu.be/_MQpnvxeE9g?t=352)
-- Goal. The ball contacts the hand/arm but does not immediately go in the goal. [Example 1](https://youtu.be/WicGa2_Fw5Q?t=285)
+- Ignoring that this is handball for being unnaturally bigger, the time period before the hand/arm and ball contact and the goal is not immediate. [Example 1](https://youtu.be/WicGa2_Fw5Q?t=285)
 
 
 ## Disciplinary Action
