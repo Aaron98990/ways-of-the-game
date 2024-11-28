@@ -1,14 +1,12 @@
 Fouls are physical offenses, generally listed in Law 12, committed against a single opponent including when no contact is made. Handball, "makes contact with the ball with a held object", and offside are not considered a foul since it is not against any one opponent.
 
-Soccer is a physical sport. Not every contact with the opponent is a foul. 
-- [No foul by the player that clears the ball.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
+Soccer is a physical sport. Not every contact with the opponent is a foul. [No foul.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
 Fouls that occur before (going through an opponent) or after (the follow through) a player wins/touches/shoots the ball should be penalized. This includes when they are off balance or in their kicking motion.
 - Unfair follow through. [Example 1](https://youtu.be/FBvnXY29jHs?feature=shared&t=85), [Example 2](https://youtu.be/xNAVqoAXnvg?feature=shared&t=243), [Example 3](https://youtu.be/ybVefZeKoxE?feature=shared&t=314)
 - Unfirly going through the opponent. [Example 1](https://youtu.be/KE_T1KNniTA?feature=shared&t=2m44s), [Example 2](https://youtu.be/o4wWxBZ_vs0?feature=shared&t=252)
 
-One player may win the ball fairly, but another team-mate may still commit a foul. 
-- [Example 1](https://youtu.be/1ThajxMxIOI?feature=shared&t=10)
+One player may win the ball fairly, but another team-mate may still commit a foul. [Foul.](https://youtu.be/1ThajxMxIOI?feature=shared&t=10)
 
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
@@ -17,8 +15,7 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > - possible offences in the area towards which play is moving
 > - offences occurring after the ball is played away
 
-- [Foul and YC for lack of respect for the game. While away from the ball, the opponent impedes an opponent with contact in the area towards which play is moving.](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214)
-- [Foul. The attacker jummps at the defender after the ball is played away.](https://youtu.be/5n2ZDFP8tAM?feature=shared&t=514)
+- [Foul - Impeding](https://youtu.be/_UtaB3Pwl_s?feature=shared&t=214), [Foul - Jumps at](https://youtu.be/5n2ZDFP8tAM?feature=shared&t=514)
 
 > Direct and indirect free kicks and penalty kicks can only be awarded for offenses committed when the ball is in play. If the ball is out of play, play is restarted according to the previous decision.
 >
@@ -28,15 +25,9 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 
 ## Common fouls
 
-If someone starts hopping they probably have been kicked. You can hear when another person is kicked.
+If someone starts hopping they probably have been kicked. You can hear when another person is kicked. [No foul.](https://www.youtube.com/watch?v=AKa17voHa2k, [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
 
-- [No foul. The player cleanly tackles the ball. Their opponent then runs into the player.](https://www.youtube.com/watch?v=AKa17voHa2k)
-- [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
-
-Jumping is okay. Jumping (generally not straight up) at another player is not.
-
-- [Foul.](https://youtu.be/Q3Vg9y1j8vY?t=510)
-- [Foul.](https://www.youtube.com/watch?v=mjuiEPfchz0)
+Jumping is okay. Jumping (generally not straight up) at another player is not. [Foul.](https://youtu.be/Q3Vg9y1j8vY?t=510), [Foul.](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
 Push off before headers are fouls. [Foul.](https://youtu.be/IP-4dxu721E?feature=shared&t=127)
 
