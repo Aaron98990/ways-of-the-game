@@ -46,7 +46,7 @@ When a player believes they have been fouled and goes to ground, they will often
 > It is an offense if a player:
 > - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
 
-- [Handball. Deliberately moves hand/arm towards ball - a slight motion counts esspecially on the goalline. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.]](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s)
+- [Handball. a slight motion counts esspecially on the goalline. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.]](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s)
 
 ## Unnaturally bigger
 
@@ -77,8 +77,9 @@ Defenders only: When a defender falls and the hand (and not any other part of ar
 - Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
 - The entire arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
-Defenders only: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders.
+Defenders only: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders or the shot is taken on goal.
 - The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3) / [Not Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [Not Handball.](https://www.youtube.com/watch?v=E4a3ibwKnoM)
+- Shot on goal. [Handball](https://youtu.be/OfekZUATrwY?feature=shared&t=65)
 - The defender is attempting to head the ball. [Not handball](https://youtu.be/vmis513lhSY?feature=shared&t=230)
 - Remember an attacker gets no special exceptions if the hand/arm is bigger. [Handball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
@@ -86,7 +87,7 @@ Defenders only: The ball hitting the hands/arm after a deflection from anyone (i
 - The ball would not have gone past the defender if no hand/arm touch. [No handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346) / [No handball](https://youtu.be/pmcs39I2j1k?feature=shared&t=663)
 - The ball would have passed the defender if the hand/arm had not interfered. [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421) / [Handball.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 
-Defenders only: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body). 
+Defenders only in defensive third: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body). 
 - Not handball. The defender deliberately clears the ball into their own hand/arm. [Example 1.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Example 2.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Example 3.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153) / [Example 4 - Deliberate play but slipped](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 - Not handball. The defender deliberately clears the ball into their team-mates hand/arm and the ball is played away from goal. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454) / [Example 2](https://youtu.be/h_M-c9ZeJ8g?feature=shared&t=68)
 
