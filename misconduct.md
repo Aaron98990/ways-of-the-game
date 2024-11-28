@@ -1,4 +1,4 @@
-Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/excessive-force) and [tactical impact (SPA and DOGSO)](/tactical-impact) are broken out of the misconduct section because of the importance of the topics. Misconduct, disciplinary action, disciplinary sanction, sanction, warning/caution/send-off, and warning/yellow/red card all generally mean the same thing.
+Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/excessive-force) and [tactical impact (SPA and DOGSO)](/tactical-impact) are broken out of the misconduct section because of the importance of the topics. Misconduct, booking, disciplinary action, disciplinary sanction, sanction, caution/send-off, and yellow/red card all generally mean the same thing.
 
 > The yellow card communicates a caution and the red card communicates a sending-off.
 > 
@@ -23,11 +23,11 @@ Footballl associations (FAs) often create codes for misconduct. In the United St
 > 
 > Law 5.3 Powers and duties
 
-A referee can show yellow and red cards when they enter the field of play to start the match including during the coin toss, national anthem, and referee/player walkout until they leave the field of play after the match ends. 
+A referee can show yellow and red cards when they enter the field of play to start the match until they leave the field of play after the match ends including during the coin toss, national anthem, half-time, the referee/player walkout, and after the final whistle and before the referee left the field.
 
 - [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
 
-A referee can caution or send-off someone without showing cards (e.g they forgot or lost them) by communicating that decision to that person (e.g verbally). This was how misconduct was applied for players until yellow and red cards were used in the 1970 World Cup. 
+A referee can caution or send-off someone without showing cards (e.g they forgot or lost them) by communicating that decision to everyone (e.g verbally). This was how misconduct was applied for players until yellow and red cards were used in the 1970 World Cup. 
 
 Temporarily dismissing a player (sin bin) is in the Laws [here](https://www.theifab.com/laws/latest/guidelines-for-temporary-dismissals/) and would need to be in the competition rules. In England, temporarily dismissing a player is mandatory for dissent across all of grassroots football from the 2019/20 season as shown in <a href="England%20Sin%20Bin.pdf" target=”_blank”>this</a> infographic.
 
@@ -62,7 +62,7 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Mass Confrontations
 
-After a mass confrontation, suspend the game, separate the teams to their benches to avoid any secondary confrontations and so the referee is not surrounded. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
+After a mass confrontation, suspend the game, separate the teams to their benches or sides to avoid any secondary confrontations and so the referee is not surrounded. Grab the ball. Have the entire crew come between the two teams, discuss what happened, who should be cautioned or sent off, and if the game needs to be called tighter. Call the players that will be cautioned or sent-off to the referee crew and show them the appropiate cards.
 
 - [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
 - [Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
@@ -253,23 +253,6 @@ Unsporting behaviour is a caution.
 
 <!-- tabs:start -->
 
-#### **Simulation**
-
-> - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
-
-This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
-
-- [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
-- [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
-
-Things to look out for:
-
-- intentionally moving their leg towards the opponent to make it appear that they have been tripped
-- falling to the ground when there is no or minimal contact
-- exsive screaming, yelling, rolling, and other theatrics, even if they have been fouled
-- holding a body part (e.g. head or neck) where no or minimal contact is made
-- clearly faking an injury to waste time 
-
 #### **Lack of respect for the game**
 
 > - shows a lack of respect for the game
@@ -288,9 +271,27 @@ This is a catch-all. A referee may caution a player for anything. This is very s
     - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
   - blatantly committing handball unless the ball was going out
   - attempting to kick the ball the ball when the goalkeeper is releasing it
+  - retaliation foul, including for perceived uncalled foul
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
+
+#### **Simulation**
+
+> - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
+
+This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
+
+- [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
+- [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
+
+Things to look out for:
+
+- intentionally moving their leg towards the opponent to make it appear that they have been tripped
+- falling to the ground when there is no or minimal contact
+- exsive screaming, yelling, rolling, and other theatrics, even if they have been fouled
+- holding a body part (e.g. head or neck) where no or minimal contact is made
+- faking an injury to waste time 
 
 #### **Unauthorized marks**
 
@@ -307,6 +308,8 @@ I have only seen a caution for this when players scuffing up the penalty spot or
 Here are some examples:
 - You cannot say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
 - You cannot yell/scream for the purpose to scare the opponent when they are attempting to play the ball (e.g. goalkeeper punting the ball)
+
+Clapping is okay as long as its not done in an opponents face.
 <!-- - You cannot clap to distract the opponent when they are attempting to play the ball (e.g. penalty kick)  I remember seeing in one of my matches the team-mates clapping as their team-mate takes the penalty kick. That was weird. -->
 
 #### **Permission to leave**
@@ -413,7 +416,7 @@ For any remark above: think if it was public or private and how it's delivered. 
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
-Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound. **Other than the senior team coach second caution, all misconduct by people in the technical area should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
+Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound. **Other than the senior team coach second caution, all misconduct by people in the technical area (including substitutes) should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
