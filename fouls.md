@@ -10,9 +10,6 @@ Fouls that occur before (going through an opponent) or after (the follow through
 One player may win the ball fairly, but another team-mate may still commit a foul. 
 - [Example 1](https://youtu.be/1ThajxMxIOI?feature=shared&t=10)
 
-If the attacking player over-runs or attempts but fails to kick the ball, that does not excuse a foul by a defender. The location of the ball does not excuse a foul.
-- [Example 1](https://youtu.be/79cBWbiWElA?feature=shared&t=324), [Example 2](https://youtu.be/06lqnmddvKQ?feature=shared&t=885), [Example 3](https://youtu.be/06lqnmddvKQ?feature=shared&t=912)
-
 Just because a foul or offense happens, does not mean that the referee stops play. Read more in the [advantage section](/advantage).
 
 > ‘What needs to be seen’ is not always in the vicinity of the ball. The referee should also pay attention to:
@@ -29,14 +26,12 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 > 
 > Law 12
 
-## Tackles / kicks
+## Common fouls
 
-You can hear when another person is kicked.
+If someone starts hopping they probably have been kicked. You can hear when another person is kicked.
 
 - [No foul. The player cleanly tackles the ball. Their opponent then runs into the player.](https://www.youtube.com/watch?v=AKa17voHa2k)
 - [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
-
-## Jumps At
 
 Jumping is okay. Jumping (generally not straight up) at another player is not.
 
@@ -73,14 +68,14 @@ The player who charges into another player may remain standing or appear to have
 
 The Laws do mention anything about "shoulder to shoulder". Two player running a straight path to the ball who are even and whose shoulders make contact is fair.
 
-## Trips
+## Impeding the progress of an opponent
 
-Trips and "impeding the progress of an opponent with contact" are unique in that the player that initiates the contact does not commit a foul. An attempt to trip (esspecially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
+Trips and "impeding the progress of an opponent with contact" are unique in that the player that initiates the contact does not commit a foul. 
+
+An attempt to trip (esspecially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
 
 - [Foul. Although the player does not fall, the defender sticks his leg out and slows down the attacker.](https://youtu.be/ySYtHDT99aE?feature=shared&t=401)
 - [Foul. Although the attacker trips from the legs behind the defender, he still impedes his path.](https://youtu.be/FxcrgGIW_pw?feature=shared&t=962)
-
-## Impeding the progress of an opponent
 
 > Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
 >
@@ -90,13 +85,9 @@ Trips and "impeding the progress of an opponent with contact" are unique in that
 
 Impeding the progress of an opponent, often called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
 
-- [Direct free kick. A player runs into the path of the opponent and impedes the progress of an opponent although the player takes the brunt of the force and profusely starts to bleed.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s)
-- [Direct free kick. The defender is facing away from the ball and is not within playing distance.](https://youtu.be/79cBWbiWElA?feature=shared&t=657)
-- [A player fairly moves into the opponent's path to shield the ball that is within playing distance and the opponent kicks him. The only foul is for the kick.](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238)
-- [A player fairly moves into the opponent's path to shield the ball that is within playing distance and the opponent charges him. The only foul is for the charge.](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
-
-When a ball is passed, sometimes a player moves in a position to block the opponent from getting the ball when it is not in playing distance.
-- [Foul.](https://youtu.be/Ffqx5ZmthOg?feature=shared&t=5592)
+- Impeding with contact. [Direct free kick.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s), [Direct free kick.](https://youtu.be/79cBWbiWElA?feature=shared&t=657)
+- Fair shields but shielder gets fouled. [Example 1](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238), [Example 2](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
+- When a ball is passed, sometimes a player moves in a position to block the opponent from getting the ball. [Subjective.](https://youtu.be/Ffqx5ZmthOg?feature=shared&t=5592)
 
 ## Playing in a dangerous manner
 
@@ -109,7 +100,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 - a player on the ground trapping the ball, making it impossible for nearby opponents to play the ball. It is not an offense to play the ball while on the ground (like slide tackles or goalkeeper saves). [1](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
 - studs in an opponent's face or making a challenge leading with studs with an opponent nearby with no contact. It is not an offense to kick the ball that is above the head.
 - sitting on the ball, trapping the ball between the legs, or trapping the ball between the head and shoulder when an opponent is also challenging for the ball.
-- heading the ball while on the ground when an opponent is also challenging for the ball.
+- heading the ball while on the ground  when an opponent is also challenging for the ball.
 - a player uses the shoulders of a teammate to jump higher to head the ball <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
 
@@ -175,4 +166,3 @@ Even if you get complaints, always side on calling more fouls (including the sof
 > - the referee would not have applied the advantage
 >
 > Guidelines for Match Officials
-
