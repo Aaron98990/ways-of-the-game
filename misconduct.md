@@ -273,7 +273,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - blatantly committing handball unless the ball was leaving the field of play
   - interfering with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball, attempting to kick)
   - retaliation foul, including for perceived uncalled foul
-  - comitting or continuing to foul after the whistle blows
+  - comitting or continuing to foul after the whistle blows or after an obvious foul
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
