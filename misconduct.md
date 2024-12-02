@@ -268,10 +268,12 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
   - holding a player when they are ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking)
+    - this applies to the entire field of play, including the defensive third
     - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
-  - blatantly committing handball unless the ball was going out
-  - attempting to kick the ball the ball when the goalkeeper is releasing it
+  - blatantly committing handball unless the ball was leaving the field of play
+  - interfering with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball, attempting to kick)
   - retaliation foul, including for perceived uncalled foul
+  - comitting or continuing to foul after the whistle blows
 - excessive swearing that's not abusive
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
@@ -361,7 +363,7 @@ This section applies to a player, substitute or substituted player.
 - aggressive and avoidable contact with a match offical while dissenting that does not rise to violent conduct
   - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
-  - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
+  - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135), [Example 2](https://youtu.be/nqe85R5epyM?feature=shared&t=177)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup](/mobbing)
 - an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
