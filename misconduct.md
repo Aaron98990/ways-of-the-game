@@ -228,6 +228,7 @@ This is very subjective and a tool in the referee's toolbox. Here are some valid
 - A player committing too many fouls or
 - A team committing too many fouls, generally after a public warning or
 - A team committing too many fouls against one player, generally after a public warning
+- second or more player caught with jewellery during the match
 
 Please note that technically any offense in the Laws of the Game is eligible for this, but this usually applies to just fouls.
 
