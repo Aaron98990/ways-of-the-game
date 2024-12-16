@@ -162,7 +162,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - "Do I need to teach you how to ref? / Is this your first time reffing?" / "Where did you get you license?" / "Go back to ref school."
   - "My grandma could do better." / The AR could ref better.
 - Implying bias
-  - "Call it both ways." / "Call the game fairly"
+  - "Call it both ways." / "Call the game fairly" / "You know that's a foul"
   - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls" / "Hometown ref"
   - “Whose side are you on?” / “You hate us", "You hate Africans”  / "How much did they pay you?"
   - "Whose reffing the game, you or the spectators?"
