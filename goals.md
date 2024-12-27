@@ -86,7 +86,7 @@ Laws that will nullify a goal:
 
 In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball, the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
 
-## Extra person or outside interference
+## Extra person/outside interference
 
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
 > 
@@ -109,13 +109,15 @@ Similar idea applies above not only to extra people but to objects and animals. 
 > Outside agent: Any animal, object or structure, etc., as well as any person who is not a match official or on the team list (players, substitutes and team officials) Glossary
 
 > **Outside interference**
-> 
-> an extra ball, other object or animal enters the field of play during the match, the referee must:
-> - stop play (and restart with a dropped ball) only if it interferes with play - unless the ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team
-> - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
+> - a spectator blows a whistle which interferes with play - play is stopped and restarted with a dropped ball
+> - an extra ball, other object or animal enters the field of play during the match, the referee must:
+>   - stop play (and restart with a dropped ball) only if it interferes with play - unless the ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team
+>   - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
 > Law 5.3 Powers and duties
 
 - [No goal/dropped ball as the baloon ball interferes with play and prevented two defenders from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
+- [No goal/dropped ball as the baloon interferes with play and prevented a defender from playing the ball.](https://youtu.be/kXDetto0zpQ?feature=shared&t=182)
+- [No goal/dropped ball as a spectator blows a whistle and causes the player nearest the ball to stop playing.](https://youtu.be/HM8ri4KABFM?feature=shared)
 
 ## Goal signal
 
