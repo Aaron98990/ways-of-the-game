@@ -109,6 +109,7 @@ Similar idea applies above not only to extra people but to objects and animals. 
 > Outside agent: Any animal, object or structure, etc., as well as any person who is not a match official or on the team list (players, substitutes and team officials) Glossary
 
 > **Outside interference**
+> 
 > an extra ball, other object or animal enters the field of play during the match, the referee must:
 > - stop play (and restart with a dropped ball) only if it interferes with play - unless the ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team
 > - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
@@ -142,6 +143,7 @@ It is accepted that referees do not add enough additional time, so the losing te
 - [Should be double yellow card.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s), [Should be double yellow card](https://youtu.be/ArwmdgVJHVU?feature=shared&t=331)
 
 > **Celebration of a goal**
+> 
 > A player must be cautioned, even if the goal is disallowed, for:
 > - climbing onto a perimeter fence and/or approaching the spectators in a manner which causes safety and/or security issues
 > - acting in a provocative, derisory or inflammatory way
