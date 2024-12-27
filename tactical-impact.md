@@ -26,7 +26,7 @@ DOGSO (like offside) is a hard call to make because it requires match officials 
 - [PRO Referees - SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
 
 DOGSO can be separated in three situations: 
-- denial of goal (the ball was going in the goal) [DOGSO](https://youtu.be/tDpx9GGH79I?t=202)
+- denial of goal (the ball was going in the goal, generally handball near the goal line) [DOGSO](https://youtu.be/tDpx9GGH79I?t=202)
 - open goal (1 vs 0 - no goalkeeper in goal or generally when the goalkeeper commited the offense) 
 - defended goal (1 vs 1 - goalkeeper is in goal)
 
