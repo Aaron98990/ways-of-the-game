@@ -46,7 +46,7 @@ When a player believes they have been fouled and goes to ground, they will often
 > It is an offense if a player:
 > - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
 
-- [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / 
+- A slight motion is enough for deliberate handball. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball](https://www.youtube.com/watch?v=fLUxMRYJAso&ab_channel=SeanNicko)
 
 
 ## Unnaturally bigger
