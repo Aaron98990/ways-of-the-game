@@ -7,7 +7,7 @@
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
 
-- [Example 1 - No goal/ Dropped ball](https://www.tiktok.com/t/ZTF2U74Jy/)
+- [Example 1 - No goal/dropped ball](https://www.tiktok.com/t/ZTF2U74Jy/)
 
 > The ball is in play [..] when it rebounds off a goalpost, crossbar or corner flagpost and remains on the field of play.
 > - Law 9.2 Ball in play
@@ -64,7 +64,7 @@ Laws that will nullify a goal:
 >   
 > Law 9.1 Ball out of play
 
-- [No goal. The ball touches a match official then directly goes into the goal](https://youtu.be/MhWyCGQ9HDU)
+- [No goal/dropped ball. The ball touches a match official then directly goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
 > A player whose footwear or shinguard is lost accidentally must replace it as soon as possible and no later than when the ball next goes out of play; if before doing so the player plays the ball and/or scores a goal, the goal is awarded.
 > - Law 4.2 Compulsory equipment
@@ -95,7 +95,7 @@ In addition to the above, the [restarts](/restarts) section covers restart offen
 > - an outside agent who interfered with play unless a goal results as outlined [..] in ‘Extra persons on the field of play’; play is restarted with a dropped ball
 > - Law 3.9 Goal scored with an extra person on the field of play
 
-If the ball goes into the goal but the ball touched a spectator or ball kid that enters the field of play to block the goal, the goal should generally stand. If it's an animal or object that the ball touched, it's a dropped ball.
+If the ball goes into the goal but the ball touched a spectator or ball kid that enters the field of play to block the goal, the goal should generally stand.
 
 > If a ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team.
 > Law 3.7 Extra persons on the field of play
@@ -104,7 +104,7 @@ If the ball goes into the goal but the ball touched a spectator or ball kid that
 
 > If, after a goal is scored and play has restarted, the referee realises an extra person was on the field of play when the goal was scored, the goal cannot be disallowed. [..] The referee must report the incident to the appropriate authorities. Law 3.7
 
-Similar idea applies above not only to extra people but to objects and animals. Any extra person not on the team lists, object (including extra ball), or animal is called an outside agent.
+Similar idea applies above not only to extra people but to objects and animals. Any person not on the team lists, object (including extra ball), or animal is called an outside agent.
 
 > Outside agent: Any animal, object or structure, etc., as well as any person who is not a match official or on the team list (players, substitutes and team officials) Glossary
 
@@ -114,7 +114,7 @@ Similar idea applies above not only to extra people but to objects and animals. 
 > - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
 > Law 5.3 Powers and duties
 
-[The goal should of been disallowed as the baloon ball interferes with play and prevented the goalkeeper from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
+- [No goal/dropped ball as the baloon ball interferes with play and prevented two defenders from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
 
 ## Goal signal
 
