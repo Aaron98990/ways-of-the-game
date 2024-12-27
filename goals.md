@@ -164,18 +164,14 @@ It is accepted that referees do not add enough additional time, so the losing te
 
 ## Winning team
 
-> The team scoring the greater number of goals is the winner. If both teams score no goals or an equal number of goals, the match is drawn.
-> 
-> - Law 10.2 Winning team
+> The team scoring the greater number of goals is the winner. If both teams score no goals or an equal number of goals, the match is drawn. _Law 10.2 Winning team_
 
 Most matches where the score is tied will in a tie. The only exception is where competition rules require a winner.
 
 > When competition rules require a winning team after a drawn match or home-and-away tie, the only permitted procedures to determine the winning team are:
 > - away goals rule
 > - two equal periods of extra time not exceeding 15 minutes each
-> - penalties (penalty shoot-out)
->
-> - Law 10.2 Winning team
+> - penalties (penalty shoot-out) _Law 10.2 Winning team_
 
 > Away goals rule: goals scored away from home count double. Glossary
 
