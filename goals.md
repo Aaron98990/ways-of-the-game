@@ -86,7 +86,7 @@ Laws that will nullify a goal:
 
 In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball, the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
 
-## Goal after interference
+## Extra person or outside interference
 
 > If, after a goal is scored, the referee realises, before play restarts, that an extra person was on the field of play when the goal was scored, and that person interfered with play:
 > 
@@ -103,6 +103,18 @@ If the ball goes into the goal but the ball touched a spectator or ball kid that
 - [TODO - Super rare situation above. Does anyone have a video of it happening - send it in]
 
 > If, after a goal is scored and play has restarted, the referee realises an extra person was on the field of play when the goal was scored, the goal cannot be disallowed. [..] The referee must report the incident to the appropriate authorities. Law 3.7
+
+Similar idea applies above not only to extra people but to objects and animals. Any extra person not on the team lists, object (including extra ball), or animal is called an outside agent.
+
+> Outside agent: Any animal, object or structure, etc., as well as any person who is not a match official or on the team list (players, substitutes and team officials) Glossary
+
+> ### Outside interference
+> an extra ball, other object or animal enters the field of play during the match, the referee must:
+> - stop play (and restart with a dropped ball) only if it interferes with play - unless the ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team
+> - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
+> Law 5.3 Powers and duties
+
+[The goal should of been disallowed as the baloon ball interferes with play and prevented the goalkeeper from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
 
 ## Goal signal
 
@@ -129,8 +141,8 @@ It is accepted that referees do not add enough additional time, so the losing te
 
 - [Should be double yellow card.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s), [Should be double yellow card](https://youtu.be/ArwmdgVJHVU?feature=shared&t=331)
 
-The Laws do talk also talk about goal celebrations.
-
+> ### Celebration of a goal
+>
 > A player must be cautioned, even if the goal is disallowed, for:
 > - climbing onto a perimeter fence and/or approaching the spectators in a manner which causes safety and/or security issues
 > - acting in a provocative, derisory or inflammatory way
