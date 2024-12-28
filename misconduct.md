@@ -62,7 +62,10 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Mass Confrontations
 
-After a mass confrontation or a sent-off person needs to leave and remain out-of-sight and out-of-sound have the players go to their benches. Have the crew come together. In mass confrontation, write the sanctions then give it.
+After a mass confrontation or a sent-off person needs to leave and remain out-of-sight and out-of-sound:
+- have the players go to their benches
+- crew come together
+- In mass confrontation, collect/write the sanctions then give it
 
 - [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
 - [Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
