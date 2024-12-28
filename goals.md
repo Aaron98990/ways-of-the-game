@@ -163,6 +163,8 @@ It is accepted that referees do not add enough additional time, so the losing te
 > 
 > - Law 8.1 Kick-off
 
+If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored and ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before kick-off. If there is a scoreboard, they ensure the displayed score is correct before kick-off.
+
 ## Winning team
 
 > The team scoring the greater number of goals is the winner. If both teams score no goals or an equal number of goals, the match is drawn. _Law 10.2 Winning team_
