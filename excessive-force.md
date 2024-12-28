@@ -8,7 +8,7 @@ The Laws of the Game designates three levels of physical severity for misconduct
 >
 > Law 12.1 Direct Free Kicks
 
-The level of physical severity does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). 
+The level of physical severity does not depend on intention (deliberate or accidental), the score (blowout or not), or the number of fouls commited before (including if its a player, team, or the match's first foul). 
 
 > Serious foul play
 > 
