@@ -11,6 +11,7 @@ The Laws of the Game designates three levels of physical severity for misconduct
 The level of physical severity does not depend on:
 - intention (deliberate or accidental)
 - the score (blowout or close)
+- play not being stopped for advantage (including if the non-offending team scores)
 - the number of fouls commited before (including if it's a player, team, or the match's first foul)
 
 Whenever a player does these, they are taking an increased risk as its harder to pull out of a challenge and if contact is made with another player, it's more likely to injure them:
