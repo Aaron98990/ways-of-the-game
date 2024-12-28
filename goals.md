@@ -109,6 +109,7 @@ Similar idea applies above not only to extra people but to objects and animals. 
 > Outside agent: Any animal, object or structure, etc., as well as any person who is not a match official or on the team list (players, substitutes and team officials) Glossary
 
 > **Outside interference**
+> - the floodlights are inadequate
 > - a spectator blows a whistle which interferes with play - play is stopped and restarted with a dropped ball
 > - an extra ball, other object or animal enters the field of play during the match, the referee must:
 >   - stop play (and restart with a dropped ball) only if it interferes with play - unless the ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team
