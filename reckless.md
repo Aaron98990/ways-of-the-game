@@ -17,6 +17,7 @@ The level of physical severity does not depend on:
 - intention (deliberate or accidental)
 - the score (blowout or close)
 - play not being stopped for advantage (including if the non-offending team scores)
+- a penalty kick is given
 - the number of fouls commited before (including if it's a player, team, or the match's first foul)
 - the game type (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
 - a player's body (including short/tall, thin/fat - thin/short players don't get leeway to be dirty)
