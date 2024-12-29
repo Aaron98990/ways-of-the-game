@@ -22,7 +22,7 @@ The level of physical severity does not depend on:
 - the game type (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
 - a player's body (including short/tall, thin/fat - thin/short players don't get leeway to be dirty)
 - time in the match (including the first or last minute)
-- the temperature of the match (just because it's not heated, does not mean it's ignored)
+- low temperature of the match (just because it's not heated, does not mean it's ignored)
 - sportsmanship (including helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
 
 Do not make excuses. Referees do not sanction players enough for physcal severity. These are the type of fouls that cause injuries. 
