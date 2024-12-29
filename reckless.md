@@ -22,7 +22,7 @@ The level of physical severity does not depend on:
 - the game type (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
 - a player's body (including short/tall, thin/fat - thin/short players don't get leeway to be dirty)
 - time in the match (including the first or last minute)
-- the temperature of the match (just because it's not heated, does not mean you ignore it)
+- the temperature of the match (just because it's not heated, does not mean it's ignored)
 - sportsmanship (including helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
 
 Do not make excuses. Referees do not sanction players enough for physcal severity. These are the type of fouls that cause injuries. 
@@ -83,5 +83,5 @@ When a player jumps directly up and laterally, the risk to the any other player 
 
 A defender that comes in at a high rate of speed to trip someone should be cautioned. 
 
-When an opponent is jumping for a ball in the air you can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
+When an opponent is jumping for a ball in the air, a player can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
 - [Example 1](https://www.tiktok.com/t/ZPRW7qUWT/) / [Example 2](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
