@@ -8,20 +8,24 @@ The Laws of the Game designates three levels of physical severity for misconduct
 > 
 > Law 12.1 Direct Free Kicks
 
-The level of physical severity does not depend on:
-- intention (deliberate or accidental)
-- the score (blowout or close)
-- play not being stopped for advantage (including if the non-offending team scores)
-- the number of fouls commited before (including if it's a player, team, or the match's first foul)
-
 Whenever a player does these, they are taking an increased risk as its harder to pull out of a challenge and if contact is made with another player, it's more likely to injure them:
 - running
 - slide tackling
 - jumping
 
-Soccer has a reputation of being soft but the fact is that referees do not sanction players enough by a lot. Many of the video clips that are shown do not show the correct sanction.
+The level of physical severity does not depend on:
+- intention (deliberate or accidental)
+- the score (blowout or close)
+- play not being stopped for advantage (including if the non-offending team scores)
+- the number of fouls commited before (including if it's a player, team, or the match's first foul)
+- the game type (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
+- a player's body (including short/tall, thin/fat - thin/short players don't get leeway to be dirty)
+- time in the match (including the first or last minute)
+- the temperature of the match (just because it's not heated, does not mean you ignore it)
+- sportsmanship (including helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
 
-The Referee Channel on YouTube has a list of 80+ reckless challenges: check it out [here](https://www.youtube.com/playlist?list=PL4OiywE4asSdqTZIY2Lpw9ks2BY5ExiR9).
+Do not make excuses. Referees do not sanction players enough for physcal severity. These are the type of fouls that cause injuries. 
+- The Referee Channel on YouTube has a list of 80+ reckless challenges: check it out [here](https://www.youtube.com/playlist?list=PL4OiywE4asSdqTZIY2Lpw9ks2BY5ExiR9).
 
 ## Strikes at
 
