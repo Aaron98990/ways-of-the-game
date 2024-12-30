@@ -14,6 +14,8 @@ Stopping a Promising Attack is not defined in the Laws of the Game. The referee 
 
 ## DOGSO
 
+!> The Laws of the Game is deliberately and smartly vauge to give the referee the final say. I recommend a more forgiving DOGSO definition or even ignoring DOGSO for inexperienced kids or in lower level blowout games. 
+
 > The following must be considered:
 > - distance between the offense and the goal
 > - general direction of the play
