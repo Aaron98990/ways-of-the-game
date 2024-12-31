@@ -81,7 +81,7 @@ After a mass confrontation or a sent-off person needs to leave and remain out-of
 
 ## Warnings
 
-Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a public warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action).
+Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action). Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves. Also, particiapnts are more emotional (and exhausted) than logical.
 
 Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
@@ -136,12 +136,13 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
 - "I'm going to report you" (say name is on match report)
 - "Ask the assistant" (sometimes helpful to ask)
+- [Good heckling](/heckles.md)
 
 Players give information on how they want the game called. Take it in sometimes. 
 
-If you respond publically, keep your response brief (1-2 sentences). No need to respond again or be sucked into an argument. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called".
+If you respond publically (usually not needed), keep your response extremely brief (1-3 words) or use gestures only. No need to respond again or be sucked into an argument. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or better no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves. Also, particiapnts are more emotional (and exhausted) than logical.
 
-Obviously, game temperature or the accumulation of small things can lead for these to be considered dissent.
+Game temperature or the accumulation of small things can lead for these to be considered dissent.
 
 #### **Dissent by word**
 
