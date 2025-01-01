@@ -12,10 +12,12 @@ Be concise.
 
 Terms should align with the current Laws of the Game:
 - Do not use penalty spot, use penalty mark.
+- Do not use game, use match
+- Do not use field or pitch, use field of play.
 - Unsporting behavior not ungentlemanly conduct (outdated)
 - Do not use persistent infringement (outdated) for persistent offenses
 - Do not use linesman for assistant referee
-- Do not use center referee for referee. Do not use referees for match official.
+- Do not use center referee for referee. Do not use referees for match officials.
 
 Do not use acronyms or abbreviations other than YC, RC, FIFA, IFAB, SPA, and DOGSO. The pages should be easy to ready for everyone.
 - Do not use LotG or LOG, write out Law/Laws or Laws of the Game
