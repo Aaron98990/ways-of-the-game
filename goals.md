@@ -114,7 +114,7 @@ Similar idea applies above not only to extra people but to objects and animals. 
 > - an extra ball, other object or animal enters the field of play during the match, the referee must:
 >   - stop play (and restart with a dropped ball) only if it interferes with play - unless the ball is going into the goal and the interference does not prevent a defending player playing the ball, the goal is awarded if the ball enters the goal (even if contact was made with the ball) unless the interference was by the attacking team
 >   - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
-> Law 5.3 Powers and duties
+> _Law 5.3 Powers and duties_
 
 - [No goal/dropped ball as the baloon ball interferes with play and prevented two defenders from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
 - [No goal/dropped ball as the baloon interferes with play and prevented a defender from playing the ball.](https://youtu.be/kXDetto0zpQ?feature=shared&t=182)
@@ -132,9 +132,7 @@ _Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kick
 > 
 > When a goal has been scored but the ball appears still to be in play, the assistant referee must first raise the flag to attract the referee’s attention then continue with the normal goal procedure of running quickly 25–30 metres along the touchline towards the halfway line.
 > 
-> On occasions when the whole of the ball does not cross the goal line and play continues as normal because a goal has not been scored, the referee must make eye contact with the assistant referee and if necessary give a discreet hand signal.
-> 
-> - Guidelines for Match Officials 
+> On occasions when the whole of the ball does not cross the goal line and play continues as normal because a goal has not been scored, the referee must make eye contact with the assistant referee and if necessary give a discreet hand signal. _Guidelines for Match Officials_
 
 - [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701)
 - [The assistant referee raises their flag then runs along the touch line on a not clear goal.](https://youtu.be/8XVcUWf562k?feature=shared&t=294)
@@ -151,19 +149,16 @@ It is accepted that referees do not add enough additional time, so the losing te
 > - climbing onto a perimeter fence and/or approaching the spectators in a manner which causes safety and/or security issues
 > - acting in a provocative, derisory or inflammatory way
 > - covering the head or face with a mask or other similar item
-> - removing the shirt or covering the head with the shirt
-> - Law 12.3 Disciplinary Action
+> - removing the shirt or covering the head with the shirt _Law 12.3 Disciplinary Action_
 
 - [A player celebrating a goal approaches spectators in a manner which causes security issues and must be cautioned.](https://youtu.be/twUjLLSC3EY?feature=shared&t=746)
 - [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
 - [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
 - [A player acts in a provacative way by mimicking the goalkeeper failing to save the goal and must be cautioned.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=350)
 
-> after a team scores a goal, the kick-off is taken by their opponents
-> 
-> - Law 8.1 Kick-off
+> after a team scores a goal, the kick-off is taken by their opponents _Law 8.1 Kick-off_
 
-If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored and ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before kick-off. If there is a scoreboard, they ensure the displayed score is correct before kick-off.
+If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored and ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each kick-off.
 
 ## Winning team
 
@@ -176,6 +171,8 @@ Most matches where the score is tied will in a tie. The only exception is where 
 > - two equal periods of extra time not exceeding 15 minutes each
 > - penalties (penalty shoot-out) _Law 10.2 Winning team_
 
+Home-and-away matches are where the same two teams play two matches, one at each team's home field. The scores from both matches are added together and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Penalties are covered in Law 10.3. 
+
 > Away goals rule: goals scored away from home count double. Glossary
 
-Penalties are covered in Law 10.3.
+Some competitions use a points system (3 points for win, 1 point for tie, 0 points for a loss) and some competitions have play-offs but how a competition determines it's winner is dictated by the competition rules, not the Laws.
