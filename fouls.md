@@ -150,6 +150,10 @@ A lot of emphasis is put in being in the right position to make a call rather th
 
 Even if you get complaints, always side on calling more fouls (including the soft ones) and slowing the game down (being strict on free kick and throw-in position and ball rolling, asking player to come over to warn them, strictly following the substitution procedure with no substitute entering until the player they are replacing left the field of play and substitutes must enter at the midway line, tieing your shoes, not playing advantage unless clear promising attack, checking ball pressure) if you are new or unfamiliar with the teams, competition, or level of play. Calling a game loose from the start, which is common mistake for new referees in adult games, does not give you credibility and is a recipe for disaster. Loosen or tighten up the game as the game goes.
 
+There are three types of decisions: Instinctual/default/immediate, processed/delayed, and emotional/makeup/following the crowd. 
+- There are multiple times that I don't reach for the whistle or card immediatly. After some seconds of thinking, I put the pieces together or have someone (e.g. player/coach/spectator) spell it out for me and I agree but I feel like it's too late to make the call or it looks influenced. Don't be afraid to make processed/delayed calls even if the optics aren't great. Get the call correct.
+- Emotional/makeup/following the crowd call examples are giving the losing team the benefit of the doubt, calling something you don't see based on nearby player reactions, trying to balance foul count, making up for a call that you or some participants believed is incorrect
+
 > The [assistant referee] must raise the flag when a foul or misconduct is committed in the immediate vicinity or out of the referee’s vision. In all other situations, the AR must wait and offer an opinion if it is required and then inform the referee of what was seen and heard, and which players were involved.
 >
 > Before signalling for an offence, the [assistant referee] must determine that:
