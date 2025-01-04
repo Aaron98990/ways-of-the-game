@@ -153,6 +153,7 @@ Even if you get complaints, always side on calling more fouls (including the sof
 There are three types of decisions: Instinctual/default/immediate, processed/delayed, and emotional/makeup/following the crowd:
 - There are multiple times that I don't reach for the whistle or card immediatly but after realizing I'm wrong I feel like it's too late to make the call or it looks influenced. Don't be afraid to make processed/delayed calls even if the optics aren't great. Get the call correct. Examples include:
   - After some seconds of thinking I put the pieces together
+  - changing a restart or sanction
   - someone (e.g. player/coach/spectator) spells it out for me and I agree
   - talking with another match official
 - Emotional/makeup/following the crowd call examples are giving the losing team the benefit of the doubt, calling something you don't see based on nearby player reactions, trying to balance foul count, making up for a call that you or some participants believed is incorrect, making a call to get revenge for dissent
