@@ -19,8 +19,8 @@ The level of physical severity does not depend on:
 - play not being stopped for advantage (including if the non-offending team scores)
 - a penalty kick is given
 - the number of fouls commited before (including if it's a player, team, or the match's first foul)
-- the game type (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
-- a player's body (including short/tall, thin/fat - thin/short players don't get leeway to be dirty)
+- an "easy" or "practice" game (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
+- a player's small figure (thin/short players don't get leeway to be dirty)
 - time in the match (including the first or last minute)
 - low temperature of the match (just because it's not heated, does not mean it's ignored)
 - sportsmanship (including asking to stop play, helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
@@ -31,13 +31,13 @@ Do not make excuses. Referees do not sanction players enough for physcal severit
 
 ## Strikes at
 
-A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top. **Ask the player where they were hit**
+A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top. **Ask the player where they were hit.**
 
 Often time players move their arms out to know where there opponents are or to create space from their opponent or to shield the ball from an opponent. Even if accidental and even if the opponent's head is lower than usually (e.g. short player, when getting up from the ground), players take the risk of having there arms out like that. PRO Referees have an excellent write-up on the subject with video examples from the MLS: [Challenging with Hands/Arms](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
 
 - [Example 1](https://youtu.be/Zxnn7GNixcQ?t=876) / [Example 2](https://youtu.be/06lqnmddvKQ?t=142) / [Example 3](https://youtu.be/N9gHcVw_aws?t=714) / [Example 4](https://www.youtube.com/watch?v=nRJUKBI9Fnk&t=717s) / [Example 5](https://youtu.be/nRJUKBI9Fnk?t=711)
 
-**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken and just give the foul but give no cards.**
+**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been striken and just give the foul if it's in their defensive or middle third but give no cards.**
 
 ## Tackle / kicks
 
