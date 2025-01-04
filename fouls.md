@@ -89,13 +89,13 @@ Impeding the progress of an opponent, often called obstruction, is a direct free
 The restart is an indirect free kick. If the offense involves contact with an opponent it is not playing in a dangerous manner and a direct free kick should be given.
 
 - a player on the ground trapping the ball, making it impossible for nearby opponents to play the ball. It is not an offense to play the ball while on the ground (like slide tackles or goalkeeper saves). [1](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
-- studs in an opponent's face or making a challenge leading with studs with an opponent nearby with no contact. It is not an offense to kick the ball that is above the head.
-- sitting on the ball, trapping the ball between the legs, or trapping the ball between the head and shoulder when an opponent is also challenging for the ball.
-- heading the ball while on the ground  when an opponent is also challenging for the ball.
+- studs to an opponent's head or outstrached leg. It is not an offense to kick the ball that is above the head.
+- sitting on the ball, trapping the ball between the body (e.g. legs, head and shoulder) when an opponent is also challenging for the ball.
+- heading the ball while on the ground when an opponent is also challenging for the ball.
 - a player uses the shoulders of a teammate to jump higher to head the ball <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
 
-**Don't make it complicated: If anyone thinks its playing in a dangerous manner and they ae not just saying it because the ball was played on the ground, just call it.**
+**Don't make it complicated: If anyone thinks its playing in a dangerous manner and they are not just saying it because the ball was played on the ground, just call it.**
 
 ## Kicking/throwing an object
 > play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or interfered with play:
