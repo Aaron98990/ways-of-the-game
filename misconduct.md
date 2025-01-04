@@ -91,8 +91,8 @@ Things to avoid saying publically:
 
 Things to say publically:
 - My favorite warning is with gestures only - point at the player and gesture downwards.
-- We don't do that here
-- Be smart / Use your head / Dont do something stupid (often times accompanies by pointing to one's head)
+- We don't do that here / What are we doing?
+- Be smart / Use your head / Don't do something stupid (often times accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 
