@@ -90,20 +90,11 @@ Things to avoid saying publically:
 - In the pre-game and during the game: Do not tell players how you are going to call the game and what you are going to call and not call. Just do it.
 
 Things to say publically:
+- My favorite warning is with gestures only - point at the player and gesture downwards.
 - We don't do that here
 - Be smart / Use your head / Dont do something stupid (often times accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
-
-(Private 1v1) If you ask a player to come to you to caution them, tell them "come here" without mentioning the YC then:
-- don't card them until they come over or
-- if they don't come, go to them and show only the YC or
-- if you think it's not enough to be a second YC, ask them if they have been cautioned already before making a decision
-- if another player joins the 1v1 and they stay after warning, show the YC
-
-(Private 1v1) If you ask a player to come to you to warn them, tell them "come here" without mentioning it's a warning. If they don't come:
-- go to them and show the YC
-- [Funny Example.](https://www.youtube.com/watch?v=CZHZkJ7HzIE&ab_channel=FootballShorts)
 
 ## Cautions
 
