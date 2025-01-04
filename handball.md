@@ -54,7 +54,7 @@ When a player believes they have been fouled and goes to ground, they will often
 > It is an offense if a player:
 > - touches the ball with their hand/arm when it has made their body unnaturally bigger. A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation. By having their hand/arm in such a position, the player takes a risk of their hand/arm being hit by the ball and being penalised
 
-!> This is my interpretation. There is *a lot* of subjectivity in this.
+!> This is my interpretation that also considers the "spirit of the Law". There is *a lot* of subjectivity in this.
 
 > Not every touch of a player’s hand/arm with the ball is an offense.
 
@@ -69,26 +69,24 @@ When the arm is close to the body, it is not unnaturally bigger. On the goal lin
 > A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation.
 
 I make the distinction for identyifing the hand/arm as unnaturally bigger for these situations:
-- a attacker or neutral situation / no team clearly in possession (e.g. ball bouncing)
-- a defender
+- a attacker or neutral situation / no team clearly in possession (e.g. ball bouncing) or defender in their attacking half
+- a defender in their defensive half
 
-Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing): There is no leeway in these situations. It's handball if the player's hand/arm touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
+Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing) r defender in their attacking half: There is no leeway in these situations. It's handball if the player's hand/arm touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
 - The attacker's hand/arm makes contact with the ball. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
+- [Defender in their attacking half](https://youtu.be/PlFDQiy5TOg?feature=shared&t=128)
 
-Defender in the attacking third: Same as above. No leeway.
-- [Example](https://youtu.be/PlFDQiy5TOg?feature=shared&t=128)
-
-Defenders only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
+Defenders in their defensive half only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
 - Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
 - The entire arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
-Defenders only: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders or the shot is taken on goal.
+Defenders in their defensive half only: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders or the shot is taken on goal.
 - The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3) / [Not Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [Not Handball.](https://www.youtube.com/watch?v=E4a3ibwKnoM)
 - Shot on goal. [Handball](https://youtu.be/OfekZUATrwY?feature=shared&t=65)
 - The defender is attempting to head the ball. [Not handball](https://youtu.be/vmis513lhSY?feature=shared&t=230)
 - Remember an attacker gets no special exceptions if the hand/arm is bigger. [Handball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
-Defenders only: The ball hitting the hands/arm after a deflection from anyone (including oneself) does not negate a defender being unnaturally bigger and stopping the ball from going past them. 
+Defenders in their defensive half only: The ball hitting the hands/arm after a deflection from anyone (including oneself) does not negate a defender being unnaturally bigger and stopping the ball from going past them. 
 - The ball would not have gone past the defender if no hand/arm touch. [No handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346) / [No handball](https://youtu.be/pmcs39I2j1k?feature=shared&t=663)
 - The ball would have passed the defender if the hand/arm had not interfered. [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421) / [Handball.](https://www.youtube.com/shorts/_6hqiU4lqPM)
 
