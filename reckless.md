@@ -31,7 +31,7 @@ Do not make excuses. Referees do not sanction players enough for physcal severit
 
 ## Strikes at
 
-A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top.
+A strike to the neck or head will always be a caution or send-off unless negligible force is used. The challenging part of seeing strikes to the neck or head is that referees are often looking down at the ball or a player's feet so they miss what goes on at the top. **Ask the player where they were hit**
 
 Often time players move their arms out to know where there opponents are or to create space from their opponent or to shield the ball from an opponent. Even if accidental and even if the opponent's head is lower than usually (e.g. short player, when getting up from the ground), players take the risk of having there arms out like that. PRO Referees have an excellent write-up on the subject with video examples from the MLS: [Challenging with Hands/Arms](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/)
 
@@ -69,7 +69,7 @@ An American football style charge into an opponent will always be a caution or s
 
 - [Example 1](https://youtu.be/Zxnn7GNixcQ?t=678) / [Example 2](https://youtu.be/GBHiiU8lekE?t=420) / [Example 3](https://youtu.be/7cZpV_ZAfzw) / [Example 4](https://youtu.be/vR3DpyYTH2k)
 
-A shoulder charge to an opponent's head or neck that is not part of a face-to-face challenge.
+A shoulder charge to an opponent's head or neck that is not part of a face-to-face challenge. **Ask the player where they were hit**
 - [Example 1](https://youtu.be/GBHiiU8lekE?t=217)
 
 A charge into a person's back while the ball is relatively still is generally a yellow card.
