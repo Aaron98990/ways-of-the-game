@@ -95,6 +95,7 @@ Things to say publically:
 - Be smart / Use your head / Don't do something stupid (often times accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
+- Did you ask for permission to sub? (rather than saying I'll card you next time)
 
 ## Cautions
 
