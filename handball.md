@@ -46,7 +46,7 @@ When a player believes they have been fouled and goes to ground, they will often
 > It is an offense if a player:
 > - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
 
-- A slight motion is enough for deliberate handball. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball](https://www.youtube.com/watch?v=fLUxMRYJAso&ab_channel=SeanNicko)
+- A slight motion (even inward towards the body) is enough for deliberate handball. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball](https://www.youtube.com/watch?v=fLUxMRYJAso&ab_channel=SeanNicko)
 
 
 ## Unnaturally bigger
@@ -58,23 +58,24 @@ When a player believes they have been fouled and goes to ground, they will often
 
 > Not every touch of a player’s hand/arm with the ball is an offense.
 
-When the arm is close to the body, it is not unnaturally bigger. On the goal line, the amount of bigness of the hand/arms allowed is none due to the goal scoring opportunity. After the ball hits an arm, the arm may look farther apart then it originally was before the contact.
+When the arm is close to the body, it is not unnaturally bigger. After the ball hits an arm, the arm may look farther apart then it originally was before the contact.
 - The arm is close to the body and not bigger. [No handball.](https://www.youtube.com/watch?v=J2NYg4tmQa4) / [No handball.](https://www.youtube.com/watch?v=e9kbNnQWyXU)
 - The arm is in a "chicken wing" shape [Handball.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=293)
 - (More examples) The struck part is unnaturally bigger. [Handball.](https://youtu.be/vl1DSIjXPnQ?t=180) / [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=382) / [Handball.](https://youtu.be/Y0eWXnECHiw?feature=shared&t=165) / [Handball.](https://youtu.be/UbmKlHk2pgE?feature=shared&t=217) / [Handball.](https://youtu.be/6ipRs3c5WiU?feature=shared&t=151)
 <!-- Premier says the above (Leicester City v. Wolves 11/8/2020) is not a handball https://youtu.be/6ipRs3c5WiU?feature=shared&t=151 https://www.premierleague.com/news/2204759 in 1:15 of the video - I totally disagree.  -->
 - A natural running motion may or may not be considered unnaturally bigger depending on the context. [Subjective call.](https://youtu.be/SVhpgEAndsw?feature=shared&t=43)
-- A defender on or near the goal line, if the hand/arm is the first contact of the ball, it should be considered handball unless the arm is completely with the body. This includes a defender attempting to head the ball.  [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s) [Handball.](https://youtu.be/bg3psAYfOv8?feature=shared)
+
 
 > A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation.
 
 I make the distinction for identyifing the hand/arm as unnaturally bigger for these situations:
-- a attacker or neutral situation / no team clearly in possession (e.g. ball bouncing) or defender in their attacking half
+- a attacker or neutral situation / no team clearly in possession (e.g. ball bouncing) or defender in their attacking half or on/near the goal line
 - a defender in their defensive half
 
-Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing) r defender in their attacking half: There is no leeway in these situations. It's handball if the player's hand/arm touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. 
+Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing) or defender in their attacking half or on/near the goal line: There is no leeway in these situations. It's handball if the player's hand/arm touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. On the goal line, the amount of bigness of the hand/arms allowed is none due to the goal scoring opportunity.
 - The attacker's hand/arm makes contact with the ball. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
 - [Defender in their attacking half](https://youtu.be/PlFDQiy5TOg?feature=shared&t=128)
+- A defender on or near the goal line, if the hand/arm is the first contact of the ball, it should be considered handball unless the arm is completely with the body. This includes a defender attempting to head the ball.  [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s) [Handball.](https://youtu.be/bg3psAYfOv8?feature=shared)
 
 Defenders in their defensive half only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
 - Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
