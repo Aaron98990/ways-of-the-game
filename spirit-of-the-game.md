@@ -85,10 +85,10 @@ There is no need to kick the ball out for an injured player.
 
 There is a higher standard to earn a foul in the attacking third then compared to midfield or the defending third.
 
-## Subjective
-
 A player is the second-to-last defender and is technically offside by having one foot in their opponent's half and one foot in their own half but clearly understands they can't be in their opponent's half.
-- For recreational soccer, I have allowed this to slide twice.
+- For recreational soccer, I have allowed this to slide twice. I no longer consider this acceptable. I will communicate that they are in offside position and call the offense if they do it.
+
+## Subjective
 
 A foul occurs by the defense barely in the penalty area and is barely a foul.
 - For recreational soccer, rather than a penalty kick I have moved the foul right outside the penalty area since a penalty kick is too harsh.
