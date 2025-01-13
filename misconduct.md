@@ -266,10 +266,11 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
-  - holding a player who is ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking)
+  - holding a player who is ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking, locking arm to body)
     - this applies to the entire field of play, including the defensive third
     - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
     - the player being held often times stop playing, making the offense obvious
+    - a player that is being held (limiting their movement) tries to push the opponent off, they should not be cautioned unless they throw the opponent to the ground or anything else that is unreasonable
   - blatantly committing handball unless the ball was leaving the field of play
   - interfering with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball, attempting to kick)
   - retaliation foul, including for perceived uncalled foul
