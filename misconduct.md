@@ -178,6 +178,8 @@ Different match officials handle dissent/disagreement differently, but here's a 
  
 For any remark above: think if it was public or private and how it's delivered. If private and towards you or its delivery is weak, you may just go with a verbal warning or ignore completely, if you deem appropiate. If public and its delivery is condescending/demanding, you can't let your self be undermined as everyone will treat you with less respect so a caution is required.
 
+If the referee decides to give a caution for dissent and wants to stop play, make sure there is no advantage. The restart would be an indirect free kick at the spot of the offense.
+
 #### **Dissent by action**
 
 > - dissent by word or action
@@ -199,6 +201,8 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
 - complaining with no shirt on (tell them to go away - can't identify the player if it rises to dissent)
+
+If the referee decides to give a caution for dissent and wants to stop play, make sure there is no advantage. The restart would be an indirect free kick at the spot of the offense.
 
 Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
 
