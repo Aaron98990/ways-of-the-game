@@ -55,7 +55,7 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 
 ## Jumps at / charge / push / trip
 
-Any offense with a shoulder or body to a completely upright opponent's neck or head is generally excessive force after jumping non-laterally or charging shoulder first. **Ask the player where they were hit**
+Any offense with a shoulder or body to a completely upright opponent's neck or head is generally excessive force after jumping non-laterally or charging shoulder first. **Ask the player where they were hit** A shoulder to the front or back of a player's body (not the side) is generally a cuation. 
 - [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Serious Foul Play 4](https://youtu.be/I9Uybj3sKpA?feature=shared&t=518), [Serious Foul Play 5](https://youtu.be/hUVn1myV7FY?feature=shared&t=170), [Serious Foul Play 6](https://youtu.be/cGAVbgZfIWw?feature=shared&t=176) [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417) <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
 - [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
 
