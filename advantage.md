@@ -13,7 +13,7 @@ Just because a team maintains possession of the ball (e.g. the ball is played aw
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
-**If there is an injury due to an offense which the referee did not stop play for advantage, the referee should stop play when the offended player's team loses possession rather than having their team play short due to no fault of their own.**
+**If there is an injury due to an offense which the referee did not stop play for advantage, the referee should stop play when the offended player's team loses possession rather than having their team play short due to no fault of their own or during a nuetral opportunity where no promising attack.**
 - [The referee should stop play when the offending team gained possession.](https://youtu.be/eFxYX4x1za0?feature=shared&t=790)
 
 Advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
@@ -31,6 +31,8 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 > Advantage should not be applied in situations involving serious foul play, violent conduct or a second cautionable offense unless there is a clear opportunity to score a goal. The referee must send off the player when the ball is next out of play, but if the player plays the ball or challenges/interferes with an opponent, the referee will stop play, send off the player and restart with an indirect free kick, unless the player committed a more serious offense.
 > 
 > - Law 12.3 Disciplinary Action
+
+**If the referee wants to give a card after playing advantage, I recommend the referee to stop play when the non-offending team loses the ball or during a nuetral opporunity rather than letting the play countinue.**
 
 ### Advantage in the penalty area
 
