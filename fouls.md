@@ -143,7 +143,7 @@ Use different whistle lengths and volume. A softer whistle for a minor foul and 
 I recommend to never signal or announe "no foul" until it's clear that your lead assistant referee agrees its no foul. It looks bad to change after announcing no foul.
 
 A lot of emphasis is put in the referee being in the right position to make a call rather than whether a call or is correct or not. Being in the pocket or having the best angle to see the most things possible (pushing, holding, handball) is important. Vicinity, while less important than angle, helps sells the desision. 
-Being directly in front of or behind a players means you miss pulling, pushing ([Example](https://youtu.be/MKLLhW9krmM?feature=shared&t=353)), and telling if a slide tackle is fair. Being directly to the side means you are guessing on tripping, handball on the player's far side, any holding or pulling between two players who are side to side. 
+Being directly in front of or behind a players means you miss pulling, pushing ([Example](https://youtu.be/MKLLhW9krmM?feature=shared&t=353)), charging from the front/back and telling if a slide tackle is fair. Being directly to the side means you are guessing on tripping, handball on the player's far side, any charging, holding or pulling between two players who are side to side. 
 
 > The best position is one from which the referee can make the correct decision.
 >
