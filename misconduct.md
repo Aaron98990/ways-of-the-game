@@ -96,6 +96,7 @@ Things to say publically:
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 - Did you ask for permission to sub? (rather than saying I'll card you next time)
+- Don't do x. This isn't a suggestion. 
 
 ## Cautions
 
