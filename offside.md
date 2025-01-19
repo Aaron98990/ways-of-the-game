@@ -161,7 +161,7 @@ A save can be done by any opponent and not just the goalkeeper. The save does no
 
 > The first action of the AR for an offside decision is to raise the flag (using the right hand, giving the AR a better line of vision) and then, if the referee stops play, use the flag to indicate the area of the field of play in which the offence occurred [until the ball is in the correct position]. If the flag is not immediately seen by the referee, the AR must maintain the signal until it has been acknowledged or the ball is clearly in the control of the defending team.
 
-**When a no offside call is made, it helpful to call out the number of the second-to-last defender who kept the attacker onside. This shifts the framing of the referee called an offense against our team to X player did not hold the line.**
+**When a no offside call is made, it helpful to call out the number of the second-to-last defender who kept the attacker onside. This shifts the framing of the referee called an offense against our team to X player did not hold the line. If it's not close, say it's not even close.**
 
 **When a player is in an offside position and may not understand they are, tell them. Like when a player has a foot on each side of the field, tell the player they are not in their own half and call offside although no advantage is gained by being two feet offside.**
 
