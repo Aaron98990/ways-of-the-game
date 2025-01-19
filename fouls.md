@@ -138,12 +138,12 @@ This is an offense - not a foul. Please note the exception if the ball enters th
 ## Other guidnace
 The thirds - a soccer field can be divided into the defensive third, middle third, and offensive third. Fouls in the defensive third are the easiest to get while fouls in the offenive third are harder to get due to their advantagous restart.
 
-Use different whistle lengths and volume. A softer whistle for a minor foul and a longer and louder whistle for a harder foul. Use stong body language and voice to show confidence and help control the match. 
+Use different whistle lengths and volume. A softer whistle for a minor foul and a longer and louder whistle for a harder foul. Use stong body language and voice to show confidence and help control the match. The tone of your voice are more important than the words you say: your tone should never be meandering, soft, or sound like a suggestion or you'll be ignored everytime; it should be strong, conscise, explicit, and authoratative. 
 
 I recommend to never signal or announe "no foul" until it's clear that your lead assistant referee agrees its no foul. It looks bad to change after announcing no foul.
 
 A lot of emphasis is put in the referee being in the right position to make a call rather than whether a call or is correct or not. Being in the pocket or having the best angle to see the most things possible (pushing, holding, handball) is important. Vicinity, while less important than angle, helps sells the desision. 
-Being directly in front of or behind a players means you miss pulling, pushing ([Example](https://youtu.be/MKLLhW9krmM?feature=shared&t=353)), charging from the front/back and telling if a slide tackle is fair. Being directly to the side means you are guessing on tripping, handball on the player's far side, any charging, holding or pulling between two players who are side to side. 
+Being directly in front of or behind a players means you miss pulling, pushing ([Example](https://youtu.be/MKLLhW9krmM?feature=shared&t=353)), charging from the front/back and telling if a slide tackle is fair. Being directly to the side means you are guessing on tripping; handball on the player's far side and charging, holding or pulling between two players who are side to side. 
 
 > The best position is one from which the referee can make the correct decision.
 >
@@ -152,6 +152,7 @@ Being directly in front of or behind a players means you miss pulling, pushing (
 Even if you get complaints, always side on calling more fouls (including the soft ones) and slowing the game down (being strict on free kick and throw-in position and ball rolling, asking player to come over to warn them, strictly following the substitution procedure with no substitute entering until the player they are replacing left the field of play and substitutes must enter at the midway line, tieing your shoes, not playing advantage unless clear promising attack, checking ball pressure) if you are new or unfamiliar with the teams, competition, or level of play. Calling a game loose from the start, which is common mistake for new referees in adult games, does not give you credibility and is a recipe for disaster. Loosen or tighten up the game as the game goes.
 
 There are three types of decisions: Instinctual/default/immediate, processed/delayed, and emotional/makeup/following the crowd:
+- For instinctual/default/immediate, slow down a second a two to allow for advantage or when giving a card as it may come off unnessairly aggressive.
 - There are multiple times that I don't reach for the whistle or card immediatly but after realizing I'm wrong I feel like it's too late to make the call or it looks influenced. Don't be afraid to make processed/delayed calls even if the optics aren't great. Get the call correct. Examples include:
   - After some seconds of thinking I put the pieces together
   - changing a restart or sanction
