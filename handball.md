@@ -69,30 +69,36 @@ When the arm is close to the body, it is not unnaturally bigger. After the ball 
 > A player is considered to have made their body unnaturally bigger when the position of their hand/arm is not a consequence of, or justifiable by, the player’s body movement for that specific situation.
 
 I make the distinction for identyifing the hand/arm as unnaturally bigger for these situations:
-- a attacker or neutral situation / no team clearly in possession (e.g. ball bouncing) or defender in their attacking half or on/near the goal line
-- a defender in their defensive half
+- no forgivness category
+  - a attacker or
+  - neutral situation / no team clearly in possession (e.g. ball bouncing) or
+  - defender in their attacking half or
+  - defender handball leads to a promising attack or
+  - defender on/near the goal line
+- forgivness category
+  - a defender in their defensive half and defender handball does not lead to a promising attack
 
-Attackers or neutral situation / no team clearly in possession (e.g. ball bouncing) or defender in their attacking half or on/near the goal line: There is no leeway in these situations. It's handball if the player's hand/arm touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. On the goal line, the amount of bigness of the hand/arms allowed is none due to the goal scoring opportunity.
+No forgivness category: There is no leeway in these situations. It's handball if the player's hand/arm is bigger (by not being completely against the body) and touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. The amount of bigness of the hand/arms allowed is none due to its advantage it causes. 
 - The attacker's hand/arm makes contact with the ball. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
 - [Defender in their attacking half](https://youtu.be/PlFDQiy5TOg?feature=shared&t=128)
 - A defender on or near the goal line, if the hand/arm is the first contact of the ball, it should be considered handball unless the arm is completely with the body. This includes a defender attempting to head the ball.  [Handball.](https://youtu.be/oqCT_nKp4Xo?feature=shared&t=6m45s) [Handball.](https://youtu.be/bg3psAYfOv8?feature=shared)
 
-Defenders in their defensive half only: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
+Forgivness category: When a defender falls and the hand (and not any other part of arm) is or about to be on the ground to support the body, this is not unnaturally bigger since the hand/arm position is justifiable for this situation. We do not want player hitting their head on the ground.
 - Only the defender's hand is on the ground to support the body after falling. [No handball.](https://www.youtube.com/watch?v=TtMFMXjQCzg) / [No handball.](https://youtu.be/vX6ew_5DKug?feature=shared&t=173)
 - The entire arm is on the ground to support the body after falling. [Handball.](https://youtu.be/DRCGQXnPBj0?feature=shared&t=227)
 
-Defenders in their defensive half only: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders or the shot is taken on goal.
+Forgivness category: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders or the shot is taken on goal.
 - The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3) / [Not Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [Not Handball.](https://www.youtube.com/watch?v=E4a3ibwKnoM)
 - Shot on goal. [Handball](https://youtu.be/OfekZUATrwY?feature=shared&t=65)
 - The defender is attempting to head the ball. [Not handball](https://youtu.be/vmis513lhSY?feature=shared&t=230)
 - Remember an attacker gets no special exceptions if the hand/arm is bigger. [Handball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
-Defenders in their defensive half only: The ball hitting the hands/arm after a deflection from anyone (including oneself) does not negate a defender being unnaturally bigger and stopping the ball from going past them. 
-- The ball would not have gone past the defender if no hand/arm touch. [No handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346) / [No handball](https://youtu.be/pmcs39I2j1k?feature=shared&t=663)
+Forgivness category: The ball hitting the hands/arm after a deflection from a different player does not negate a defender being unnaturally bigger and stopping the ball from going past them. The ball hitting the hands/arm after a deflection from themself is okay if they get signficant contact before hitting the arm/hand.
+- The ball would not have gone past the defender if no hand/arm touch. [No handball.](https://youtu.be/SVhpgEAndsw?feature=shared&t=68) / 
 - The ball would have passed the defender if the hand/arm had not interfered. [Handball.](https://youtu.be/rN9I23szfx4?feature=shared&t=421) / [Handball.](https://www.youtube.com/shorts/_6hqiU4lqPM)
+- Signicant touch before handball from self [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346) / [No handball](https://youtu.be/pmcs39I2j1k?feature=shared&t=663)
 
-
-Defenders only in defensive third: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body). 
+Forgivness category: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body). 
 - Not handball. The defender deliberately clears the ball into their own hand/arm. [Example 1.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Example 2.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Example 3.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153) / [Example 4 - Deliberate play but slipped](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 - Not handball. The defender deliberately clears the ball into their team-mates hand/arm and the ball is played away from goal. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454) / [Example 2](https://youtu.be/h_M-c9ZeJ8g?feature=shared&t=68) / [Exampe 3](https://youtu.be/NYLM7umIYDE?feature=shared&t=530)
 
