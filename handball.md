@@ -73,10 +73,10 @@ I make the distinction for identyifing the hand/arm as unnaturally bigger for th
   - a attacker or
   - neutral situation / no team clearly in possession (e.g. ball bouncing) or
   - defender in their attacking half or
-  - defender handball leads to a promising attack or
+  - defender hand/arm contact with ball leads to a promising attack or
   - defender on/near the goal line
 - forgivness category
-  - a defender in their defensive half and defender handball does not lead to a promising attack
+  - a defender in their defensive half and defender hand/arm contact with ball does not lead to a promising attack
 
 No forgivness category: There is no leeway in these situations. It's handball if the player's hand/arm is bigger (by not being completely against the body) and touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. The amount of bigness of the hand/arms allowed is none due to its advantage it causes. 
 - The attacker's hand/arm makes contact with the ball. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
@@ -112,13 +112,12 @@ Forgivness category: A defender deliberately clearing or deliberately saving the
 Accidental handball is challenging to enforce as the referee will be screened as the attacker will be facing the goal.
 
 - No goal. The ball contacts the hand/arm then immediately goes into the goal. [Example 1](https://youtu.be/_MQpnvxeE9g?t=352)
-- Ignoring that this is handball for being unnaturally bigger, the time period before the hand/arm and ball contact and the goal is not immediate. [Example 1](https://youtu.be/WicGa2_Fw5Q?t=285)
+- Ignoring that this is handball for being unnaturally bigger with my interpretation, the time period before the hand/arm and ball contact and the goal is not immediate. [Example 1](https://youtu.be/WicGa2_Fw5Q?t=285)
 
 
 ## Disciplinary Action
 
-If goalkeeper commits a handball offense (as discussed in the [goalkeeper section](/goalkeeper)) in their own penalty area and there are no other offenses, there is never a sanction/disciplinary sanction even if there was tactical impact. 
-- Otherwise, if the handball offense had tactical impact, the proper sanction is talked about in the [tactical impact section](/tactical-impact).
+If goalkeeper commits a handball offense (as discussed in the [goalkeeper section](/goalkeeper)) in their own penalty area and there are no other offenses, there is never a sanction/disciplinary sanction for tactical impact. In all other cases (for all players), if the handball offense had tactical impact, the proper sanction is talked about in the [tactical impact section](/tactical-impact).
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful)
