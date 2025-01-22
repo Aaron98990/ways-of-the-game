@@ -139,9 +139,9 @@ _Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kick
 
 ## After a goal
 
-It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. 
+It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility. *The referee should be in the goal area immediatly after a goal to prevent tussles for the ball*
 
-- [Should be double yellow card.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s), [Should be double yellow card](https://youtu.be/ArwmdgVJHVU?feature=shared&t=331)
+- [Should be double yellow card.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s), [Should be double yellow card](https://youtu.be/ArwmdgVJHVU?feature=shared&t=331), [Example 3](https://youtu.be/jZp1vp-rQ7U?feature=shared)
 
 > **Celebration of a goal**
 > 
