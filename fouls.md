@@ -142,6 +142,8 @@ Use different whistle lengths and volume. A softer whistle for a minor foul and 
 
 I recommend to never signal or announe "no foul" until it's clear that your lead assistant referee agrees its no foul. It looks bad to change after announcing no foul.
 
+Watch out for the triple bounce. This occurs when an attacker kicks or plays the ball forward, then the defender is able to kick/play the ball back, then the ball bounces back from the attacker forward. If the referee is not looking closely enough, it may look like the defender never got the ball and look like a foul but unless the defender did a deliberate secondary motion this is never foul. [TODO add video]
+
 A lot of emphasis is put in the referee being in the right position to make a call rather than whether a call or is correct or not. Being in the pocket or having the best angle to see the most things possible (pushing, holding, handball) is important. Vicinity, while less important than angle, helps sells the desision. 
 Being directly in front of or behind a players means you miss pulling, pushing ([Example](https://youtu.be/MKLLhW9krmM?feature=shared&t=353)), charging from the front/back and telling if a slide tackle is fair. Being directly to the side means you are guessing on tripping; handball on the player's far side and charging, holding or pulling between two players who are side to side. 
 
