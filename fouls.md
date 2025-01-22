@@ -170,3 +170,5 @@ There are three types of decisions: Instinctual/default/immediate, processed/del
 > - the referee would not have applied the advantage
 >
 > Guidelines for Match Officials
+
+When the assistant referee is signalling, please continue to pay attention to the players and don't get too focused on looking at the referee or you may miss something. [Example](https://youtu.be/hs4880t5I7Y?feature=shared&t=11)
