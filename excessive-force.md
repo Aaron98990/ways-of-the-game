@@ -62,7 +62,7 @@ Any offense with a shoulder or body to a completely upright opponent's neck or h
 - [Serious Foul Play 1](https://youtu.be/u-y3AiAm2pI?t=269), [Serious Foul Play 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [Serious Foul Play 3](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Serious Foul Play 4](https://youtu.be/I9Uybj3sKpA?feature=shared&t=518), [Serious Foul Play 5](https://youtu.be/hUVn1myV7FY?feature=shared&t=170), [Serious Foul Play 6](https://youtu.be/cGAVbgZfIWw?feature=shared&t=176) [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417) <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
 - [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
 
-The flying knee. A knee to an opponent after jumping a distance is excessive force. [Serios Foul Play](https://youtu.be/4DrJ1SciVfc?t=197&feature=shared) 
+The flying knee. A knee to an opponent after jumping non-vertically is excessive force. [Serios Foul Play](https://youtu.be/4DrJ1SciVfc?t=197&feature=shared) 
 
 Any offense where there is no attempt to challenge for or play the ball that causes an opponent's head or neck to directly hit a fixed object (the ground, goalpost, wall) is generally excessive force.
 - [Undercut - Head to ground - Violent Conduct](https://youtu.be/QEU4KZdTRMM?feature=shared&t=68)
@@ -77,8 +77,8 @@ When the ball is out of play; the ball has cleary been held by the goalkeeper fo
 Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and show the marks from the studs penetrating the skin with clear stud outlines before making a decision - it is okay to make or change a decision based on the injury in this case. If skin is red with no penetration and no stud outlines, studs grazed the skin is usually just a caution.**
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
-Studs on a player's foot that occurs after a slide, jump, or lunge should be excessive force.
-- [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM), [Serious Foul Play 1](https://youtu.be/CP5o_bPAYrg?feature=shared&t=751), [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
+Studs on a player's foot that occurs after a slide, jump (with legs togther or outstretched), or lunge should be excessive force.
+- [Serious Foul Play](https://youtu.be/I9Uybj3sKpA?t=494&feature=shared),  [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks) **Ask the player where they were hit**
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220), [Serious Foul Play 2](https://youtu.be/8kmliIasCfQ?feature=shared&t=63)
