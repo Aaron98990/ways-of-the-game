@@ -127,6 +127,8 @@ The referee channel has a list of 21 videos of examples of this that are availab
 
 > A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.3
 
+This includes attempting to go for the ball (e.g. heading or kicking) which is close-by but not touching it. [Example 1](https://youtu.be/6KkDUpTBBtM?feature=shared)
+
 - [The ball is put into play after the referee measured distance for a free kick. The player is cautioned. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2876)
 
 ## Double touch by restart taker
