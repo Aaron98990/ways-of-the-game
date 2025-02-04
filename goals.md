@@ -24,6 +24,7 @@ Seeing green grass under the ball does not mean a goal has been scored.
 
 Be aware of these situations near a goal:
 
+- Ensure there is no ball within the nets as it may cause confusion
 - The ball leaving/entering the nets through a hole [Example 1](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports), [Example 2](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
 - The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play
 - The ball hitting the goal net or goal/netting support (e.g. wheel) inside the goal but not completely crossing the goal line
