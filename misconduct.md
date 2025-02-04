@@ -263,7 +263,7 @@ Unsporting behaviour is a caution.
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - stepping over, staring down, picking up, or standing unnessairly close an opponent on the ground
+  - stepping over, staring down, picking up, or standing unnessairly close to an opponent on the ground
   - clapping, signaling the score, pointing, or any gesture at an opponent's face
   - imitating, mocking, or celebrating near an opponent
   - doing push ups over the ball or sitting on the ball when the ball is in play
@@ -271,7 +271,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
-  - holding a player who is ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking, hooking - locking arm to body)
+  - holding a player who is ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking, hooking - locking arm to body) or holding/pulling a player's pants (due to sensitive nature)
     - this applies to the entire field of play, including the defensive third
     - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
     - the player being held often times stop playing or immediatly turn around, making the offense obvious
