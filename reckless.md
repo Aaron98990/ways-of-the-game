@@ -23,8 +23,8 @@ The level of physical severity does not depend on:
 - a player's small figure (thin/short players don't get leeway to be dirty)
 - time in the match (including the first or last minute)
 - low temperature of the match (just because it's not heated, does not mean it's ignored)
-- sportsmanship (including asking to stop play, helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
-- apparent injury (on the ground or standing up, offender being injured does not give them immunity)
+- sportsmanship (including asking to stop play or medical help, helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
+- apparent injury (on the ground or standing up, the person is unphased by the offense, offender being injured does not give them immunity)
 
 Do not make excuses. Referees do not sanction players enough for physcal severity. These are the type of fouls that cause injuries. 
 - The Referee Channel on YouTube has a list of 80+ reckless challenges: check it out [here](https://www.youtube.com/playlist?list=PL4OiywE4asSdqTZIY2Lpw9ks2BY5ExiR9).
