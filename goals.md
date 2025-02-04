@@ -176,4 +176,4 @@ Home-and-away matches are where the same two teams play two matches, one at each
 
 > Away goals rule: goals scored away from home count double. Glossary
 
-Some competitions use a points system (3 points for win, 1 point for tie, 0 points for a loss) and some competitions have play-offs but how a competition determines it's winner is dictated by the competition rules, not the Laws.
+Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both systems but how a competition determines it's winner is dictated by the competition rules, not the Laws.
