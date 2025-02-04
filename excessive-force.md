@@ -12,7 +12,14 @@ The level of physical severity does not depend on:
 - intention (deliberate or accidental)
 - the score (blowout or close)
 - play not being stopped for advantage (including if the non-offending team scores)
+- a penalty kick is given
 - the number of fouls commited before (including if it's a player, team, or the match's first foul)
+- an "easy" or "practice" game (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
+- a player's small figure (thin/short players don't get leeway to be dirty)
+- time in the match (including the first or last minute)
+- low temperature of the match (just because it's not heated, does not mean it's ignored)
+- sportsmanship (including asking to stop play or medical help, helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
+- apparent injury (on the ground or standing up, the person is unphased by the offense, offender being injured does not give them immunity)
 
 > Serious foul play
 > 
