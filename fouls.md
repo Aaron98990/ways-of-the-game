@@ -172,3 +172,5 @@ There are three types of decisions: Instinctual/default/immediate, processed/del
 > Guidelines for Match Officials
 
 When the assistant referee is signalling, please continue to pay attention to the players and don't get too focused on looking at the referee or you may miss something. [Example](https://youtu.be/hs4880t5I7Y?feature=shared&t=11)
+
+Please use offical signals for fouls or misconduct. A thumbs up/down, shaking the flag while it's down, using your arm instead of the flag, or pitting hand on badge/back pocket for misconduct or shaking your head  will be misinterpreted. If you signal, commit to the signal until referee waves you down. 
