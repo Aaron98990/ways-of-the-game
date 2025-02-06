@@ -51,7 +51,7 @@ Striking with the hand/arm is one of the most serious offenses in the game (elbo
 Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind).
 - [Violent Conduct](https://www.tiktok.com/t/ZTYydCBy5/), [Not a clothesline as not straight arm but wrapped](https://youtu.be/mHhim5gIfWw?feature=shared&t=152)
 
-Deliberate hair pulling has no part in soccer. It is always violent conduct even with minimal force. 
+Deliberate hair pulling is violent conduct unless neglibile. 
 - [Violent Conduct](https://youtu.be/-IMnaZs6dps?feature=shared), [Violent Conduct](https://youtu.be/Qxv7Ix6VHlI?feature=shared&t=585)
 
 If someone deliberately strikes the ball at someone (by throwing or kicking it) with high intensity or at the face or neck with any intensity, it is violent conduct. If it does not rise to violent conduct and is foul, it is generally reckless. A player can deliberately strike the ball at an opponent when the ball is in play, if not reckless, careless, or using excessive force. PRO has a write up about kicking the ball at someone [here](https://proreferees.com/2021/06/10/pro-insight-kicking-the-ball-at-an-opponent/)
