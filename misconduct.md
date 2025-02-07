@@ -271,11 +271,16 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
-  - holding a player who is ahead or holding/pulling a player to the ground or refusing to let go of a player (e.g leg-locking, hooking - locking arm to body) or holding/pulling a player's pants (due to sensitive nature)
-    - this applies to the entire field of play, including the defensive third
-    - front holding is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
-    - the player being held often times stop playing or immediatly turn around, making the offense obvious
-    - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
+  - certain holding plays
+    - holding a player who is ahead and going to their goal
+      - this applies to the entire field of play, including the defensive third
+      - the player being held often times stop playing or immediatly is twisted/turns around, making the offense obvious if you don't see it
+    - refusing to let go of a player or leg-locking or hooking (locking opponent's arm to body or locking opponent's arm by wrapping/closing the arm)
+      - this needs multiple strong whistles to avoid retaliation or mass confrontation
+      - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
+    - holding/pulling a player's pants (due to sensitive nature)
+    - after multiple instances of holding/pulling a player to the ground
+    - after multiple instances of front holding which is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
   - blatantly committing handball unless the ball was leaving the field of play
   - interfering with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball, attempting to kick)
   - retaliation foul, including for perceived uncalled foul
