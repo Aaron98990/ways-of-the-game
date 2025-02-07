@@ -70,6 +70,8 @@ After a mass confrontation or a sent-off person needs to leave and remain out-of
 - [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
 - [Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
 
+Mass confrontations rarely happen in women's soccer.
+
 ## Penalties
 
 > A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
@@ -266,8 +268,9 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - stepping over, staring down, picking up, or standing unnessairly close to an opponent on the ground
   - clapping, signaling the score, pointing, or any gesture at an opponent's face
   - imitating, mocking, or celebrating near an opponent
+  - running up to an oppoent after a percieved foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
-  - trash talking (talking about being gay/straight or someone's appearance, height, skill, or equipment)
+  - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
