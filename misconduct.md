@@ -92,7 +92,7 @@ Things to avoid saying publically:
 - In the pre-game and during the game: Do not tell players how you are going to call the game and what you are going to call and not call. Just do it.
 
 Things to say publically:
-- My favorite warning is with gestures only - point at the player and gesture downwards.
+- My favorite warning is with gestures only - call the player's number and gesture downwards or figer wag.
 - We don't do that here / What are we doing?
 - Be smart / Use your head / Don't do something stupid (often times accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
