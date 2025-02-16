@@ -102,6 +102,8 @@ Things to say publically:
 
 ## Cautions
 
+Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown so everyone knows a card was given. 
+
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
 
