@@ -42,6 +42,10 @@ Temporarily dismissing a player (sin bin) is in the Laws [here](https://www.thei
 > 
 > Law 3.6 Players and substitutes sent off
 
+During a substitution, until the player leaves the field and the substitute enters the field, they are considered a player.
+
+> The substitution is completed when a substitute enters the field of play; from that moment, the replaced player becomes a substituted player and the substitute becomes a player and can take any restart. Law 3.3
+
 Game(s) suspension other than listed above or fines for a send-off or accumulating cautions is found in the competition rules, not in the Laws of the Game. Usually, it's at least a one game suspension for a sending-off. 
 
 > A player, substitute or substituted player who has been sent off must leave the vicinity of the field of play and the technical area.
@@ -50,7 +54,14 @@ Many times competition rules will require the sent-off adult participant to be o
 
 > A match may not start or continue if either team has fewer than seven players. Law 3.1
 
-(Please note penalties exception below) If a team only has 10 players with no subs and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game. The team would only have six players which is lower than the required seven players. 
+If a team only has 10 players with no substitutes and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game unless it's during penalties. The team would only have six players which is lower than the required seven players. 
+
+> A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
+>
+> Substitutions and sendings-off during penalties (penalty shoot-out):
+> - The referee must not abandon the match if a team is reduced to fewer than seven players
+> 
+> Law 9 Determining a winner
 
 ## After play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
@@ -66,20 +77,10 @@ After a mass confrontation or a sent-off person needs to leave and remain out-of
 - have the players go to their benches
 - crew come together
 - In mass confrontation, collect/write the sanctions then give it
-
 - [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
 - [Example of secondary confrontation after referee fails to separate teams.](https://youtu.be/w6xm6H6_bFI?feature=shared&t=506)
 
 Mass confrontations rarely happen in women's soccer.
-
-## Penalties
-
-> A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
->
-> Substitutions and sendings-off during penalties (penalty shoot-out):
-> - The referee must not abandon the match if a team is reduced to fewer than seven players
-> 
-> Law 9 Determining a winner
 
 ## Warnings
 
@@ -102,7 +103,7 @@ Things to say publically:
 
 ## Cautions
 
-Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown so everyone knows a card was given. 
+Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown unless immediatly after a foul. This is so everyone knows a card was given. 
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
@@ -137,7 +138,9 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 
 Players give information on how they want the game called. Take it in sometimes. 
 
-If you respond publically (usually not needed even for statements disguised as questions), keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including clever comebacks) or be sucked into an argument. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or better no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
+If you respond publically (usually not needed even for statements disguised as questions), keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or better no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
+
+If there needs to be an extended conversation with someone, stand side to side right next to each other as face to face leads to a more confrontational/emotional attitute.
 
 Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, esspecially when a team expects to win.
 
