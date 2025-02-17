@@ -25,7 +25,7 @@ Footballl associations (FAs) often create codes for misconduct. In the United St
 
 A referee can show yellow and red cards when they enter the field of play to start the match until they leave the field of play after the match ends including during the coin toss, national anthem, half-time, the referee/player walkout, and after the final whistle and before the referee left the field.
 
-- [The referees sends off and shows a red card for a player and some team officials after the match.](https://youtu.be/1ThajxMxIOI?t=605)
+- [The referees sends off and shows a red card after the match.](https://youtu.be/1ThajxMxIOI?t=605)
 
 A referee can caution or send-off someone without showing cards (e.g they forgot or lost them) by communicating that decision to everyone (e.g verbally). This was how misconduct was applied for players until yellow and red cards were used in the 1970 World Cup. 
 
@@ -73,7 +73,7 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Mass Confrontations
 
-Do not try to be in the middle to break them up just from the outside watch and write players for sanctions. 
+The referee should not try to break up a mass confrontation. From the outside, watch and write players for sanctions. 
 - [PRO Write up](https://proreferees.com/2017/06/28/play-of-the-week-17-mass-confrontation/)
 
 After a mass confrontation or a sent-off person needs to leave and remain out-of-sight and out-of-sound:
@@ -141,9 +141,9 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 
 Players give information on how they want the game called. Take it in sometimes. 
 
-If you respond publically (usually not needed even for statements disguised as questions), keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or better no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
+If you respond publically (usually not needed even for statements disguised as questions), keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument/lecture. Just walk away and restart play/leave. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or use no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
 
-If there needs to be an extended conversation with someone, stand side to side right next to each other as face to face leads to a more confrontational/emotional attitute.
+If there needs to be a private extended conversation with a team official, stand side to side with them instead of face to face leads to a more confrontational/emotional attitute.
 
 Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, esspecially when a team expects to win.
 
@@ -211,7 +211,7 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
-- complaining with no shirt on (tell them to go away - can't identify the player if it rises to dissent)
+- complaining with no shirt on or jersey number is not visible (tell them to go away - can't identify the player if it rises to dissent)
 
 If the referee decides to give a caution for dissent and wants to stop play, make sure there is no advantage. The restart would be an indirect free kick at the spot of the offense.
 
