@@ -73,6 +73,9 @@ An additional (rare) exception is listed in the [advantage section](/advantage) 
 
 ## Mass Confrontations
 
+Do not try to be in the middle to break them up just from the outside watch and write players for sanctions. 
+- [PRO Write up](https://proreferees.com/2017/06/28/play-of-the-week-17-mass-confrontation/)
+
 After a mass confrontation or a sent-off person needs to leave and remain out-of-sight and out-of-sound:
 - have the players go to their benches
 - crew come together
