@@ -121,7 +121,9 @@ If goalkeeper commits a handball offense (as discussed in the [goalkeeper sectio
 
 > There are different circumstances when a player must be cautioned for unsporting behaviour including if a player:
 > - handles the ball in an attempt to score a goal (whether or not the attempt is successful)
+> - attempts to decieve the referee
 > 
 > Law 12
 
 - No goal + YC. [Example 1](https://youtu.be/fM_WkMvOogQ?t=29), [Example 2](https://www.youtube.com/watch?v=v383WX_Jaxw), [Compilation Video](https://www.youtube.com/watch?v=dapthEt3_PA&ab_channel=FootballGoals)
+- [Deceptive handball it - it's easy for the referee to miss.](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared)
