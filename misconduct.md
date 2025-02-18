@@ -292,7 +292,6 @@ This is a catch-all. A referee may caution a player for anything. This is very s
     - holding/pulling a player's pants (due to sensitive nature)
     - after multiple instances of holding/pulling a player to the ground
     - after multiple instances of front holding which is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
-  - blatantly committing handball unless the ball was leaving the field of play
   - interfering with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball, attempting to kick)
   - retaliation foul, including for perceived uncalled foul
   - comitting or continuing to foul after the whistle blows or after an obvious foul
@@ -300,7 +299,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 
   [The player blatantly holds their opponent's shirt. There is minimal tactical impact so they receive a caution for lack of respect for the game.](https://youtu.be/DpZ3v-t1dqc?t=718)
 
-#### **Simulation**
+#### **Deception/Simulation**
 
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
 
@@ -309,7 +308,7 @@ This is known as the flop. A player can be cautioned for this whether or not con
 - [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 - [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
 
-Deceptive handballs by attackers are another example. 
+Deceptive handballs esspecially by attackers are another example. They are easy to miss. 
 - [Player sneakily handballs it.](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared)
 
 Things to look out for:
