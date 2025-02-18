@@ -309,6 +309,9 @@ This is known as the flop. A player can be cautioned for this whether or not con
 - [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 - [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
 
+Deceptive handballs by attackers are another example. 
+- [Player sneakily handballs it.](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared)
+
 Things to look out for:
 
 - intentionally moving their leg towards the opponent to make it appear that they have been tripped
