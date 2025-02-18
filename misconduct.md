@@ -106,7 +106,7 @@ Things to say publically:
 
 ## Cautions
 
-Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown unless immediatly after a foul. This is so everyone knows a card was given. 
+**Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown unless immediatly after a foul. This is so no one misses that a card was given.**
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
@@ -200,7 +200,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 The NBA has a video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
 
 - gesture the wearing of spectacles
-- invading a match official's personal space
+- invading a match official's personal space or blocking their path
 - unnesessairly touching a match official to get their attention [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
 - surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (if needed, show a caution to a player who does not have already have a caution) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - a player being held back but continues disagreeing
