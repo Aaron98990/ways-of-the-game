@@ -125,5 +125,5 @@ If goalkeeper commits a handball offense (as discussed in the [goalkeeper sectio
 > 
 > Law 12
 
-- No goal + YC. [Example 1](https://youtu.be/fM_WkMvOogQ?t=29), [Example 2](https://www.youtube.com/watch?v=v383WX_Jaxw), [Compilation Video](https://www.youtube.com/watch?v=dapthEt3_PA&ab_channel=FootballGoals)
-- [Deceptive handball it - it's easy for the referee to miss.](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared)
+- Attenpt to score by handling. No goal + YC. [Example 1](https://youtu.be/fM_WkMvOogQ?t=29), [Example 2](https://www.youtube.com/watch?v=v383WX_Jaxw), [Compilation Video](https://www.youtube.com/watch?v=dapthEt3_PA&ab_channel=FootballGoals)
+- Deceptive handball - it's easy for the referee to miss so we want to discourage it. YC [Example 1](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared), [Example 2](https://youtube.com/shorts/AFRbJ5K41uQ?feature=shared)
