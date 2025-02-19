@@ -9,18 +9,11 @@ The start and restarts of play (commonly just called restarts) are the:
 - goal kick (Law 16)
 - corner kick (Law 17)
 
-I cover commonality among the laws and provide video links - I am not re-writing the Laws here and exclude some things. I encourage you to read directly from the Laws of the Game. Each restart Law is  short (less than one-page) and only takes about a minute to read. 
-
-Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they do build on top of the penalty kick (Law 14).
-
-The goalkeeper releasing the ball after control with the hand/arms is not a restart as the ball remains in play. Read more in the [goalkeepers section](/goalkeeper).
-
-## Changing the restart
+Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they do build on top of the penalty kick (Law 14). The goalkeeper releasing the ball after control with the hand/arms is not a restart as the ball remains in play. Read more in the [goalkeepers section](/goalkeeper). I encourage you to read directly from the Laws of the Game. Each restart Law is short (less than one-page) and only takes about a minute to read. 
 
 > The referee may not change a restart decision [..] if play has restarted or the referee has signalled the end of the first or second half (including extra time) and left the field of play or abandoned the match. Law 5.2
 
 **Deflections that occur when kicked from close distance are one of the most challening calls to make as it is hard to see the trajectory of the ball change or hear the touches since they are close. [Example 1](https://youtu.be/WSQOZZeL0T4?feature=shared&t=293) If the assistant referee says they saw the deflection, follow them.**
-
 
 ## Position of restart
 
@@ -32,17 +25,6 @@ The restart is taken at the position the offense requires or where the ball left
 - direct free kick for attackers in their oponent's penalty area are a penalty kick (taken at the penalty mark)
 - The ball is dropped for the defending team goalkeeper anywhere in their penalty area if, when play was stopped when the ball was in the penalty area or the last touch of the ball was in the penalty area
     - In all other cases, the referee drops the ball for **one player** of the team that last touched the ball at the position where it last touched a player, an outside agent or, as outlined in Law 9.1, a match official 
-
-## Feinting
-
-> Feinting: An action which attempts to confuse an opponent. Glossary
-
-Feinting is allowed on all restarts except one scenario during a penalty kick: 
-
-> once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
-
-- [The player stops their run up on a free kick and acts confused. This is okay.](https://youtu.be/-PLA_JIfusI)
-- [Messi feints kicking the ball once he has finished his run up for the penalty kick. The goal is disallowed, indirect free kick for opponents, and caution. ](https://youtu.be/OivBaku1q2s)
 
 ## Ball in play
 
@@ -60,6 +42,29 @@ Feinting is allowed on all restarts except one scenario during a penalty kick:
 If a player taps the ball with the bottom of their boot, that is a kick. Now, "clearly moves" is more subjective. The ball moving does not alone meet the requirement. For me, it must be clear that at least one opponent could of or should of seen the ball move. I believe it is in the "spirit of the game" to yell "ball in play" if it is not clear that the ball is in play and because I hate the trick corner kick play.
 - [The ball does not clearly move. The restart should of been retaken. ](https://youtu.be/-FqA3g7-PTs)
 - [The ball clearly moves (in my opinion) as even the opponent recognizes it. I believe its in the spirit of the game to yell 'ball in play' as the defender was confused whether the ball is in play or not.](https://www.youtube.com/watch?v=y1JXV-zqrgY)
+
+### Feinting
+
+> Feinting: An action which attempts to confuse an opponent. Glossary
+
+Feinting is allowed on all restarts except one scenario during a penalty kick
+
+> offends: feinting to kick the ball once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
+
+- [The player stops their run up on a free kick and acts confused. This is okay.](https://youtu.be/-PLA_JIfusI)
+- [Messi feints kicking the ball once he has finished his run up for the penalty kick. The goal is disallowed, indirect free kick for opponents, and caution. ](https://youtu.be/OivBaku1q2s)
+
+### Holding/impeding during restarts
+
+> Referees are reminded to make an early intervention and to deal firmly with holding offenses, especially inside the penalty area at corner kicks and free kicks. To deal with these situations:
+> - the referee must warn any player holding an opponent before the ball is in play
+> - caution the player if the holding continues before the ball is in play
+> - award a direct free kick or penalty kick and caution the player if it happens once the ball is in play
+> - Guidelines for Match Officials
+
+[The referee stops the corner kick and warns players to stop holding.](https://youtu.be/5OJfbYQtKtk?t=2012)
+
+On corner kicks, players like to stand in front of goalkeepers to limit their movement.  This is covered extensively in the [goalkeeper section](/goalkeeper)
 
 ## Distance
 
@@ -133,8 +138,15 @@ Time-wasting often falls into this category. The referee must be aware that in c
 
 The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called when in/near the penalty area or the losing team wasting their own time). 
 
+## After ball is in play
 
-## Double touch by restart taker
+### Striking the ball at an opponent
+
+Deliberately throwing (from a throw-in) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play else it's a direct free kick for striking.
+
+> If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
+
+### Double touch by restart taker
 
 For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player else its an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule. Read more in the "two offenses at once" section
 
@@ -145,29 +157,12 @@ For all restarts except dropped balls, the person who takes the restart can't to
 
 For dropped balls, any player can start dribbing the ball as the ball is in play when the ball touches the ground.
 
-## Goals from restarts
+### Goals from restarts
 
 An throw-in, indriect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal else its a goal kick. All other restarts, you may scores a goal in the opponent's goal directly (without the ball needing to touch another player other than the kicker) from the restart.
 
 From all restarts, you can't directly score an own-goal. Directly means only the person taking the restart touched the ball before it enters the goal.  If you do, it's a corner kick for your opponents. 
 
-## Striking the ball at an opponent
-
-Deliberately throwing (from a throw-in) or deliberately kicking the ball at an opponent is acceptable if it is not careless, reckless, or using excessive force when the ball is in play else it's a direct free kick for striking.
-
-> If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
-
-## Holding/impeding during restarts
-
-> Referees are reminded to make an early intervention and to deal firmly with holding offenses, especially inside the penalty area at corner kicks and free kicks. To deal with these situations:
-> - the referee must warn any player holding an opponent before the ball is in play
-> - caution the player if the holding continues before the ball is in play
-> - award a direct free kick or penalty kick and caution the player if it happens once the ball is in play
-> - Guidelines for Match Officials
-
-[The referee stops the corner kick and warns players to stop holding.](https://youtu.be/5OJfbYQtKtk?t=2012)
-
-On corner kicks, players like to stand in front of goalkeepers to limit their movement.  This is covered extensively in the [goalkeeper section](/goalkeeper)
 
 ## Indirect Free Kick
 
