@@ -147,6 +147,8 @@ If there needs to be a private extended conversation with a team official, stand
 
 Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, esspecially when a team expects to win.
 
+In youth games, if the referee allows a team official on the field for an injured player, the referee should move away from the injured player and not be in the path of the team official to avoid unneeded conversation. 
+
 Game temperature or the accumulation of small things can lead for these to be considered dissent.
 
 #### **Dissent by word**
