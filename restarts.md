@@ -37,7 +37,10 @@ The restart is taken at the position the offense requires or where the ball left
 
 > Feinting: An action which attempts to confuse an opponent. Glossary
 
-Feinting is allowed on all restarts except one scenario during a penalty kick: "once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker".
+Feinting is allowed on all restarts except one scenario during a penalty kick: 
+
+> once the kicker has completed the run-up (feinting in the run-up is permitted); the referee cautions the kicker
+
 - [The player stops their run up on a free kick and acts confused. This is okay.](https://youtu.be/-PLA_JIfusI)
 - [Messi feints kicking the ball once he has finished his run up for the penalty kick. The goal is disallowed, indirect free kick for opponents, and caution. ](https://youtu.be/OivBaku1q2s)
 
@@ -64,14 +67,21 @@ Until the ball is in play:
 - For dropped balls, all other players except the one who the ball is dropped to (of both teams) must remain at least 4 m (4.5 yds) from the ball
 - For kick-offs, all players, except the player taking the kick-off, must be in their own half of the field of play. 
 - For free kicks and kick-offs all opponents must remain 10 yards from the ball
-    - For indirect free kicks, defenders stand on the goal line when they can't give 10 yards
+    - For indirect free kicks, defenders stand on the goal line between the goal posts when they can't give 10 yards
 - For corner kicks, oppenents must stand 10 yards from the corner arc
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
 - For free kicks going out and all goal kicks, opponents must remain outside the penalty area the restart is taken from
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
-- For penalty kicks, the goalkeeper must have part of one foot in line or behind the goal line when the ball is kicked. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty mark, and 10 yards from the penalty mark.
+- For penalty kicks, the goalkeeper must have part of one foot in line or behind the goal line when the ball is kicked. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty mark, and 10 yards from the penalty mark. The goalkeeper must not touch the goalposts, crossbar or goal net until the ball is in play.
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
+ 
+> A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.3
+
+- This includes attempting to go for the ball (e.g. heading or kicking) which is close-by but not touching it. [Example 1](https://youtu.be/6KkDUpTBBtM?feature=shared)
+- [The ball is put into play after the referee measured distance for a free kick. The player is cautioned. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2876)
+
+> If the goalkeeper’s offence results in the kick being retaken, the goalkeeper is warned for the first offence in the game and cautioned for any subsequent offence(s) in the game
 
 ## Quick restarts
 
@@ -123,13 +133,6 @@ Time-wasting often falls into this category. The referee must be aware that in c
 
 The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called when in/near the penalty area or the losing team wasting their own time). 
 
-## Failure to respect distance
-
-> A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.3
-
-This includes attempting to go for the ball (e.g. heading or kicking) which is close-by but not touching it. [Example 1](https://youtu.be/6KkDUpTBBtM?feature=shared)
-
-- [The ball is put into play after the referee measured distance for a free kick. The player is cautioned. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2876)
 
 ## Double touch by restart taker
 
@@ -140,21 +143,13 @@ For all restarts except dropped balls, the person who takes the restart can't to
 
 "A free kick can be taken by lifting the ball with a foot or both feet simultaneously" - this applies to any restart that is kicked
 
-For dropped balls, any player can start dribbing the ball as the ball is in play.
+For dropped balls, any player can start dribbing the ball as the ball is in play when the ball touches the ground.
 
-## Two touches before opponent's goal
+## Goals from restarts
 
-An throw-in, indriect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal else its a goal kick. 
-
-All other restarts, you may scores a goal in the opponent's goal directly (without the ball needing to touch another player other than the kicker) from the restart.
-
-## Own goal directly from restart
+An throw-in, indriect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal else its a goal kick. All other restarts, you may scores a goal in the opponent's goal directly (without the ball needing to touch another player other than the kicker) from the restart.
 
 From all restarts, you can't directly score an own-goal. Directly means only the person taking the restart touched the ball before it enters the goal.  If you do, it's a corner kick for your opponents. 
-- "if the ball directly enters the [kicker’s/thrower's] goal, a corner kick is awarded to the opponents"
-
-Dropped ball follows the same idea as above - except it also applies if only one person touches the ball (even multiple times):
-- "If a dropped ball enters the goal without touching at least two players, play is restarted with: a corner kick if it enters the team’s goal"
 
 ## Striking the ball at an opponent
 
@@ -162,7 +157,7 @@ Deliberately throwing (from a throw-in) or deliberately kicking the ball at an o
 
 > If a player, while correctly taking a [free kick/throw-in/corner kick], deliberately [kicks/throws] the ball at an opponent in order to play the ball again but not in a careless or reckless manner or using excessive force, the referee allows play to continue.
 
-## Holding during restarts
+## Holding/impeding during restarts
 
 > Referees are reminded to make an early intervention and to deal firmly with holding offenses, especially inside the penalty area at corner kicks and free kicks. To deal with these situations:
 > - the referee must warn any player holding an opponent before the ball is in play
@@ -171,8 +166,6 @@ Deliberately throwing (from a throw-in) or deliberately kicking the ball at an o
 > - Guidelines for Match Officials
 
 [The referee stops the corner kick and warns players to stop holding.](https://youtu.be/5OJfbYQtKtk?t=2012)
-
-## Standing in front of the goalkeeper
 
 On corner kicks, players like to stand in front of goalkeepers to limit their movement.  This is covered extensively in the [goalkeeper section](/goalkeeper)
 
