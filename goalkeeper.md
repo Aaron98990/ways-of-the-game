@@ -9,8 +9,7 @@ Each team must always have one goalkeeper.
 
 Goalkeepers may wear caps. Any player, including goalkeepers, can wear gloves - there are no size, color, or stickiness restrictions on gloves.
 
-> Goalkeepers may wear tracksuit bottoms.[...] Non-dangerous protective equipment, for example headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles.
-> - Law 4
+> Non-dangerous protective equipment, for example gloves, headgear, facemasks and knee and arm protectors made of soft, lightweight padded material is permitted, as are goalkeepers’ caps and sports spectacles. Goalkeepers may wear tracksuit bottoms. _Law 4.4_
 
 Goalkeepers must be distinguishable from other players and the match officials. 
 
