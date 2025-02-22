@@ -289,7 +289,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - stepping over, staring down, picking up, or standing unnessairly close to an opponent on the ground
   - clapping, signaling the score, pointing, or any gesture at an opponent's face
   - imitating, mocking, or celebrating near an opponent
-  - running up to an oppoent after a percieved foul
+  - running up to an oppoent including after a percieved foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
@@ -301,6 +301,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
       - the player being held often times stop playing or immediatly is twisted/turns around, making the offense obvious if you don't see it
     - refusing to let go of a player or leg-locking or hooking (locking opponent's arm to body or locking opponent's arm by wrapping/closing the arm)
       - this needs multiple strong whistles to avoid retaliation or mass confrontation
+      - an unsuccessful attempt to hook needs a verbal warning
       - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
     - holding/pulling a player's pants (due to sensitive nature)
     - after multiple instances of holding/pulling a player to the ground
