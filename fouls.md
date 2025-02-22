@@ -94,7 +94,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 - studs to an opponent's head or outstrached leg. It is not an offense to kick the ball that is above the head.
 - sitting on the ball, trapping the ball between the body (e.g. legs, head and shoulder) when an opponent is also challenging for the ball.
 - heading the ball while on the ground when an opponent is also challenging for the ball.
-- a player uses the shoulders of a teammate to jump higher to head the ball <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
+- a player uses the shoulders of a teammate or a lift from a teammate to jump higher to play or head the ball <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
 
 **Don't make it complicated: If anyone thinks its playing in a dangerous manner and they are not just saying it because the ball was played on the ground, just call it.**
