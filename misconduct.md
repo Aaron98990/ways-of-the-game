@@ -54,14 +54,25 @@ Many times competition rules will require the sent-off adult participant to be o
 
 > A match may not start or continue if either team has fewer than seven players. Law 3.1
 
-If a team only has 10 players with no substitutes and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game unless it's during penalties. The team would only have six players which is lower than the required seven players. 
+If a team only has 10 players with no substitutes and two players become injured and can't play and another two are sent-off during the match, then the referee abandons the game unless it's during penalties. The team would only have six players which is lower than the required seven players unless it's penalties.
 
 > A player who has been sent off during the match is not permitted to take part; warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).
 >
+> - If at the end of the match and before or during the kicks one team has a greater number of players than its opponents, it must reduce its numbers to the same number as its opponents and the referee must be informed of the name and number of each player excluded. Any excluded player is not eligible to take part in the kicks (except as outlined below)
+> - A goalkeeper who is unable to continue before or during the kicks may be replaced by a player excluded to equalise the number of players or, if their team has not used its maximum permitted number of substitutes, a named substitute, but the replaced goalkeeper takes no further part and may not take a kick
+> - If the goalkeeper has already taken a kick, the replacement may not take a kick until the next round of kicks
+> 
 > Substitutions and sendings-off during penalties (penalty shoot-out):
+> - A player other than the goalkeeper who is unable to continue may not be replaced
 > - The referee must not abandon the match if a team is reduced to fewer than seven players
 > 
-> Law 9 Determining a winner
+> Law 10
+
+During penalties unlike other parts of the match:
+  - cautions and warnings are reset
+  - the game is not abandoned if a team has less than seven players
+  - the team with more players must reduce its numbers to the same as its opponents
+  - only an injured goalkeeper may be replaced with a named substitue only if substitutions remain or an excluded player
 
 ## After play has restarted
 > a disciplinary sanction may only be issued after play has restarted if another match official had identified and attempted to communicate the offense to the referee before play restarted; the restart associated with the sanction does not apply.
