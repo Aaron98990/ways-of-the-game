@@ -304,7 +304,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
       - an unsuccessful attempt to hook needs a verbal warning
       - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
     - holding/pulling a player's pants (due to sensitive nature)
-    - after multiple instances of holding/pulling a player to the ground
+    - unnecessarily holding/pulling a player to the ground
     - after multiple instances of front holding which is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
   - interfering with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball, attempting to kick)
   - retaliation foul, including for perceived uncalled foul
@@ -346,7 +346,7 @@ I have only seen a caution for this when players scuffing up the penalty spot or
 > - verbally distracts an opponent during play or at a restart
 
 Here are some examples:
-- You cannot say "pass it here" to an opponent if you are not the teammate of the person who has the ball.
+- You cannot say "pass it here" or "leave it" to an opponent if you are not the teammate of the person who has the ball.
 - You cannot yell/scream for the purpose to scare the opponent when they are attempting to play the ball (e.g. goalkeeper punting the ball)
 
 Clapping is okay as long as its not done in an opponents face.
