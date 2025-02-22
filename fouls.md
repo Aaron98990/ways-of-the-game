@@ -74,11 +74,13 @@ An attempt to trip (esspecially when a player avoids or stops to not be tripped)
 >
 > A player may shield the ball by taking a position between an opponent and the ball if the ball is within playing distance and the opponent is not held off with the arms or body. If the ball is within playing distance, the player may be fairly charged by an opponent.
 
-Impeding the progress of an opponent, often called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
+Impeding the progress of an opponent, formerly called obstruction, is a direct free kick if the offense involves contact with an opponent or else its an indirect free kick.
 
 - Impeding with contact. [Direct free kick.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s), [Direct free kick.](https://youtu.be/79cBWbiWElA?feature=shared&t=657)
 - Fair shields but shielder gets fouled. [Example 1](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238), [Example 2](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
 - When a ball is passed, sometimes a player moves in a position to block the opponent from getting the ball. [Subjective.](https://youtu.be/Ffqx5ZmthOg?feature=shared&t=5592)
+- Wrapping arms around someone without touching them is impeding without contact and an indirect free kick
+
 
 ## Playing in a dangerous manner
 
