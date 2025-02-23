@@ -248,7 +248,11 @@ A player deliberately leaving the field of play is cautioned only if this was do
 
 A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too many players on field). 
 
-A player re-entering the field is covered by Law 3.8 (only for players who need permission to re-enter after an injury or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission).
+A player needing permission to re-enter the field is covered by Law 3.8 (e.g. after an injury or a temporary dismissal (sin-bin) or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission). 
+
+Injured players must re-enter from the touchline when the ball is in play. This Law requirement seems to be only for injured players but is probably a good practice in general.
+
+>  An injured player may not be treated on the field of play and may only re-enter after play has restarted; if the ball is in play, re-entry must be from the touchline but if the ball is out of play, it may be from any boundary line. _Law 5.2_
 
 #### **Persistent offenses**
 
