@@ -31,7 +31,7 @@ Be aware of these situations near a goal:
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
 
-The team the goal is awarded to is determined by the coin toss before the match.
+The team the goal is awarded to is determined by the coin toss before the match or the coin toss before extra time if the match is in extra time.
 
 > - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
 > - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
@@ -172,7 +172,7 @@ Most matches where the score is tied will in a tie. The only exception is where 
 > - two equal periods of extra time not exceeding 15 minutes each
 > - penalties (penalty shoot-out) _Law 10.2 Winning team_
 
-Home-and-away matches are where the same two teams play two matches, one at each team's home field. The scores from both matches are added together and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Penalties are covered in Law 10.3. 
+Home-and-away matches are where the same two teams play two matches, one at each team's home field. The scores from both matches are added together and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Another coin toss is required for extra time. Penalties are covered in Law 10.3. 
 
 > Away goals rule: goals scored away from home count double. Glossary
 
