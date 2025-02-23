@@ -1,4 +1,4 @@
-Fouls are physical offenses, generally listed in Law 12, committed against a single opponent including when no contact is made. Handball, "makes contact with the ball with a held object", and offside are not considered a foul since it is not against any one opponent.
+Fouls are physical offenses, generally listed in Law 12, committed against a single opponent including when no contact is made. Handball, "makes contact with the ball with a held object", taking a restart inncorrectly (e.g bad throw-in, scoring directly when not allowed, etc), and offside are not considered a foul since it is not against any one opponent but are offenses.
 
 Soccer is a physical sport. Not every contact with the opponent is a foul. [No foul.](https://youtu.be/xqQqe-LwWXc?feature=shared&t=20m47s)
 
