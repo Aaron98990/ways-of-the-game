@@ -152,9 +152,9 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 
 Players give information on how they want the game called. Take it in sometimes. 
 
-If you respond publically (usually not needed even for statements disguised as questions), keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument/lecture. Just walk away and restart play/leave. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or use no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
+If you respond publically (usually not needed even for statements disguised as questions), wait 1-2 seconds/pause before responding, keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument/lecture. Just walk away and restart play/leave. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or use no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
 
-If there needs to be a private extended conversation with a team official, stand side to side with them instead of face to face leads to a more confrontational/emotional attitute.
+If there needs to be a private extended conversation with someone, stand side to side with them instead of face to face leads to a more confrontational/emotional attitute.
 
 Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, esspecially when a team expects to win.
 
