@@ -333,22 +333,21 @@ This is known as the flop. A player can be cautioned for this whether or not con
 - [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 - [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
 
-Deceptive handballs esspecially by attackers are another example. They are easy to miss. 
-- [Player sneakily handballs it.](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared)
-
 Things to look out for:
 
 - intentionally moving their leg towards the opponent to make it appear that they have been tripped
 - falling to the ground when there is no or minimal contact
 - exsive screaming, yelling, rolling, and other theatrics, even if they have been fouled
 - holding a body part (e.g. head or neck) where no or minimal contact is made
-- faking an injury to waste time 
+- faking an injury (usually to to waste time)
+
+Deceptive handballs esspecially by attackers are another example. They are easy to miss. [Example 1](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared) [Example 2](https://youtube.com/shorts/AFRbJ5K41uQ?feature=shared)
 
 #### **Unauthorized marks**
 
 > - makes unauthorized marks on the field of play
 
-I have only seen a caution for this when players scuffing up the penalty spot or the area near the penalty spot to make the player slip when taking a penalty kick.
+I have only seen a caution for this when players scuffing up the penalty mark or the area near the penalty mark to make the player slip when taking a penalty kick.
 
 [Goalkeeper should of gotten a caution for scuffing up the area near the penalty area.](https://www.youtube.com/watch?v=yZN_2D5nlRg)
 
