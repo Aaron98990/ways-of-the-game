@@ -65,10 +65,10 @@ Headbutting (striking at someone with the head) unless negligible is violent con
 
 ## Jumps at / charge / push / trip
 
-Any offense with a shoulder or body to a completely upright opponent's neck or head is generally excessive force after jumping non-laterally or charging/jumping shoulder first. **Ask the player where they were hit** A shoulder to the front or back of a player's body (not the side) is generally a cuation. 
-- Serious Foul Play - Body to head/neck [Example 1](https://youtu.be/cGAVbgZfIWw?feature=shared&t=176), [Example 2](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417)
-- Serious Foul Play - Shoulder to head/neck [Example 1](https://youtu.be/u-y3AiAm2pI?t=269), [Example 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [, [Example](https://youtu.be/I9Uybj3sKpA?feature=shared&t=518), [Example 4](https://youtu.be/hUVn1myV7FY?feature=shared&t=170),  [Example 5](https://youtu.be/08y9UNK9HB0?feature=shared&t=393)  <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
-- [Australian rules hits - most of them are excessive force in soccer](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
+Any offense with a shoulder/upper arm or body to a completely upright opponent's neck or head is generally excessive force. They occur after jumping non-laterally (generally with the goalkeeper). Also, they occur charging or jumping shoulder/upper arm first. **Ask the player where they were hit** A shoulder to the front or back of a player's body (not the side) is generally a cuation. 
+- Serious Foul Play - body to head/neck (generally with goalkeeper) [Example 1](https://youtu.be/cGAVbgZfIWw?feature=shared&t=176), [Example 2](https://youtu.be/F6bYvTnCvhk?feature=shared&t=52), [Not Serious Foul Play - Goalkeeper not completely upright](https://youtu.be/X5YG0FXFwAo?feature=shared&t=417)
+- Serious Foul Play - shoulder/upper arm to head/neck [Example 1](https://youtu.be/u-y3AiAm2pI?t=269), [Example 2](https://youtu.be/aJqbL___R6c?feature=shared&t=602), [, [Example](https://youtu.be/I9Uybj3sKpA?feature=shared&t=518), [Example 4](https://youtu.be/hUVn1myV7FY?feature=shared&t=170),  [Example 5](https://youtu.be/08y9UNK9HB0?feature=shared&t=393)  <!--, [Not Serious Foul Play](https://youtu.be/ALGMHbLOlWQ?feature=shared&t=1) -->
+- [Australian rules hits - most of them are excessive force in soccer - of course in soccer the only player that would reach down for the ball is the goalkeeper](https://www.youtube.com/watch?v=s1aU0hz5Tf8&ab_channel=xSnoiDz)
 
 The flying knee. A knee to an opponent after jumping non-vertically is excessive force. [Serios Foul Play](https://youtu.be/4DrJ1SciVfc?t=197&feature=shared) 
 
