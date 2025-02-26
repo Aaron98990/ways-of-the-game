@@ -72,6 +72,8 @@ Any offense with a shoulder/upper arm or body to a completely upright opponent's
 
 The flying knee. A knee to an opponent after jumping non-vertically is excessive force. [Serios Foul Play](https://youtu.be/4DrJ1SciVfc?t=197&feature=shared) 
 
+Head to head contact other than a deliberate headbutt is at max a yellow card. 
+
 Any offense where there is no attempt to challenge for or play the ball that causes an opponent's head or neck to directly hit a fixed object (the ground, goalpost, wall) is generally excessive force.
 - [Undercut - Head to ground - Violent Conduct](https://youtu.be/QEU4KZdTRMM?feature=shared&t=68)
 - [Push - Head to goalpost - Violent Conduct](https://www.youtube.com/watch?v=vYtQzJfhrqg)
