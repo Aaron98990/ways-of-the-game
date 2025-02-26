@@ -84,7 +84,7 @@ Although the player committed more than one offense, the sanction (caution) and 
 
 - [The goalkeeper commits DOGSO and Serious Foul Play at the same time. The goalkeeper is sent-off only for Serious Foul Play.](https://youtu.be/dmZcFRB-1wo?t=121)
 
-## Delaying the restart of play to show a card
+## Quick free kick
 
 > Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered, unless the non-offending team takes a quick free kick, has a clear goal-scoring opportunity and the referee has not started the disciplinary sanction procedure. The sanction is administered at the next stoppage; if the offense was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned; if the offense interfered with or stopped a promising attack, the player is not cautioned. Law 12.3
 
