@@ -159,7 +159,7 @@ It is accepted that referees do not add enough additional time, so the losing te
 
 > after a team scores a goal, the kick-off is taken by their opponents _Law 8.1 Kick-off_
 
-If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored and ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each kick-off.
+If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored and ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each restart (including kick-off) or else notify the operator (or have the home team notify the operator if they're not nearby). 
 
 ## Winning team
 
@@ -172,7 +172,7 @@ Most matches where the score is tied will in a tie. The only exception is where 
 > - two equal periods of extra time not exceeding 15 minutes each
 > - penalties (penalty shoot-out) _Law 10.2 Winning team_
 
-Home-and-away matches are where the same two teams play two matches, one at each team's home field. The goals from both matches are added together and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Another coin toss is required for extra time. Penalties are covered in [Law 10.3](https://theifab.com/laws/latest/determining-the-outcome-of-a-match/#penalties-penalty-shoot-out). 
+Home-and-away matches are where the same two teams play two matches, one at each team's home field. The goals from both matches are added together and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Another coin toss is required for extra time and also penalties. Penalties are covered in [Law 10.3](https://theifab.com/laws/latest/determining-the-outcome-of-a-match/#penalties-penalty-shoot-out). 
 
 > Away goals rule: goals scored away from home count double. Glossary
 
