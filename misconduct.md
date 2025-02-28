@@ -167,6 +167,8 @@ In youth games, if the referee allows a team official on the field for an injure
 
 Any conversation before, during, or after the match with a non-nuetral person like a coach or spectator should not occur in the referee locker room or within 10 yards the crew put there stuff unless on field of play. This allows one to walk away with a buffer and provides a clear signal the conversation is over. 
 
+After the match,"you are terrible" or other short one sentence phrase someone privately says behind you or while passing does not rise to dissent for me. 
+
 Game temperature or the accumulation of small things can lead for these to be considered dissent.
 
 #### **Dissent by word**
