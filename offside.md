@@ -166,3 +166,5 @@ A save can be done by any opponent and not just the goalkeeper. The save does no
 **When a player is in an offside position and may not understand they are, tell them. Like when a player has a foot on each side of the field, tell the player they are not in their own half and call offside although no advantage is gained by being two feet offside.**
 
 **It is helpful to count with your fingers the number of players in an offside position. You must be paying attention to the players who are in an offside position before the ball is touched by an attacker.**
+
+Judging offside while play is near your touchline is very difficult as you can't see two parts of the field at once and ball in/out decision. 
