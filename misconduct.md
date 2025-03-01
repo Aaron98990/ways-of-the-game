@@ -165,6 +165,8 @@ Complaining =/= call is wrong. No Complaining =/= call is correct. Some players 
 
 In youth games, if the referee allows a team official on the field for an injured player, the referee should move away from the injured player and not be in the path of the team official to avoid unneeded conversation. 
 
+Inexperienced players may take offense to some normal contact or common foul. Best to manage this without cards. 
+
 Any conversation before, during, or after the match with a non-nuetral person like a coach or spectator should not occur in the referee locker room or within 10 yards the crew put there stuff unless on field of play. This allows one to walk away with a buffer and provides a clear signal the conversation is over. 
 
 After the match,"you are terrible" or other short one sentence phrase someone privately says behind you or while passing does not rise to dissent for me. 
