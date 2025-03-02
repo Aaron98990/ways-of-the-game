@@ -87,8 +87,8 @@ When the ball is out of play; the ball has cleary been held by the goalkeeper fo
 Studs on any body part except the foot that is not glancing should be excessive force. **Ask the player where they were hit and show the marks from the studs penetrating the skin with clear stud outlines before making a decision - it is okay to make or change a decision based on the injury in this case. If skin is red with no penetration and no stud outlines, studs grazed the skin is usually just a caution.**
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
-Studs on a player's foot that occurs after a slide, jump (with legs togther or outstretched), or lunge should be excessive force.
-- [Serious Foul Play](https://youtu.be/I9Uybj3sKpA?t=494&feature=shared),  [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
+Studs on a player's foot that occurs after a slide, jump (with legs togther or outstretched), or lunge should be managed with an orange card (a yellow card with little leniency for a second yellow or a direct red card if the match is extremely heated).
+- [Orange Card](https://youtu.be/I9Uybj3sKpA?t=494&feature=shared),  [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks) **Ask the player where they were hit**
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220), [Serious Foul Play 2](https://youtu.be/8kmliIasCfQ?feature=shared&t=63)
@@ -102,7 +102,7 @@ Unnessary/avoidable contact to the goalkeeper's head or neck (esspecially when o
 A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force (whether or not studs grazed or penetrated the skin)
 - [Serious Foul Play 1](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
-A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force.
+A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force or at least an orange card. 
 - [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play 3](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
 A tackle/stomp with high intensity or that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground or a tackle/stomp when the ball is not playable.
