@@ -88,7 +88,7 @@ Studs on any body part except the foot that is not glancing should be excessive 
 - [Serious Foul Play 1.](https://www.youtube.com/watch?v=x369hGXJVDc), [Serious Foul Play 2.](https://www.youtube.com/watch?v=xNAVqoAXnvg&t=243s), [Serius Foul Play 3](https://www.youtube.com/watch?v=BjQ__f4JG9o), [Serious Foul Play 4.](https://youtu.be/ybVefZeKoxE?feature=shared&t=314), [Violent Conduct 1](https://www.youtube.com/watch?v=dfDV_bTCGUw), [Violent Conduct 2](https://www.youtube.com/watch?v=c-kJ5Xzqpt8)
 
 Studs on a player's foot that occurs after a slide, jump (with legs togther or outstretched), or lunge should be managed with an orange card (a yellow card with little leniency for a second yellow or a direct red card if the match is extremely heated).
-- [Orange Card](https://youtu.be/I9Uybj3sKpA?t=494&feature=shared),  [Serious Foul Play](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
+- [Orange Card](https://youtu.be/I9Uybj3sKpA?t=494&feature=shared),  [Orange Card](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
 
 A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks) **Ask the player where they were hit**
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220), [Serious Foul Play 2](https://youtu.be/8kmliIasCfQ?feature=shared&t=63)
