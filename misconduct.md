@@ -159,7 +159,7 @@ If you respond publically (usually not needed even for statements disguised as q
 
 An assistant referee should keep their eyes on the field of play when talking to someone in the technical area. 
 
-If there needs to be a private extended conversation with someone, stand side to side with them instead of face to face leads to a more confrontational/emotional attitute.
+You should be walking when talking unless there needs to be an extended conversation (rare). If there needs to be a private extended conversation with someone, stand side to side with them instead of face to face leads to a more confrontational/emotional attitute.
 
 Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, esspecially when a team expects to win.
 
@@ -224,7 +224,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 The NBA has a video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
 
 - gesture the wearing of spectacles
-- invading a match official's personal space or blocking their path
+- invading a match official's personal space or blocking their path or unnessairily following a match official
 - unnesessairly touching a match official including to get their attention or demonstrate a foul or no foul [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
 - surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (if needed, show a caution to a player who does not have already have a caution) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - a player being held back but continues disagreeing
