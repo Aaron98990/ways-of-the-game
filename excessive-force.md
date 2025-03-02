@@ -103,7 +103,7 @@ A slide tackle feet first into the goalkeeper whose attempting to catch the ball
 - [Serious Foul Play 1](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
 A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force or at least an orange card. 
-- [Serious Foul Play 1](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Serious Foul Play 2](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Serious Foul Play 3](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
+- [Orange Card](https://youtu.be/8kmliIasCfQ?feature=shared&t=784), [Orange Card](https://youtu.be/TlcNLwZPukg?feature=shared&t=590), [Orange Card](https://youtu.be/Ot9rRprQQ6I?feature=shared&t=533)
 
 A tackle/stomp with high intensity or that is two-footed (with or without contact) or a slide tackle where the first contact is at the opponent's leg rather than the ground or a tackle/stomp when the ball is not playable.
 - [Serious Foul Play 1](https://www.youtube.com/watch?v=pR8DROokqqM&ab_channel=gameagain1) / [Violent Conduct 1](https://www.youtube.com/shorts/tad64vUazbM)
