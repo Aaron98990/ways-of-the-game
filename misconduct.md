@@ -261,6 +261,11 @@ Injured players must re-enter from the touchline when the ball is in play. This 
 
 >  An injured player may not be treated on the field of play and may only re-enter after play has restarted; if the ball is in play, re-entry must be from the touchline but if the ball is out of play, it may be from any boundary line. _Law 5.2_
 
+For fixing eqiptmeng the Laws says the following:
+> A player who leaves the field of play to correct or change equipment must:
+>	•	have the equipment checked by a match official before being allowed to re-enter
+>	•	only re-enter with the referee’s permission (which may be given during play) _Law 3_
+
 #### **Persistent offenses**
 
 > - (player only) persistent offenses (no specific number or pattern of offenses constitutes ‘persistent’)
