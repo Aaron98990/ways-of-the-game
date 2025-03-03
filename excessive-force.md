@@ -48,9 +48,9 @@ This distinction matters as competitions generally will suspend players for more
 Striking with the hand/arm is one of the most serious offenses in the game (elbowing, punching, slapping, clotheslining, stamping someone's face to the ground, choking, eye poking, lifting someone, throwing someone to the ground/body slam, hair pulling) There is a great write up from PRO about challenging with the hands/arms [here](https://proreferees.com/2020/04/20/pro-insight-tool-or-weapon-challenging-with-hands-arms/). 
 - [Serious Foul Play 1](https://youtu.be/FFf7U5FNLag?t=43)
 
-Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind). Similarly, any wrapping above the upper chest will genereally slide up to the neck and head which is still excessive force.  
+Clotheslining is having an opponent's momentum running into your straight arm at the neck, head, or upper-chest level mimicking the action of running into a low hanging [clothesline](https://en.wikipedia.org/wiki/Clothes_line). The opponent will fall with the head back and feet first. It is so dangerous it is a send-off in [Canadian football](https://www.youtube.com/watch?v=QiNmQZWeaU8&ab_channel=DavidMcLennan) and [rugby](https://www.youtube.com/watch?v=he6S8mtSgxE&ab_channel=mohblind). Similarly, any wrapping above the upper chest will genereally slide up to the neck and head which is orange card.  
 - [Violent Conduct](https://www.tiktok.com/t/ZTYydCBy5/)
-- [Not a clothesline as not straight arm but wrapped but still violent conduct](https://youtu.be/mHhim5gIfWw?feature=shared&t=152)
+- [Not a clothesline as not straight arm but wrapped but still orange card](https://youtu.be/mHhim5gIfWw?feature=shared&t=152)
 
 Deliberate hair pulling is violent conduct unless neglibile. 
 - [Caution - neglible](https://youtu.be/-IMnaZs6dps?feature=shared), [Violent Conduct](https://youtu.be/Qxv7Ix6VHlI?feature=shared&t=585)
