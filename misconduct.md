@@ -235,6 +235,7 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - throwing (spiking) the ball to the ground [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
+- raising your hand(s) for an extended period of time (e.g 4 seconds)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
 - complaining with no shirt on or jersey number is not visible (tell them to go away - can't identify the player if it rises to dissent)
 
