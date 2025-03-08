@@ -140,6 +140,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "That was outside the penalty area."
 - "No way that's a foul." / "That's not a foul as well?"
 - "What are you calling?" / After explaining, acting like they couldn't hear you so you have to repeat yourself / being passive agressive
+- That's the same thing as before (they are never the same)
 - saying something clearly wrong or made up (don't fall for the bait - ignore)
 - "Where's the card?" or asking, not demanding for a card (the person wants the game called more tightly)
 - "Keep my players safe!" / "Protecy my players" (the person wants the game called more tightly)
