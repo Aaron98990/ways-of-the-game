@@ -315,6 +315,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - running up to an oppoent including after a percieved foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
+  - face to face (could be managed with forced subs instead of a card) [Example](https://www.tiktok.com/t/ZT2XhFv8L/)
 - failure to respect a referee's instruction (e.g. asking a player to come to talk to the referee)
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
