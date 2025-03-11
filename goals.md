@@ -1,5 +1,3 @@
-## About the goal
-
 > Goals (including portable goals) must be firmly secured to the ground.
 > - Law 1.10 Goals
 
@@ -172,8 +170,8 @@ Most matches where the score is tied will in a tie. The only exception is where 
 > - two equal periods of extra time not exceeding 15 minutes each
 > - penalties (penalty shoot-out) _Law 10.2 Winning team_
 
-Home-and-away matches are where the same two teams play two matches, one at each team's home field. The goals from both matches are added together and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Another coin toss is required for extra time and also penalties. Penalties are covered in [Law 10.3](https://theifab.com/laws/latest/determining-the-outcome-of-a-match/#penalties-penalty-shoot-out). 
+Home-and-away matches are where the same two teams play two matches, one at each team's home field. The goals from both matches are added together (known as the aggregate score) and if it's tied and a winner is required, the competition rules will dictate the procedure(s) above that apply. The away goals rule only applies to home-and-away matches. Another coin toss is required for extra time and also penalties. Penalties are covered in [Law 10.3](https://theifab.com/laws/latest/determining-the-outcome-of-a-match/#penalties-penalty-shoot-out). 
 
 > Away goals rule: goals scored away from home count double. Glossary
 
-Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both or other systems but how a competition determines it's winner is dictated by the competition rules, not the Laws.
+Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both or other systems but how a competition determines its winner is dictated by the competition rules, not the Laws.
