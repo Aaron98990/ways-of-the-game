@@ -27,8 +27,9 @@ Helpful Unofficial Resources
 - [Refs Need Love Too - TikTok](https://www.tiktok.com/@refsneedlovetoo)
 
 Non-soccer Officiating Resources
-- [CloseCallSports (Baseball) - YouTube ](https://youtube.com/@closecallsports?feature=shared)
-- [A Better Official (Basketball) - YouTube ](https://youtube.com/@betterofficials?feature=shared)
+- [CloseCallSports (Baseball) - YouTube ](https://youtube.com/@closecallsports)
+- [A Better Official (Basketball) - YouTube ](https://youtube.com/@betterofficials)
+- [Officals Institute (Basketball) - YouTube](https://youtube.com/@officialsinstitute)
 
 Want to contribute
 
