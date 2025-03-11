@@ -26,6 +26,10 @@ Helpful Unofficial Resources
 - [r/Referees - Reddit](http://reddit.com/r/referees)
 - [Refs Need Love Too - TikTok](https://www.tiktok.com/@refsneedlovetoo)
 
+Non-soccer Officiating Resources
+- [CloseCallSports (Baseball) - YouTube ](https://youtube.com/@closecallsports?feature=shared)
+- [A Better Official (Basketball) - YouTube ](https://youtube.com/@betterofficials?feature=shared)
+
 Want to contribute
 
 - Click the GitHub icon on the top-right and open an issue (for small fixes) or pull request (for large fixes) on GitHub. Read more [here](/CONTRIBUTING.md)
