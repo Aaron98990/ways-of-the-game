@@ -167,7 +167,8 @@ The "backpass" law gives an exception: "the goalkeeper has clearly kicked or att
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is penalised and cautioned if responsible for initiating the deliberate trick
 > - Law 12.2/12.3 Indirect free kick/ Disciplinary Action
 
-Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter.
-- [A goalkeeper initiates a deliberate trick to be able to handle the ball. The goalkeeper must be cautioned and play is restarted with an indirect free kick.](https://streamable.com/ohy4r)
-- [A player initiates a deliberate trick for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
-- [The goalkeeper initates a deliberate trick to handle the ball by kicking the ball in the air so it can be headed back to him. The goalkeeper is cautioned and play is restarted with an indirect free kick.](https://www.tiktok.com/@fanfootball41nam/video/7281304886464056619?_r=1&_t=8gDoc3zbm2d)
+Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter. Basically once the ball is still or rolling, any deliberate pass(es) from a teammate(s) that artifically raises the ball so the goalkeeper can pick it up is not allowed.   
+- [A goalkeeper clearly initiates a deliberate trick as goalkicks are never flicked up to a nearby teammate's head like this. The goalkeeper must be cautioned and play is restarted with an indirect free kick where the goalkick is taken.](https://streamable.com/ohy4r)
+- [A player initiates a deliberate trick by heading the ball on the ground for the goalkeeper to handle the ball. The player must be cautioned and play is restarted with an indirect free kick at the grounded player's position.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
+- [The goalkeeper kicks a rolling ball in the air to a teammate who heads it back to him to pick up. The teammate or goalkeeper is cautioned depending on who is judged to initiate (subjective) and play is restarted with an indirect free kick.](https://www.tiktok.com/@fanfootball41nam/video/7281304886464056619?_r=1&_t=8gDoc3zbm2d)
+- []()
