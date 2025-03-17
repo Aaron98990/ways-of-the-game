@@ -70,13 +70,14 @@ When the arm is close to the body, it is not unnaturally bigger. After the ball 
 
 I make the distinction for identyifing the hand/arm as unnaturally bigger for these situations:
 - no forgivness category
-  - a attacker or
+  - a attacker outside their own penalty area or
   - neutral situation / no team clearly in possession (e.g. ball bouncing) or
   - defender in their attacking half or
   - defender hand/arm contact with ball leads to a promising attack or
   - defender on/near the goal line
 - forgivness category
   - a defender in their defensive half and defender hand/arm contact with ball does not lead to a promising attack
+  - an attacker in their own penalty area
 
 No forgivness category: There is no leeway in these situations. It's handball if the player's hand/arm is bigger (by not being completely against the body) and touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. The amount of bigness of the hand/arms allowed is none due to its advantage it causes. 
 - The attacker's hand/arm makes contact with the ball. [Handball.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=4271) / [Handball.](https://youtu.be/pDhRUUha6B0?feature=shared&t=53) / [Handball.](https://youtu.be/GMQQqGXx8mg?feature=shared&t=54)
