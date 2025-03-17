@@ -71,7 +71,9 @@ The goalkeeper committing a handball offense in their own penalty area (six seco
 > A goalkeeper is in control of the ball with the hand(s) when:
 > - the ball is between the hands or between the hand and any surface (e.g. ground, own body) or by touching it with any part of the hands or arms, except if the ball rebounds from the goalkeeper or the goalkeeper has made a save
 > - holding the ball in the outstretched open hand
-> - bouncing it on the ground or throwing it in the air
+> - bouncing it on the ground or throwing it in the air _Law 12.2_
+
+> If an offense involves contact, it is penalised by a direct free kick _Law 12.1_
 
 If the offense involves contact with the goalkeeper, it is a direct free kick. Else, it is an indirect free kick.
 - [Foul. Direct free kick since it involved contact. The player challenges the goalkeeper for the ball. This may have been a legal challenge if the goalkeeper was not in control of the ball with the hands. ](https://www.tiktok.com/@refsneedlovetoo/video/7269070487970450734)
@@ -88,13 +90,9 @@ or pushes him with the ball while holding it, the
 referee shall award a penalty-kick, if the offence
 took place within the penalty-area . Laws of the Game 1990/91 -->
 
-### Approaching the goalkeeper when they are in control with hand/arm
+When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach, impede, or make contact with the goalkeeper or the ball. Referees must be firm on this - including using cautions or send-offs or using preventative refereeing as these are bad-faith plays that may lead to confrontation . If the goaleeper retailates, the first foul is called. 
 
-When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach or make contact with the goalkeeper. Referees must be firm on this - including using cautions or send-offs as these are bad-faith plays or using preventative refereeing. If the goaleeper retailates, the first foul is called. 
-
-- [Example 1](https://youtu.be/_lqz14fMquo?feature=shared&t=60)
-- [Example 2](https://youtu.be/HS2DLCxfeYU?feature=shared&t=247)
-- [Example 3](https://www.tiktok.com/t/ZTF2y5CAR/)
+- [Example 1](https://youtu.be/_lqz14fMquo?feature=shared&t=60), [Example 2](https://youtu.be/HS2DLCxfeYU?feature=shared&t=247),  [Example 3](https://www.tiktok.com/t/ZTF2y5CAR/)
 
 <!-- Just experienced this Sept 15, 2024 which led to a double red card. -->
 
