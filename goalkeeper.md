@@ -24,8 +24,7 @@ On corner kicks, players stand in front of the goalkeeper to limit their movemen
 
 > Impeding the progress of an opponent means moving into the opponent’s path to obstruct, block, slow down or force a change of direction when the ball is not within playing distance of either player.
 > 
-> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent.
-> - Law 12.2
+> All players have a right to their position on the field of play; being in the way of an opponent is not the same as moving into the way of an opponent. _Law 12.2_
 
 If the offense involves contact with the goalkeeper, the restart is a direct free kick. Else, the restart is an indirect free kick.
 - [A player fairly stands in front of the goalkeeper during a corner kick and triggers the opponents.](https://youtu.be/1g2DRURrbAo?t=522)
@@ -61,8 +60,7 @@ Handball is often thought of a direct free kick offense. But the Laws of the gam
 
 The goalkeeper committing a handball offense in their own penalty area (six seconds, after releasing, "backpass") is always an indirect free kick (not a penalty kick) as shown in the [restarts section](/restarts?id=indirect-free-kick) and no sanction and no disciplinary action is taken unless the goalkeeper touches the ball directly after taking a restart.
 
-> If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity.
-> - Law 12.1 Direct free kick
+> If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity. _Law 12.1 Direct free kick_
 
 - [Goalkeeper shown red card for double touch for DOGSO from a goalkick.](https://youtu.be/G6w_qGQkrwc?feature=shared)
 
@@ -107,8 +105,7 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 
 - [No offense. Goalkeeper did not contact the ball with their hand/arm outside the penalty area.](https://youtu.be/2rXfqVkmMII?feature=shared&t=375)
 
-> lines belong to the areas of which they are boundaries.
-> - Law 1.2 - Field Markings
+> lines belong to the areas of which they are boundaries. _Law 1.2 - Field Markings_
 
 > An indirect free kick is awarded if a player:
 > - prevents the goalkeeper from releasing the ball from the hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
@@ -168,10 +165,10 @@ The "backpass" law gives an exception:
 ## Circumventing the "backpass" Law
 
 > An indirect free kick is awarded if a player:
-> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is penalised and cautioned if responsible for initiating the deliberate trick _Law 12.2_
+> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is penalised if responsible for initiating the deliberate trick _Law 12.2_
 
 > There are different circumstances when a player must be cautioned for unsporting behavior including if a player:
-> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is penalised and cautioned if responsible for initiating the deliberate trick _Law 12.3_
+> - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick _Law 12.3_
 
 This offense is an indirect free kick and caution for unsporting behavior. Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter. Basically once the ball is still or rolling, any deliberate pass(es) from a teammate(s) that artifically and deliberately raises by kick the ball so the goalkeeper can pick it up is not allowed. 
 - [A goalkeeper clearly initiates a deliberate trick as goalkicks are never flicked up to a nearby teammate's head like this. The goalkeeper is cautioned and indirect free kick where the goalkick was taken.](https://streamable.com/ohy4r)
