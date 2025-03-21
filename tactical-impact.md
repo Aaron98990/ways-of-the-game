@@ -82,7 +82,7 @@ Advantage played:
 
 | SPA     | DOGSO |
 | ------- | ----- |
-| no card | YC    |
+| no card | YC (although not explicit in the Laws non-deliberate handball DOGSO and attempt to play or challenge for the ball DOGSO is best to be no card)   |
 
 
 
