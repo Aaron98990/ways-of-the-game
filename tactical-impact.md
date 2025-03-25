@@ -78,12 +78,6 @@ No advantage played:
 | **Free kick** | YC*                                      | RC*                                      |
 
 
-Advantage played:
-
-| SPA     | DOGSO |
-| ------- | ----- |
-| no card | YC (although not explicit in the Laws non-deliberate handball DOGSO and attempt to play or challenge for the ball DOGSO is best to be no card)   |
-
-
-
 \* Goalkeeper handling offense in their own penalty area is no card unless also double touch from a restart
+
+Advantage played: downgrade the sanction by one level. So a RC -> YC and YC -> no card. 
