@@ -41,6 +41,8 @@ If the offense involves contact with the goalkeeper, the restart is a direct fre
 > - cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
 > - 3.5 Offenses and sanctions
 
+-[Video Example](https://www.tiktok.com/t/ZT2W2tXLQ/)
+
 ## Outside their penalty area
 
 Goalkeepers can go anywhere on the field of play and take any restart (e.g. throw-ins) if it belongs to their team. A goalkeeper committing a handball offense outside their own penalty area is just like any other non-goalkeeper player, a direct free kick with the appropriate sanction / disciplinary action is taken (Law 12.1). Read more in the [handball section](/handball).
