@@ -48,9 +48,11 @@ It is not recomended to play advantage on offenses against the goalkeeper in the
 
 ## Advantage signal
 
-Law 5.6 shows two approved referee signals for advantage. It is one arm or two arms pointing in the attacking direction of team benefiting the advantage.
+Law 5.6 shows two approved referee signals for advantage. It is one arm or two arms pointing in the attacking direction of team benefiting from the advantage.
 
-It is recommended for the referee to also yell "Advantage" to make it clear to players that you are not ignoring the foul.
+Some referees yell "Advantage" or "Play on" to make it clear to players that they are not ignoring the foul. 
+
+Personally, I make no physical or verbal signal for advantage. 
 
 ## Disciplinary action
 
