@@ -121,7 +121,7 @@ Similar idea applies above not only to extra people but to objects and animals. 
 
 ## Goal signal
 
-_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. Personally, I make no hand signal. _The Guidelines for Match Officials_ recommends a whistle for a goal only when the ball appears still to be in play. 
+_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. Personally, I make no arm signal. _The Guidelines for Match Officials_ recommends a whistle for a goal only when the ball appears still to be in play. 
 
 _Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kickoff but _The Guidelines for Match Officials_ offers guidance.
 
@@ -155,9 +155,15 @@ It is accepted that referees do not add enough additional time, so the losing te
 - [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
 - [A player acts in a provacative way by mimicking the goalkeeper failing to save the goal and must be cautioned.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=350)
 
+
+> For any offence, play need not be stopped. Law 4 The Players' equiptment
+
+If a player takes their shirt off before scoring, the goal counts and they recieve a YC. 
+- [Example 1](https://youtu.be/yZ6eG3vD__w?feature=shared)
+
 > after a team scores a goal, the kick-off is taken by their opponents _Law 8.1 Kick-off_
 
-If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored and ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each restart (including kick-off) or else notify the operator (or have the home team notify the operator if they're not nearby). 
+If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored, ensure there are 11 or less players, and  ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each restart (including kick-off) or else notify the operator (or have the home team notify the operator if they're not nearby). 
 
 ## Winning team
 
