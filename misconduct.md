@@ -427,7 +427,7 @@ This section applies to a player, substitute or substituted player.
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135), [Example 2](https://youtu.be/nqe85R5epyM?feature=shared&t=177)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
   - [Writeup](/mobbing)
-- an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
+- an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, gun gesture at someone, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
 - Grabbing an someone's shirt and pulling them to your face
   - [Abusive action.](https://youtu.be/2ybxt6CusMc?feature=shared&t=1130)
 - Standing on top of a player on the ground while staring them down
