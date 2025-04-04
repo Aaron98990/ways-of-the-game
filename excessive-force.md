@@ -59,9 +59,13 @@ If someone deliberately strikes the ball at someone (by throwing or kicking it) 
 
 - [Violent Conduct 1](https://youtu.be/nDgAA3EtsBg?t=627), [Violent Conduct 2](https://www.youtube.com/live/Cbij3MKhdOY?feature=shared&t=5863), [Violent Conduct 3](https://youtu.be/JlIrFR2E-tw?feature=shared&t=34), [Reckless 1](https://youtu.be/snf9HlPG0dU?feature=shared&t=123)
 
-Headbutting (striking at someone with the head) unless negligible is violent conduct.
+Deliberate Headbutting (striking at someone with the head) unless negligible is violent conduct.
 
 - [Violent Conduct 1](https://www.youtube.com/watch?v=zIGRzIf3nZ8&ab_channel=NBCSports)
+
+The fall and roll arm hook is violent conduct. 
+
+-[Example 2](https://youtu.be/mi7fXtGTwbc?feature=shared)
 
 
 ## Jumps at / charge / push / trip
