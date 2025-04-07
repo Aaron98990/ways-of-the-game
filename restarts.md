@@ -153,7 +153,7 @@ For all restarts except dropped balls, the person who takes the restart can't to
 - [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
 - [Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
 
-If the goalkeeper is the restart taker and double touches and commits handball at the same time in their own penalty area, it is an indirect free kick. In all other cases for all players, it is a direct free kick offense since handball is the more serious offense.
+If the goalkeeper is the restart taker and they double touch with their hand/arm in their own penalty area, it is an indirect free kick for double touch from restart since a handball offense does not apply (see quote below). In all other cases for all players, it is a direct free kick offense since handball is the more serious offense than double touch from restart.
 
 > > A direct free kick is awarded if a player commits any of the following offenses:
 > - a handball offense (except for the goalkeeper within their penalty area) _Law 12_
