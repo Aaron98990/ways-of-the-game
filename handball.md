@@ -71,12 +71,12 @@ When the arm is close to the body, it is not unnaturally bigger. After the ball 
 I make the distinction for identyifing the hand/arm as unnaturally bigger for these situations:
 - no forgivness category
   - a attacker outside their own penalty area or
-  - neutral situation / no team clearly in possession (e.g. ball bouncing) or
+  - neutral situation / no team clearly in possession (e.g. ball bouncing or long ball) or
   - defender in their attacking half or
   - defender hand/arm contact with ball leads to a promising attack or
   - defender on/near the goal line
 - forgivness category
-  - a defender in their defensive half and defender hand/arm contact with ball does not lead to a promising attack
+  - a defender in their defensive half and defender hand/arm contact with ball does not lead to a promising attack or
   - an attacker in their own penalty area
 
 No forgivness category: There is no leeway in these situations. It's handball if the player's hand/arm is bigger (by not being completely against the body) and touches the ball (unnaturally or naturally) including after a deflection from anyone (including oneself), attempting to head the ball, or a defender clears or deliberately saves the ball. The amount of bigness of the hand/arms allowed is none due to its advantage it causes. 
@@ -91,6 +91,7 @@ Forgivness category: When a defender falls and the hand (and not any other part 
 Forgivness category: A defender attempting to or is near a player attempting to head the ball is not unnaturally bigger unless their arms are above their shoulders or the shot is taken on goal.
 - The defender is near a player attempting to head the ball. [No handball.](https://youtu.be/X_fcQ2-OTPE?feature=shared&t=3) / [Not Handball.](https://youtu.be/RpETARCm7_U?feature=shared&t=70) / [Not Handball.](https://www.youtube.com/watch?v=E4a3ibwKnoM)
 - Shot on goal. [Handball](https://youtu.be/OfekZUATrwY?feature=shared&t=65)
+- Neither player attempting to head the ball. [Handball](https://red.fifa.com/fifared/web/en/viewer/video/lex_auth_01427278225526784067)
 - The defender is attempting to head the ball. [Not handball](https://youtu.be/vmis513lhSY?feature=shared&t=230)
 - Remember an attacker gets no special exceptions if the hand/arm is bigger. [Handball.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
@@ -100,9 +101,10 @@ Forgivness category: The ball hitting the hands/arm after a deflection from a di
 - Signicant touch before handball from self [No handball.](https://youtu.be/cZWIH6cdTPo?feature=shared&t=346) / [No handball](https://youtu.be/pmcs39I2j1k?feature=shared&t=663)
 - Ball off the thigh is not significant contact
 
-Forgivness category: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body). 
+Forgivness category: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body ). 
 - Not handball. The defender deliberately clears the ball into their own hand/arm. [Example 1.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Example 2.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Example 3.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153) / [Example 4 - Deliberate play but slipped](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
 - Not handball. The defender deliberately clears the ball into their team-mates hand/arm and the ball is played away from goal. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454) / [Example 2](https://youtu.be/h_M-c9ZeJ8g?feature=shared&t=68) / [Exampe 3](https://youtu.be/NYLM7umIYDE?feature=shared&t=530)
+- Not handball. Goalkeepr saves the ball but bounces with a lot of spin and contacts the defender arm in their own penalty area whose arm is unnaturally bigger.
 
 ## Accidental handball
 
