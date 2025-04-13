@@ -47,6 +47,7 @@ When a player believes they have been fouled and goes to ground, they will often
 > - deliberately touches the ball with their hand/arm, for example moving the hand/arm towards the ball
 
 - A slight motion (even inward towards the body) is enough for deliberate handball. [Handball](https://youtu.be/fM_WkMvOogQ?t=29) / [Handball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=205) / [Handball](https://www.youtube.com/watch?v=fLUxMRYJAso&ab_channel=SeanNicko)
+- Stiffening or leaving the arm in place in anticipation of the ball
 
 
 ## Unnaturally bigger
