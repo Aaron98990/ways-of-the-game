@@ -168,3 +168,5 @@ A save can be done by any opponent and not just the goalkeeper. The save does no
 **It is helpful to count with your fingers the number of players in an offside position. You must be paying attention to the players who are in an offside position before the ball is touched by an attacker.**
 
 Judging offside while play is near your touchline is very difficult as you can't see two parts of the field at once and ball in/out decision. 
+
+Do not cut or suddenly stop as this may cause injury. If needed go past the goalline. 
