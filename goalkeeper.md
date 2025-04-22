@@ -176,3 +176,4 @@ This offense is an indirect free kick and caution for unsporting behavior. Note 
 - [No offense. The goalkeeper raises by kick the ball to go above an opponent with no intention to start a deliberate trick. ](https://www.tiktok.com/@fanfootball41nam/video/7281304886464056619?_r=1&_t=8gDoc3zbm2d)
 - [No offense. The defender that raises by kick the ball just sent it back aimlessly with no intention to start a deliberate trick.](https://www.instagram.com/share/_33GqJfXr)
 - [Indirect free kick at position of flicker and caution to flicker. Goalkeeper not picking up the ball does not matter.](https://www.tiktok.com/t/ZT2bDLej2/)
+- [No offense. The team has no possession.](https://youtu.be/rW9nVxdalIs?feature=shared&t=105)
