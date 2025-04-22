@@ -25,11 +25,11 @@ Just because a foul or offense happens, does not mean that the referee stops pla
 
 ## Common fouls
 
-If someone starts hopping they probably have been kicked. You can hear when another person is kicked. [No foul.](https://www.youtube.com/watch?v=AKa17voHa2k, [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
+If someone starts hopping, they probably have been kicked. You can hear when another person is kicked. [No foul.](https://www.youtube.com/watch?v=AKa17voHa2k), [Foul.](https://youtu.be/1g2DRURrbAo?t=700)
 
 Jumping is okay. Jumping (generally not straight up) at another player is not. [Foul.](https://youtu.be/Q3Vg9y1j8vY?t=510), [Foul.](https://www.youtube.com/watch?v=mjuiEPfchz0)
 
-Push off before or during headers are fouls. A Player not heading the ball initiating contact with a person heading or about to head the ball is a foul. If after a jump, a person lands off balance they most likely have been pushed. [Foul.](https://youtu.be/IP-4dxu721E?feature=shared&t=127)
+Push off before or during headers are fouls. A player not heading the ball initiating contact with a person heading or about to head the ball is a foul. If after a jump, a person lands off balance they most likely have been pushed. [Foul.](https://youtu.be/IP-4dxu721E?feature=shared&t=127)
 
 Small push that puts a player ahead of the ball is a foul. [Foul](https://youtu.be/bAgwBqYVUhM?feature=shared&t=24)
 
