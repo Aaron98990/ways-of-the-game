@@ -2,8 +2,7 @@
 
 Each team must always have one goalkeeper. 
 
-> A match is played by two teams, each with a maximum of eleven players; one must be the goalkeeper.
-> 3.1 Number of players
+> A match is played by two teams, each with a maximum of eleven players; one must be the goalkeeper. _Law 3.1 Number of players_
 
 ## Goalkeeper equipment
 
@@ -15,8 +14,7 @@ Goalkeepers must be distinguishable from other players and the match officials.
 
 > - The two teams must wear colours that distinguish them from each other and the match officials
 > - Each goalkeeper must wear colours that are distinguishable from the other players and the match officials
-> - If the two goalkeepers’ shirts are the same colour and neither has another shirt, the referee allows the match to be played
-> - Law 4
+> - If the two goalkeepers’ shirts are the same colour and neither has another shirt, the referee allows the match to be played _Law 4.3 Colours_
 
 ## Boxing out the goalkeeper
 
