@@ -4,6 +4,14 @@ The IFAB makes available past Laws of the Game (including the 1903/04 edition) w
 
 This is the only place I blatantly insert my opinion. Other places are less blatant.
 
+## 2025/26
+
+[Law changes document.](https://downloads.theifab.com/downloads/changes-to-the-laws-of-the-game-2025-26?l=en)
+
+- Indirect free kick and no disciplinary sanction when a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play touches the ball as it is leaving the field of play and there is no intention to interfere unfairly
+- A goalkeeper who controls the ball with their hand(s)/arm(s) for more than eight seconds will be penalised with a corner kick
+  - Referees to count down with fingers of raised arm the last five seconds of the eight-second restriction on goalkeepers controlling the ball with their hand/arm
+
 ## 2024/25
 
 [Law changes document.](https://downloads.theifab.com/downloads/lotg_changes_24_25_en?l=en)
