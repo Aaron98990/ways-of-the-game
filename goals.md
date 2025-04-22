@@ -51,17 +51,14 @@ Laws that will nullify a goal:
 > 
 > If the ball becomes defective at a kick-off, goal kick, corner kick, free kick, penalty kick or throw-in, the restart is retaken.
 > 
-> If the ball becomes defective during a penalty kick or kicks from the penalty mark as it moves forward and before it touches a player, crossbar or goalposts the penalty kick is retaken.
-> - Law 2.2 Replacement of a defective ball
+> If the ball becomes defective during a penalty kick or penalties (penalty shoot-out) as it moves forward and before it touches a player, crossbar or goalposts the penalty kick is retaken. _Law 2.2 Replacement of a defective ball_
 
 > The ball is out of play when:
 > - it touches a match official, remains on the field of play and:
 >   - a team starts a promising attack or
 >   - the ball goes directly into the goal or
 >   - the team in possession of the ball changes
-> - In all these cases, play is restarted with a dropped ball.
->   
-> Law 9.1 Ball out of play
+> - In all these cases, play is restarted with a dropped ball. _Law 9.1 Ball out of play_
 
 - [No goal/dropped ball. The ball touches a match official then directly goes into the goal](https://youtu.be/MhWyCGQ9HDU)
 
