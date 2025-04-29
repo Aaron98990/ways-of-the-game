@@ -67,6 +67,11 @@ Just because advantage is played does not mean that a referee cannot caution or 
 
 - [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage wwas played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
 
+_I'm aware this is different than the Laws. Below is what I follow:_
+- Advantage ensues & goal: no card
+- Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
+  - A goal is the only way for advantage to ensue for an offense punished by a penalty kick
+
 There may be instance where a player commits two cautionable offenses in close proximity - but not at the same time - that should result in two cautions.
 > Where two separate cautionable offenses are committed (even in close proximity), they should result in two cautions, for example if a player enters the field of play without the required permission and commits a reckless tackle or stops a promising attack with a foul/handball, etc.
 > - Law 12.3 Disciplinary Action
