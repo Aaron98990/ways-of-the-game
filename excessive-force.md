@@ -33,7 +33,9 @@ The level of physical severity does not depend on:
 > 
 > In addition, a player who, when not challenging for the ball, deliberately strikes an opponent or any other person on the head or face with the hand or arm, is guilty of violent conduct unless the force used was negligible.
 
-A player can be found to be using excessive force even if there is no or minimal contact made with the other person or the other person pulls out/avoids the situation.
+A player can be found to be using excessive force even if there is no or minimal contact made with the other person or the other person pulls out/avoids the situation. 
+
+Context matters in all cases. Nothing is automatic but the lists below are things to watch for. The same action can be a red card or no card/no offense depending on the context. 
 
 Both serious foul play and violent conduct are both send-off offenses for using excessive force. It is impossible for an offense to be serious foul play and violent conduct at the same time. It can only be one. 
 
