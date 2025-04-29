@@ -70,7 +70,7 @@ The referee always penalizes the more serious offense if multipe occur at the sa
 
 ## Summary table
 
-No advantage played:
+No advantage ensues:
 
 |  Restart                       | SPA                                     | DOGSO                                   |
 | ----------------------- | --------------------------------------- | --------------------------------------- |
@@ -80,4 +80,9 @@ No advantage played:
 
 \* Goalkeeper handling offense in their own penalty area is no card unless also double touch from a restart
 
-Advantage played: downgrade the sanction by one level. So a RC -> YC and YC -> no card. 
+_I'm aware this is different than the Laws. Below is what I follow:_
+- Advantage ensues & goal: no card
+- Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
+  - A goal is the only way for advantage to ensue for an offense punished by a penalty kick
+  - So it's no card unless it's DOGSO + offense punished by free kick + advantage in which it's a YC.
+
