@@ -15,7 +15,7 @@ If the injury occurs, please go to the nearest match official and ask if they sa
 
 ## Consult with the player
 
-For all slide tackles which are deemed unfair, have a conference with that player even if not givning a sanction. All consults with players are written down.
+Private Consult with a player is a owerful tool. 
 
 ## Whistle tone
 
