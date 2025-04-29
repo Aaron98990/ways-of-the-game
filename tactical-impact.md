@@ -63,8 +63,7 @@ For DOGSO in the penalty area, assume that the defender is going for the ball un
 
 - [This is not a DOGSO situation. Although this was a charge from the back, this is a challenge for the ball. The defender had an open path to the ball but the attacker fairly moves into that path.](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
 
-> If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
-> - Law 12.3 Disciplinary Action
+The sanction is downgraded if play is not stopped and advantage ensues. Read more in the [advantage section](/advantage).
 
 The referee always penalizes the more serious offense if multipe occur at the same time. Read more about two offenses at once in the [restarts section](/restarts). If a player SPA and advantage is played (no card) but also simultaneously commits a reckless foul, persistent offenses, or lack of respect of the game (e.g. blatant two-hand holded), the referee still shows the yellow card since its the more serious offense.
 
@@ -84,5 +83,4 @@ _I'm aware this is different than the Laws. Below is what I follow:_
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
   - A goal is the only way for advantage to ensue for an offense punished by a penalty kick
-  - So it's no card unless it's DOGSO + offense punished by free kick + advantage in which it's a YC.
 
