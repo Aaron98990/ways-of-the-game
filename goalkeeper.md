@@ -58,7 +58,7 @@ Handball is often thought of a direct free kick offense. But the Laws of the gam
 > - a handball offense (except for the goalkeeper within their penalty area)
 > - Law 12.2 Direct free kick
 
-The goalkeeper committing a handball offense in their own penalty area (six seconds, after releasing, "backpass", goalkeeper handles the ball directly after taking a restart) is always an indirect free kick (not a penalty kick) as shown in the [restarts section](/restarts?id=indirect-free-kick) and no sanction and no disciplinary action is taken unless the goalkeeper touches the ball directly after taking a restart.
+The goalkeeper committing an offense with their hand/arm in their own penalty area (eight seconds, after releasing, "backpass", goalkeeper handles the ball directly after taking a restart) is always an indirect free kick (not a penalty kick) as shown in the [restarts section](/restarts?id=indirect-free-kick). Also, no sanction and no disciplinary action is taken unless the goalkeeper handles the ball directly after taking a restart.
 
 > If the goalkeeper handles the ball inside their penalty area when not permitted to do so, an indirect free kick is awarded but there is no disciplinary sanction. However, if the offense is playing the ball a second time (with or without the hand/arm) after a restart before it touches another player, the goalkeeper must be sanctioned if the offense stops a promising attack or denies an opponent or the opposing team a goal or an obvious goal-scoring opportunity. _Law 12.1 Direct free kick_
 
@@ -120,7 +120,7 @@ A goalkeeper that directly throws the ball from their own penalty area into the 
 > The referee will decide when the goalkeeper has control of the ball and the eight seconds begin and will visually count down the last five seconds with a raised hand.
 >  _Law 12.3_
 
-It is accepted expected to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 12 seconds of control with the hand/arm - it is meant only for egregious/blatant cases. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule.
+Verbal countdown also recommended. Personally, I would say countdown to negative two then punish the offense as I'm not looking to punish this. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule. There is no sanction for this.
 
 ## After releasing
 
