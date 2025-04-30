@@ -104,7 +104,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 >
 > If a substitute, substituted or sent-off player, player temporarily off the field of play or team official throws or kicks an object onto the field of play and it interferes with play, an opponent or match official, play is restarted with a direct free kick (or penalty kick) where the object interfered with play or struck or would have struck the opponent, match official or the ball.
 > 
-> Law 12.4 (last two paragraphs)
+> Law 12.5 (last two paragraphs)
 
 - [A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
 
@@ -115,7 +115,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 > - a substitute, substituted or sent-off player, or team official commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
 >   
 > play is restarted with a free kick on the boundary line nearest to where the offense/interference occurred;
-> Law 12.4
+> Law 12.5
 
 - [A penalty kick is awarded for an direct free kick offense outside the field of play. Since the nearest boundary line is the penalty area, a penalty kick is awarded.](https://youtu.be/kW7fo3kRo14?feature=shared&t=8)
 <!-- Associated article to video is here: https://proreferees.com/2017/09/27/play-of-the-week-29/ -->
