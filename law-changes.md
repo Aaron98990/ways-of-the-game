@@ -108,18 +108,14 @@ The Law Changes document for the year is [here on 109th PDF page/page 111 on the
 - If several offenses occur at the same time the most serious is punished
 - Referee can send a player off from pre-match pitch inspection onwards
 - Referee can only use RC + YC after entering the field at start of the match
-- If something/someone (other than a player) touches a ball as it goes
-  into the goal the referee can award the goal if the touch had no impact on
-  the defenders
-- Player losing footwear/shinguard accidentally can play on until next
-  stoppage
+- If something/someone (other than a player) touches a ball as it goes into the goal the referee can award the goal if the touch had no impact on the defenders
+- Player losing footwear/shinguard accidentally can play on until next stoppage
 - Halfway line ‘neutral’ for offside; player must be in opponents’ half
 - Offside FK always taken where offense occurs (even in own half)
 - Foul with contact is a direct FK
 - Advantage for a RC – indirect FK if offender then gets involved in play
 - Some DOGSO offenses in the penalty area are punished with a YC
-- Foul off the field penalised with a direct FK on boundary line (penalty in own
-  penalty area)
+- Foul off the field penalised with a direct FK on boundary line (penalty in own penalty area)
 - Goalkeeper YC if infringes and PK is retaken
     - "This should encourage goalkeepers not to infringe this Law." was IFAB's reasoning. This was already way to harsh and when VAR was introduced caused more problems as the goalkeeper off the line law was strictly applied rather than just blatant cases. [Women's world cup shootout yellow card dispension was applied.](https://www.si.com/soccer/2019/06/21/womens-world-cup-pk-shootouts-goalkeeper-rule-yellow-card-ifab)
 - Kick-off: ball must clearly move to be in play; can be kicked in any direction
@@ -195,7 +191,7 @@ Guidelines for Match Officials: If there is no fourth official *and there are a 
 - Most grassroot games have unlimited substitions and an assistant referee moving constantly back and fourth is a waste of time.
 
 Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal kick" section including the associated diagrams]
-- An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees] don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.
+- An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees) don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.
 
 Competition Rule Gripe: American sports will have the player's number on more than one side of the jersey but soccer teams generally only have one jersey number. It makes it hard to identify players.
 
