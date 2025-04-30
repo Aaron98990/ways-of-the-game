@@ -113,7 +113,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 > If, when the ball is in play:
 > - a player commits an offense against against a match official or an opposing player, substitute, substituted or sent-off player, or team official outside the field of play or
 > - a substitute, substituted or sent-off player, or team official commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
->   
+> 
 > play is restarted with a free kick on the boundary line nearest to where the offense/interference occurred;
 > Law 12.5
 
