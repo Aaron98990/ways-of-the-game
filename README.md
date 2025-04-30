@@ -1,6 +1,6 @@
 # Ways of the Game
 
-The goal of this guide is to connect different concepts from the Laws of the Game that are related. As well, the guide links relevant videos because seeing is easier than just reading and advice for match officials. The guide is not a replacement for real experience or the Laws, which are simple and short compared to other sports, but is great for those new to the sport. The Laws are updated yearly so always be current on [changes](/law-changes).
+This is a Laws of the Game first guide to connect concepts across the Laws, show relevant videos because seeing is easier than just reading, and share advice for match officials. The guide is not a replacement for real experience or the Laws, which are simple and short compared to other sports. The guide is very technical  so I recommend those new to the sport to start off with the [Simplified Laws of the Game](http://www.footballrules.com). The Laws are updated yearly so always be current on [changes](/law-changes).
 
 In addition to the Laws of the Game, most matches have [competition rules](https://footballrules.com/about/additional-competition-rules), which include **important** information that affects the match (e.g. substitutions, time of halves/halftime, team jersey colors). [Here](https://cdn1.sportngin.com/attachments/document/0146/2001/Tournament_Rules_Template.pdf) is a sample of competition rules. Match officials must read and understand competition rules before a match. 
 
