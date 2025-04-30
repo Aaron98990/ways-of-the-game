@@ -113,6 +113,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 > If, when the ball is in play:
 > - a player commits an offense against against a match official or an opposing player, substitute, substituted or sent-off player, or team official outside the field of play or
 > - a substitute, substituted or sent-off player, or team official commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
+>   
 > play is restarted with a free kick on the boundary line nearest to where the offense/interference occurred;
 > Law 12.4
 
@@ -134,11 +135,14 @@ The restart is an indirect free kick. If the offense involves contact with an op
 > If play is stopped and the interference was by:
 > - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
 > - an outside agent, play restarts with a dropped ball
-> Law 3.7
+> _Law 3.7_
 
-This is an offense - not a foul. Please note the exception if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
+> If, without intending to interfere with play unfairly, a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play (injury, adjusting equipment etc.) touches the ball while it is still in play but when it is clearly leaving the field of play, this is penalised with an indirect free kick; there is no sanction _Law 9.2_
 
-- [Direct free kick at the interference spot. A team official enters the field of play and interferes with play. They would be sent-off. Since its a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
+Please note the exception for outside agents if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach or substitute accidentally enter the field and touch the ball. The restart would be an indirect free kick at the position of the touch.
+
+- [Direct free kick at the interference spot with a sending-off. A team official enters the field of play and deliberately interferes with play. Since it's a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
+- [Indirect free kick taken at the interference spot with no sanction. A substitute trying to restart play quickly touches the ball before it leaves the field of play.](https://www.youtube.com/watch?v=83PkzKCCiYo)
 
 ## Other guidnace
 The thirds - a soccer field can be divided into the defensive third, middle third, and offensive third. Fouls in the defensive third are the easiest to get while fouls in the offenive third are harder to get due to their advantagous restart.
