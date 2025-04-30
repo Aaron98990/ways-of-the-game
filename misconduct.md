@@ -4,7 +4,7 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 > 
 > Only a player, substitute, substituted player or team official may be shown the red or yellow card.
 > 
-> 12.3 Disciplinary action
+> 12.4 Disciplinary action
 
 A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee want an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent or sent-off person remains, the referee can abandon the match.
 
