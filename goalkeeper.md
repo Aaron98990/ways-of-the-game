@@ -66,12 +66,12 @@ The goalkeeper committing a handball offense in their own penalty area (six seco
 
 ## Control with hand/arms
 
-> A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s).
->
 > A goalkeeper is in control of the ball with the hand(s) when:
 > - the ball is between the hands or between the hand and any surface (e.g. ground, own body) or by touching it with any part of the hands or arms, except if the ball rebounds from the goalkeeper or the goalkeeper has made a save
 > - holding the ball in the outstretched open hand
-> - bouncing it on the ground or throwing it in the air _Law 12.2_
+> - bouncing it on the ground or throwing it in the air
+> 
+> A goalkeeper cannot be challenged by an opponent when in control of the ball with the hand(s). _Law 12.3_
 
 > If an offense involves contact, it is penalised by a direct free kick _Law 12.1_
 
@@ -90,7 +90,7 @@ or pushes him with the ball while holding it, the
 referee shall award a penalty-kick, if the offence
 took place within the penalty-area . Laws of the Game 1990/91 -->
 
-When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach, impede, or make contact with the goalkeeper or the ball. Referees must be firm on this - including using cautions or send-offs or using preventative refereeing as these are bad-faith plays that may lead to confrontation . If the goaleeper retailates, the first foul is called. 
+When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach, impede, or make contact with the goalkeeper or the ball. Referees must be firm on this - including using cautions or send-offs or using preventative refereeing as these are bad-faith plays that may lead to confrontation. If the goaleeper retailates, the first foul is called. 
 
 - [Example 1](https://youtu.be/_lqz14fMquo?feature=shared&t=60), [Example 2](https://youtu.be/HS2DLCxfeYU?feature=shared&t=247),  [Example 3](https://www.tiktok.com/t/ZTF2y5CAR/)
 
@@ -113,18 +113,24 @@ While the goalkeeper is releasing the ball, remember that the boundary lines tha
 
 A goalkeeper that directly throws the ball from their own penalty area into the opposing goal is a goal kick for their opponents (Law 10.1). 
 
-## Six seconds and after releasing
+## Eight Seconds
+
+> A corner kick is awarded if a goalkeeper, inside their penalty area, controls the ball with their hand(s)/arm(s) for more than eight seconds before releasing it.
+>
+> The referee will decide when the goalkeeper has control of the ball and the eight seconds begin and will visually count down the last five seconds with a raised hand.
+>  _Law 12.3_
+
+It is accepted expected to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 12 seconds of control with the hand/arm - it is meant only for egregious/blatant cases. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule.
+
+## After releasing
 
 > An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses:
-> - controls the ball with the hand/arm for more than six seconds before releasing it
-> - touches the ball with the hand/arm after releasing it and before it has touched another player
-
-It is ~~accepted~~ expected to not call the "controls the ball with the hand/arm for more than six seconds before releasing it" unless several warnings are given and until at least 12 seconds of control with the hand/arm - it is meant only for egregious/blatant cases. Referees should also remember the skill level of the players and the score of the game, when enforcing the rule.
+> - touches the ball with the hand/arm after releasing it and before it has touched another player _Law 12.2_
 
 If the ball rebounds off a goalkeeper hand/arms or any part of the body, they have never released the ball. To release the ball the goalkeeper must be in control with the hand/arms (defined below) and rebounds (deliberate or not) do not count. 
 
 - [Indirect free kick. Goalkeeper controls ball with hard/arms, releases it, and then touches ball with hands/arms again](https://www.tiktok.com/@refsneedlovetoo/video/7214189038956252459)
-- [No offense. As defined in the control with hands section, a rebound (including when deliberate) does not constitute control with the hand/arms. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2528)
+- [No offense. As defined in the control with hands section, a rebound (including when deliberate) does not constitute control with the hand/arms.](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2528)
 
 ## "Backpass"
 
