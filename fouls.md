@@ -100,19 +100,19 @@ The restart is an indirect free kick. If the offense involves contact with an op
 **Don't make it complicated: If anyone thinks its playing in a dangerous manner and they are not just saying it because the ball was played on the ground, just call it.**
 
 ## Kicking/throwing an object
-> play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball or interfered with play:
-> - If a player [...] throws or kicks an object (including a ball) at [another person] or the match ball or
-> - If a [non-player on the team lists] or player temporarily off the field of play throws or kicks an object onto the field of play and it interferes with play, an opponent or match official
+> If a player who is on or off the field of play throws or kicks an object (other than the match ball) at an opposing player, or throws or kicks an object (including a ball) at an opposing substitute, substituted or sent-off player, team official, or a match official or the match ball, play is restarted with a direct free kick from the position where the object struck or would have struck the person or the ball. If this position is off the field of play, the free kick is taken on the nearest point on the boundary line; a penalty kick is awarded if this is within the offender’s penalty area.
+>
+> If a substitute, substituted or sent-off player, player temporarily off the field of play or team official throws or kicks an object onto the field of play and it interferes with play, an opponent or match official, play is restarted with a direct free kick (or penalty kick) where the object interfered with play or struck or would have struck the opponent, match official or the ball.
 > 
-> Law 12.4 (I re-worded a lot so not an exact quote)
+> Law 12.4 (last two paragraphs)
 
 - [A player kicks an extra ball on the field at the game ball while the ball is in play. The restart is a direct free kick from where the balls made contact and a caution for SPA or lack of respect for the game.](https://www.reddit.com/r/soccer/comments/13o1pw4/comert_kicks_another_ball_at_vin%C3%ADcius_to_stop_an/)
 
 
 ## Offense outside the field of play
 > If, when the ball is in play:
-> - a player commits an offense [against anyone except a team-mate or outside agent] outside the field of play or
-> - a [non-player on the team lists] commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
+> - a player commits an offense against against a match official or an opposing player, substitute, substituted or sent-off player, or team official outside the field of play or
+> - a substitute, substituted or sent-off player, or team official commits an offense against, or interferes with, an opposing player or a match official outside the field of play,
 > play is restarted with a free kick on the boundary line nearest to where the offense/interference occurred;
 > Law 12.4
 
@@ -126,11 +126,14 @@ The restart is an indirect free kick. If the offense involves contact with an op
 >  a player commits a physical offence inside the field of play against: a team-mate - a direct free kick or penalty kick -->
 
 ## Extra person on the field
-> If a [non-player on the team lists] enters the field of play, the referee must:
+> If a team official, substitute, substituted or sent-off player or outside agent enters the field of play, the referee must:
 > - only stop play if there is interference with play
+> - have the person removed when play stops
+> - take appropriate disciplinary action
 >   
 > If play is stopped and the interference was by:
 > - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
+> - an outside agent, play restarts with a dropped ball
 > Law 3.7
 
 This is an offense - not a foul. Please note the exception if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach/sub accidentally enter the field and touch the ball. The restart would be a direct free kick at the position of the touch. In the Spirit of the Game section, I recommended not to punish anyone under this Law if the ball is clearly going out.
@@ -143,6 +146,8 @@ The thirds - a soccer field can be divided into the defensive third, middle thir
 Use different whistle lengths and volume. A softer whistle for a minor foul and a longer and louder whistle for a harder foul. Use stong body language and voice to show confidence and help control the match. The tone of your voice are more important than the words you say: your tone should never be meandering, soft, or sound like a suggestion or you'll be ignored everytime; it should be strong, conscise, explicit, and authoratative. 
 
 I recommend to never signal or announe "no foul" until it's clear that your lead assistant referee agrees its no foul. It looks bad to change after announcing no foul.
+
+Know the number of the player commiting the foul.
 
 Watch out for the triple bounce. This occurs when an attacker kicks or plays the ball forward, then the defender is able to kick/play the ball back, then the ball bounces back from the attacker forward. If the referee is not looking closely enough, it may look like the defender never got the ball and look like a foul but unless the defender did a deliberate secondary motion this is never foul. [TODO add video]
 
