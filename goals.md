@@ -104,6 +104,8 @@ Similar idea applies above not only to extra people but to objects and animals. 
 
 > Outside agent: Any animal, object or structure, etc., as well as any person who is not a match official or on the team list (players, substitutes and team officials) Glossary
 
+!> If someone on the team lists kicks or throws an object and it interferes with play, it is a direct free kick offense
+
 > **Outside interference**
 > - the floodlights are inadequate
 > - a spectator blows a whistle which interferes with play - play is stopped and restarted with a dropped ball
