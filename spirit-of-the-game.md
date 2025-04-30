@@ -36,9 +36,10 @@ Undershirt color matching shirt sleeve, undershorts/tights matching short color,
 Corner flags are missing, the lines are not straight, the penalty area is not the proper size, or the goals are not the proper size. No penalty mark for penalty kicks.
 - For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play. If the penalty mark is missing, count 12 yards from the goal line to place the ball when a penalty kick is given.
 
-A ball is about to clearly go outside the field of play but a non-player touches it. 
-- Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.
-- [A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as  no team gains an unfair advantage.](https://www.youtube.com/watch?v=83PkzKCCiYo)
+A ball is about to clearly go outside the field of play but a non-player touches it.
+- ~~Restart play as if the non-player did not touch the ball and the ball went out. If the ball is not clearly going outside the field of play, the referee should punish the offense as described in the Laws of the Game.~~
+- ~~[A sub touches the ball before it goes out of play and a penalty kick is awarded. Although technically correct, this is against the spirit of the game to call this as  no team gains an unfair advantage.](https://www.youtube.com/watch?v=83PkzKCCiYo)~~
+- Indirect free kick with no sanction is a person on a team list interferes.
 
 For lower levels of football, skipping the coin toss to save time is okay, having the assistant referee do the coin toss, or using a different method to determine sides/kick-off when no one has a coin.
 - Especially with back to back games or behind schedule games, the referee may just choose sides or who kick-offs. Although against the Laws, if an assistant referee is doing the coin toss to save time - no one will throw a fit. And in lower levels of the game if no one has coin and they use the guess if one or two fingers are behind, that is fine.
