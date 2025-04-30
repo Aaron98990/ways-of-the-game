@@ -134,15 +134,14 @@ The restart is an indirect free kick. If the offense involves contact with an op
 >   
 > If play is stopped and the interference was by:
 > - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
-> - an outside agent, play restarts with a dropped ball
-> _Law 3.7_
+> - an outside agent, play restarts with a dropped ball _Law 3.7_
 
 > If, without intending to interfere with play unfairly, a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play (injury, adjusting equipment etc.) touches the ball while it is still in play but when it is clearly leaving the field of play, this is penalised with an indirect free kick; there is no sanction _Law 9.2_
 
-Please note the exception for outside agents if the ball enters the goal in the [goals section](/goals). If the ball is near the touch line, you may see a coach or substitute accidentally enter the field and touch the ball. The restart would be an indirect free kick at the position of the touch.
+Please note the exception for extra person outside agent interference if the ball enters the goal in the [goals section](/goals).
 
 - [Direct free kick at the interference spot with a sending-off. A team official enters the field of play and deliberately interferes with play. Since it's a charity match the match official follows 'spirit of the game'.](https://www.youtube.com/watch?v=Uyjdjm2tbDE)
-- [Indirect free kick taken at the interference spot with no sanction. A substitute trying to restart play quickly touches the ball before it leaves the field of play.](https://www.youtube.com/watch?v=83PkzKCCiYo)
+- [Indirect free kick taken at the interference spot with no sanction. A substitute trying to restart play quickly touches the ball right before it leaves the field of play.](https://www.youtube.com/watch?v=83PkzKCCiYo)
 
 ## Other guidnace
 The thirds - a soccer field can be divided into the defensive third, middle third, and offensive third. Fouls in the defensive third are the easiest to get while fouls in the offenive third are harder to get due to their advantagous restart.
