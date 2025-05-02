@@ -1,6 +1,6 @@
 > Goals (including portable goals) must be firmly secured to the ground.
 > - Law 1.10 Goals
-
+- [Tents near the field of play should be secured as well.](https://www.tiktok.com/t/ZTjB3bhAn/)
 > Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper. Law 1.10
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
