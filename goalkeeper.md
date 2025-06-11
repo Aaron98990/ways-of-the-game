@@ -174,7 +174,10 @@ The "backpass" law gives an exception:
 > There are different circumstances when a player must be cautioned for unsporting behavior including if a player:
 > - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick _Law 12.3_
 
-This offense is an indirect free kick and caution for unsporting behavior. Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter. Basically once the ball is still or rolling, any deliberate pass(es) from a teammate(s) that artifically and deliberately raises by kick the ball so the goalkeeper can pick it up is not allowed. 
+This offense is an indirect free kick and caution for unsporting behavior. Note that initiating the deliberate trick is the offense, whether or not the goalkeeper picks up the ball or attempts to pick up the ball does not matter. 
+
+
+- [A goalkeeper initiates a deliberate trick by letting the ball bounce off nearby team-mates heads. The goalkeeper is cautioned and indirect free kick from the first release.](https://www.tiktok.com/t/ZTjs6Bq7J/)
 - [A goalkeeper clearly initiates a deliberate trick as goalkicks are never flicked up to a nearby teammate's head like this. The goalkeeper is cautioned and indirect free kick where the goalkick was taken.](https://streamable.com/ohy4r)
 - [The player heading the ball on the ground is cautioned and indirect free kick at the grounded player's position.](https://www.youtube.com/watch?v=cKIOhGtoFLI&t=9s)
 - [No offense. The goalkeeper raises by kick the ball to go above an opponent with no intention to start a deliberate trick. ](https://www.tiktok.com/@fanfootball41nam/video/7281304886464056619?_r=1&_t=8gDoc3zbm2d)
