@@ -310,9 +310,9 @@ Unsporting behaviour is a caution.
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
   - stepping over, staring down, picking up, or standing unnessairly close to an opponent on the ground
-  - clapping, signaling the score, pointing, or any gesture at an opponent's face
+  - clapping, signaling the score, pointing, or any other gesture at an opponent's face
   - imitating, mocking, or celebrating near an opponent
-  - running up to an oppoent including after a percieved foul
+  - running up to an opponent including after a percieved foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
   - face to face (could be managed with forced subs instead of a card) [Example](https://www.tiktok.com/t/ZT2XhFv8L/)
@@ -320,7 +320,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 - an unsporting goal celebration (covered in the [goals section](/goals))
 - non-soccer plays
   - certain holding plays
-    - holding a player who is ahead and going to their goal
+    - holding a player who is ahead
       - this applies to the entire field of play, including the defensive third
       - the player being held often times stop playing or immediatly is twisted/turns around, making the offense obvious if you don't see it
     - refusing to let go of a player or leg-locking or hooking (locking opponent's arm to body or locking opponent's arm by wrapping/closing the arm)
@@ -330,7 +330,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
     - holding/pulling a player's pants (due to sensitive nature)
     - unnecessarily holding/pulling a player to the ground
     - after multiple instances of front holding which is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
-  - making contact with the goalkeeper when they are releasing the ball or touching the ball (impeding, holding, swiping at the ball). If no contact with ball or goalkeeper but an attempt to interfere, then at most an indirect free kick with no card
+  - making contact with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball). If no contact with ball or goalkeeper but an attempt to interfere, then at most an indirect free kick with no card 
   - retaliation foul, including for perceived uncalled foul
   - comitting or continuing to foul after the whistle blows or after an obvious foul
 - excessive swearing that's not abusive
@@ -341,7 +341,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
 
 > - attempts to deceive the referee, e.g. by feigning injury or pretending to have been fouled (simulation)
 
-This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. 
+This is known as the flop. A player can be cautioned for this whether or not contact is made with an opponent. Just because a player does not complain after the flopping does not mean this should be ignored. 
 
 - [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 - [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
