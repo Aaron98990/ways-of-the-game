@@ -32,8 +32,6 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 > 
 > - Law 12.3 Disciplinary Action
 
-**If the referee wants to give a card after playing advantage, I recommend the referee to stop play when the non-offending team loses the ball or during a nuetral opporunity rather than letting the play countinue.**
-
 ### Advantage in the penalty area
 
 > If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
@@ -57,6 +55,8 @@ Personally, I make no physical or verbal signal for advantage.
 ## Disciplinary action
 
 **Advantage is commonly apllied to where the offended player was able to pass or kick the ball away before the offender fouls them late and while the ball is away. When advantage is applied, the referee needs to be thinking if a sanction is appropiate and remember the player that commited the foul.**
+
+Before or after showing the card after advantage, the referee should point to the spot of the offense.
 
 Just because advantage is played does not mean that a referee cannot caution or send-off the offender - the referee will show the cards when play stops. 
 - [A player commits a reckless tackle. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
