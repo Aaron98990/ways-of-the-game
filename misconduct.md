@@ -345,12 +345,13 @@ This is known as the flop. A player can be cautioned for this whether or not con
 
 - [A player runs into a defender's leg in an attempt to deceive the referee and is shown a caution.](https://www.youtube.com/watch?v=M_jnrBAPYd4)
 - [A player fakes an injury and is cautioned for attempting to deceive the referee.](https://youtu.be/UAbX7wld9vg?t=7646)
+- [Smart Dive vs Stupid Dive](https://www.youtube.com/watch?v=SMm6ZBUeGKw)
 
 Things to look out for:
 
 - intentionally moving their leg towards the opponent to make it appear that they have been tripped
-- falling to the ground when there is no or minimal contact
-- exsive screaming, yelling, rolling, and other theatrics, even if they have been fouled
+- falling to the ground for contact that would not bring a normal person down
+- excessive screaming, yelling, rolling, and other theatrics, even if they have been fouled
 - holding a body part (e.g. head or neck) where no or minimal contact is made
 - faking an injury (usually to to waste time)
 
