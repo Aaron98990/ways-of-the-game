@@ -82,6 +82,10 @@ When a player jumps directly up and laterally, the risk to the any other player 
 
 - [Example 1](https://youtu.be/u-y3AiAm2pI?t=606) / [Example 2](https://youtu.be/GYWeklAEl_0?t=6) / - [Example 3](https://youtu.be/7S_jphEXARY) / [Example 4 - although there is head contact the force is minimal as far as jumps go](https://youtu.be/CjSmyUcN_XY)
 
+Jumping at an opponent shoulder first or back first to an opponent's front.
+
+- [Example 1](https://youtu.be/9-2Qo9waEaw?feature=shared&t=202)
+
 A defender that comes in at a high rate of speed to trip someone should be cautioned. 
 
 When an opponent is jumping for a ball in the air, a player can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
