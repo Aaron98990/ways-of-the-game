@@ -104,7 +104,7 @@ Forgivness category: The ball hitting the hands/arm after a deflection from a di
 
 Forgivness category: A defender deliberately clearing or deliberately saving the ball into their own hand/arm in any case or into a team-mate's hand/arm only when the ball is played away from the goal is not unnaturally bigger (even when their arms are above their head or away from the body ). 
 - Not handball. The defender deliberately clears the ball into their own hand/arm. [Example 1.](https://youtu.be/_R9lyEyU5mo?feature=shared&t=460) / [Example 2.](https://www.tiktok.com/@refsneedlovetoo/video/7261667124119309614) / [Example 3.](https://youtu.be/pDhRUUha6B0?feature=shared&t=153) / [Example 4 - Deliberate play but slipped](https://youtu.be/pDhRUUha6B0?feature=shared&t=167)
-- Not handball. The defender deliberately clears the ball into their team-mates hand/arm and the ball is played away from goal. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454) / [Example 2](https://youtu.be/h_M-c9ZeJ8g?feature=shared&t=68) / [Exampe 3](https://youtu.be/NYLM7umIYDE?feature=shared&t=530)
+- Not handball. The defender deliberately clears the ball into their team-mates hand/arm and the ball is played away from goal. [Example 1.](https://youtu.be/rN9I23szfx4?feature=shared&t=454) / [Example 2](https://youtu.be/h_M-c9ZeJ8g?feature=shared&t=68) / [Exampe 3](https://youtu.be/NYLM7umIYDE?feature=shared&t=530) / [Example 4](https://youtube.com/watch?v=tgGCHa3Sz8Q&t=396)
 - Not handball. Goalkeepr saves the ball but bounces with a lot of spin and contacts the defender arm in their own penalty area whose arm is unnaturally bigger.
 
 ## Accidental handball
