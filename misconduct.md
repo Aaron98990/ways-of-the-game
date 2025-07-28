@@ -440,10 +440,10 @@ This section applies to a player, substitute or substituted player.
 > - using offensive, insulting or abusive language and/or action(s)
 
 - Threatening/wishing violence or injury to another person or damage or loss of property
-  - "I'll fuck you up"
+  - "I'll fuck you up" / "I'll drop you"
 - Inappropiately bringing up one's family or one's role in a family
 - An insult based on race, gender, sexual orientaion, national origin, religion or sex (discrimination)
-- Insulting the referee or any another person
+- Insulting the referee or any other person
   - "You are *" / "Are you *?" - "You are terrible/incopetent/the worst/twat/idiot/stupid/cheater/corrupt/bitch/pussy."
   - "* you" - "Fuck you"
 
