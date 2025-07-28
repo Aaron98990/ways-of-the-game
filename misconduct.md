@@ -110,6 +110,7 @@ Things to avoid saying publically:
 - In the pre-game and during the game: Do not tell players how you are going to call the game and what you are going to call and not call. Just do it.
 - I want no one to get hurt (it'll be used against you when you don't give a decision)
 - Your age (Only will be used against you)
+- "Calm down" or "relax" 
 
 Things to say publically:
 - My favorite warning is with gestures only - call the player's number and gesture downwards or figer wag.
