@@ -32,7 +32,7 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 > 
 > - Law 12.3 Disciplinary Action
 
-### Advantage in the penalty area
+### Advantage in or near the penalty area
 
 > If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
 > 
@@ -40,7 +40,9 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 
 Advantage also includes holding. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
-If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal), a penalty kicks should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
+If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
+
+For DOGSO foul near the penalty area (about 6 yards from the 18th), the only advantage is a goal (even if there is a shot on goal). 
 
 Do not play advantage on offenses against the goalkeeper in their own penalty area. Prefer the goalkeeper to not do something dumb.
 
