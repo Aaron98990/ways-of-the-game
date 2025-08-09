@@ -79,6 +79,7 @@ Impeding the progress of an opponent, formerly called obstruction, is a direct f
 - Impeding with contact. [Direct free kick.](https://www.youtube.com/watch?v=06lqnmddvKQ&t=712s), [Direct free kick.](https://youtu.be/79cBWbiWElA?feature=shared&t=657)
 - Fair shields but shielder gets fouled. [Example 1](https://youtu.be/sHZh_FoLeIY?feature=shared&t=238), [Example 2](https://youtu.be/06lqnmddvKQ?feature=shared&t=961)
 - When a ball is passed, sometimes a player moves in a position to block the opponent from getting the ball. [Subjective.](https://youtu.be/Ffqx5ZmthOg?feature=shared&t=5592)
+- [No foul or impeding as no clear possession.](https://youtu.be/mpKpaAs2EgA?feature=shared)
 - Wrapping arms around someone without touching them is impeding without contact and an indirect free kick
 
 
