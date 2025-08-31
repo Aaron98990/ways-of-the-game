@@ -1,21 +1,20 @@
 ## Pre-Game
 
 Check in starts 10 mins before kickoff. 
-Captains called 5 mins before kickoff.
-Coin toss occurs 4 mins before kickoff. 
+On field warm ups ends at and Coin toss occurs 4 mins before kickoff. 
 After toss, pregame with officials. 
-Players to field at 2 mins before kick off
-Game starts on kick-off. (stay in pocket - never at the 90's)
+Whistle Players to field at 2 mins before kick off. Half starts even if players are not on the field after teo minures. 
+Game starts on kick-off. 
 
 ## Injuries
 
 Most grassroots games do not have medical personnel. When you beckon a non-medical personnel move away from the injured player and move away from the path that non-medical personnel has to get to the injured player. This is avoid confrontation or arguments.
 
+Only allow one coach on the field for injuries if there are no medical trainers. Two or more and they just come in to cause problems. 
+
 If the injury occurs, please go to the nearest match official and ask if they saw anything out of the ordinary. 
 
-## Consult with the player
 
-Private Consult with a player is a owerful tool. 
 
 ## Whistle tone
 
@@ -49,4 +48,4 @@ Call all offenses/fouls immediatly (including obvious ones, where I'm in the are
 
 For any offense which is card worthy: Raise flag up, yell if needed, and let's talk about it
 
-For all dissent: you always have the final say (warning/card, move/remove person)
+For all dissent: use options (warning/card, move/remove person)
