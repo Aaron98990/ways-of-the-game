@@ -189,3 +189,6 @@ Please only use signals in the Laws or Guidelines for offenses/fouls, restarts, 
 
 An attacker in the opponent's penalty area going away from the goal is generally never a foul. Lots of flopping happens in these situations. 
 
+Only allow one coach on the field for injuries if there are no medical trainers. Two or more and they just come in to cause problems. 
+
+At the beginning of the half after giving teams 2 minutes of whistling to get on the field to play, start the clock. 
