@@ -188,7 +188,3 @@ When the assistant referee is signalling, please continue to pay attention to th
 Please only use signals in the Laws or Guidelines for offenses/fouls, restarts, or misconduct. A thumbs up/down, shaking the flag while it's down, using your arm to signal advantage/goal/no offside/ball still in play/direction of restart, or putting hand on badge/back pocket for misconduct or shaking your head up or down will be misinterpreted. For misconduct, raise the flag then have a conversation. In conversation, only use terms in the Laws and talk next to each other (2 yards) and not over a long distance. If you signal a foul or for misconduct, commit to the signal until referee waves you down. A finger wag is only used for no goal situation that looks like a goal or no foul situation where it looks like a foul and the AR is closer than the ref. 
 
 An attacker in the opponent's penalty area going away from the goal is generally never a foul. Lots of flopping happens in these situations. 
-
-Only allow one coach on the field for injuries if there are no medical trainers. Two or more and they just come in to cause problems. 
-
-At the beginning of the half after giving teams 2 minutes of whistling to get on the field to play, start the clock. 
