@@ -96,6 +96,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 - studs to an opponent's head or jumping a distance with outstrached leg near an opponent (kung fu kick). It is not an offense to kick the ball that is above the head.
 - sitting on the ball, trapping the ball between the body (e.g. legs, head and shoulder) when an opponent is also challenging for the ball.
 - heading the ball while on the ground when an opponent is also challenging for the ball.
+- ecxessive flailing of the arms
 - a player uses the shoulders of a teammate or a lift from a teammate to jump higher to play or head the ball <!-- (This was explicitally in 1990-91 Laws of the Game - "(4) If a player leans on the shoulders of another player of his own team in order to head the ball, the referee shall stop the game, caution the player for ungentlemanly conduct and award an indirect free-kick to the opposing side .") -->
 
 
