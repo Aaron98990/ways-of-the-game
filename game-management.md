@@ -3,14 +3,14 @@
 Check in starts 10 mins before kickoff. 
 On field warm ups ends at and Coin toss occurs 4 mins before kickoff. 
 After toss, pregame with officials. 
-Whistle Players to field at 2 mins before kick off. Half starts even if players are not on the field after teo minures. 
+Whistle Players to field at 2 mins before kick off. Half starts even if players are not on the field after two minures. 
 Game starts on kick-off. 
 
 ## Injuries
 
-Most grassroots games do not have medical personnel. When you beckon a non-medical personnel move away from the injured player and move away from the path that non-medical personnel has to get to the injured player. This is avoid confrontation or arguments.
+Most grassroots games do not have medical person. When you beckon a non-medical person move away from the injured player and move away from the path that non-medical pers has to get to the injured player. This is avoid confrontation or arguments.
 
-Only allow one coach on the field for injuries if there are no medical trainers. Two or more and they just come in to cause problems. 
+Only allow one coach on the field for injuries if there are no medical staff. Two or more and they just come in to cause problems. 
 
 If the injury occurs, please go to the nearest match official and ask if they saw anything out of the ordinary. 
 
@@ -24,6 +24,10 @@ Short Short: Sub, Injury
 Short Long: Halftime (including for extra time)
 Short Shot Long: Abandon, Fulltime (including for extra time) or when penalties are complete
 
+## Disallowing goals
+
+Three consecutive no signals. 
+
 ## Issuing cards
 
 For any DOGSO-ish offfenses: consult AR
@@ -34,7 +38,7 @@ For cards to multiple players: Identify the players to card. Write first. Separa
 
 ## After the game
 
-Leave the field of play as soon as possible at intermissions (time between halves) and after the game. It causes less problems as I don't need to hear complains or additional paperwork and sanctions I issue after the game. All pleasentries should be done before kickoff or during half-time.
+Leave the field of play as soon as possible at intermissions (time between halves) and after the game. It causes less problems as I don't need to hear complains or additional paperwork and sanctions I issue after the game. All pleasentries should be done before kickoff.
 
 If a match report needs to be signed or returned - leave the field and fill it out next to your stuff. 
 
