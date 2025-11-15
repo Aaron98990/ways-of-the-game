@@ -112,6 +112,7 @@ Things to avoid saying publically:
 - Your age (Only will be used against you)
 - "Calm down" or "relax" (better to use the arm gesture)
 - "are you okay" to an injured player (they'll say no) - time or trainer is all
+- "That could of been a YC, RC, foul" (either give the decision or don't - saying this does not help although you are geniunly trying to diffuse the situation)
 
 Things to say publically:
 - My favorite warning is with gestures only - call the player's number and gesture downwards or figer wag.
