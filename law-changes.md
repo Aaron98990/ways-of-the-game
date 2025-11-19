@@ -152,9 +152,6 @@ Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a s
 Law 10.3 Substitutions and sendings-off during penalties (penalty shoot-out) The referee must ~~not~~ abandon the match if a team is reduced to fewer than seven players
 - I don't understand this Law. If all but one player gets sent-off, that player takes every penalty kick and the opposing team must reduce to one player to take penalties. Also, that many send-offs is not in the spirit of the game.
 
-Law 12.2 An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offenses: controls the ball with the hand/arm for ~~more than six seconds~~ *an excessive time* before releasing it
-- The Laws need to reflect reality. No match official counts the time second by second and the Law is often ignored.
-
 Law 10.3 ~~warnings and cautions issued to players and team officials during the match are not carried forward into penalties (penalty shoot-out).~~
 - 2 YC = 1 RC - it's universal. Just causes too much confusion to fix an issue introduced by VAR. Look below for the important associated change with this.
 - [Goalkeeper gets a YC for SPA at 5:25. At 16:24, the goalkeeper gets another YC during penalties. Just look at the chaos and confusion this Law caused in an already tense game. The entire penalties and post-match pushing sequence don't make football look attractive.](https://youtu.be/AF7vLz5UyNM?feature=shared&t=984)
