@@ -432,7 +432,7 @@ This section applies to a player, substitute or substituted player.
   - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135), [Example 2](https://youtu.be/nqe85R5epyM?feature=shared&t=177)
-- mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
+- mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) or if three or more player are surrounding the referee after a warning or a caution - send one of them off 
   - [Writeup](/mobbing)
 - an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, gun gesture at someone, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
 - Grabbing an someone's shirt and pulling them to your face
