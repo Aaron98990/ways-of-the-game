@@ -41,20 +41,20 @@ Often time players move their arms out to know where there opponents are or to c
 
 ## Tackle / kicks
 
-Stepping or cataching on an opponent's foot without sliding, jumping, or lunging is generally a caution.
+Stepping or cataching on an opponent's foot when sliding, running, jumping, or lunging is generally a caution.
 - [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
 
-Any slide tackle that directly catches an opponent is at least a caution (including after winning the ball). Slide tackles which occur between the opponent and the ball and don't directly catch the opponent are less serious.
+Any slide tackle that directly catches an opponent is at least a caution (including after winning the ball and including their leading or trail leg). Slide tackles which occur between the opponent and the ball and don't directly catch the opponent are less serious.
 - [Example 1](https://youtu.be/GBHiiU8lekE?t=386) / [Example 2](https://youtu.be/FxcrgGIW_pw?feature=shared&t=285)
 
 A tackle that is made while the ball is not in playing distance (aka no chance to touch the ball or a late tackle) is generally also a caution. 
 - [Example 1](https://www.youtube.com/watch?v=WJP50N3Jq-E) / [Example 2](https://youtu.be/eFxYX4x1za0?t=790)
 
-Slide tackles from the back of the player, from the front when face to face with an oponent, or in which they are chasing the ball (starting a slide tackle from the opposite direction the ball is travelling) are dangerous. Even when the player wins the ball their trail leg is likely to directly catch their opponent.
+Slide tackles from the back of the player, from the front when face to face with an oponent, or in which they are chasing the ball (starting a slide tackle from the opposite direction the ball is travelling) are at least caution. Even when the player wins the ball their trail leg is likely to directly catch their opponent.
 - [A player makes a tackle from behind with no chance to win the ball. The player should be shown a caution for a reckless tackle.](https://youtu.be/ICuWXmOqcho)
 - - [Slide tackle from the front.](https://youtu.be/7fNr7Yk55TM?feature=shared&t=230)
 
-Make sure to watch the kicker lands their feet esspecially when kicking or tackling with a large follow through. The kicker is responsible for landing safely.
+Make sure to watch the kicker lands their feet esspecially when kicking or tackling with a large follow through. The kicker is responsible for landing safely and these are generally cautions.
 - [Example 1.](https://youtu.be/cC2xKHflYkY?feature=shared&t=786) / [Example 2.](https://youtu.be/cC2xKHflYkY?feature=shared&t=785)
 
 Another important point to think about is where and when the slide tackle took place. A slide tackle, usually a last ditch maneauvaur, in the defensive or middle third or when the ball is not being played towards the goal (e.g. laterally, near corner flag) or in a blowout game is not needed and has limited benefit. Use your judgement and game managment skills. 
@@ -90,3 +90,4 @@ A defender that comes in at a high rate of speed to trip someone should be cauti
 
 When an opponent is jumping for a ball in the air, a player can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
 - [Example 1](https://www.tiktok.com/t/ZPRW7qUWT/) / [Example 2](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
+
