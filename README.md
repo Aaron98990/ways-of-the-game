@@ -44,6 +44,6 @@ About me
 
 - I am Aaron Feleke and have been a soccer referee since 2013 in Houston, Texas and San Antonio, Texas (USA). For personal inquiries, message me in LinkedIn. Here is some media featuring me.
   - [R - High School Men's Varsity Soccer: Strake Jesuit vs Shadow Creek](/1.md)
-  - [R - Refs Need Love - My decision was DOGSO RC](/Rise_DOGSO.MP4)
+  - <a href="Rise_DOGSO.MP4" target="”_blank”">R - Refs Need Love - My decision was DOGSO RC</a>
  
 > It goes to show that no matter how experienced you are, and I've spent more than two decades as a Premier League official, you are always learning. _Mike Dean, Former FIFA Referee, apologizing for error_
