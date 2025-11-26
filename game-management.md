@@ -18,7 +18,7 @@ If the injury occurs, please go to the nearest match official and ask if they sa
 
 ## Whistle tone
 
-Short: Basic Offense, Restart play, Water break (with verbal announccement)
+Short: Basic Offense, Restart play, Water break (with verbal announccement), stop play with no offense
 Long: unfair slide tackles, penalty kicks (ensure to wait for advantage), denying a goal, yellow or red cards
 Short Short: Sub, Injury
 Short Long: Halftime (including for extra time)

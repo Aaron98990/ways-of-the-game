@@ -39,10 +39,6 @@ Context matters in all cases. Nothing is automatic but the lists below are thing
 
 Both serious foul play and violent conduct are both send-off offenses for using excessive force. It is impossible for an offense to be serious foul play and violent conduct at the same time. It can only be one. 
 
-It is serious foul play if:
-- a challenge is being made for the ball and
-- the offense is against an opponent 
-
 This distinction matters as competitions generally will suspend players for more games for violent conduct than serious foul play. There is also "biting or spitting at someone" as a send-off offense which should be used rather than violent conduct when it applies as competitions generally will suspend the person even more games.
 
 Please note orange card generally refers to a yellow card unless the high and intense match temperature requires a red card. Mixing red and yellow gets orange - there is no actual orange card.
@@ -119,3 +115,4 @@ A tackle/stomp with high intensity or that is two-footed (with or without contac
 
 When the ball is on the ground and not bouncing and a player gets kicked or tackled above the ankle with excessive force it's violent conduct
 - [Violent Conduct 1](https://youtu.be/ayKcck441n8?feature=shared&t=88), [Violent Conduct 2](https://youtu.be/gnfbhoNlAKw?t=107), [Violent Conduct](https://youtu.be/ERQAXPmcdFg?feature=shared&t=887)
+

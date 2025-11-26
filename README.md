@@ -25,6 +25,7 @@ Helpful Unofficial Resources
 - [Referee Channel - YouTube](https://www.youtube.com/@RefereeChannel/featured)
 - [r/Referees - Reddit](http://reddit.com/r/referees)
 - [Refs Need Love Too - TikTok](https://www.tiktok.com/@refsneedlovetoo)
+- [Reffing with the Sappers - YouTube](https://www.youtube.com/@reffingwiththesappers)
 
 Non-soccer Officiating Resources
 - [CloseCallSports (Baseball) - YouTube ](https://youtube.com/@closecallsports)

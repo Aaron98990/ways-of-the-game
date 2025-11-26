@@ -110,7 +110,9 @@ Things to avoid saying publically:
 - In the pre-game and during the game: Do not tell players how you are going to call the game and what you are going to call and not call. Just do it.
 - I want no one to get hurt (it'll be used against you when you don't give a decision)
 - Your age (Only will be used against you)
-- "Calm down" or "relax" 
+- "Calm down" or "relax" (better to use the arm gesture)
+- "are you okay" to an injured player (they'll say no) - time or trainer is all
+- "That could of been a YC, RC, foul" (either give the decision or don't - saying this does not help although you are geniunly trying to diffuse the situation)
 
 Things to say publically:
 - My favorite warning is with gestures only - call the player's number and gesture downwards or figer wag.
@@ -153,6 +155,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - the person disagreeing gets the last word in / patronizing attitude
 - finger wagging or pointing to locations of missed percieved offenses
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
+- "Why are you smiling. " / "You're smiling. " (I don't know if this is unique to me but I smile a lot apparently)
 - "I'm going to report you" (say name is on match report)
 - "Ask the assistant" (sometimes helpful to ask)
 - [Good heckling](/heckles.md)
@@ -230,7 +233,7 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - gesture the wearing of spectacles
 - invading a match official's personal space or blocking their path or unnessairily following a match official
 - unnesessairly touching a match official including to get their attention or demonstrate a foul or no foul [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
-- surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (if needed, show a caution to a player who does not have already have a caution) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
+- surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (Having play restart will have them usually go away. Suspend the match and have players go to their benches if surrounding/crowding does not immediatly stop after warning. If players still keep on surrounding/crowding just abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - imitating a match official, including their words, accents, gestures, and movements
 - a player being held back but continues disagreeing
 - Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
@@ -429,7 +432,7 @@ This section applies to a player, substitute or substituted player.
   - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
 - intefering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135), [Example 2](https://youtu.be/nqe85R5epyM?feature=shared&t=177)
-- mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) - send one of them off 
+- mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) or if three or more player are surrounding the referee after a warning or a caution - send one of them off 
   - [Writeup](/mobbing)
 - an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, gun gesture at someone, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
 - Grabbing an someone's shirt and pulling them to your face
