@@ -92,7 +92,11 @@ Until the ball is in play:
 
 > If, when a goal kick is taken, any opponents are inside the penalty area because they did not have time to leave, the referee allows play to continue. If an opponent who is in the penalty area when the goal kick is taken, or enters the penalty area before the ball is in play, touches or challenges for the ball before it is in play, the goal kick is retaken.
 
-> If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. 
+> If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play.
+
+If a player deliberately kicks it into a defender (even if the defender is right at the ball), the ball is in play and there is no offense. If the refere is able to stop play from coninuing before the ball is kicked if the defender is right at the ball (less than ~3 yards), this is a caution for "delaying the restart of play" for the defender. But, if the kicker is not deliberately kicking the ball into the defender and a defender who is extremely close (less than ~3 yards) stretches or makes a significant motion towards the ball and touches it then that would be considered a caution for "failure to respect distance" for the defender. 
+
+- [Ball is deliberately kicked right into defender. No offense and ball is in play.](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb)
 
 Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play else its a retake. 
 
