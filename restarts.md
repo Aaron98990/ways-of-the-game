@@ -96,7 +96,7 @@ Until the ball is in play:
 
 If a player deliberately kicks it into a defender when they are right at the ball (less than ~2 yards), see if there is any advantage before stopping play to do a retake with no misconduct. If the referee is able to stop play from coninuing before the ball is kicked if the defender is right at the ball (less than ~2 yards), this is a caution for "delaying the restart of play" for the defender. But, if the kicker is not deliberately kicking the ball into the defender and a defender who is extremely close (less than ~2 yards) stretches or makes a significant motion towards the ball and touches it then that would be considered a caution for "failure to respect distance" for the defender and retake the free kick. 
 
-- [Ball is deliberately kicked right into defender. No offense and ball is in play.](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb)
+- [Ball is deliberately kicked into defender who is right at the ball. Redo the free kick and no misconduct.](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb)
 
 Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play else its a retake. 
 
