@@ -255,9 +255,9 @@ Context matters in all cases: a player slamming the ground since they missed a s
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. 
+This is the rarest caution. Really, if the ball in in play and a player (not sub) offends, just manage it with a free kick instead a caution. 
 
-A player deliberately leaving the field of play is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
+A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
 - "Leaving the field of play to celebrate a goal is not a cautionable offense but players should return as soon as possible." Law 12.3
@@ -271,7 +271,7 @@ Injured players must re-enter from the touchline when the ball is in play. This 
 
 >  An injured player may not be treated on the field of play and may only re-enter after play has restarted; if the ball is in play, re-entry must be from the touchline but if the ball is out of play, it may be from any boundary line. _Law 5.2_
 
-For fixing eqiptmeng the Laws says the following:
+For fixing equipment the Laws says the following:
 > A player who leaves the field of play to correct or change equipment must:
 >	•	have the equipment checked by a match official before being allowed to re-enter
 >	•	only re-enter with the referee’s permission (which may be given during play) _Law 3_
@@ -316,9 +316,10 @@ Unsporting behaviour is a caution.
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - stepping over, staring down, picking up, or standing unnessairly close to an opponent on the ground
+  - stepping over, staring down, picking up, placing the ball on/near or standing unnessairly close to an opponent on the ground
+  - placing the ball at someone's chest
   - clapping, signaling the score, pointing, or any other gesture at an opponent's face
-  - imitating, mocking, or celebrating near an opponent
+  - imitating, mocking, or deliberately celebrating near an opponent
   - running up to an opponent including after a percieved foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
