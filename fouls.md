@@ -93,7 +93,9 @@ Impeding the progress of an opponent, formerly called obstruction, is a direct f
 The restart is an indirect free kick. If the offense involves contact with an opponent it is not playing in a dangerous manner and a direct free kick should be given.
 
 - a player on the ground trapping or hovering over the ball, making it impossible for nearby opponents to play the ball. It is not an offense to play the ball while on the ground (like slide tackles or goalkeeper saves). [1](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
-- studs to an opponent's head or jumping a distance with outstrached leg near an opponent (kung fu kick). It is not an offense to kick the ball that is above the head.
+- a player on the ground can play the ball. But if they are on the ground too long while trying to play the ball, I'll call it. (don't want them to get stepped on)
+- boot to an opponent's head. It is not an offense to kick the ball that is above the head.
+- jumping a distance with outstrached leg near an opponent (kung fu kick). 
 - sitting on the ball, trapping the ball between the body (e.g. legs, head and shoulder) when an opponent is also challenging for the ball.
 - heading the ball while on the ground when an opponent is also challenging for the ball.
 - ecxessive flailing of the arms
@@ -184,8 +186,9 @@ There are three types of decisions: Instinctual/default/immediate, processed/del
 >
 > Guidelines for Match Officials
 
-When the assistant referee is signalling, please continue to pay attention to the players and don't get too focused on looking at the referee or you may miss something. [Example](https://youtu.be/hs4880t5I7Y?feature=shared&t=11)
+When the assistant referee is signalling, please continue to pay attention to the players and don't get too focused on looking at the referee or you may miss something. [Example](https://youtu.be/hs4880t5I7Y?feature=shared&t=11) 
 
 Please only use signals in the Laws or Guidelines for offenses/fouls, restarts, or misconduct. A thumbs up/down, shaking the flag while it's down, using your arm to signal advantage/goal/no offside/ball still in play/direction of restart, or putting hand on badge/back pocket for misconduct or shaking your head up or down will be misinterpreted. For misconduct, raise the flag then have a conversation. In conversation, only use terms in the Laws and talk next to each other (2 yards) and not over a long distance. If you signal a foul or for misconduct, commit to the signal until referee waves you down. A finger wag is only used for no goal situation that looks like a goal or no foul situation where it looks like a foul and the AR is closer than the ref. 
+
 
 An attacker in the opponent's penalty area going away from the goal is generally never a foul. Lots of flopping happens in these situations. 
