@@ -255,7 +255,7 @@ Context matters in all cases: a player slamming the ground since they missed a s
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. Really, if the ball in in play and a player (not sub) offends, just manage it with a free kick instead a caution. 
+This is the rarest caution. Generally, I manage this with a free kick with no caution unless it's blatant.
 
 A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
@@ -267,7 +267,7 @@ A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too m
 
 A player needing permission to re-enter the field is covered by Law 3.8 (e.g. after an injury or a temporary dismissal (sin-bin) or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission). 
 
-Injured players must re-enter from the touchline when the ball is in play. This Law requirement seems to be only for injured players but is probably a good practice in general.
+Injured players must re-enter from the touchline when the ball is in play. This Law requirement does apply to any other re-entry.
 
 >  An injured player may not be treated on the field of play and may only re-enter after play has restarted; if the ball is in play, re-entry must be from the touchline but if the ball is out of play, it may be from any boundary line. _Law 5.2_
 
@@ -275,6 +275,8 @@ For fixing equipment the Laws says the following:
 > A player who leaves the field of play to correct or change equipment must:
 >	•	have the equipment checked by a match official before being allowed to re-enter
 >	•	only re-enter with the referee’s permission (which may be given during play) _Law 3_
+
+> If, without intending to interfere with play unfairly, a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play (injury, adjusting equipment etc.) touches the ball while it is still in play but when it is clearly leaving the field of play, this is penalised with an indirect free kick; there is no sanction. _Law 9.2_
 
 #### **Persistent offenses**
 
@@ -376,6 +378,8 @@ I have only seen a caution for this when players scuffing up the penalty mark or
 #### **Verbal distraction**
 
 > - verbally distracts an opponent during play or at a restart
+
+Generally, I manage this with a free kick with no caution. 
 
 Here are some examples:
 - You cannot say "pass it here" or "leave it" to an opponent if you are not the teammate of the person who has the ball.
