@@ -2,12 +2,13 @@
 > - allows play to continue when an offense occurs and the non-offending team will benefit from the advantage, and penalises the offense if the anticipated advantage does not ensue at that time or within a few seconds
 > - Law 5.3 Power and duties
 
-The referee has the power to play advantage whenever they want as the ball is not out of play until the referee stops play. This is why referees do not immediately blow their whistle for an offense.
-
 > The ball is out of play when:
 > - [...]
 > - play has been stopped by the referee
 > - Law 9.1 Ball out of play
+
+The whistle stops play; not an offense or assistant referee's flag. Advantage is why referees delay their whistle.
+- [Example](https://www.facebook.com/reel/4281008475452778)
 
 Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. But In higher levels of the game, not stopping the flow of the game is important to players so although it looks like advantage did not ensue, the players prefer it. **Don't make it complicated: If anyone from the team of the offended player wants the free kick rather than advantage, the referee should stop play.**
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
@@ -100,4 +101,5 @@ Although the player committed more than one offense, the sanction (caution) and 
 This is rarely used. This is not advantage since the ball is out of play but is a similar concept as the referee decides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is beneficial for the team that's losing. 
 - [If the referee allows the quick free kick, since the offense was SPA outside penalty area (YC), it would be downgraded from YC to no card.](https://youtu.be/XBaIqWtWkGA)
 - [If the referee allows the quick free kick, since this was DOGSO outside the penalty area it would be downgraded from a RC to YC.](https://youtu.be/6A0qaGsLwCc?feature=shared&t=472)
+
 
