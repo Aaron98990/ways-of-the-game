@@ -30,13 +30,13 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 
 > Advantage should not be applied in situations involving serious foul play, violent conduct or a second cautionable offense unless there is a clear opportunity to score a goal. The referee must send off the player when the ball is next out of play, but if the player plays the ball or challenges/interferes with an opponent, the referee will stop play, send off the player and restart with an indirect free kick, unless the player committed a more serious offense.
 > 
-> - Law 12.3 Disciplinary Action
+> - Law 12.4 Disciplinary Action
 
 ### Advantage in or near the penalty area
 
 > If a defender starts holding an attacker outside the penalty area and continues holding inside the penalty area, the referee must award a penalty kick.
 > 
-> - Law 12.3 Disciplinary Action
+> - Law 12.4 Disciplinary Action
 
 Advantage also includes holding. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
@@ -65,7 +65,7 @@ Just because advantage is played does not mean that a referee cannot caution or 
 - [A player commits a reckless tackle. The referee signals advantage. After the goal is scored, the player is cautioned for the reckless tackle.](https://youtu.be/BbcPFAvyIZU)
 
 > If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
-> - Law 12.3 Disciplinary Action
+> - Law 12.4 Disciplinary Action
 
 - [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage wwas played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
 
@@ -76,7 +76,7 @@ _I'm aware this is different than the Laws. Below is what I follow:_
 
 There may be instance where a player commits two cautionable offenses in close proximity - but not at the same time - that should result in two cautions.
 > Where two separate cautionable offenses are committed (even in close proximity), they should result in two cautions, for example if a player enters the field of play without the required permission and commits a reckless tackle or stops a promising attack with a foul/handball, etc.
-> - Law 12.3 Disciplinary Action
+> - Law 12.4 Disciplinary Action
 - [A player commits unsporting behavior by impeding the throw-in. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://www.youtube.com/watch?v=VpEhnyG_WWc)
 - [A player makes a reckless challenge on an opponent. The referee signals advantage. The player then stops a promising attack. The player is cautioned for both offenses and is sent-off.](https://youtu.be/P1jELHaraJs)
 
@@ -95,8 +95,9 @@ Although the player committed more than one offense, the sanction (caution) and 
 
 ## Quick free kick
 
-> Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered, unless the non-offending team takes a quick free kick, has a clear goal-scoring opportunity and the referee has not started the disciplinary sanction procedure. The sanction is administered at the next stoppage; if the offense was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned; if the offense interfered with or stopped a promising attack, the player is not cautioned. Law 12.3
+> Once the referee has decided to caution or send off a player, play must not be restarted until the sanction has been administered, unless the non-offending team takes a quick free kick, has a clear goal-scoring opportunity and the referee has not started the disciplinary sanction procedure. The sanction is administered at the next stoppage; if the offense was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned; if the offense interfered with or stopped a promising attack, the player is not cautioned. Law 12.4
 
 This is rarely used. This is not advantage since the ball is out of play but is a similar concept as the referee decides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is beneficial for the team that's losing. 
 - [If the referee allows the quick free kick, since the offense was SPA outside penalty area (YC), it would be downgraded from YC to no card.](https://youtu.be/XBaIqWtWkGA)
 - [If the referee allows the quick free kick, since this was DOGSO outside the penalty area it would be downgraded from a RC to YC.](https://youtu.be/6A0qaGsLwCc?feature=shared&t=472)
+
