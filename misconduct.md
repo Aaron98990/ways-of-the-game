@@ -260,7 +260,7 @@ This is the rarest caution. Really, if the ball in in play and a player (not sub
 A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
-- "Leaving the field of play to celebrate a goal is not a cautionable offense but players should return as soon as possible." Law 12.3
+- "Leaving the field of play to celebrate a goal is not a cautionable offense but players should return as soon as possible." Law 12.4
 - Retrieving the ball or taking a restart ([This is okay.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2674))
 
 A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too many players on field). 
@@ -388,7 +388,7 @@ Clapping is okay as long as its not done in an opponents face.
 
 > - plays the ball when leaving the field of play after being given permission to leave
 
-Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.3. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
+Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.4. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
 
 If you just left the field without the referee's permission (deliberately or not) you still count as a defender for determining offside position "until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area" (Law 11.4).
 
