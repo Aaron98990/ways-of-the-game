@@ -288,7 +288,7 @@ This is very subjective and a tool in the referee's toolbox. Here are some valid
 - A team committing too many fouls against one player, generally after a public warning
 - second or more player from the same team caught with jewellery during the match
 
-Please note that technically any offense in the Laws of the Game is eligible for this, but this usually applies to just fouls.
+Please note that any offense in the Laws of the Game is eligible for this, but this usually applies to just fouls.
 
 PRO Referees has a write up on persistent offenses (formerly called persistent infringements) on this on their website and is available [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
 
@@ -496,7 +496,7 @@ Competition rules generally will require sent-off team officials to be out-of-si
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
-Here are common offenses for which team officials are warned, cautioned, or sent-off for.
+Here are common offenses for which team officials are warned, cautioned, or sent-off for. Full list is in Law 12.4.
 
 > Warning:
 > - [...]
@@ -520,3 +520,5 @@ Here are common offenses for which team officials are warned, cautioned, or sent
 - [Team official is sent-off for delaying the restart of play of the opponents. ](https://www.tiktok.com/t/ZPRWnEKSJ/)
 - [Team official is sent-off for deliberately leaving the technical area to show dissent towards a match official.](https://youtu.be/vbLVxe8edUw?feature=shared&t=318)
 - [Team official is sent-off for abusive action for splashing water at a match official.](https://youtu.be/rN9I23szfx4?feature=shared&t=153)
+
+> If, without intending to interfere with play unfairly, a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play (injury, adjusting equipment etc.) touches the ball while it is still in play but when it is clearly leaving the field of play, this is penalised with an indirect free kick; there is no sanction. _Law 9.2_
