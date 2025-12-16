@@ -255,7 +255,7 @@ Context matters in all cases: a player slamming the ground since they missed a s
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. Generally, I manage this with a free kick with no caution unless it's blatant.
+This is the rarest caution. Generally, I manage this with redoing the restart if from a restart or warn if if the ball is out of play. In all other cases, an indrect free kick is enough.
 
 A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
