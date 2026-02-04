@@ -41,8 +41,9 @@ Often time players move their arms out to know where there opponents are or to c
 
 ## Tackle / kicks
 
-Stepping or cataching on an opponent's foot when sliding, running, jumping, or lunging is generally a caution.
+Stepping or cataching on an opponent's foot when sliding, running, jumping, when late, or lunging is generally a caution.
 - [Example 1](https://www.youtube.com/watch?v=ppq4hrSv2Tc&t=154s) / [Example 2](https://youtu.be/w-pwxB-ygjM?feature=shared&t=144)
+- [Not a caution - eyes were on the ball.](https://youtu.be/rS8WM-4z0Z8?si=9dEic5kJImsX-o6M&t=590)
 
 Any slide tackle that directly catches an opponent is at least a caution (including after winning the ball and including their leading or trail leg). Slide tackles which occur between the opponent and the ball and don't directly catch the opponent are less serious.
 - [Example 1](https://youtu.be/GBHiiU8lekE?t=386) / [Example 2](https://youtu.be/FxcrgGIW_pw?feature=shared&t=285)
@@ -90,4 +91,5 @@ A defender that comes in at a high rate of speed to trip someone should be cauti
 
 When an opponent is jumping for a ball in the air, a player can't position yourself where they will land or not attempt to header the ball (including ducking down or standing still). This is called undercutting or a down under. Often, this ducking down action is done by other players but is not intentional. When someone is jumping toward you, the natural reaction is to duck and protect your head. But even when there is no intent, it is still a very dangerous move. [Read more here.](https://the18.com/soccer-entertainment/forget-var-its-time-rethink-way-football-arbitrates-aerial-challenges?amp=)
 - [Example 1](https://www.tiktok.com/t/ZPRW7qUWT/) / [Example 2](https://youtu.be/VihDwiKCan4?feature=shared&t=91)
+
 

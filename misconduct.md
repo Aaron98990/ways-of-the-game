@@ -113,6 +113,7 @@ Things to avoid saying publically:
 - "Calm down" or "relax" (better to use the arm gesture)
 - "are you okay" to an injured player (they'll say no) - time or trainer is all
 - "That could of been a YC, RC, foul" (either give the decision or don't - saying this does not help although you are geniunly trying to diffuse the situation)
+- Other than yelling a quick explanation to a coach (1 sentence), do not yell someone to be quiet or no more. Extended conversations need to be close to each other.
 
 Things to say publically:
 - My favorite warning is with gestures only - call the player's number and gesture downwards or figer wag.
@@ -254,26 +255,28 @@ Context matters in all cases: a player slamming the ground since they missed a s
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. 
+This is the rarest caution. Generally, I manage this with redoing the restart if from a restart or warn if if the ball is out of play. In all other cases, an indrect free kick is enough.
 
-A player deliberately leaving the field of play is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
+A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
 - "An attacking player may step or stay off the field of play not to be involved in active play [for offside]." Law 11.4
-- "Leaving the field of play to celebrate a goal is not a cautionable offense but players should return as soon as possible." Law 12.3
+- "Leaving the field of play to celebrate a goal is not a cautionable offense but players should return as soon as possible." Law 12.4
 - Retrieving the ball or taking a restart ([This is okay.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2674))
 
 A non-player entering the field is covered by Law 3.7/3.9 (for non-player, too many players on field). 
 
 A player needing permission to re-enter the field is covered by Law 3.8 (e.g. after an injury or a temporary dismissal (sin-bin) or to fix equipment or leaving the field of play for an extended period of time or after leaving with the referee's permission). 
 
-Injured players must re-enter from the touchline when the ball is in play. This Law requirement seems to be only for injured players but is probably a good practice in general.
+Injured players must re-enter from the touchline when the ball is in play. This Law requirement does apply to any other re-entry.
 
 >  An injured player may not be treated on the field of play and may only re-enter after play has restarted; if the ball is in play, re-entry must be from the touchline but if the ball is out of play, it may be from any boundary line. _Law 5.2_
 
-For fixing eqiptmeng the Laws says the following:
+For fixing equipment the Laws says the following:
 > A player who leaves the field of play to correct or change equipment must:
 >	•	have the equipment checked by a match official before being allowed to re-enter
 >	•	only re-enter with the referee’s permission (which may be given during play) _Law 3_
+
+> If, without intending to interfere with play unfairly, a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play (injury, adjusting equipment etc.) touches the ball while it is still in play but when it is clearly leaving the field of play, this is penalised with an indirect free kick; there is no sanction. _Law 9.2_
 
 #### **Persistent offenses**
 
@@ -285,7 +288,7 @@ This is very subjective and a tool in the referee's toolbox. Here are some valid
 - A team committing too many fouls against one player, generally after a public warning
 - second or more player from the same team caught with jewellery during the match
 
-Please note that technically any offense in the Laws of the Game is eligible for this, but this usually applies to just fouls.
+Please note that any offense in the Laws of the Game is eligible for this, but this usually applies to just fouls.
 
 PRO Referees has a write up on persistent offenses (formerly called persistent infringements) on this on their website and is available [here](https://proreferees.com/2017/07/12/play-of-the-week-19-persistent-infringement/).
 
@@ -315,9 +318,10 @@ Unsporting behaviour is a caution.
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - stepping over, staring down, picking up, or standing unnessairly close to an opponent on the ground
+  - stepping over, staring down, picking up, placing the ball on/near or standing unnessairly close to an opponent on the ground
+  - placing the ball at someone's chest
   - clapping, signaling the score, pointing, or any other gesture at an opponent's face
-  - imitating, mocking, or celebrating near an opponent
+  - imitating, mocking, or deliberately celebrating near an opponent
   - running up to an opponent including after a percieved foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
@@ -335,7 +339,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
       - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
     - holding/pulling a player's pants (due to sensitive nature)
     - unnecessarily holding/pulling a player to the ground
-    - after multiple instances of front holding which is deceptive as it's hard to see for the match offcial [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
+    - front holding [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
   - making contact with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball). If no contact with ball or goalkeeper but an attempt to interfere, then at most an indirect free kick with no card 
   - retaliation foul, including for perceived uncalled foul
   - comitting or continuing to foul after the whistle blows or after an obvious foul
@@ -375,6 +379,8 @@ I have only seen a caution for this when players scuffing up the penalty mark or
 
 > - verbally distracts an opponent during play or at a restart
 
+Generally, I manage this with a free kick with no caution. 
+
 Here are some examples:
 - You cannot say "pass it here" or "leave it" to an opponent if you are not the teammate of the person who has the ball.
 - You cannot yell/scream for the purpose to scare the opponent when they are attempting to play the ball (e.g. goalkeeper punting the ball)
@@ -386,7 +392,7 @@ Clapping is okay as long as its not done in an opponents face.
 
 > - plays the ball when leaving the field of play after being given permission to leave
 
-Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.3. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
+Reference to being given permission to leave the field of play is given in Law 11.4 and Law 3.3 and Law 12.4. It's not entirely clear but if you ask for permission to leave while the ball is in or out of play, you can't play the ball. While you are on the field (and attempting to leave) you will count as a defender for determining offside position. Once you leave the field, you are still a player, but you will not count as a defender for determining offside position. You would need permission to re-enter the field.
 
 If you just left the field without the referee's permission (deliberately or not) you still count as a defender for determining offside position "until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area" (Law 11.4).
 
@@ -490,7 +496,7 @@ Competition rules generally will require sent-off team officials to be out-of-si
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
-Here are common offenses for which team officials are warned, cautioned, or sent-off for.
+Here are common offenses for which team officials are warned, cautioned, or sent-off for. Full list is in Law 12.4.
 
 > Warning:
 > - [...]
@@ -514,3 +520,5 @@ Here are common offenses for which team officials are warned, cautioned, or sent
 - [Team official is sent-off for delaying the restart of play of the opponents. ](https://www.tiktok.com/t/ZPRWnEKSJ/)
 - [Team official is sent-off for deliberately leaving the technical area to show dissent towards a match official.](https://youtu.be/vbLVxe8edUw?feature=shared&t=318)
 - [Team official is sent-off for abusive action for splashing water at a match official.](https://youtu.be/rN9I23szfx4?feature=shared&t=153)
+
+> If, without intending to interfere with play unfairly, a team official, substitute, substituted or sent-off player or player who is temporarily off the field of play (injury, adjusting equipment etc.) touches the ball while it is still in play but when it is clearly leaving the field of play, this is penalised with an indirect free kick; there is no sanction. _Law 9.2_

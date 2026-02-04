@@ -92,7 +92,12 @@ Until the ball is in play:
 
 > If, when a goal kick is taken, any opponents are inside the penalty area because they did not have time to leave, the referee allows play to continue. If an opponent who is in the penalty area when the goal kick is taken, or enters the penalty area before the ball is in play, touches or challenges for the ball before it is in play, the goal kick is retaken.
 
-> If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. 
+> If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play.
+
+If a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards), see if there is any advantage before stopping play to do a retake with no misconduct. If the referee is able to stop play from coninuing before the ball is kicked if the defender is right at the ball (less than ~3 yards), this is a caution for "delaying the restart of play" for the defender. But, if the kicker is not deliberately kicking the ball into the defender and a defender who is extremely close (less than ~3 yards) stretches or makes a significant motion towards the ball and touches it then that would be considered a caution for "failure to respect distance" for the defender and retake the free kick. 
+
+- [Ball is deliberately kicked into defender who is right at the ball. Redo the free kick and no misconduct.](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb)
+- [Referee cautions player who it too close for delaying the restart.](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254)
 
 Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play else its a retake. 
 
@@ -136,7 +141,7 @@ Time-wasting often falls into this category. The referee must be aware that in c
 - [The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
 - [The player provokes a confrontation by holding onto the ball. The player should be cautioned.](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 
-The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). A referee may be able to give a public warning before giving a caution, especially in cases with limited tactical impact (e.g. kicking the ball towards the goal after offside is called when in/near the penalty area or the losing team wasting their own time) but never when they claim they have the right to be there [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s). 
+The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). While warning or managing the game is okay, should generally just caution when it happens to set the tone for the match esspeically when they claim they have the right to be there [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s). 
 
 ## After ball is in play
 
