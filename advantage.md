@@ -43,7 +43,7 @@ Advantage also includes holding. Most offenses occur at a single point (push, ch
 
 If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
 
-For DOGSO foul near the penalty area (about 6 yards from the 18th), the only advantage is a goal (even if there is a shot on goal). 
+For a foul near the penalty area (about 6 yards from the 18th or 6 yards from peanlty arc), the only advantage is a goal (even if there is a shot on goal). 
 
 Do not play advantage on offenses against the goalkeeper in their own penalty area. Prefer the goalkeeper to not do something dumb.
 
@@ -101,5 +101,6 @@ Although the player committed more than one offense, the sanction (caution) and 
 This is rarely used. This is not advantage since the ball is out of play but is a similar concept as the referee decides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is beneficial for the team that's losing. 
 - [If the referee allows the quick free kick, since the offense was SPA outside penalty area (YC), it would be downgraded from YC to no card.](https://youtu.be/XBaIqWtWkGA)
 - [If the referee allows the quick free kick, since this was DOGSO outside the penalty area it would be downgraded from a RC to YC.](https://youtu.be/6A0qaGsLwCc?feature=shared&t=472)
+
 
 
