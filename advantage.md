@@ -17,7 +17,7 @@ Just because a team maintains possession of the ball (e.g. the ball is played aw
 **If there is an injury due to an offense which the referee did not stop play for advantage, the referee should stop play when the offended player's team loses possession rather than having their team play short due to no fault of their own or during a nuetral opportunity where no promising attack.**
 - [The referee should stop play when the offending team gained possession.](https://youtu.be/eFxYX4x1za0?feature=shared&t=790)
 
-Advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
+Advantage can be applied not just to fouls but to any offense in the Laws of the Game that is made when the ball is in play.
 - [Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
 
 Advantage cannot be used when the ball is not properly put into play from a restart. For example, if a player incorrectly takes a throw-in (e.g. ball not thrown with both hands) and the ball goes to an opponent - the referee cannot play advantage.
@@ -41,11 +41,12 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 
 Advantage also includes holding. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
-If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
+If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal even an open goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
 
-For a foul near the penalty area (about 6 yards from the 18th or 6 yards from peanlty arc), the only advantage is a goal (even if there is a shot on goal). 
+For a foul near the penalty area (about 10 yards from the 18th), the only advantage is a goal or an attempted shot on an open goal. A free kick where the ball is still and opponents are 10 yards away is usually more advantageous than a shot in open play.
+- [Referee brings back foul.](https://youtu.be/KxzzvrqVcyY?si=sRhIDjXy7s-jo5IJ&t=858)
 
-Do not play advantage on offenses against the goalkeeper in their own penalty area. Prefer the goalkeeper to not do something dumb.
+Do not play advantage on offenses against the goalkeeper in their own penalty area unless a clear promising attack. Prefer the goalkeeper to not do something dumb.
 
 ## Advantage signal
 
@@ -53,7 +54,7 @@ Law 5.6 shows two approved referee signals for advantage. It is one arm or two a
 
 Some referees yell "Advantage" or "Play on" to make it clear to players that they are not ignoring the foul. 
 
-Personally, I make no physical or verbal signal for advantage. 
+Personally, I only make a one arm physical signal. 
 
 ## Disciplinary action
 
@@ -101,6 +102,7 @@ Although the player committed more than one offense, the sanction (caution) and 
 This is rarely used. This is not advantage since the ball is out of play but is a similar concept as the referee decides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is beneficial for the team that's losing. 
 - [If the referee allows the quick free kick, since the offense was SPA outside penalty area (YC), it would be downgraded from YC to no card.](https://youtu.be/XBaIqWtWkGA)
 - [If the referee allows the quick free kick, since this was DOGSO outside the penalty area it would be downgraded from a RC to YC.](https://youtu.be/6A0qaGsLwCc?feature=shared&t=472)
+
 
 
 
