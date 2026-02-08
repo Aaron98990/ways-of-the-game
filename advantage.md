@@ -41,9 +41,9 @@ Advantage cannot be used when the ball is not properly put into play from a rest
 
 Advantage also includes holding. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
-If a foul by the defending team occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal even an open goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
+If an offense punished by a penalty kick occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal even an open goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
 
-For a foul near the penalty area (about 10 yards from the 18th), the only advantage is a goal or an attempted shot on an open goal. A free kick where the ball is still and opponents are 10 yards away is usually more advantageous than a shot in open play.
+For an offense near the penalty area (about 10 yards from the 18th) or indirect free kick in the opponent's peanlty area, the only advantage is a goal or an attempted shot on an open goal. A free kick where the ball is still and opponents are 10 yards away or on the goal line is usually more advantageous than a shot in open play.
 - [Referee brings back foul.](https://youtu.be/KxzzvrqVcyY?si=sRhIDjXy7s-jo5IJ&t=858)
 
 Do not play advantage on offenses against the goalkeeper in their own penalty area unless a clear promising attack. Prefer the goalkeeper to not do something dumb.
@@ -52,7 +52,7 @@ Do not play advantage on offenses against the goalkeeper in their own penalty ar
 
 Law 5.6 shows two approved referee signals for advantage. It is one arm or two arms pointing in the attacking direction of team benefiting from the advantage.
 
-Some referees yell "Advantage" or "Play on" to make it clear to players that they are not ignoring the foul. 
+Some referees yell "Advantage" or "Play on" to make it clear to players that they are not ignoring the offense. 
 
 Personally, I only make a one arm physical signal. 
 
@@ -102,6 +102,7 @@ Although the player committed more than one offense, the sanction (caution) and 
 This is rarely used. This is not advantage since the ball is out of play but is a similar concept as the referee decides not to stop/ delay play. Soccer games are determined by the number of goals scored not cautions/send-offs - so this is beneficial for the team that's losing. 
 - [If the referee allows the quick free kick, since the offense was SPA outside penalty area (YC), it would be downgraded from YC to no card.](https://youtu.be/XBaIqWtWkGA)
 - [If the referee allows the quick free kick, since this was DOGSO outside the penalty area it would be downgraded from a RC to YC.](https://youtu.be/6A0qaGsLwCc?feature=shared&t=472)
+
 
 
 
