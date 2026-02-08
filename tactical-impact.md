@@ -8,7 +8,7 @@ The level of tactical impact does not depend on intention (deliberate or acciden
 
 ## SPA
 
-Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Obviously, less leniency should be given if there is no attempt to challenge for or play the ball in transition (known as a taking the foul or a "take foul" in basketball).
+Stopping a Promising Attack is not defined in the Laws of the Game. The referee should use their best judgement. The offense can happen anywhere on the field including a player not allowing the goalkeeper to quickly release the ball. Less leniency should be given if there is no attempt to challenge for or play the ball in transition (known as a taking the foul or a "take foul" in basketball).
 - [A playlist of 9 videos of SPA from Key Match Incidents.](https://www.youtube.com/playlist?list=PLzf0-UFHPjPdTEI9Z2kzC3pCgBgXSaywF)
 - [A playlist of 50+ of SPA from the Referee Channel](https://www.youtube.com/playlist?list=PL4OiywE4asSe_F4qnxKcKjOx7FSjNYszR)
 
@@ -83,4 +83,5 @@ _I'm aware this is different than the Laws. Below is what I follow:_
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
   - A goal is the only way for advantage to ensue for an offense punished by a penalty kick
+
 
