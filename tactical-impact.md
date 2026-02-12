@@ -34,7 +34,7 @@ DOGSO can be separated in three situations:
 
 The player who commited the offense is not considered a defender for DOGSO purposes.
 
-When there is an open goal, if a shot is taken at goal or if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot/pass as in both cases they could pass the ball/defender) then it is DOGSO. [DOGSO](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [DOGSO](https://youtu.be/ymp9iw-18_I?feature=shared&t=226), [DOGSO](https://youtu.be/2A5eBRoAv6Y?feature=shared&t=175), [DOGSO](https://youtu.be/uzZnBPHsx_0?t=107)
+When there is an open goal, if a shot is taken at goal or if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot/pass as in both cases they could pass the ball/defender) then it is DOGSO. [DOGSO](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [DOGSO](https://youtu.be/ymp9iw-18_I?feature=shared&t=226), [DOGSO](https://youtu.be/2A5eBRoAv6Y?feature=shared&t=175), [DOGSO](https://youtu.be/uzZnBPHsx_0?t=107), [DOGSO](https://youtu.be/KxzzvrqVcyY?si=1tF8cZ-NjI1KzB21&t=1788)
 
 When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot/pass) and the attacker would of **_obviously_** have gotten possession of the ball then it is DOGSO.  [Not DOGSO](https://youtu.be/3wohxDXUZDc?feature=shared&t=8), [DOGSO](https://youtu.be/iLlZ61OyPPs?feature=shared&t=286)
 
@@ -83,5 +83,6 @@ _I'm aware this is different than the Laws. Below is what I follow:_
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
   - A goal is the only way for advantage to ensue for an offense punished by a penalty kick
+
 
 
