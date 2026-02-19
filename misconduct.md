@@ -195,6 +195,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - failing to move on after an explanation or being warned to
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
+  - continuing to dissent after being cautioned
   - Repeating questions or statements ("Why?" x4, "What did I do?" x4) [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)
 - Provocative, condescending, or personal comments
   - "What the hell/fuck. That's bullshit/horseshit." / "You are ruining the game"
