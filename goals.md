@@ -24,7 +24,7 @@ Be aware of these situations near a goal:
 
 - Ensure there is no ball within the nets as it may cause confusion
 - The ball leaving/entering the nets through a hole [Example 1](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports), [Example 2](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
-- The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play
+- The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play [Example 1](https://www.tiktok.com/@sheawoodsford/video/7608644554870410499)
 - The ball hitting the goal net or goal/netting support (e.g. wheel) inside the goal but not completely crossing the goal line
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
@@ -182,3 +182,4 @@ Home-and-away matches are where the same two teams play two matches, one at each
 
 
 Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both or other systems but how a competition determines its winner is dictated by the competition rules, not the Laws.
+
