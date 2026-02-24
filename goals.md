@@ -1,6 +1,8 @@
 > Goals (including portable goals) must be firmly secured to the ground.
 > - Law 1.10 Goals
 - [Tents near the field of play should be secured as well.](https://www.tiktok.com/t/ZTjB3bhAn/)
+
+
 > Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper. Law 1.10
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
@@ -68,7 +70,7 @@ Laws that will nullify a goal:
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal. 
 > - Law 13.1 Types of free kick
 
-> It is an offense if a player:
+> It is a handball offence if a player (except for the goalkeeper within their penalty area):
 > - scores in the opponents’ goal:
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
 >   - immediately after the ball has touched their hand/arm, even if accidental
@@ -182,4 +184,5 @@ Home-and-away matches are where the same two teams play two matches, one at each
 
 
 Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both or other systems but how a competition determines its winner is dictated by the competition rules, not the Laws.
+
 
