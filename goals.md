@@ -14,6 +14,15 @@
 
 ## Goal scored
 
+The team the goal is awarded to is determined by the coin toss before the match or the coin toss before extra time if the match is in extra time.
+
+> - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
+> - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
+> - the team that decided which goal to attack in the first half takes the kick-off to start the second half
+> - for the second half, the teams change ends and attack the opposite goals
+> 
+> Law 8.1 Kick-off
+
 > A goal is scored when the whole of the ball passes over the goal line, between the goalposts and under the crossbar, provided that no offense has been committed by the team scoring the goal.
 > 
 > - Law 10.1 Goal scored
@@ -30,15 +39,6 @@ Be aware of these situations near a goal:
 - The ball hitting the goal net or goal/netting support (e.g. wheel) inside the goal but not completely crossing the goal line
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
-
-The team the goal is awarded to is determined by the coin toss before the match or the coin toss before extra time if the match is in extra time.
-
-> - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
-> - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
-> - the team that decided which goal to attack in the first half takes the kick-off to start the second half
-> - for the second half, the teams change ends and attack the opposite goals
-> 
-> Law 8.1 Kick-off
 
 
 ## Offenses
@@ -184,5 +184,6 @@ Home-and-away matches are where the same two teams play two matches, one at each
 
 
 Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both or other systems but how a competition determines its winner is dictated by the competition rules, not the Laws.
+
 
 
