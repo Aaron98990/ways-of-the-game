@@ -473,9 +473,9 @@ For any remark above: think if it was public or private and how it's delivered. 
 
 > - receiving a second caution in the same match
 
-I recommend if you are giving a yellow card to check to make sure you have or have not given a caution. Knowing someone is on a caution already, may change your decision to give a second caution.
+I recommend if you are giving a caution to check to make sure you have or have not given a caution. Knowing someone is on a caution already, may change your decision to give a second caution.
 
-[Referee gives a second yellow card without knowing it.](https://www.youtube.com/watch?v=nHMqTeyv6Y0)
+[Referee gives a second caution without knowing it.](https://youtu.be/nHMqTeyv6Y0?si=V03bmrVr3daejery&t=402)
 
 ### **Other offenses**
 
