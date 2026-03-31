@@ -32,6 +32,8 @@ It is okay to mix between British English and US English:
 
 Remain gender neutral unless referring to a specific person.
 
+Do not use works like Obviously or Per tradition. Explain it and the reasoning.
+
 Video Review, AAR, and fourth official duties are not covered.
 
 The use of parenthesis should clarify a word or phrase. But, removing the words in parenthesis must not change the meaning of the sentence.

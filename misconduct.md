@@ -195,6 +195,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - failing to move on after an explanation or being warned to
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
+  - continuing to dissent after being cautioned
   - Repeating questions or statements ("Why?" x4, "What did I do?" x4) [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)
 - Provocative, condescending, or personal comments
   - "What the hell/fuck. That's bullshit/horseshit." / "You are ruining the game"
@@ -334,13 +335,12 @@ This is a catch-all. A referee may caution a player for anything. This is very s
       - this applies to the entire field of play, including the defensive third
       - the player being held often times stop playing or immediatly is twisted/turns around, making the offense obvious if you don't see it
     - refusing to let go of a player or leg-locking or hooking (locking opponent's arm to body or locking opponent's arm by wrapping/closing the arm)
-      - this needs multiple strong whistles to avoid retaliation or mass confrontation
-      - an unsuccessful attempt to hook needs a verbal warning
+      - this needs a strong whistle to avoid retaliation or mass confrontation
       - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
     - holding/pulling a player's pants (due to sensitive nature)
     - unnecessarily holding/pulling a player to the ground
     - front holding [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
-  - making contact with the goalkeeper when they are releasing the ball (impeding, holding, swiping at the ball). If no contact with ball or goalkeeper but an attempt to interfere, then at most an indirect free kick with no card 
+  - making contact with the goalkeeper or ball when they are releasing the ball (impeding, holding, swiping at the ball). If no contact with ball or goalkeeper but an attempt to interfere, then at most an indirect free kick with no card unless it has been done multiple times
   - retaliation foul, including for perceived uncalled foul
   - comitting or continuing to foul after the whistle blows or after an obvious foul
 - excessive swearing that's not abusive
@@ -472,6 +472,10 @@ For any remark above: think if it was public or private and how it's delivered. 
 ### **Second caution**
 
 > - receiving a second caution in the same match
+
+I recommend if you are giving a caution to check to make sure you have or have not given a caution. Knowing someone is on a caution already, may change your decision to give a second caution.
+
+[Referee gives a second caution without knowing it.](https://youtu.be/nHMqTeyv6Y0?si=V03bmrVr3daejery&t=402)
 
 ### **Other offenses**
 

@@ -120,6 +120,8 @@ If the referee measures distance on a free kick or wants to restart play from a 
 - [The penalty kick is taken before the referee signals (whistle). The penalty kick is re-taken.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=8659)
 - [The referee measures the distance for a free kick. Because the free kick is taken before the signal (whistle), the free kick has to be re-taken.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2625)
 
+Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 8 seconds, "goalkeeper passback") or when the goalkeeper commits a handball offense just outside their penalty area.
+
 ## Delaying the restart of play
 
 > An opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play. Law 13

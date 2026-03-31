@@ -1,6 +1,8 @@
 > Goals (including portable goals) must be firmly secured to the ground.
 > - Law 1.10 Goals
 - [Tents near the field of play should be secured as well.](https://www.tiktok.com/t/ZTjB3bhAn/)
+
+
 > Nets may be attached to the goals and the ground behind the goal; they must be properly supported and must not interfere with the goalkeeper. Law 1.10
 
 > If the crossbar becomes displaced or broken, play is stopped until it has been repaired or replaced in position. Play is restarted with a dropped ball. If it cannot be repaired the match must be abandoned. A rope or any flexible or dangerous material may not replace the crossbar. Law 1.10
@@ -11,6 +13,15 @@
 > - Law 9.2 Ball in play
 
 ## Goal scored
+
+The team the goal is awarded to is determined by the coin toss before the match or the coin toss before extra time if the match is in extra time.
+
+> - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
+> - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
+> - the team that decided which goal to attack in the first half takes the kick-off to start the second half
+> - for the second half, the teams change ends and attack the opposite goals
+> 
+> Law 8.1 Kick-off
 
 > A goal is scored when the whole of the ball passes over the goal line, between the goalposts and under the crossbar, provided that no offense has been committed by the team scoring the goal.
 > 
@@ -24,19 +35,10 @@ Be aware of these situations near a goal:
 
 - Ensure there is no ball within the nets as it may cause confusion
 - The ball leaving/entering the nets through a hole [Example 1](https://www.youtube.com/watch?v=vQZmRqxnH6M&ab_channel=TNTSports), [Example 2](https://www.tiktok.com/@refsneedlovetoo/video/7273154143399873838)
-- The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play
+- The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play [Example 1](https://www.tiktok.com/@sheawoodsford/video/7608644554870410499)
 - The ball hitting the goal net or goal/netting support (e.g. wheel) inside the goal but not completely crossing the goal line
 
 While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
-
-The team the goal is awarded to is determined by the coin toss before the match or the coin toss before extra time if the match is in extra time.
-
-> - the referee tosses a coin and the team that wins the toss decides which goal to attack in the first half or to take the kick-off
-> - depending on the above, their opponents take the kick-off or decide which goal to attack in the first half
-> - the team that decided which goal to attack in the first half takes the kick-off to start the second half
-> - for the second half, the teams change ends and attack the opposite goals
-> 
-> Law 8.1 Kick-off
 
 
 ## Offenses
@@ -68,7 +70,7 @@ Laws that will nullify a goal:
 > An indirect free kick must be retaken if the referee fails to signal that the kick is indirect and the ball is kicked directly into the goal. 
 > - Law 13.1 Types of free kick
 
-> It is an offense if a player:
+> It is a handball offence if a player (except for the goalkeeper within their penalty area):
 > - scores in the opponents’ goal:
 >   - directly from their hand/arm, even if accidental, including by the goalkeeper
 >   - immediately after the ball has touched their hand/arm, even if accidental
@@ -182,3 +184,6 @@ Home-and-away matches are where the same two teams play two matches, one at each
 
 
 Some competitions use a points system (generally 3, 1, or 0 points for a win, tie, or loss respectively), some have play-offs, and some use both or other systems but how a competition determines its winner is dictated by the competition rules, not the Laws.
+
+
+
