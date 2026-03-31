@@ -20,7 +20,7 @@ Just because a team maintains possession of the ball (e.g. the ball is played aw
 Advantage can be applied not just to fouls but to any offense in the Laws of the Game. 
 - [Advantage played on an offside offense.](https://youtu.be/DMmK4XW0UPc?&t=188)
 
-Advantage cannot be used when the ball is not properly put into play from a restart. For example, if a player incorrectly takes a throw-in (e.g. ball not thrown with both hands) and the ball goes to an opponent - the referee cannot play advantage.
+Advantage can be used when the ball is not properly put into play from a restart. For example, if a player incorrectly takes a throw-in (e.g. ball not thrown with both hands, both feet not on ground) and the ball goes to an opponent - the referee can play advantage.
 
 > The referee may play advantage whenever an offense occurs but should consider the following in deciding whether to apply the advantage or stop play:
 > - the severity of the offense – if the offense warrants a sending-off, the referee must stop play and send off the player unless there is a clear opportunity to score a goal
