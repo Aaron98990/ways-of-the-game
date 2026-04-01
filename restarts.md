@@ -143,7 +143,7 @@ The referee channel has a list of 21 videos of examples of this that are availab
 
 For goal kicks and throw-ins only, the referee uses the five second countdown if a team takes to long. If the restart has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area to where the ball was or the throw-in is taken by the same team in the same position. 
 
-> If a player is unfairly delaying the taking of a [throw-in or goal kick] for their team, the referee will whistle and signal the start of a five-second countdown. The referee will visually count down the five seconds with a raised hand, and if the [throw-in or goal kick] has not been taken by the end of the five seconds, it is awarded to the opposing team [and if it was a goal kick, it becomes a corner kick]. The offending player is cautioned only if they excessively delay the restart after the [five-second countdown]. * Law 16 and 17
+> If a player is unfairly delaying the taking of a [throw-in or goal kick] for their team, the referee will whistle and signal the start of a five-second countdown. The referee will visually count down the five seconds with a raised hand, and if the [throw-in or goal kick] has not been taken by the end of the five seconds, it is awarded to the opposing team [and if it was a goal kick, it becomes a corner kick]. The offending player is cautioned only if they excessively delay the restart after the [five-second countdown]. * Law 15 and 16
 
 During a substitution, if a player being substitited takes longer than 10 seconds to leave the field of play then the substitute must wait one-minute before entering the field of play. 
 
