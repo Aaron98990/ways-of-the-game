@@ -20,7 +20,7 @@ Stopping a Promising Attack is not defined in the Laws of the Game. The referee 
 > - distance between the offense and the goal
 > - general direction of the play
 > - likelihood of keeping or gaining control of the ball
-> - location and number of defenders
+> - location and number of defenders and attackers
 > - Law 12.3 Direct Free Kick
 
 DOGSO (like offside) is a hard call to make because it requires match officials to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul. 
@@ -45,7 +45,6 @@ When there is a defended goal, if it is and would of been 1 vs 1 (the attacker v
 > - denies the opposing team a goal or an obvious goal-scoring opportunity and the referee awards a penalty kick for a non-deliberate handball offence
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
-> - handles the ball [...] in an unsuccessful attempt to prevent a goal
 > - Law 12.3 Disciplinary Action
 
 > A player, substitute or substituted player who commits any of the following offenses is sent off:
@@ -79,7 +78,7 @@ No advantage ensues:
 
 \* Goalkeeper handling offense in their own penalty area is no card unless also double touch from a restart
 
-_I'm aware this is different than the Laws. Below is what I follow:_
+
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
   - A goal is the only way for advantage to ensue for an offense punished by a penalty kick

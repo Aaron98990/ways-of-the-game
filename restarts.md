@@ -120,7 +120,7 @@ If the referee measures distance on a free kick or wants to restart play from a 
 - [The penalty kick is taken before the referee signals (whistle). The penalty kick is re-taken.](https://youtu.be/w5QBxc2Hq0o?feature=shared&t=8659)
 - [The referee measures the distance for a free kick. Because the free kick is taken before the signal (whistle), the free kick has to be re-taken.](https://www.youtube.com/live/b-HZviMbqxc?feature=shared&t=2625)
 
-Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 8 seconds, "goalkeeper passback") or when the goalkeeper commits a handball offense just outside their penalty area.
+Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. for "goalkeeper passback") or when the goalkeeper commits a handball offense just outside their penalty area.
 
 ## Delaying the restart of play
 
@@ -129,10 +129,7 @@ Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 
 - [The defender stands right in front of the ball and prevents a free kick being taken quickly. The player is cautioned.](https://www.youtube.com/watch?v=qDdkvYZLql0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=4)
 - [Same as the above.](https://youtu.be/VqaCkXYPsjM?feature=shared&t=4250)
 
-> Referees must caution players who delay the restart of play by:
-> - appearing to take a throw-in but suddenly leaving it to a team-mate to take
-> - delaying leaving the field of play when being substituted
-> - excessively delaying a restart
+> Referees must caution players who excessively delay the restart of play by including as outlined in Laws 3, 15 and 16 and their protocols, or by:
 > - kicking or carrying the ball away, or provoking a confrontation by deliberately touching the ball after the referee has stopped play
 > - taking a free kick from the wrong position to force a retake
 
