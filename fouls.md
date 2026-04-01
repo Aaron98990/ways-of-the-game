@@ -137,6 +137,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 > - have the person removed when play stops
 > - take appropriate disciplinary action
 >   
+>
 > If play is stopped and the interference was by:
 > - a team official, substitute, substituted or sent-off player, play restarts with a direct free kick or penalty kick
 > - an outside agent, play restarts with a dropped ball _Law 3.7_

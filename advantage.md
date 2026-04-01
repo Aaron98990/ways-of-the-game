@@ -69,6 +69,7 @@ Just because advantage is played does not mean that a referee cannot caution or 
 
 - [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage was played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
 
+
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
   - A goal is the only way for advantage to ensue for an offense punished by a penalty kick

@@ -72,19 +72,21 @@ Until the ball is in play:
 - For dropped balls, all other players except the one who the ball is dropped to (of both teams) must remain at least 4 m (4.5 yds) from the ball
 - For kick-offs, all players, except the player taking the kick-off, must be in their own half of the field of play. 
 - For free kicks and kick-offs all opponents must remain 10 yards from the ball
-    - For indirect free kicks, defenders stand on the goal line between the goal posts when they can't give 10 yards
+  - For indirect free kicks, defenders stand on the goal line between the goal posts when they can't give 10 yards
 - For corner kicks, oppenents must stand 10 yards from the corner arc
 - For free kicks, when three or more defending team players form a ‘wall’, all attacking team players must remain at least 1 m (1 yd) from the ‘wall’ 
 - For free kicks going out and all goal kicks, opponents must remain outside the penalty area the restart is taken from
 - For throw-ins, all opponents must stand at least 2 m (2 yds) from the point on the touchline where the throw-in is to be taken.
 - For penalty kicks, the goalkeeper must have part of one foot in line or behind the goal line when the ball is kicked. Everyone except the kicker and goalkeeper, must be outside the penalty area, behind the penalty mark, and 10 yards from the penalty mark. The goalkeeper must not touch the goalposts, crossbar or goal net until the ball is in play.
-    - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
-    - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
- 
+  - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
+  - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
+
+
 > A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.4
 
 - This includes attempting to go for the ball (e.g. heading or kicking) which is close-by but not touching it. [Example 1](https://youtu.be/6KkDUpTBBtM?feature=shared)
 - [The ball is put into play after the referee measured distance for a free kick. The player is cautioned. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2876)
+
 
 > If the goalkeeper’s offence results in the kick being retaken, the goalkeeper is warned for the first offence in the game and cautioned for any subsequent offence(s) in the game
 
@@ -180,7 +182,7 @@ For penalty kick, if the kicker double touches it immediately after the kick and
 
 If the goalkeeper is the restart taker and they double touch with their hand/arm in their own penalty area, it is an indirect free kick for double touch from restart since a handball offense does not apply (see quote below). In all other cases for all players, it is a direct free kick offense since handball is the more serious offense than double touch from restart.
 
-> > A direct free kick is awarded if a player commits any of the following offenses:
+> A direct free kick is awarded if a player commits any of the following offenses:
 > - a handball offense (except for the goalkeeper within their penalty area) _Law 12_
 
 "A free kick can be taken by lifting the ball with a foot or both feet simultaneously" - this applies to any restart that is kicked and is not a double touch by the restart taker.
