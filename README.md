@@ -1,6 +1,6 @@
 # Ways of the Game
 
-This is a [Laws of the Game](http://www.theifab.com/?side-menu-open=true) first guide to connect concepts across the Laws, show relevant videos because seeing is easier than just reading, and share advice for match officials. The guide is not a replacement for real experience or the Laws, which are simple and short compared to other sports. The guide is very technical  so I recommend those new to the sport to start off with the [Simplified Laws of the Game](http://www.footballrules.com). The Laws are updated yearly so always be current on [changes](/law-changes).
+This is a [Laws of the Game](http://www.theifab.com/?side-menu-open=true) first guide to connect concepts across the Laws, show relevant videos because seeing is easier than just reading, and share advice for match officials. The guide is not a replacement for real experience or the Laws, which are simple and short compared to other sports. The guide is very technical so I recommend those new to the sport to start off with the [Simplified Laws of the Game](http://www.footballrules.com). The Laws are updated yearly so always be current on [changes](/law-changes).
 
 In addition to the Laws of the Game, most matches have [competition rules](https://footballrules.com/about/additional-competition-rules), which include **important** information that affects the match (e.g. substitutions, time of halves/halftime, team jersey colors). [Here](https://cdn1.sportngin.com/attachments/document/0146/2001/Tournament_Rules_Template.pdf) is a sample of competition rules. Match officials must read and understand competition rules before a match. 
 
@@ -8,7 +8,7 @@ Helpful Official Resources
 
 - [The Laws of the Game](http://www.theifab.com/?side-menu-open=true)
   - [Download the Mobile App](https://www.theifab.com/logapp/) - a must have for match officials
-  - The IFAB Socials - [Twitter](https://twitter.com/TheIFAB/) / [Facebook](https://www.facebook.com/theifab/)
+  - The IFAB Socials - [Twitter](https://twitter.com/TheIFAB/) / [Facebook](https://www.facebook.com/theifab/) / [LinkedIn](https://www.linkedin.com/company/the-ifab/) - a must follow for match officials
 - [Simplified Laws of the Game](http://www.footballrules.com)
   - Mobile App - [Google Play](https://play.google.com/store/apps/details?id=com.theifab.footballrules) / [App Store](https://apps.apple.com/us/app/football-rules-by-the-ifab/id6450178840)
 - [Professional Referee Organization (PRO)](https://proreferees.com/)
