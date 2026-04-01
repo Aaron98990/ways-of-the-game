@@ -22,7 +22,7 @@ Helpful Unofficial Resources
 - [The Watch and the Whistle](https://www.watchandwhistle.org/)
 - [Ask the Ref](http://asktheref.com/)
 - [Ask a Soccer Referee](https://www.askasoccerreferee.com/)
-- [Referee Channel - YouTube](https://www.youtube.com/@RefereeChannel/featured), [TikTok](tiktok.com/@refereechannel), [Instagram](instagram.com/refereechannel), [Facebook](facebook.com/profile.php?id=100088714842893)
+- [Referee Channel - YouTube](https://www.youtube.com/@RefereeChannel/featured), [TikTok](https://tiktok.com/@refereechannel), [Instagram](https://instagram.com/refereechannel), [Facebook](https://facebook.com/profile.php?id=100088714842893)
 - [r/Referees - Reddit](http://reddit.com/r/referees)
 - [Refs Need Love Too - TikTok](https://www.tiktok.com/@refsneedlovetoo), [Instagram](https://www.instagram.com/refsneedlovetoo), [Facebook](https://www.facebook.com/refsneedlovetoo)
 - [Reffing with the Sappers - YouTube](https://www.youtube.com/@reffingwiththesappers)
