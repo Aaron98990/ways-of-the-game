@@ -82,20 +82,17 @@ A player forgot to bring their red jersey to the game so they wear their pink sh
 - For lower levels of the game, this is acceptable as the main purpose is to have fun and exercise.
 
 There is no need to kick the ball out for an injured player.
-- No one is obligated to kick the ball out of play for an injured player. The referee will stop play if they deem it serious.
+- No one is obligated to kick the ball out of play for an injured player. The referee will stop play if they deem it serious. No one is obligated to kick the ball to the opposing team during a dropped ball for an injury.
 
 There is a higher standard to earn a foul in the attacking third then compared to midfield or the defending third.
 
 A player is the second-to-last defender and is technically offside by having one foot in their opponent's half and one foot in their own half but clearly understands they can't be in their opponent's half.
-- For recreational soccer, I have allowed this to slide twice. I no longer consider this acceptable. I will communicate that they are in offside position and call the offense if they do it.
+- I no longer consider this acceptable. I will communicate that they are in offside position and call the offense if they do it.
 
 ## Subjective
 
 A foul occurs by the defense barely in the penalty area and is barely a foul.
 - For recreational soccer, rather than a penalty kick I have moved the foul right outside the penalty area since a penalty kick is too harsh.
-
-Disallowing a goal for kneeling down on the ground to showboat while scoring.
-- Some referees deem this as unsporting behavior. It's not wrong. Personally, I would allow the goal to stand. 
 
 Showing a yellow card for showboating with the ball. 
 - [Controversy: player punished for showboating](https://www.youtube.com/watch?v=Vd6eLQbu9vM)
