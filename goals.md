@@ -149,7 +149,7 @@ It is accepted that referees do not add enough additional time, so the losing te
 > - climbing onto a perimeter fence and/or approaching the spectators in a manner which causes safety and/or security issues
 > - acting in a provocative, derisory or inflammatory way
 > - covering the head or face with a mask or other similar item
-> - removing the shirt or covering the head with the shirt _Law 12.3 Disciplinary Action_
+> - removing the shirt or covering the head with the shirt _Law 12.4 Disciplinary Action_
 
 - [A player celebrating a goal approaches spectators in a manner which causes security issues and must be cautioned.](https://youtu.be/twUjLLSC3EY?feature=shared&t=746)
 - [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)

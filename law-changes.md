@@ -185,7 +185,7 @@ Law 11.4 An attacking player may step or stay off the field of play not to be in
 Editorial changes are below:
 
 Law 12.2 commits any other offence, not mentioned in the Laws *or where the Laws don't mention a restart*, for which play is stopped to caution or send off a player
-- Deceiving the referee (simulation) is mentioned in the Laws (12.3), the Laws just don't give it a restart if there is no contact with an opponent. If the simulation involved contact with a person it is a direct free kick.
+- Deceiving the referee (simulation) is mentioned in the Laws (12.4), the Laws just don't give it a restart if there is no contact with an opponent. If the simulation involved contact with a person it is a direct free kick.
 
 Law 12.1 If an offence involves contact *with a person (excluding outside agents)*, it is penalised by a direct free kick.
 - Just to make it clear that it is not contact with the ball. 

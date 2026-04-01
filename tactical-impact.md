@@ -21,7 +21,7 @@ Stopping a Promising Attack is not defined in the Laws of the Game. The referee 
 > - general direction of the play
 > - likelihood of keeping or gaining control of the ball
 > - location and number of defenders and attackers
-> - Law 12.3 Direct Free Kick
+> - Law 12.4 Direct Free Kick
 
 DOGSO (like offside) is a hard call to make because it requires match officials to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul. 
 
@@ -45,13 +45,13 @@ When there is a defended goal, if it is and would of been 1 vs 1 (the attacker v
 > - denies the opposing team a goal or an obvious goal-scoring opportunity and the referee awards a penalty kick for a non-deliberate handball offence
 > - commits any other offence which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offence which was an attempt to play the ball or a challenge for the ball
 > - denies an opponent an obvious goal-scoring opportunity by committing an offence which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
-> - Law 12.3 Disciplinary Action
+> - Law 12.4 Disciplinary Action
 
 > A player, substitute or substituted player who commits any of the following offenses is sent off:
 > - denying the opposing team a goal or an obvious goal-scoring opportunity by committing a deliberate handball offence (except a goalkeeper within their penalty area)
 > - denying the opposing team a goal or an obvious goal-scoring opportunity by committing a non-deliberate handball offence outside their own penalty area
 > - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offence punishable by a free kick (unless as outlined below)
-> - Law 12.3 Disciplinary Action
+> - Law 12.4 Disciplinary Action
 
 Please note that DOGSO applies to "an offense punishable by a free kick". This means that all indirect and direct free kick offenses except for a goalkeeper handling offense in their own penalty area (as discuseed in the [goalkeeper section](/goalkeeper)) can lead to a red card for DOGSO.
 

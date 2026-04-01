@@ -81,7 +81,7 @@ Until the ball is in play:
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/9o6zJz1neG0?t=49)
     - [Retake. Goalkeeper does not have part of both feet in line or behind the goal line when the ball is kicked and is blocked by them. ](https://youtu.be/gAoXLwQ_2b4?t=96)
  
-> A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.3
+> A player is cautioned if guilty of: failing to respect the required distance when play is restarted with a dropped ball, corner kick, free kick or throw-in Law 12.4
 
 - This includes attempting to go for the ball (e.g. heading or kicking) which is close-by but not touching it. [Example 1](https://youtu.be/6KkDUpTBBtM?feature=shared)
 - [The ball is put into play after the referee measured distance for a free kick. The player is cautioned. ](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2876)
