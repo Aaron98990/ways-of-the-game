@@ -1,5 +1,5 @@
 > The referee:
-> - allows play to continue when an offense occurs and the non-offending team will benefit from the advantage, and penalises the offense if the anticipated advantage does not ensue at that time or within a few seconds
+> - allows play to continue when an offence occurs, or a restart is incorrectly taken and the ball is in play, and the opposing team will benefit from the advantage, and penalises the offence/orders a retake if the anticipated advantage does not ensue at that time or within a few seconds
 > - Law 5.3 Power and duties
 
 > The ball is out of play when:
@@ -64,12 +64,11 @@ Just because advantage is played does not mean that a referee cannot caution or 
 - [A player commits a reckless tackle. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
 - [A player commits a reckless tackle. The referee signals advantage. After the goal is scored, the player is cautioned for the reckless tackle.](https://youtu.be/BbcPFAvyIZU)
 
-> If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offense was denying the opposing team an obvious goal-scoring opportunity the player is cautioned for unsporting behaviour; if the offense was interfering with or stopping a promising attack, the player is not cautioned.
+> If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offence was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned for unsporting behaviour, except where a goal is scored by the non-offending team as a result of the advantage having been played, in which case there is no disciplinary sanction; if the offence was interfering with or stopping a promising attack, the player is not cautioned.
 > - Law 12.4 Disciplinary Action
 
 - [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage wwas played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
 
-_I'm aware this is different than the Laws. Below is what I follow:_
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.
   - A goal is the only way for advantage to ensue for an offense punished by a penalty kick
