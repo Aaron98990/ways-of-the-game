@@ -13,16 +13,16 @@ Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they 
 
 > The referee may not change a restart decision [..] if play has restarted or the referee has signalled the end of the first or second half (including extra time) and left the field of play or abandoned the match. Law 5.2
 
-**Deflections that occur when kicked from close distance are one of the most challening calls to make as it is hard to see the trajectory of the ball change or hear the touches since they are close. [Example 1](https://youtu.be/WSQOZZeL0T4?feature=shared&t=293) If the assistant referee says they saw the deflection, follow them.**
+**Deflections that occur when kicked from close distance are one of the most challenging calls to make as it is hard to see the trajectory of the ball change or hear the touches since they are close. [Example 1](https://youtu.be/WSQOZZeL0T4?feature=shared&t=293) If the assistant referee says they saw the deflection, follow them.**
 
 ## Position of restart
 
 The restart is taken at the position of the offense or position where the ball left the field of play except:
-- Corner kicks can be taken any where in the corner area nearest to the point where the ball completely passed over the goal line (1) or the location of where the ball was when the offense occured (2)
+- Corner kicks can be taken anywhere in the corner area nearest to the point where the ball completely passed over the goal line (1) or the location of where the ball was when the offense occured (2)
     - the corner flagpost must not be moved
-- indirect free kicks for attackers in their oponent's goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
+- indirect free kicks for attackers in their opponent's goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
 - free kicks going out in goal area or goal kicks may be taken from anywhere in the goal area
-- direct free kick for attackers in their oponent's penalty area are a penalty kick (taken at the penalty mark)
+- direct free kick for attackers in their opponent's penalty area are a penalty kick (taken at the penalty mark)
 - The ball is dropped for the defending team goalkeeper anywhere in their penalty area if, when play was stopped when the ball was in the penalty area or the last touch of the ball was in the penalty area
     - In all other cases, the referee drops the ball for **one player** of the team that last touched the ball at the position where it last touched a player, an outside agent or, as outlined in Law 9.1, a match official 
 
@@ -168,7 +168,7 @@ Deliberately throwing (from a throw-in) or deliberately kicking the ball at an o
 
 For all restarts except dropped balls and penalty kick, the person who takes the restart can't touch the ball until it touches another player else its always an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost, crossbar, corner post or match official does not reset this rule. Read more in the "two offenses at once" section.
 
-For penalty kick, if the kicker double touches it immediatly after the kick and a goal is scored from the kick, it is a retake. In all other cases, it is an indrect free kick for the opposing team.
+For penalty kick, if the kicker double touches it immediately after the kick and a goal is scored from the kick, it is a retake. In all other cases, it is an indirect free kick for the opposing team.
 
 > the kicker accidentally kicks the ball with both feet simultaneously or the ball touches their non-kicking foot or leg immediately after the kick:
 > - if the ball enters the goal from the kick, the kick is retaken

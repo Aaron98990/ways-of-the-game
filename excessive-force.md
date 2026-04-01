@@ -13,7 +13,7 @@ The level of physical severity does not depend on:
 - the score (blowout or close)
 - play not being stopped for advantage (including if the non-offending team scores)
 - a penalty kick is given
-- the number of fouls commited before (including if it's a player, team, or the match's first foul)
+- the number of fouls committed before (including if it's a player, team, or the match's first foul)
 - an "easy" or "practice" game (including friendly or tournament, boys/girls/co-ed, young or old, small-sided or not, recreational or competitive)
 - a player's small figure (thin/short players don't get leeway to be dirty)
 - time in the match (including the first or last minute)
@@ -95,7 +95,7 @@ Studs on any body part except the foot that is not glancing should be excessive 
 Studs on a player's foot that occurs after a slide, jump (with legs together or outstretched), or lunge should be managed with an orange card (a yellow card with little leniency for a second yellow or a direct red card if the match is extremely heated).
 - [Orange Card](https://youtu.be/I9Uybj3sKpA?t=494&feature=shared),  [Orange Card](https://youtu.be/488GKHqWXCI?feature=shared&t=185)
 
-A kick/tackle to the head or neck that that uses high force (e.g. bicycle kicks) **Ask the player where they were hit**
+A kick/tackle to the head or neck that uses high force (e.g. bicycle kicks) **Ask the player where they were hit**
 - [Serious Foul Play 1.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=220), [Serious Foul Play 2](https://youtu.be/8kmliIasCfQ?feature=shared&t=63)
 
 A scissor tackle is a dangerous challenge with legs apart, so as to trap the opponent's leg or legs in between.
@@ -104,7 +104,7 @@ A scissor tackle is a dangerous challenge with legs apart, so as to trap the opp
 Unnecessary/avoidable contact to the goalkeeper's head or neck (especially when on the ground). The attacker must make every attempt to avoid the goalkeeper. If negligible or glancing contact, a caution should be given. **Ask the goalkeeper where they were hit**
 - [PRO write up here. I consider it Serious Foul Play.](https://proreferees.com/2022/07/02/talking-points-avoidable-contact-with-goalkeepers/)
 
-A slide tackle feet first into the goalkeeper whose attempting to catch the ball while on the ground is almost always excessive force (whether or not studs grazed or penetrated the skin)
+A slide tackle feet first into the goalkeeper who's attempting to catch the ball while on the ground is almost always excessive force (whether or not studs grazed or penetrated the skin)
 - [Serious Foul Play 1](https://youtu.be/jqf5Y88OYEM?feature=shared&t=924), [Serious Foul Play 2](https://www.tiktok.com/@refsneedlovetoo/video/7271366786551991594?lang=en)
 
 A slide tackle with a secondary kicking motion (rather than pulling out) combines two powerful forces and can easily be a recipe for excessive force or at least an orange card. 

@@ -1,7 +1,7 @@
 ## Pre-Game
 
-Check in starts 10 mins before kickoff. 
-On field warm ups ends at and Coin toss occurs 4 mins before kickoff. 
+Check in starts 10 mins before kick-off. 
+On field warm ups ends at and Coin toss occurs 4 mins before kick-off. 
 After toss, pregame with officials. 
 Whistle Players to field at 2 mins before kick off. Half starts even if players are not on the field after two minures. 
 Game starts on kick-off. 
@@ -38,7 +38,7 @@ For cards to multiple players: Identify the players to card. Write first. Separa
 
 ## After the game
 
-Leave the field of play as soon as possible at intermissions (time between halves) and after the game. It causes less problems as I don't need to hear complains or additional paperwork and sanctions I issue after the game. All pleasentries should be done before kickoff.
+Leave the field of play as soon as possible at intermissions (time between halves) and after the game. It causes less problems as I don't need to hear complains or additional paperwork and sanctions I issue after the game. All pleasentries should be done before kick-off.
 
 If a match report needs to be signed or returned - leave the field and fill it out next to your stuff. 
 
@@ -48,7 +48,7 @@ Deflection: Yell deflection and wave flag while signaling restart (I will also m
 
 Offside: For delebiterate play, I will yell defender or deliberate.
 
-Call all offenses/fouls immediatly (including obvious ones, where I'm in the area, and in penalty area) - I will decide advantage. Push offs and holding on the other side of the field you may see - call it and yell Aaron.
+Call all offenses/fouls immediately (including obvious ones, where I'm in the area, and in penalty area) - I will decide advantage. Push offs and holding on the other side of the field you may see - call it and yell Aaron.
 
 For any offense which is card worthy: Raise flag up, yell if needed, and let's talk about it
 

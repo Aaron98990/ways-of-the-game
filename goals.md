@@ -82,7 +82,7 @@ Laws that will nullify a goal:
 
 > If a referee signals a goal before the ball has passed wholly over the goal line, play is restarted with a dropped ball. Law 10.1
 
-In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball, the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a a corner kick if it enters your own goal.
+In addition to the above, the [restarts](/restarts) section covers restart offenses. In summary, you can't directly score in the opponent's goal from a throw-in, indirect free kick else it's a goal kick. Also, you can't directly score in your own goal from any restart else it's a corner kick for your opponents. For dropped ball, the ball must be touched by two players else it's a goal kick if it enters the opponent's goal or it's a corner kick if it enters your own goal.
 
 ## Extra person/outside interference
 
@@ -116,15 +116,15 @@ Similar idea applies above not only to extra people but to objects and animals. 
 >   - allow play to continue if it does not interfere with play and have it removed at the earliest possible opportunity
 > _Law 5.3 Powers and duties_
 
-- [No goal/dropped ball as the baloon ball interferes with play and prevented two defenders from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
-- [No goal/dropped ball as the baloon interferes with play and prevented a defender from playing the ball.](https://youtu.be/kXDetto0zpQ?feature=shared&t=182)
+- [No goal/dropped ball as the balloon ball interferes with play and prevented two defenders from playing the ball.](https://youtu.be/gfi9rGa7Le4?feature=shared&t=191)
+- [No goal/dropped ball as the balloon interferes with play and prevented a defender from playing the ball.](https://youtu.be/kXDetto0zpQ?feature=shared&t=182)
 - [No goal/dropped ball as a spectator blows a whistle and causes the player nearest the ball to stop playing.](https://youtu.be/HM8ri4KABFM?feature=shared)
 
 ## Goal signal
 
-_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kickoff. The unofficial but common signal is to point to the center circle where the kickoff will restart play. Personally, I make no arm signal. _The Guidelines for Match Officials_ recommends a whistle for a goal only when the ball appears still to be in play. 
+_Law 5.6 - Referee signals_ does not offer a signal for a goal or a kick-off. The unofficial but common signal is to point to the center circle where the kick-off will restart play. Personally, I make no arm signal. _The Guidelines for Match Officials_ recommends a whistle for a goal only when the ball appears still to be in play. 
 
-_Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kickoff but _The Guidelines for Match Officials_ offers guidance.
+_Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kick-off but _The Guidelines for Match Officials_ offers guidance.
 
 > **Goal/no goal**
 > 
@@ -135,11 +135,11 @@ _Law 6.6 - Assistant referee signals_ does not offer a signal for a goal or kick
 > On occasions when the whole of the ball does not cross the goal line and play continues as normal because a goal has not been scored, the referee must make eye contact with the assistant referee and if necessary give a discreet hand signal. _Guidelines for Match Officials_
 
 - [The assistant referee should of raised their flag then run along the touchline rather than the referee stopping play to ask the assistant referee if the ball entered the goal. ](https://youtu.be/DK66w4_vBiI?t=701)
-- [The assistant referee raises their flag then runs along the touch line on a not clear goal.](https://youtu.be/8XVcUWf562k?feature=shared&t=294)
+- [The assistant referee raises their flag then runs along the touchline on a not clear goal.](https://youtu.be/8XVcUWf562k?feature=shared&t=294)
 
 ## After a goal
 
-It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the game will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibility.
+It is accepted that referees do not add enough additional time, so the losing team or the team that just tied the match will try to retrieve the ball to restart play quickly while the other team will stall. No player is entitled to the ball after a goal and players must act responsibly.
 
 - [Should be double yellow card.](https://www.youtube.com/watch?v=Cl6zluuAiwI&t=717s), [Should be double yellow card](https://youtu.be/ArwmdgVJHVU?feature=shared&t=331), [Example 3](https://youtu.be/jZp1vp-rQ7U?feature=shared)
 
@@ -154,23 +154,23 @@ It is accepted that referees do not add enough additional time, so the losing te
 - [A player celebrating a goal approaches spectators in a manner which causes security issues and must be cautioned.](https://youtu.be/twUjLLSC3EY?feature=shared&t=746)
 - [A player celebrating a goal covers their head with the shirt and must be cautioned.](https://youtu.be/u-y3AiAm2pI?t=410)
 - [A player celebrating a goal removes their shirt and must be cautioned.](https://www.youtube.com/watch?v=1g2DRURrbAo&t=1366s)
-- [A player acts in a provacative way by mimicking the goalkeeper failing to save the goal and must be cautioned.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=350)
+- [A player acts in a provocative way by mimicking the goalkeeper failing to save the goal and must be cautioned.](https://youtu.be/kgO-Zrmj-sE?feature=shared&t=350)
 
 
-> For any offence, play need not be stopped. Law 4 The Players' equiptment
+> For any offence, play need not be stopped. Law 4 The Players' equipment
 
-If a player takes their shirt off before scoring, the goal counts and they recieve a YC. 
+If a player takes their shirt off before scoring, the goal counts and they receive a YC. 
 - [Example 1](https://youtu.be/yZ6eG3vD__w?feature=shared)
 
 > after a team scores a goal, the kick-off is taken by their opponents _Law 8.1 Kick-off_
 
-If time expires between a goal and kick-off, I recommend the referee to wait immediatly after kick-off to end the half. This makes it clear a goal was scored, ensure there are 11 or less players, and  ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each restart (including kick-off) or else notify the operator (or have the home team notify the operator if they're not nearby). 
+If time expires between a goal and kick-off, I recommend the referee to wait immediately after kick-off to end the half. This makes it clear a goal was scored, ensure there are 11 or less players, and  ensures the goal is recorded properly. If no scoreboard, it is helpful for the referee to say the score right before each kick-off. If there is a scoreboard, they ensure the displayed score is correct before each restart (including kick-off) or else notify the operator (or have the home team notify the operator if they're not nearby). 
 
 ## Winning team
 
 > The team scoring the greater number of goals is the winner. If both teams score no goals or an equal number of goals, the match is drawn. _Law 10.2 Winning team_
 
-Most matches where the score is tied will in a tie. The only exception is where competition rules require a winner.
+Most matches where the score is tied after two halves will end in a tie. The only exception is where competition rules require a winner.
 
 > When competition rules require a winning team after a drawn match or home-and-away tie, the only permitted procedures to determine the winning team are:
 > - away goals rule

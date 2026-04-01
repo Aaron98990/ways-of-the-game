@@ -31,7 +31,7 @@ The ball goes above the goal and out of play after a deflection from a defender.
 - Although forcing the restart from the left corner area is technically correct, the ball is already closer to the right corner area. Whatever the referee decides, they must be consistent on this throughout the match.
 
 Undershirt color matching shirt sleeve, undershorts/tights matching short color, tape on socks matching sock color, non-goalkeeper not suppose to be wearing tracksuit bottoms, players by wearing sleeveless shirts, player wearing non-sport spectacles
-- For lower levels of football, there is no need to strictly apply equptment Laws unless it creates an unfair advantage or distraction to opponents or it is not safe.
+- For lower levels of football, there is no need to strictly apply equipment Laws unless it creates an unfair advantage or distraction to opponents or it is not safe.
 
 Corner flags are missing, the lines are not straight, the penalty area is not the proper size, or the goals are not the proper size. No penalty mark for penalty kicks.
 - For lower levels of football, play with what you are given. Use the lines as drawn (even incorrectly) on the field of play. If the penalty mark is missing, count 12 yards from the goal line to place the ball when a penalty kick is given.
@@ -66,13 +66,13 @@ The goalkeeper goes to retrieve the ball, the referee should hold play until the
 - [The match officials disallow a goal because they started play while the goalkeeper was retrieving a ball.](https://youtu.be/dZU1x2Op9pA?t=433)
 - For lower levels of football, this is acceptable as the goalkeeper may not understand the tactical advantage they are giving the other team or there may not be enough people to retrieve balls.
 
-Allowing all players, including the goalkeeper, to be ready for a kickoff after celebrating a goal.
+Allowing all players, including the goalkeeper, to be ready for a kick-off after celebrating a goal.
 - It is the fair thing to do.
 
 A player playing on a multi-sport field takes the throw-in from the wrong line.
 - Allow the player to retake the throw-in from the correct line. If it happens again to the same team, penalize the offense as according to the Laws of the Game.
 
-The referee only allows a player to re-enter the field if they cannot immediately interfere with play. Also, after a substitution allowing the new player to get in position. Or if you change the direction for the restart or its not what the player expected, allow teams to readjust to the new or unexpected call including by holding the reastart.
+The referee only allows a player to re-enter the field if they cannot immediately interfere with play. Also, after a substitution allowing the new player to get in position. Or if you change the direction for the restart or its not what the player expected, allow teams to readjust to the new or unexpected call including by holding the restart.
 - Although not explicitly stated, this is the fairest thing.
 
 When to end the game although time is up.
@@ -118,9 +118,6 @@ A player on the losing team commits DOGSO outside the penalty area in a blowout 
 - For lower levels of the game, this may be acceptable as the main intent is to have fun. But any foul that is reckless or uses excessive force should be sanctioned no mattered the scoreline or level of the game. Not properly sanctioning reckless/excessive force fouls emboldens other players to foul more and lessens the referee's authority.
 
 ## Not Commonly Acceptable
-
-Allowing jewelry, including when covered, because you expect the game not to be aggressive.
-- The game is physical and the referee's main responsibility is to keep the player's from getting injured from avoidable hazards. This includes for small children or recreational games. **Match officails are not allowed to wear jewellery (other than watch(es)), including wedding rings, although I see this a lot. A bracelet is a piece of jewelery.**
 
 Ignoring a handball because the ball barely grazes a defender's arm.
 - A handball offense should always be penalized as it will affect the trajectory and curve of the ball. 

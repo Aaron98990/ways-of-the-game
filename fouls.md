@@ -65,7 +65,7 @@ A player that does a spin move, will often run inti another player and fall. Thi
 
 Trips and "impeding the progress of an opponent with contact" are unique in that the player that initiates the contact does not commit a foul. 
 
-An attempt to trip (esspecially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
+An attempt to trip (especially when a player avoids or stops to not be tripped) is also a direct free kick foul even if there is no contact.
 
 - [Foul. Although the player does not fall, the defender sticks his leg out and slows down the attacker.](https://youtu.be/ySYtHDT99aE?feature=shared&t=401)
 - [Foul. Although the attacker trips from the legs behind the defender, he still impedes his path.](https://youtu.be/FxcrgGIW_pw?feature=shared&t=962)
@@ -169,8 +169,8 @@ Being directly in front of or behind a players means you miss pulling, pushing (
 Even if you get complaints, always side on calling more fouls (including the soft ones) and slowing the game down (being strict on free kick and throw-in position and ball rolling, asking player to come over to warn them, strictly following the substitution procedure with no substitute entering until the player they are replacing left the field of play and substitutes must enter at the midway line, tieing your shoes, not playing advantage unless clear promising attack, checking ball pressure) if you are new or unfamiliar with the teams, competition, or level of play. Calling a game loose from the start, which is common mistake for new referees in adult games, does not give you credibility and is a recipe for disaster. Loosen or tighten up the game as the game goes.
 
 There are three types of decisions: Instinctual/default/immediate, processed/delayed, and emotional/makeup/following the crowd:
-- For instinctual/default/immediate, slow down a second a two to allow for advantage or when giving a card as it may come off unnessairly aggressive.
-- There are multiple times that I don't reach for the whistle or card immediatly but after realizing I'm wrong I feel like it's too late to make the call or it looks influenced. Don't be afraid to make processed/delayed calls even if the optics aren't great. Get the call correct. Examples include:
+- For instinctual/default/immediate, slow down a second a two to allow for advantage or when giving a card as it may come off unnecessarily aggressive.
+- There are multiple times that I don't reach for the whistle or card immediately but after realizing I'm wrong I feel like it's too late to make the call or it looks influenced. Don't be afraid to make processed/delayed calls even if the optics aren't great. Get the call correct. Examples include:
   - After some seconds of thinking I put the pieces together
   - changing a restart or sanction
   - asking someone where a player were hit (like a goalkeeper on the head) or showing an injury

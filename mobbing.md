@@ -2,7 +2,7 @@
 
 ## 3/23/2024 SJ 2 vs SEA 0 69:28 - 5 players from SJ (top left player was a peacemeker) - one player cautioned
 
-SEA player is pushed in the penalty area by a defender after heading the ball backwards and outside the penalty area to a team-mate. The referee immediatly calls a penalty kick.
+SEA player is pushed in the penalty area by a defender after heading the ball backwards and outside the penalty area to a team-mate. The referee immediately calls a penalty kick.
 
 While I agree that no penalty should of been called and that VAR should of intervened as this was a clear and obvious error, this behavior can't be accepted.
 ![image](media/2024-03-23-SJ-SEA-1.png)
@@ -56,7 +56,7 @@ The referee should have played advantage.
 ![image](media/2023-12-03-2.png)
 
 ## 2023-11-05 VAN-LA 0-2 Full time - 7 players from VAN - no sanction from referee
-The referee runs into an attacker who had a clear shot on goal from outside the penalty area. The attacking team immediatly lose possession and their opponents score a goal. They then mob the referee. The goal was later reversed after VAR review due to offside.
+The referee runs into an attacker who had a clear shot on goal from outside the penalty area. The attacking team immediately lose possession and their opponents score a goal. They then mob the referee. The goal was later reversed after VAR review due to offside.
 
 Four of the players should of been sent-off for deliberately initiating contact on the referee or putting their hand in the referee's face. I don't care if this is a playoff game. There is literally no other major sport that tolerates this.
 

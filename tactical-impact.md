@@ -4,7 +4,7 @@ Whenever an offense occurs, the referee must judge its tactical impact. There ar
 - Stopping a Promising Attack (SPA)
 - Denial of an Obvious Goal Scoring Opportunity (DOGSO)
 
-The level of tactical impact does not depend on intention (deliberate or accidental) or the number of fouls commited before (including if its a player, team, or the match's first foul). Many people call SPA or DOGSO tactical or professional fouls.
+The level of tactical impact does not depend on intention (deliberate or accidental) or the number of fouls committed before (including if its a player, team, or the match's first foul). Many people call SPA or DOGSO tactical or professional fouls.
 
 ## SPA
 
@@ -29,10 +29,10 @@ DOGSO (like offside) is a hard call to make because it requires match officials 
 
 DOGSO can be separated in three situations: 
 - denial of goal (the ball was going in the goal, generally handball near the goal line) [DOGSO](https://youtu.be/tDpx9GGH79I?t=202)
-- open goal (1 vs 0 - no goalkeeper in goal or generally when the goalkeeper commited the offense) 
+- open goal (1 vs 0 - no goalkeeper in goal or generally when the goalkeeper committed the offense) 
 - defended goal (1 vs 1 - goalkeeper is in goal)
 
-The player who commited the offense is not considered a defender for DOGSO purposes.
+The player who committed the offense is not considered a defender for DOGSO purposes.
 
 When there is an open goal, if a shot is taken at goal or if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot/pass as in both cases they could pass the ball/defender) then it is DOGSO. [DOGSO](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [DOGSO](https://youtu.be/ymp9iw-18_I?feature=shared&t=226), [DOGSO](https://youtu.be/2A5eBRoAv6Y?feature=shared&t=175), [DOGSO](https://youtu.be/uzZnBPHsx_0?t=107), [DOGSO](https://youtu.be/KxzzvrqVcyY?si=1tF8cZ-NjI1KzB21&t=1788)
 

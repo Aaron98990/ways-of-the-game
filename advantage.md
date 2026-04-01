@@ -1,6 +1,6 @@
 > The referee:
 > - allows play to continue when an offence occurs, or a restart is incorrectly taken and the ball is in play, and the opposing team will benefit from the advantage, and penalises the offence/orders a retake if the anticipated advantage does not ensue at that time or within a few seconds
-> - Law 5.3 Power and duties
+> - Law 5.3 Powers and duties
 
 > The ball is out of play when:
 > - [...]
@@ -10,11 +10,11 @@
 The whistle stops play; not an offense or assistant referee's flag. Advantage is why referees delay their whistle.
 - [Example](https://www.facebook.com/reel/4281008475452778)
 
-Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantaage ensued. But In higher levels of the game, not stopping the flow of the game is important to players so although it looks like advantage did not ensue, the players prefer it. **Don't make it complicated: If anyone from the team of the offended player wants the free kick rather than advantage, the referee should stop play.**
+Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantage ensued. But In higher levels of the game, not stopping the flow of the game is important to players so although it looks like advantage did not ensue, the players prefer it. **Don't make it complicated: If anyone from the team of the offended player wants the free kick rather than advantage, the referee should stop play.**
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 
-**If there is an injury due to an offense which the referee did not stop play for advantage, the referee should stop play when the offended player's team loses possession rather than having their team play short due to no fault of their own or during a nuetral opportunity where no promising attack.**
+**If there is an injury due to an offense which the referee did not stop play for advantage, the referee should stop play when the offended player's team loses possession rather than having their team play short due to no fault of their own or during a neutral opportunity where no promising attack.**
 - [The referee should stop play when the offending team gained possession.](https://youtu.be/eFxYX4x1za0?feature=shared&t=790)
 
 Advantage can be applied not just to fouls but to any offense in the Laws of the Game that is made when the ball is in play.
@@ -41,9 +41,9 @@ Advantage can be used when the ball is not properly put into play from a restart
 
 Advantage also includes holding. Most offenses occur at a single point (push, charge, jumps at) but holding occurs at many points and continuously while a player is being held.
 
-If an offense punished by a penalty kick occurs in the penalty area and after a couple a seconds a goal is not scored (even if there is a shot on goal - even an open goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
+If an offense punished by a penalty kick occurs in the penalty area and after a couple of seconds a goal is not scored (even if there is a shot on goal - even an open goal), a penalty kick should be awarded. Goals are scored from penalty kicks 70% of time while goals are scored from shots in the penalty area about 15% of the time. The non-offending team will benefit from the penalty kick than the advantage. 
 
-For an offense near the penalty area (about 10 yards from the 18th) or indirect free kick in the opponent's peanlty area, the only advantage is a goal or an attempted shot on an open goal. A free kick where the ball is still and opponents are 10 yards away or on the goal line is usually more advantageous than a shot in open play.
+For an offense near the penalty area (about 10 yards from the penalty area) or indirect free kick in the opponent's penalty area, the only advantage is a goal or an attempted shot on an open goal. A free kick where the ball is still and opponents are 10 yards away or on the goal line is usually more advantageous than a shot in open play.
 - [Referee brings back foul.](https://youtu.be/KxzzvrqVcyY?si=sRhIDjXy7s-jo5IJ&t=858), [Referee brings back foul.](https://youtu.be/KxzzvrqVcyY?si=mH6KQzcuKimO4uTA&t=1681)
 
 Do not play advantage on offenses against the goalkeeper in their own penalty area unless a clear promising attack. Prefer the goalkeeper to not do something dumb.
@@ -56,7 +56,7 @@ Some referees yell "Advantage" or "Play on" to make it clear to players that the
 
 ## Disciplinary action
 
-**Advantage is commonly apllied to where the offended player was able to pass or kick the ball away before the offender fouls them late and while the ball is away. When advantage is applied, the referee needs to be thinking if a sanction is appropiate and remember the player that commited the foul.**
+**Advantage is commonly apllied to where the offended player was able to pass or kick the ball away before the offender fouls them late and while the ball is away. When advantage is applied, the referee needs to be thinking if a sanction is appropiate and remember the player that committed the foul.**
 
 Before or after showing the card after advantage, the referee should point to the spot of the offense.
 
@@ -67,7 +67,7 @@ Just because advantage is played does not mean that a referee cannot caution or 
 > If the referee plays the advantage for an offense for which a caution/sending-off would have been issued had play been stopped, this caution/sending-off must be issued when the ball is next out of play. However, if the offence was denying the opposing team an obvious goal-scoring opportunity, the player is cautioned for unsporting behaviour, except where a goal is scored by the non-offending team as a result of the advantage having been played, in which case there is no disciplinary sanction; if the offence was interfering with or stopping a promising attack, the player is not cautioned.
 > - Law 12.4 Disciplinary Action
 
-- [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage wwas played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
+- [A player commits DOGSO. The referee signals advantage. When the ball is out of play, the offender is shown a yellow card since advantage was played.](https://youtu.be/nSQmRSoMvtw?feature=shared&t=267) <!-- MLS Instant Replay covered this - https://youtu.be/uV3xeyjUge8?feature=shared&t=26 -->
 
 - Advantage ensues & goal: no card
 - Advantage ensues & no goal: downgrade the sanction from "no advantage ensues" by one level. So a RC -> YC and YC -> no card.

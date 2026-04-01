@@ -145,7 +145,7 @@ Law 3.7 If a ball is going into the goal and the interference does not prevent a
 - This would apply to a non-players (subs, team officials, etc.) of the defending team and outside agents. Don't come at me with the "purity" of the ball entering the goal. The spectator or non-player of the defending team broke the "purity" of the game by entering the field of play then interfering with play. A RC to a non-player has minimal/no effect on the game and a player can miss a penalty.
 
 Law 3.3 if a player who is to be substituted refuses to leave, play continues **and the team loses a substitution and if applicable, a substitution moment**
-- The time is takes for a substitution and associated refusal is the same, and often times longer, than a normal substition and should still be counted as such.
+- The time is takes for a substitution and associated refusal is the same, and often longer, than a normal substitution and should still be counted as such.
 
 Law 15.1 If the ball touches the ground before entering, the throw-in is retaken by the ~~same~~ *opposing* team from the same position.
 - [A player wastes time by forcing a throw-in retake for their team. This is not in the spirit of the game.](https://www.youtube.com/watch?v=cQ6qw5wjrsU)
@@ -156,12 +156,12 @@ If the goalkeeper’s offence results in the kick being retaken:
 - For any subsequent retake caused by the goalkeeper during a single penalty kick, they are cautioned even if the goalkeeper changed
 
 
-- Harder and more complex for referees to keep track of warnings issued throughout the game esspecially with goalkeeper substitutions. Also, avoids unfairly penalizing goalkeepers who have to defend multipe penalty kicks during a game.
+- Harder and more complex for referees to keep track of warnings issued throughout the game especially with goalkeeper substitutions. Also, avoids unfairly penalizing goalkeepers who have to defend multipe penalty kicks during a game.
 
 Law 10.3 Before penalties (penalty shoot-out) start: ~~With the exception of a substitute for a goalkeeper who is unable to continue,~~ only players who are on the field of play or are temporarily off the field of play (injury, adjusting equipment etc.) at the end of the match are eligible to take kicks*, unless their team has not used its maximum permitted number of substitutes*
 - [Un-needed controversy about subs before penalties.](https://youtu.be/Cl6zluuAiwI?feature=shared&t=1763)
 - [Un-needed pause in play and substitution moment near the end of extra time which could of been done right before penalties.](https://youtu.be/C3f7HPIPG0s?feature=shared)
-- The reality is most grassroot games have unlimited substitutions and return substitions and even if there is no exception in the competition rules, referees allow anyone to take penalties.
+- The reality is most grassroot games have unlimited substitutions and return substitutions and even if there is no exception in the competition rules, referees allow anyone to take penalties.
 
 Law 10.3 Substitutions and sendings-off during penalties (penalty shoot-out) The referee must ~~not~~ abandon the match if a team is reduced to fewer than seven players
 - I don't understand this Law. If all but one player gets sent-off, that player takes every penalty kick and the opposing team must reduce to one player to take penalties. Also, that many send-offs is not in the spirit of the game.
@@ -199,7 +199,7 @@ Guidelines for Match Officials: If the goalkeeper blatantly moves off the goal l
 - This is never discussed. Just put it in the Guidlines as this is the most used and won't confuse new referees.
 
 Guidelines for Match Officials: If there is no fourth official *and there are a limited number of substitutions*, the AR moves to the halfway line to assist with the substitution procedure; the referee must wait until the AR is back in position before restarting play. [Similar change to following paragraph]
-- Most grassroot games have unlimited substitions and an assistant referee moving constantly back and fourth is a waste of time.
+- Most grassroot games have unlimited substitutions and an assistant referee moving constantly back and fourth is a waste of time.
 
 Guidelines for Match Officals: [Remove "Goalkeeper releasing the ball" and "goal kick" section including the associated diagrams]
 - An assistant referee should not be hunting for a handball while the goalkeeper releasing the ball as mentioned in "spirit in the game" and most assistant referees (including FIFA referees) don't follow that advice. Same for goal kick. Why should an assistant referee care about the ball being a foot away from the goal area? It makes no difference.

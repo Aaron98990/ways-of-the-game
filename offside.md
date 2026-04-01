@@ -35,7 +35,7 @@ So, no offside on the above restarts. A goalkeeper releasing the ball after cont
 > - any part of the head, body or feet is in the opponents’ half (excluding the halfway line) and
 > - any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent
 
- So, if your completely in your own half when the ball is touched by a team-mate, can never be offside.
+ So, if you are completely in your own half when the ball is touched by a team-mate, can never be offside.
 
 - [No offside. The player is in their own half when touched by a team-mate.](https://youtu.be/-pv5yvd7FZk?feature=shared&t=1182)
 
@@ -59,7 +59,7 @@ Just because a player receives the ball ahead of everyone does not necessarily m
 
 ## Offside position then not
 
-When a player receives a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside position when the ball was touched by a team-mate. You see this during corner kicks when the player that takes the corner is passed the ball back, when the the ball travels a distance, or when an attacker fails to retreat after their team loses the ball.
+When a player receives a ball, they may not be in an offside position anymore. This does not negate the fact that they were offside position when the ball was touched by a team-mate. You see this during corner kicks when the player that takes the corner is passed the ball back, when the ball travels a distance, or when an attacker fails to retreat after their team loses the ball.
 
 **An offside offense is an offense - even if no advantage is gained. Don't ignore it because no one asks for it. Yell the referee's name if they don't see your flag.**
 
@@ -75,7 +75,7 @@ A player does not have to touch the ball to commit an offside offense. The inter
 > - [3] clearly attempting to play a ball which is close when this action impacts on an opponent or
 > - [4] making an obvious action which clearly impacts on the ability of an opponent to play the ball
 
-- [Offside (1). A player in an offside position is obstrcuting the goalkeeper's line of vision when the ball is kicked.](https://youtu.be/vJI_igi0D4A?feature=shared&t=140)
+- [Offside (1). A player in an offside position is obstructing the goalkeeper's line of vision when the ball is kicked.](https://youtu.be/vJI_igi0D4A?feature=shared&t=140)
 - [Offside (1). Deliberately standing between the goalkeeper and where the ball is kicked is obstructing the goalkeeper's line of vision.](https://www.youtube.com/watch?v=wV3Tqw371_4)
 - [Offside (4). A player in an offside position moves into the path of an opponent who is going towards the ball.](https://www.youtube.com/watch?v=JLbfasuv9z8) Click [here](https://proreferees.com/2017/08/02/play-of-the-week-21-interfering-with-an-opponent/) for PRO's full write up.
 - [Offside (3, 4). The goalkeeper kicks the ball out of play because of the attacker in an offside position.](https://youtu.be/D-mcLd3GAPc?feature=shared&t=128)
@@ -85,10 +85,10 @@ A player does not have to touch the ball to commit an offside offense. The inter
 - [Not offside. The players in an offside position do not impact the goalkeeper since he made no attempt to save it.](https://www.youtube.com/watch?v=J-NgA7edzy4)
 - [Not offside. The player in the offside position does not impact opponents. The player who is onside plays the ball.](https://youtu.be/svs8ZH0gBgE?t=108)
 - [Not offside. The player in the offside position does not impact opponents. The player who is onside plays the ball.](https://www.youtube.com/watch?v=lkuCCcVbzVU)
-- [Not offside. The player in an offside position on the goalline does not impact thier opponents and moves away from the ball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=159)
+- [Not offside. The player in an offside position on the goalline does not impact their opponents and moves away from the ball.](https://youtu.be/X1idfsRcy_w?feature=shared&t=159)
 <!-- Aweomse site with examples from PRO - some outdated https://proreferees.com/2015/03/02/pro-training-camp-offside-discussions/ -->
 
-If it is clear that an offside attacker is running to play the ball and there is a high liklihood of attacker and goalkeeper challenging for the ball - it is recommended the assistant referee to raise their flag as soon as possible for the players safety.
+If it is clear that an offside attacker is running to play the ball and there is a high likelihood of attacker and goalkeeper challenging for the ball - it is recommended the assistant referee to raise their flag as soon as possible for the players safety.
 - [Offside. It is recommended for the assistant referee as soon as possible rather than waiting until the ball is about to be touched.](https://youtu.be/06lqnmddvKQ?feature=shared&t=840)
 
 > If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offense or a Law 12 offense
@@ -144,7 +144,7 @@ A deliberate save does not reset offside.
 A save can be done by any opponent and not just the goalkeeper. The save does not need to use the hands/arms. 
 
 - [Offside. A player is in an offside position when touched by the team-mate. The goalkeeper makes a deliberate save which means that offside is not reset. The player in the offside position then challenges for the for ball.](https://www.youtube.com/watch?v=MCJHXMxxyBk&ab_channel=NottinghamshireFA)
-- [Offside. The player in an offside position (barely aheaed of the ball and clearly ahead of the second-last defender) touches the ball after a deliberate save.](https://youtu.be/Bdm7Gbd_yQM?feature=shared&t=169)
+- [Offside. The player in an offside position (barely ahead of the ball and clearly ahead of the second-last defender) touches the ball after a deliberate save.](https://youtu.be/Bdm7Gbd_yQM?feature=shared&t=169)
 
 
 ## Player outside the field of play

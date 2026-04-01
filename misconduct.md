@@ -6,7 +6,7 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 > 
 > 12.4 Disciplinary action
 
-A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee want an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent or sent-off person remains, the referee can abandon the match.
+A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee wants an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent or sent-off person remains, the referee can abandon the match.
 
 > The referee: stops, suspends or abandons the match for any offences or because of outside interference Law 5.3
 
@@ -14,7 +14,7 @@ A referee cannot give a caution or send-off to an outside agent (e.g. spectator,
 
 > The referee: keeps a record of the match and provides the appropriate authorities with a match report, including information on disciplinary action and any other incidents that occurred before, during or after the match Law 5.3
 
-Footballl associations (FAs) often create codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
+Football associations (FAs) often create codes for misconduct. In the United States, they are called "Report Codes" and their full list is <a href="US%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. In England, they are called "Charge Codes" and their full list is <a href="England%20Misconduct%20Codes.pdf" target=”_blank”>here</a>. The code for dissent (caution) in the United States is "DT" and in England it is "C2".
 
 ## Referee's authority
 > The referee:
@@ -83,7 +83,7 @@ During penalties unlike other parts of the match:
 
 If the assistant referee has their flag up and the referee misses it (e.g for dissent) and play restarted, the sanction can still be given. 
 
-An additional (rare) exception is listed in the [advantage section](/advantage) when a free kick is taken quickly and there is a goal-scoring scoring opportunity and the referee has not stopped the restart/taken the card outs. The [advantage section](/advantage) also discusses committing two cautionable offense at close proximity but not at the same time (often times after an advantage) and committing two cautionable offenses at the same time.
+An additional (rare) exception is listed in the [advantage section](/advantage) when a free kick is taken quickly and there is a goal-scoring opportunity and the referee has not stopped the restart/taken the card outs. The [advantage section](/advantage) also discusses committing two cautionable offense at close proximity but not at the same time (often after an advantage) and committing two cautionable offenses at the same time.
 
 ## Mass Confrontations
 
@@ -101,7 +101,7 @@ Mass confrontations rarely happen in women's soccer.
 
 ## Warnings
 
-Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action). Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional (and exhausted) than logical.
+Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action). Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, participants are more emotional (and exhausted) than logical.
 
 Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
@@ -112,13 +112,13 @@ Things to avoid saying publically:
 - Your age (Only will be used against you)
 - "Calm down" or "relax" (better to use the arm gesture)
 - "are you okay" to an injured player (they'll say no) - time or trainer is all
-- "That could of been a YC, RC, foul" (either give the decision or don't - saying this does not help although you are geniunly trying to diffuse the situation)
+- "That could of been a YC, RC, foul" (either give the decision or don't - saying this does not help although you are genuinely trying to diffuse the situation)
 - Other than yelling a quick explanation to a coach (1 sentence), do not yell someone to be quiet or no more. Extended conversations need to be close to each other.
 
 Things to say publically:
-- My favorite warning is with gestures only - call the player's number and gesture downwards or figer wag.
+- My favorite warning is with gestures only - call the player's number and gesture downwards or finger wag.
 - We don't do that here / What are we doing?
-- Be smart / Use your head / Don't do something stupid (often times accompanies by pointing to one's head)
+- Be smart / Use your head / Don't do something stupid (often accompanies by pointing to one's head)
 - Yo. Yo. Yo. Move on, fam.
 - No more (with baseball safe sign)
 - Did you ask for permission to sub? (rather than saying I'll card you next time)
@@ -126,7 +126,7 @@ Things to say publically:
 
 ## Cautions
 
-**Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown unless immediatly after a foul. This is so no one misses that a card was given.**
+**Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown unless immediately after a foul. This is so no one misses that a card was given.**
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
@@ -154,7 +154,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "How can you call that when you're that far away?"
 - jumping in frustration or the universal "what?" gesture with hand(s) out, up, or on the head
 - the person disagreeing gets the last word in / patronizing attitude
-- finger wagging or pointing to locations of missed percieved offenses
+- finger wagging or pointing to locations of missed perceived offenses
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
 - "Why are you smiling. " / "You're smiling. " (I don't know if this is unique to me but I smile a lot apparently)
 - "I'm going to report you" (say name is on match report)
@@ -163,19 +163,19 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 
 Players give information on how they want the game called. Take it in sometimes. 
 
-If you respond publically (usually not needed even for statements disguised as questions), wait 1-2 seconds/pause before responding, keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument/lecture. Just walk away and restart play/leave. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or use no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, particiapnts are more emotional and exhausted than logical.
+If you respond publically (usually not needed even for statements disguised as questions), wait 1-2 seconds/pause before responding, keep your response extremely brief (1-3 words) or use gestures only. No need to respond again (including with clever comebacks) or be sucked into an argument/lecture. Just walk away and restart play/leave. Do not say "I think" or "I thought" as it conveys uncertainity, say "I have" or "I called" or use no filler. Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, participants are more emotional and exhausted than logical.
 
 An assistant referee should keep their eyes on the field of play when talking to someone in the technical area. 
 
-You should be walking when talking unless there needs to be an extended conversation (rare). If there needs to be a private extended conversation with someone, stand side to side with them instead of face to face leads to a more confrontational/emotional attitute.
+You should be walking when talking unless there needs to be an extended conversation (rare). If there needs to be a private extended conversation with someone, stand side to side with them instead of face to face leads to a more confrontational/emotional attitude.
 
-Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, esspecially when a team expects to win.
+Complaining =/= call is wrong. No Complaining =/= call is correct. Some players and teams are more vocal than others, especially when a team expects to win.
 
 In youth games, if the referee allows a team official on the field for an injured player, the referee should move away from the injured player and not be in the path of the team official to avoid unneeded conversation. 
 
-Inexperienced participants may take offense to some normal soccer things (contact or common foul or getting a card). Best to manage this (ideally without cards). It's like a foreiner thinking the DMV is racist when everyone else knows and has the expectation that customer service is not good there, not racism. 
+Inexperienced participants may take offense to some normal soccer things (contact or common foul or getting a card). Best to manage this (ideally without cards). It's like a foreigner thinking the DMV is racist when everyone else knows and has the expectation that customer service is not good there, not racism. 
 
-Any conversation before, during, or after the match with a non-nuetral person like a coach or spectator should not occur in the referee locker room or within 10 yards the crew put there stuff unless on field of play. This allows one to walk away with a buffer and provides a clear signal the conversation is over. 
+Any conversation before, during, or after the match with a non-neutral person like a coach or spectator should not occur in the referee locker room or within 10 yards the crew put there stuff unless on field of play. This allows one to walk away with a buffer and provides a clear signal the conversation is over. 
 
 After the match or end of half, just leave. "you are terrible" or other short one sentence phrase someone privately says behind you or while passing does not rise to dissent for me. 
 
@@ -190,8 +190,8 @@ Different match officials handle dissent/disagreement differently, but here's a 
 - Yelling at a match official
   - especially at close distance or at an assistant referee [1](https://youtu.be/1g2DRURrbAo?t=935)
 - Continuous, prolonged, or persistent complaining
-  - players can't complain about every single call, esspecially trivial or obvious ones
-  - players farther away have less leniency to complain, esspecially the goalkeeper
+  - players can't complain about every single call, especially trivial or obvious ones
+  - players farther away have less leniency to complain, especially the goalkeeper
   - failing to move on after an explanation or being warned to
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
@@ -234,12 +234,12 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 
 - gesture the wearing of spectacles
 - invading a match official's personal space or blocking their path or unnessairily following a match official
-- unnesessairly touching a match official including to get their attention or demonstrate a foul or no foul [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
-- surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (Having play restart will have them usually go away. Suspend the match and have players go to their benches if surrounding/crowding does not immediatly stop after warning. If players still keep on surrounding/crowding just abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
+- unnecessarily touching a match official including to get their attention or demonstrate a foul or no foul [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
+- surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (Having play restart will have them usually go away. Suspend the match and have players go to their benches if surrounding/crowding does not immediately stop after warning. If players still keep on surrounding/crowding just abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - imitating a match official, including their words, accents, gestures, and movements
 - a player being held back but continues disagreeing
 - Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
-- coming a distance or running to complain, esspecially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
+- coming a distance or running to complain, especially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
 - throwing (spiking) the ball to the ground [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - slamming the ground with the hand(s) 
@@ -256,7 +256,7 @@ Context matters in all cases: a player slamming the ground since they missed a s
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. Generally, I manage this with redoing the restart if from a restart or warn if if the ball is out of play. In all other cases, an indrect free kick is enough.
+This is the rarest caution. Generally, I manage this with redoing the restart if from a restart or warn if if the ball is out of play. In all other cases, an indirect free kick is enough.
 
 A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))
@@ -319,11 +319,11 @@ Unsporting behaviour is a caution.
 
 This is a catch-all. A referee may caution a player for anything. This is very subjective and a tool in the referee's toolbox. Here are some valid reasons for lack of respect for the game:
 - showboating or taunting
-  - stepping over, staring down, picking up, placing the ball on/near or standing unnessairly close to an opponent on the ground
+  - stepping over, staring down, picking up, placing the ball on/near or standing unnecessarily close to an opponent on the ground
   - placing the ball at someone's chest
   - clapping, signaling the score, pointing, or any other gesture at an opponent's face
   - imitating, mocking, or deliberately celebrating near an opponent
-  - running up to an opponent including after a percieved foul
+  - running up to an opponent including after a perceived foul
   - doing push ups over the ball or sitting on the ball when the ball is in play
   - trash talking (talking about being gay/straight or someone's/a team's appearance, height, skill, or equipment)
   - face to face (could be managed with forced subs instead of a card) [Example](https://www.tiktok.com/t/ZT2XhFv8L/)
@@ -333,7 +333,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
   - certain holding plays
     - holding a player who is ahead
       - this applies to the entire field of play, including the defensive third
-      - the player being held often times stop playing or immediatly is twisted/turns around, making the offense obvious if you don't see it
+      - the player being held often stop playing or immediately is twisted/turns around, making the offense obvious if you don't see it
     - refusing to let go of a player or leg-locking or hooking (locking opponent's arm to body or locking opponent's arm by wrapping/closing the arm)
       - this needs a strong whistle to avoid retaliation or mass confrontation
       - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
@@ -365,7 +365,7 @@ Things to look out for:
 - holding a body part (e.g. head or neck) where no or minimal contact is made
 - faking an injury (usually to to waste time)
 
-Deceptive handballs esspecially by attackers are another example. They are easy to miss. [Example 1](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared) [Example 2](https://youtube.com/shorts/AFRbJ5K41uQ?feature=shared)
+Deceptive handballs especially by attackers are another example. They are easy to miss. [Example 1](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared) [Example 2](https://youtube.com/shorts/AFRbJ5K41uQ?feature=shared)
 
 #### **Unauthorized marks**
 
@@ -435,7 +435,7 @@ This section applies to a player, substitute or substituted player.
 
 - aggressive and avoidable contact with a match offical while dissenting that does not rise to violent conduct
   - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
-- intefering with the match offical from showing a card or writing or taking a match offical's equipment
+- interfering with the match offical from showing a card or writing or taking a match offical's equipment
   - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135), [Example 2](https://youtu.be/nqe85R5epyM?feature=shared&t=177)
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) or if three or more player are surrounding the referee after a warning or a caution - send one of them off 
   - [Writeup](/mobbing)

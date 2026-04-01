@@ -39,7 +39,7 @@ If the offense involves contact with the goalkeeper, the restart is a direct fre
 > - cautions both players when the ball is next out of play but not if the change occurred during half-time (including half-time of extra time) or the period between the end of the match and the start of extra time and/or penalties (penalty shoot-out)
 > - 3.5 Offenses and sanctions
 
--[Video Example](https://www.tiktok.com/t/ZT2W2tXLQ/)
+- [Video Example](https://www.tiktok.com/t/ZT2W2tXLQ/)
 
 ## Outside their penalty area
 
@@ -52,7 +52,7 @@ Goalkeepers can go anywhere on the field of play and take any restart (e.g. thro
 
 ## Inside their penalty area
 
-Handball is often thought of a direct free kick offense. But the Laws of the game does provide one exception "for the goalkeeper within their penalty area" as shown below in parentheses.
+Handball is often thought of a direct free kick offense. But the Laws of the Game does provide one exception "for the goalkeeper within their penalty area" as shown below in parentheses.
 
 > A direct free kick is awarded if a player commits any of the following offenses:
 > - a handball offense (except for the goalkeeper within their penalty area)
@@ -90,7 +90,7 @@ or pushes him with the ball while holding it, the
 referee shall award a penalty-kick, if the offence
 took place within the penalty-area . Laws of the Game 1990/91 -->
 
-When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach, impede, or make contact with the goalkeeper or the ball. Referees must be firm on this - including using cautions or send-offs or using preventative refereeing as these are bad-faith plays that may lead to confrontation. If the goaleeper retailates, the first foul is called. 
+When the goalkeeper is in control of the ball with their hand/arms, there is no reason for any player to approach, impede, or make contact with the goalkeeper or the ball. Referees must be firm on this - including using cautions or send-offs or using preventative refereeing as these are bad-faith plays that may lead to confrontation. If the goalkeeper retailates, the first foul is called. 
 
 - [Example 1](https://youtu.be/_lqz14fMquo?feature=shared&t=60), [Example 2](https://youtu.be/HS2DLCxfeYU?feature=shared&t=247),  [Example 3](https://www.tiktok.com/t/ZTF2y5CAR/)
 
@@ -129,7 +129,7 @@ Verbal countdown also recommended. Personally, I would say countdown to negative
 
 If the ball rebounds off a goalkeeper hand/arms or any part of the body, they have never released the ball. To release the ball the goalkeeper must be in control with the hand/arms (defined below) and rebounds (deliberate or not) do not count. 
 
-- [Indirect free kick. Goalkeeper controls ball with hard/arms, releases it, and then touches ball with hands/arms again](https://www.tiktok.com/@refsneedlovetoo/video/7214189038956252459)
+- [Indirect free kick. Goalkeeper controls ball with hand/arms, releases it, and then touches ball with hands/arms again](https://www.tiktok.com/@refsneedlovetoo/video/7214189038956252459)
 - [No offense. As defined in the control with hands section, a rebound (including when deliberate) does not constitute control with the hand/arms.](https://youtu.be/kJcR7CNMdQc?feature=shared&t=2528)
 
 ## "Backpass"
