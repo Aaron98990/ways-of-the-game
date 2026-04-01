@@ -17,8 +17,8 @@ Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they 
 
 ## Position of restart
 
-The restart is taken at the position the offense or where the ball left the field of play except:
-- Corner kicks can be taken any where in the corner area nearest to the point where the ball completely passed over the goal line or the location of where the ball was when the offense occured
+The restart is taken at the position of the offense or position where the ball left the field of play except:
+- Corner kicks can be taken any where in the corner area nearest to the point where the ball completely passed over the goal line (1) or the location of where the ball was when the offense occured (2)
     - the corner flagpost must not be moved
 - indirect free kicks for attackers in their oponent's goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
 - free kicks going out in goal area or goal kicks may be taken from anywhere in the goal area
