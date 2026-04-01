@@ -4,6 +4,20 @@ The IFAB makes available past Laws of the Game (including the 1903/04 edition) w
 
 This is the only place I blatantly insert my opinion. Other places are less blatant.
 
+## 2026/27
+
+[Law changes document.](https://downloads.theifab.com/downloads/changes-to-the-laws-of-the-game-202627?l=en)
+
+- Ten-second time limit for players to leave the field of play when being substituted. If the time limit is exceeded, the substitute cannot enter until the first stoppage after one minute has elapsed
+- Clarification that the advantage may be applied when a restart is incorrectly taken and the ball is in play
+- Barring certain exceptions, players who receive assessment/treatment on the field of play or who cause play to be stopped due to injury must leave and remain off the field of play for one minute after play has restarted
+- Barring certain exceptions, players who receive assessment/treatment on the field of play or who cause play to be stopped due to injury must leave and remain off the field of play for one minute after play has restarted
+- Accessories are permitted if they are not dangerous
+- For dropped balls the team that ‘would have gained possession’ includes the team that would have taken the restart in situations where the ball would have gone out of play
+- accidental double touches during a penalty kick or penalties (penalty shoot-out) is a retake
+- No caution (YC) for a DOGSO offence if the advantage is played and a goal is scored
+- Use of a five-second visual countdown for goal kicks and throw-ins. If the time limit is exceeded, the throw-in is awarded to the opposing team or the goal kick becomes a corner kick.
+
 ## 2025/26
 
 [Law changes document.](https://downloads.theifab.com/downloads/changes-to-the-laws-of-the-game-2025-26?l=en)

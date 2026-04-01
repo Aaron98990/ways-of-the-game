@@ -407,8 +407,7 @@ If you just left the field without the referee's permission (deliberately or not
 - commits any other offense which interferes with or stops a promising attack, except where the referee awards a penalty kick for an offense which was an attempt to play the ball or a challenge for the ball
 - denies an opponent an obvious goal-scoring opportunity by committing an offense which was an attempt to play the ball or a challenge for the ball and the referee awards a penalty kick
   - For the four above, see the [tactical impact section](/tactical-impact)
-- handles the ball in an attempt to score a goal (whether or not the attempt is successful) or in an unsuccessful attempt to prevent a goal
-  - See the [tactical impact section](/tactical-impact) for "unsuccessful attempt to prevent a goal". 
+- handles the ball in an attempt to score a goal (whether or not the attempt is successful)
   - See the [handball section](/handball) for "handles the ball in an attempt to score".
 - initiates a deliberate trick for the ball to be passed (including from a free kick or goal kick) to the goalkeeper with the head, chest, knee etc. to circumvent the Law, whether or not the goalkeeper touches the ball with the hands; the goalkeeper is cautioned if responsible for initiating the deliberate trick
   - See the [goalkeeper section](/goalkeeper).

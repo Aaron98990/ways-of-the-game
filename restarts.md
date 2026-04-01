@@ -17,8 +17,8 @@ Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they 
 
 ## Position of restart
 
-The restart is taken at the position the offense requires or where the ball left the field of play except:
-- Corner kicks can be taken any where in the corner area nearest to the point where the ball passed over the goal line
+The restart is taken at the position the offense or where the ball left the field of play except:
+- Corner kicks can be taken any where in the corner area nearest to the point where the ball completely passed over the goal line or the location of where the ball was when the offense occured
     - the corner flagpost must not be moved
 - indirect free kicks for attackers in their oponent's goal area are taken from the nearest point on the goal area line which runs parallel to the goal line
 - free kicks going out in goal area or goal kicks may be taken from anywhere in the goal area
@@ -28,14 +28,14 @@ The restart is taken at the position the offense requires or where the ball left
 
 ## Ball in play
 
-- Other than a throw-in and a dropped ball, the ball is in play from a restart when the ball is stationary when kicked and the ball is kicked and clearly moves and there are no other offenses.
+- Other than a throw-in and a dropped ball, the ball is in play from a restart when the ball is stationary when kicked and that the ball is kicked and clearly moves
 - For a throw-in, the ball is in play when it enters the field of play, there are no other offenses, and the thrower at the moment of delivering the ball obeys the following:
     - stand facing the field of play
     - have part of each foot on the touchline or on the ground outside the touchline
         - both feet can be on the field of play as long part of each foot is touching the touchline
      - throw the ball with both hands from behind and over the head from the point where it left the field of play
          - no offense in itself if the ball curves or one hand only guides the ball
-- For a dropped a ball, the ball is when it directly touches the ground on the field of play after being dropped. 
+- For a dropped ball, the ball is play when it directly touches the ground
 
 > Kick: The ball is kicked when a player makes contact with it with the foot and/or the ankle. Glossary
 
@@ -136,11 +136,25 @@ Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 
 Time-wasting often falls into this category. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. If they ignore those commands, the referee should not hesitate on punishing the offense.
 - [A player attempts to waste time by taking over 30 seconds to take a free kick and is cautioned.](https://www.youtube.com/watch?v=DDBtmd86jPc&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=10)
 - [The player keeps dribbling the ball although the restart belongs to the other team. The player is cautioned.](https://www.youtube.com/watch?v=IsPq6DlxrG0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=18)
-- [During a substitution the player takes longer than necessary to leave the field. The player is cautioned.](https://www.youtube.com/watch?v=ilHTBKTW-Kg&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=20)
 - [The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
 - [The player provokes a confrontation by holding onto the ball. The player should be cautioned.](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 
 The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). While warning or managing the game is okay, should generally just caution when it happens to set the tone for the match esspeically when they claim they have the right to be there [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s). 
+
+For goal kicks and throw-ins only, the referee uses the five second countdown if a team takes to long. If the restart has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area to where the ball was or the throw-in is taken by the same team in the same position. 
+
+> If a player is unfairly delaying the taking of a [throw-in or goal kick] for their team, the referee will whistle and signal the start of a five-second countdown. The referee will visually count down the five seconds with a raised hand, and if the [throw-in or goal kick] has not been taken by the end of the five seconds, it is awarded to the opposing team [and if it was a goal kick, it becomes a corner kick]. The offending player is cautioned only if they excessively delay the restart after the [five-second countdown]. * Law 16 and 17
+
+During a substitution, if a player being substitited takes longer than 10 seconds to leave the field of play then the substitute must wait one-minute before entering the field of play. 
+
+> Except where leaving the field of play within ten seconds is not possible due to safety/security or injury, if the player being substituted has not left the field of play within the required ten seconds: 
+> - the player being substituted must still leave the field of play; they are cautioned only if they excessively delay the restart beyond the ten seconds 
+> - the substitute may not yet enter the field of play • play restarts 
+> - the substitution cannot be cancelled nor a different substitute used 
+> - the substitute may enter the field of play only with the referee’s permission during the first stoppage after one minute has elapsed following the restart
+> - Law 3
+
+- [During a substitution the player takes longer than 10 seconds to leave the field. The player must still leave and the substitue cannot enter for one minute](https://www.youtube.com/watch?v=ilHTBKTW-Kg&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=20)
 
 ## After ball is in play
 
@@ -152,10 +166,17 @@ Deliberately throwing (from a throw-in) or deliberately kicking the ball at an o
 
 ### Double touch by restart taker
 
-For all restarts except dropped balls, the person who takes the restart can't touch the ball until it touches another player else its an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost or crossbar or corner post or match official does not reset this rule. Read more in the "two offenses at once" section
+For all restarts except dropped balls and penalty kick, the person who takes the restart can't touch the ball until it touches another player else its always an indirect free kick. This touch includes deflections from any player from both teams. The ball hitting the goalpost, crossbar, corner post or match official does not reset this rule. Read more in the "two offenses at once" section.
 
-- [Penalty kick taker touches the ball after kicking it and after slipping but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/b5vJ7HO5G5s?t=742)
-- [Penalty kick taker touches the ball after kicking it and after it rebounds from the goalpost but before it touches another player. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
+For penalty kick, if the kicker double touches it immediatly after the kick and a goal is scored from the kick, it is a retake. In all other cases, it is an indrect free kick for the opposing team.
+
+> the kicker accidentally kicks the ball with both feet simultaneously or the ball touches their non-kicking foot or leg immediately after the kick:
+> - if the ball enters the goal from the kick, the kick is retaken
+> - if the ball does not enter the goal from the kick, an indirect free kick is awarded
+> - Law 14
+
+- [Penalty kick taker slips and accidently touches the ball twice and the goal is scored from the kick. The restart is retake of the penalty kick.](https://youtu.be/b5vJ7HO5G5s?t=742)
+- [Penalty kick taker touches the ball after it rebounds from the goalpost. The restart is an indirect free kick for their opponents.](https://youtu.be/qVe3wSeTY8U?t=47)
 
 If the goalkeeper is the restart taker and they double touch with their hand/arm in their own penalty area, it is an indirect free kick for double touch from restart since a handball offense does not apply (see quote below). In all other cases for all players, it is a direct free kick offense since handball is the more serious offense than double touch from restart.
 
