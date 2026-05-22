@@ -37,7 +37,7 @@ Often players move their arms out to know where there opponents are or to create
 
 - [Example 1](https://youtu.be/Zxnn7GNixcQ?t=876) / [Example 2](https://youtu.be/06lqnmddvKQ?t=142) / [Example 3](https://youtu.be/N9gHcVw_aws?t=714) / [Example 4](https://www.youtube.com/watch?v=nRJUKBI9Fnk&t=717s) / [Example 5](https://youtu.be/nRJUKBI9Fnk?t=711)
 
-**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing and starts holding their head, they most likely have been struck and just give the foul if it's in their defensive or middle third but give no cards.**
+**In my experience: The farther away you are from the strike, the more likely you are to see it. If a random person stops playing, you didn't see it, and starts holding their head, they most likely have been struck and just give the foul if it's in their defensive or middle third but give no cards. If in the attacking third, then just give a dropped ball with no cards. (This is to avoid any retaliation.)**
 
 ## Tackle / kicks
 
