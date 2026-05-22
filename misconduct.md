@@ -365,6 +365,8 @@ Things to look out for:
 - holding a body part (e.g. head or neck) where no or minimal contact is made
 - faking an injury (usually to to waste time)
 
+In my experience, the team that is winning tends to flop more. You can't assume that just because a team is winning that they will not flop.
+
 Deceptive handballs especially by attackers are another example. They are easy to miss. [Example 1](https://youtube.com/shorts/Fd8KY4Gz6Sg?feature=shared) [Example 2](https://youtube.com/shorts/AFRbJ5K41uQ?feature=shared)
 
 #### **Unauthorized marks**
