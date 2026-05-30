@@ -141,7 +141,7 @@ Time-wasting often falls into this category. The referee must be aware that in c
 - [The player provokes a confrontation by blocking the opponent from getting the ball to restart play. The player should be cautioned.](https://youtu.be/5OJfbYQtKtk?t=4061)
 - [The player provokes a confrontation by holding onto the ball. The player should be cautioned.](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 
-The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). While warning or managing the game is okay, should generally just caution when it happens to set the tone for the match esspeically when they claim they have the right to be there [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s). 
+The referee channel has a list of 21 videos of examples of this that are available [here](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj). I allow one delaying the restart warning per team unless it was stopping a promising attack before the caution when it happens to set the tone for the match esspeically when they claim they have the right to be there [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s). 
 
 For goal kicks and throw-ins only, the referee uses the five second countdown if a team takes to long. If the restart has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area to where the ball was or the throw-in is taken by the same team in the same position. 
 
