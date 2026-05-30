@@ -338,7 +338,7 @@ This is a catch-all. A referee may caution a player for anything. This is very s
       - this needs a strong whistle to avoid retaliation or mass confrontation
       - a player that is being held (limiting their movement) that tries to push the opponent off should not be cautioned unless they throw the opponent to the ground or do anything else that is unreasonable
     - holding/pulling a player's pants (due to sensitive nature)
-    - unnecessarily holding/pulling a player to the ground
+    - unnecessarily holding/pulling a player to the ground (including falling and holding the opponent to make them also fall to make it appear they have been fouled)
     - front holding [Example 1](https://youtu.be/06lqnmddvKQ?feature=shared&t=614)
     - impeding or holding a standing player while on the ground or getting up
   - making contact with the goalkeeper or ball when they are releasing the ball (impeding, holding, swiping at the ball). If no contact with ball or goalkeeper but an attempt to interfere, then at most an indirect free kick with no card unless it has been done multiple times
