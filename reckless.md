@@ -8,7 +8,7 @@ The Laws of the Game designates three levels of physical severity for misconduct
 > 
 > Law 12.1 Direct Free Kicks
 
-Basketball uses the terminology of unnecessary rather reckless and I personally prefer it. It's not only the amount of force that is a consideration but also the location on the field, whether the ball was playable, and match temperature that matter.
+Basketball uses the terminology of unnecessary rather than reckless and I personally prefer it. It's not only the amount of force that is a consideration but also the location on the field, whether the ball was playable, and match temperature. 
 
 Whenever a player does these, they are taking an increased risk as its harder to pull out of a challenge and if contact is made with another player, it's more likely to injure them:
 - running
