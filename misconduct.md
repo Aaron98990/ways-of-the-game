@@ -234,7 +234,7 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 
 - gesture the wearing of spectacles
 - invading a match official's personal space or blocking their path or unnessairily following a match official
-- unnecessarily touching a match official including to get their attention or demonstrate a foul or no foul [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969)
+- unnecessarily touching a match official including to get their attention,  demonstrate a foul / no foul, or interfering with showing a card /  signaling [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969) [2](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (Having play restart will have them usually go away. Suspend the match and have players go to their benches if surrounding/crowding does not immediately stop after warning. If players still keep on surrounding/crowding just abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - imitating a match official, including their words, accents, gestures, and movements
 - a player being held back but continues disagreeing
@@ -438,8 +438,7 @@ This section applies to a player, substitute or substituted player.
 
 - aggressive and avoidable contact with a match offical while dissenting that does not rise to violent conduct
   - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
-- interfering with the match offical from showing a card or writing or taking a match offical's equipment
-  - [Interfering with showing the card.](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135), [Example 2](https://youtu.be/nqe85R5epyM?feature=shared&t=177)
+- taking a match offical's equipment
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) or if three or more player are surrounding the referee after a warning or a caution - send one of them off 
   - [Writeup](/mobbing)
 - an abusive gesture made without touching another person (e.g. chasing after someone, middle finger, banging a fist into an open palm, gun gesture at someone, deliberately revealing genitals or other private areas, [bras d'honneur](https://en.m.wikipedia.org/wiki/Bras_d%27honneur))
