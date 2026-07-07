@@ -145,11 +145,13 @@ Time-wasting often falls into this category. The referee must be aware that in c
 I default to one delaying the restart warning per team before giving the delaying the restart caution unless blatant or can be managed:
 - When a player says they have the right to delay the restart, I caution them without warning [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s).
 - When a player delays a restart that would of led to a promising attack, I caution them without warning.
-- When the referee sets the wall for a free kick, if a player significantly moves the ball this is considered delaying the restart. Instead of giving a warning or card, it is usually better to move the ball in a sigificantlly worse position from the original position.
+- If a confrontation is provoked, I caution the person delaying the restart without warning
+- If the ball is kicked a significant distance away, excluding towards goal like when offside, I caution them without warning
+- When the referee sets the wall for a free kick, if a player significantly moves the ball this is considered delaying the restart. Instead of giving a warning or card, it is usually better to move the ball in a worse position from the original position.
 - If the losing team is wasting their own time, just let them do it unless excessive
 - If you change a decision ( like pointing the wrong direction for a free kick ) it is best to manage delaying the restart (like kicking the ball away) and allow teams to get in position
 
-For goal kicks and throw-ins only, the referee uses the five second countdown if a team takes to long. If the restart has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area to where the ball was or the throw-in is taken by the oppossing team in the same position. 
+For goal kicks and throw-ins only, the referee uses the five second countdown if a team takes to long. If the restart has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area to where the ball was or the throw-in is taken by the opposing team in the same position. 
 
 > If a player is unfairly delaying the taking of a [throw-in or goal kick] for their team, the referee will whistle and signal the start of a five-second countdown. The referee will visually count down the five seconds with a raised hand, and if the [throw-in or goal kick] has not been taken by the end of the five seconds, it is awarded to the opposing team [and if it was a goal kick, it becomes a corner kick]. The offending player is cautioned only if they excessively delay the restart after the [five-second countdown]. * Law 15 and 16
 

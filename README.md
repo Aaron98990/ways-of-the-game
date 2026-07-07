@@ -4,11 +4,11 @@ This is a [Laws of the Game](http://www.theifab.com/?side-menu-open=true) first 
 
 In addition to the Laws of the Game, most matches have [competition rules](https://footballrules.com/about/additional-competition-rules), which include **important** information that affects the match (e.g. substitutions, time of halves/halftime, team jersey colors). [Here](https://cdn1.sportngin.com/attachments/document/0146/2001/Tournament_Rules_Template.pdf) is a sample of competition rules. Match officials must read and understand competition rules before a match. 
 
-Helpful Official Resources
+Helpful official resources
 
 - [The Laws of the Game](http://www.theifab.com/?side-menu-open=true)
   - [Download the Mobile App](https://www.theifab.com/logapp/) - a must have for match officials
-  - The IFAB Socials - [Twitter](https://twitter.com/TheIFAB/) / [Facebook](https://www.facebook.com/theifab/) / [LinkedIn](https://www.linkedin.com/company/the-ifab/) - a must follow for match officials
+  - The IFAB Socials - [X (Twitter)](https://twitter.com/TheIFAB/) / [Facebook](https://www.facebook.com/theifab/) / [LinkedIn](https://www.linkedin.com/company/the-ifab/) - a must follow for match officials
 - [Simplified Laws of the Game](http://www.footballrules.com)
   - Mobile App - [Google Play](https://play.google.com/store/apps/details?id=com.theifab.footballrules) / [App Store](https://apps.apple.com/us/app/football-rules-by-the-ifab/id6450178840)
 - [Professional Referee Organization (PRO)](https://proreferees.com/)
@@ -16,18 +16,18 @@ Helpful Official Resources
 - [FIFA Referee Education & Development (RED)](https://red.fifa.com/)
   - [Registration here](https://fifa.eu.qualtrics.com/jfe/form/SV_0v4p742FVilnOpU)
 
-Helpful Unofficial Resources
+Helpful unofficial resources
 
 - [Major League Soccer (MLS) Instant Replay](https://www.mlssoccer.com/video/topics/instant-replay/)
 - [The Watch and the Whistle](https://www.watchandwhistle.org/)
 - [Ask the Ref](http://asktheref.com/)
 - [Ask a Soccer Referee](https://www.askasoccerreferee.com/)
-- [Referee Channel - YouTube](https://www.youtube.com/@RefereeChannel/featured), [TikTok](https://tiktok.com/@refereechannel), [Instagram](https://instagram.com/refereechannel), [Facebook](https://facebook.com/profile.php?id=100088714842893)
+- [Referee Channel - YouTube](https://www.youtube.com/@RefereeChannel/featured), [TikTok](https://tiktok.com/@refereechannel), [Instagram](https://instagram.com/refereechannel), [Facebook](https://facebook.com/profile.php?id=100088714842893), [X (Twitter)](https://x.com/RefereeC21621)
 - [r/Referees - Reddit](http://reddit.com/r/referees)
 - [Refs Need Love Too - TikTok](https://www.tiktok.com/@refsneedlovetoo), [Instagram](https://www.instagram.com/refsneedlovetoo), [Facebook](https://www.facebook.com/refsneedlovetoo)
 - [Reffing with the Sappers - YouTube](https://www.youtube.com/@reffingwiththesappers)
 
-Non-soccer Officiating Resources
+Non-soccer officiating resources
 - [CloseCallSports (Baseball) - YouTube](https://youtube.com/@closecallsports), [Facebook](https://www.facebook.com/CloseCallSports)
 - [A Better Official (Basketball) - YouTube](https://youtube.com/@betterofficials)
 - [Officals Institute (Basketball) - YouTube](https://youtube.com/@officialsinstitute)
@@ -45,7 +45,7 @@ About me
 - I am Aaron Feleke and have been a soccer referee since 2013 in Houston, Texas and San Antonio, Texas (USA). For personal inquiries, message me on LinkedIn. Here is some media featuring me.
   - [R - High School Men's Varsity Soccer: Strake Jesuit vs Shadow Creek - My Assessment](/1.md)
   - <a href="Rise_DOGSO.MP4" target="”_blank”">R - Refs Need Love - U16 Rise Soccer Club - My decision was DOGSO RC</a> / [On TikTok](https://www.tiktok.com/@refsneedlovetoo/video/7577064958924459294) / [On Instagram](https://www.instagram.com/p/DRhpMrYgCoZ/) / [Instagram Follow up](https://www.instagram.com/reel/DRpG019gPLE/) / [TikTok Follow up](https://www.tiktok.com/t/ZTrBMLLqU/) / [Facebook Follow up](https://www.facebook.com/reel/2319163591854108)
-  - [AR - Missed offside Bellaire High School Instragm Post - "VAR needed"](https://www.instagram.com/p/CaLTb3HrhXh) / [YouTube Video](https://youtu.be/1YDYK2rhlE8?si=P7H6XkGtz8YY4Y-1&t=3011) 
+  - [AR - Missed offside Bellaire High School Instagram Post - "VAR needed"](https://www.instagram.com/p/CaLTb3HrhXh) / [YouTube Video](https://youtu.be/1YDYK2rhlE8?si=P7H6XkGtz8YY4Y-1&t=3011) 
  
 
 > It goes to show that no matter how experienced you are, and I've spent more than two decades as a Premier League official, you are always learning. _Mike Dean, Former FIFA Referee, apologizing for error_
