@@ -75,6 +75,8 @@ An American football style charge into an opponent will always be a caution or s
 A shoulder charge to an opponent's head or neck that is not part of a face-to-face challenge. **Ask the player where they were hit**
 - [Example 1](https://youtu.be/GBHiiU8lekE?t=217)
 
+A knee while jumping to the opponent's torso. The knee is like the elbow in that it is very hard to the reciever and the giver barely feels anything.
+
 A charge into a person's back while the ball is relatively still is generally a yellow card.
 - [Example 1](https://youtu.be/yueTdu0S_Js?feature=shared&t=120) / [Example 2](https://youtu.be/79cBWbiWElA?feature=shared&t=605)
 
