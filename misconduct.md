@@ -158,7 +158,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "The other team is getting more fouls than us" / "That's the third time" / "How many more times?" / "All game"
 - "Why are you smiling. " / "You're smiling. " (I don't know if this is unique to me but I smile a lot apparently)
 - "I'm going to report you" (say name is on match report)
-- "Ask the assistant" (sometimes helpful to ask)
+- "Ask the assistant" (usually helpful to go and ask)
 - [Good heckling](/heckles.md)
 
 Players give information on how they want the game called. Take it in sometimes. 
@@ -235,22 +235,22 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - gesture the wearing of spectacles
 - invading a match official's personal space or blocking their path or unnessairily following a match official
 - unnecessarily touching a match official including to get their attention,  demonstrate a foul / no foul, or interfering with showing a card /  signaling [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969) [2](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
-- surrounding/crowding a match official (don't bother explaining anything if there are more than two people from the same team) (Having play restart will have them usually go away. Suspend the match and have players go to their benches if surrounding/crowding does not immediately stop after warning. If players still keep on surrounding/crowding just abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
+- surrounding/crowding a match official (Don't bother explaining anything if there are more than two people from the same team. Having play restart will have them usually go away. If they remain, caution a player. If the cautioned player remains, they will get a second caution.  If players still keep on surrounding/crowding abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - imitating a match official, including their words, accents, gestures, and movements
 - a player being held back but continues disagreeing
 - Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain, especially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
 - throwing (spiking) the ball to the ground [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
-- slamming the ground with the hand(s) 
+- excessively staring at a match official 
 - kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
-- raising your hand(s) for an extended period of time (e.g 4 seconds)
+- raising your hand(s) for an extended period of time (e.g 6 seconds)
 - failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
-- complaining with no shirt on or jersey number is not visible (tell them to go away - can't identify the player if it rises to dissent)
+- complaining with no shirt on or jersey number is not visible (tell them to go away immediatly as you can't identify the player if it rises to dissent - caution if they remain)
 
 If the referee decides to give a caution for dissent and wants to stop play, make sure there is no advantage. The restart would be an indirect free kick at the spot of the offense.
 
-Context matters in all cases: a player slamming the ground since they missed a shot/pass is not dissent. 
+Context matters in all cases. For example, sarcastic clapping to a team mate for a bad pass is not dissent. 
 
 #### **Entering/Leaving**
 
