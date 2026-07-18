@@ -91,7 +91,7 @@ The referee should not try to break up a mass confrontation. From the outside, w
 - [PRO Write up](https://proreferees.com/2017/06/28/play-of-the-week-17-mass-confrontation/)
 
 After a mass confrontation or a sent-off person needs to leave and remain out-of-sight and out-of-sound:
-- have the players go to their benches
+- have the players clearly separated (usually their own halves)
 - crew come together
 - In mass confrontation, collect/write the sanctions then give it
 - [Example of separating players and collecting the ball.](https://youtu.be/2SrxFOGYIto?feature=shared&t=854)
@@ -99,9 +99,9 @@ After a mass confrontation or a sent-off person needs to leave and remain out-of
 
 Mass confrontations rarely happen in women's soccer.
 
-## Warnings
+## Verbal Warnings
 
-Warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action). Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, participants are more emotional (and exhausted) than logical.
+Verbal warnings are an important tool that is not technically misconduct. There are two different types of warnings: private ones (a 1v1 conference) and public ones (where everyone can hear it). They are an important tool to set a message to everyone watching the game on what is acceptable. If you give a warning, you must follow through with misconduct if the offense blatantly happens again (as words mean nothing without action). Match officials should say less than more as the more they say, the more they will be misheard, misunderstood/misinterpreted, or contradict themselves or another match official. Also, participants are more emotional (and exhausted) than logical.
 
 Things to avoid saying publically:
 - If you do X, I will do Y. (e.g. If you that again, I'll give you a yellow. Don't tie yourself.)
@@ -109,7 +109,7 @@ Things to avoid saying publically:
 - This is the last play of the game / The game is over when the ball is cleared. (Don't tie yourself. Prefer to say less than a minute.)
 - In the pre-game and during the game: Do not tell players how you are going to call the game and what you are going to call and not call. Just do it.
 - I want no one to get hurt (it'll be used against you when you don't give a decision)
-- Your age (Only will be used against you)
+- Your age or soccer, refereeing, or competition years of experience (Only will be used against you even if its a high number)
 - "Calm down" or "relax" (better to use the arm gesture)
 - "are you okay" to an injured player (they'll say no) - time or trainer is all
 - "That could of been a YC, RC, foul" (either give the decision or don't - saying this does not help although you are genuinely trying to diffuse the situation)
@@ -126,7 +126,7 @@ Things to say publically:
 
 ## Cautions
 
-**Before showing a yellow or red card, I recommend to blow the whistle (usually a short-short) right before the card is shown unless immediately after a foul. This is so no one misses that a card was given.**
+**I find it better to be slow with showing the cards. (The card is given but not aggressively and not with the referee running in quick to show the card two seconds after the foul.) When I give a card, I will almost immediately restart play. It allows me time to think and cuts on the complaining. So if there is an injury or mass confrontation, I recommend to wait until everything is cleared and injured player is off the field before showing cards.  If someone is dissenting, when they are finished show the card. Sometimes a quick card is necessary but until you develop your style, start slow.**
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
