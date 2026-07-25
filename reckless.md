@@ -68,7 +68,7 @@ Kick above the knee or kicking someone's leg from behind when they're running
 
 ## Jumps at / charge / push / trip
 
-An American football style charge into an opponent will always be a caution or send-off, especially when its made when the ball is no longer in playing distance. I call it the bulldozing into an opponent. 
+An American football style charge into an opponent will always be a caution or send-off, especially when its made when the ball is no longer in playing distance. I call it the bulldozing into an opponent. Sometimes, the bulldozing happens on accident like when a player is completely focused on the ball - it is still a caution. 
 
 - [Example 1](https://youtu.be/Zxnn7GNixcQ?t=678) / [Example 2](https://youtu.be/GBHiiU8lekE?t=420) / [Example 3](https://youtu.be/7cZpV_ZAfzw) / [Example 4](https://youtu.be/vR3DpyYTH2k)
 
