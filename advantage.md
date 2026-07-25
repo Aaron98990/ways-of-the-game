@@ -58,9 +58,9 @@ Some referees yell "Advantage" or "Play on" to make it clear to players that the
 
 **Advantage is commonly apllied to where the offended player was able to pass or kick the ball away before the offender fouls them late and while the ball is away. When advantage is applied, the referee needs to be thinking if a sanction is appropiate and remember the player that committed the foul.**
 
-Before or after showing the card after advantage, the referee should point to the spot of the offense.
+**If the referee wants to give a card, the referee should stop play when the offended player's team loses possession or during a neutral opportunity where no promising attack. It's better for game management. Right before or after showing the card after advantage, the referee should point to the spot of the offense.**
 
-Just because advantage is played does not mean that a referee cannot caution or send-off the offender - the referee will show the cards when play stops. 
+Just because advantage is played does not mean that a referee cannot caution or send-off the offender - the referee will show the card when play stops. 
 - [A player commits a reckless tackle. The referee signals advantage. When the ball is out of play, the player is cautioned for the reckless tackle.](https://youtu.be/eFxYX4x1za0?t=790)
 - [A player commits a reckless tackle. The referee signals advantage. After the goal is scored, the player is cautioned for the reckless tackle.](https://youtu.be/BbcPFAvyIZU)
 
