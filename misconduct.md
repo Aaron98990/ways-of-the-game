@@ -451,7 +451,7 @@ This section applies to a player, substitute or substituted player.
 - Standing on top of a player on the ground while staring them down
   - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
 - Squaring up stance
-- anything else that referee warrants it
+
 
 ### **Language**
 
