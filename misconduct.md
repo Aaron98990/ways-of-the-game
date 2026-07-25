@@ -6,7 +6,7 @@ Please note that [reckless (caution)](/reckless), [excessive force (send-off)](/
 > 
 > 12.4 Disciplinary action
 
-A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee wants an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent or sent-off person remains, the referee can abandon the match.
+A referee cannot give a caution or send-off to an outside agent (e.g. spectator, ball kid). In the cases where the referee wants an outside agent or sent-off person removed, the referee can suspend the game until that happens. If the outside agent causes a confrontation, refuses to leave or returns after leaving, the referee can abandon the match and this should be mentioned in the match report. 
 
 > The referee: stops, suspends or abandons the match for any offences or because of outside interference Law 5.3
 
@@ -50,7 +50,9 @@ Game(s) suspension other than listed above or fines for a send-off or accumulati
 
 > A player, substitute or substituted player who has been sent off must leave the vicinity of the field of play and the technical area.
 
-Many times competition rules will require the sent-off adult participant to be out-of-sight and out-of-sound and allow sent-off minors to stay in the technical area.
+Almost all grassroot matches will have competition rules that require the sent-off adult player to be out-of-sight (including not in the stands nor watching just outside the fence) and out-of-sound. If the sent-off adult player causes a confrontation, refuses to leave or returns after leaving, the referee can abandon the match and this should be mentioned in the match report. 
+
+Sent-off minors are allowed to stay in the technical area and this is almost always in the competition rules. If the sent-off minor causes a confrontation or continues with inappropriate behavior, the referee can abandon the match and this should be mentioned in the match report. 
 
 > A match may not start or continue if either team has fewer than seven players. Law 3.1
 
@@ -126,7 +128,9 @@ Things to say publically:
 
 ## Cautions
 
-**I find it better to be slow with showing the cards. (The card is given but not aggressively and not with the referee running in quick to show the card two seconds after the foul.) When I give a card, I will almost immediately restart play. It allows me time to think and cuts on the complaining. So if there is an injury or mass confrontation, I recommend to wait until everything is cleared and injured player is off the field before showing cards.  If someone is dissenting, when they are finished show the card. Sometimes a quick card is necessary but until you develop your style, start slow.**
+**I find it better to be slow with showing the cards. (The card is given but not aggressively and not with the referee running in quick to show the card two seconds after the foul.) When I give a card, I will almost immediately restart play. It allows me time to think and cuts on the complaining. So if there is an injury or mass confrontation, consult an assistant referee before making a decision and I recommend to wait until everything is cleared and injured player is off the field before showing cards. If someone is dissenting, when they are finished show the card. Sometimes a quick card is necessary but until you develop your style, start slow.**
+
+[https://youtu.be/pXahsxNFuZw?feature=shared&t=336](The referee switches his decision based on another match officil's feedback. Getting the call right is important but it would of been better to talk to the other match official and wait until the injured player is up to show the card to avoid the awkward situation.)
 
 This section applies to a player, substitute or substituted player unless otherwise stated.
 
@@ -159,7 +163,7 @@ Simply disagreeing with the referee or stating an opinion or fact or having a sh
 - "Why are you smiling. " / "You're smiling. " (I don't know if this is unique to me but I smile a lot apparently)
 - "I'm going to report you" (say name is on match report)
 - "Ask the assistant" (usually helpful to go and ask)
-- [Good heckling](/heckles.md)
+- being a smart-ass ("they have two goalkeepers" for a missed handball is kind of funny)
 
 Players give information on how they want the game called. Take it in sometimes. 
 
@@ -195,7 +199,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - failing to move on after an explanation or being warned to
   - complaining publically for more than three sentences (the point has already been made)
   - threatening to lose their cool, if x happens
-  - continuing to dissent after being cautioned
+  - continuing to dissent after being cautioned (it's fine for them to have the last word)
   - Repeating questions or statements ("Why?" x4, "What did I do?" x4) [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)
 - Provocative, condescending, or personal comments
   - "What the hell/fuck. That's bullshit/horseshit." / "You are ruining the game"
@@ -234,8 +238,8 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 
 - gesture the wearing of spectacles
 - invading a match official's personal space or blocking their path or unnessairily following a match official
-- unnecessarily touching a match official including to get their attention,  demonstrate a foul / no foul, or interfering with showing a card /  signaling [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969) [2](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
-- surrounding/crowding a match official (Don't bother explaining anything if there are more than two people from the same team. Having play restart will have them usually go away. If they remain, caution a player. If the cautioned player remains, they will get a second caution.  If players still keep on surrounding/crowding abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
+- unnecessarily touching a match official including to get their attention, demonstrate a foul / no foul, or interfering with showing a card /  signaling [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969) [2](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
+- surrounding/crowding a match official (The referee should bother explaining anything if there are more than two people from the same team. For the assistant referees, it is a maximum of one person from the same team and the referee should come over if more than one per team. Keep moving or having play restart will have them usually go away. If they remain, caution a player. If the cautioned player remains, they will get a second caution.  If players still keep on surrounding/crowding, abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - imitating a match official, including their words, accents, gestures, and movements
 - a player being held back but continues disagreeing
 - Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
@@ -436,7 +440,7 @@ This section applies to a player, substitute or substituted player.
 
 > - using offensive, insulting or abusive language and/or action(s)
 
-- aggressive and avoidable contact with a match offical while dissenting that does not rise to violent conduct
+- aggressive actions or avoidable non-negligible contact a match offical while dissenting that does not rise to violent conduct is abusive action. I reccommend a caution for unnessarirly touching a match official including to get their attention, demonstrate a foul / no foul, or interfering with showing a card / signaling but it always the referee's decision on what is correct and context matters in all cases.
   - [Abusive action](https://youtu.be/CsXRRa6KUSQ?t=21), [Abusive action](https://youtu.be/qNn8WXteIIw?feature=shared&t=511)
 - taking a match offical's equipment
 - mobbing a match official - if three or more players are dissenting at the same time and at close distance to a match offical (mobbing) or if three or more player are surrounding the referee after a warning or a caution - send one of them off 
@@ -447,6 +451,7 @@ This section applies to a player, substitute or substituted player.
 - Standing on top of a player on the ground while staring them down
   - [Abusive action](https://youtu.be/CP5o_bPAYrg?feature=shared&t=1411)
 - Squaring up stance
+- anything else that referee warrants it
 
 ### **Language**
 
@@ -485,10 +490,10 @@ I recommend if you are giving a caution to check to make sure you have or have n
 - denying the opposing team a goal or an obvious goal-scoring opportunity by committing a non-deliberate handball offence outside their own penalty area
 - denying a goal or an obvious goal-scoring opportunity to an opponent whose overall movement is towards the offender’s goal by an offense punishable by a free kick (unless as outlined below)
   - For the three above, see the [tactical impact section](/tactical-impact)
-- serious foul play
 - biting or spitting at someone
+- serious foul play
 - violent conduct
-  - For the three above, see the [excessive force section](/excessive-force)
+  - For the two above, see the [excessive force section](/excessive-force)
 
 <!-- tabs:end -->
 
@@ -498,7 +503,9 @@ I recommend if you are giving a caution to check to make sure you have or have n
 
 >  a red card for a sending-off from the field of play and its immediate surrounds, including the technical area
 
-Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound. **Other than the senior team coach second caution, all misconduct by people in the technical area (including substitutes) should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
+Competition rules generally will require sent-off team officials to be out-of-sight and out-of-sound (including not in the stands nor watching just outside the fence).  If the sent-off team official causes a confrontation, refuses to leave or returns after leaving, the referee can abandon the match and this should be mentioned in the match report. 
+
+**Other than the senior team coach's second caution, all misconduct by people in the technical area (including substitutes and non-senior team coaches) should be dealt with strictly. Even if competition rules allow you to caution or send-off a coach for spectator misconduct, I recommend for you to never do it.**
 
 > A medical team official who commits a sending-off offense may remain if the team has no other medical person available, and act if a player needs medical attention
 
