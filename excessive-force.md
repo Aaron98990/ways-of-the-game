@@ -9,7 +9,7 @@ The Laws of the Game designates three levels of physical severity for misconduct
 > Law 12.1 Direct Free Kicks
 
 The level of physical severity does not depend on:
-- intention (deliberate or accidental)
+- if the action is accidental or unintentional
 - the score (blowout or close)
 - play not being stopped for advantage (including if the non-offending team scores)
 - a penalty kick is given
@@ -18,7 +18,7 @@ The level of physical severity does not depend on:
 - a player's small figure (thin/short players don't get leeway to be dirty)
 - time in the match (including the first or last minute)
 - low temperature of the match (just because it's not heated, does not mean it's ignored)
-- sportsmanship (including asking to stop play or medical help, helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
+- sportsmanship (including asking to stop play or for medical help, helping opponent up, checking on them, shaking their hand, fist bump, apologizing)
 - apparent injury (on the ground or standing up, the person is unphased by the offense, offender being injured does not give them immunity)
 
 > Serious foul play

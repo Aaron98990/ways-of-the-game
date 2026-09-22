@@ -16,7 +16,7 @@ Whenever a player does these, they are taking an increased risk as its harder to
 - jumping
 
 The level of physical severity does not depend on:
-- intention (deliberate or accidental)
+- if the action is accidental or unintentional
 - the score (blowout or close)
 - play not being stopped for advantage (including if the non-offending team scores)
 - a penalty kick is given
