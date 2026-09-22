@@ -24,8 +24,8 @@ Windy conditions mean that a ball can't be stationary on the ground although the
 - There is no benefit if a free kick or goal kick is not stationary when kicked. After explaining the situation to the teams, the referee should allow play to continue.
 - [Although the ball is not on the field of play and not stationary when kicked, due to the windy conditions I would allow it as it in the spirit of the game.](https://www.tiktok.com/@refsneedlovetoo/video/7262071167090003242)
 
-A goal kick is taken a couple of feet from the goal area, the ball is not completely stationary during a goal kick, on a kick-off a player enters their opponent's side before the ball is in play but does not become involved in play.
-- Redoing the restart in the instances above are technically correct, but to who's benefit? Unless the goal kick is being taken quickly and to catch opponent's off guard, I would let play continue.
+On a kick-off a player enters their opponent's side before the ball is in play but does not become involved in play.
+- Let it go. 
 
 The ball goes above the goal and out of play after a deflection from a defender. The point where the ball passed over the goal line was closer to the left corner area but the ball bounces closer to the right corner area.
 - Although forcing the restart from the left corner area is technically correct, the ball is already closer to the right corner area. Whatever the referee decides, they must be consistent on this throughout the match.
@@ -57,7 +57,7 @@ Not penalizing a goalkeeper when they are releasing the ball and are handling th
 - As the benefit is minimal and the direct free kick restart is very beneficial for the opponents, giving a warning to the goalkeeper before penalizing this would be the best action.
 
 Throw ins, free kicks are not taken at the exact point.
-- Allowing a couple of yards from the spot of the offense or where the ball left the field of play is fine if no team gains an unfair advantage.
+- Allowing a couple of yards from the spot of the offense or where the ball left the field of play is fine if no team gains an unfair advantage. Close to their opponent's goal or if it leads to a promising attack, the spot needs to be very close. 
 
 If a player only has one arm, allow them to take the throw-in with their one arm.
 - While the Laws of the Game require two hands, there is no clear advantage with throwing the ball with one arm. Allow it.
@@ -143,3 +143,6 @@ Not awarding a clear penalty kick or red card for a physcial offense (including 
 A foot completely crosses the line on a throw-in, the ball completely passes the goal line or touch line, a player is two inches in an offside position. 
 
 - These are not up to interpretation. Follow the Laws. This includes in blowout games, the losing team does not get a pass on these rules.
+
+A goal kick or corner kick is not taken in the correct spot, the ball is not completely stationary during a free kick, corner kick, or goal kick, 
+- Redo it always. I know it feels minor but its so simple. 
