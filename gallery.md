@@ -5,13 +5,13 @@
 *2014 — A U.S. Soccer Federation (USSF) referee certification card.*
 
 ![South Campus](/media/2015-03-07-South-Campus.jpg)
-*March 7, 2015 — A photo of South Campus (front/main view, companion to the "Backside" shot from the same day).*
+*March 7, 2015 — A photo at South Campus (front/main view, companion to the "Backside" shot from the same day).*
 
 ![South Campus - My Backside](/media/2015-03-07-South-Campus-Backside.jpg)
-*March 7, 2015 — My back side of South Campus.*
+*March 7, 2015 — My back side at South Campus.*
 
 ![South Campus](/media/20150328-South-Campus.jpg)
-*March 28, 2015 — A view of South Campus.*
+*March 28, 2015 — My picture at South Campus.*
 
 ![Kolter - Given by Librarian Anne Paget](/media/2016-12-13-Kolter-Given-By-Librarian-Anne-Paget.JPG)
 *December 13, 2016 — Kolter, in a photo given by librarian Anne Paget.*
@@ -27,3 +27,6 @@
 
 ![Referee Aaron](/media/Referee-Aaron.png)
 *January 25, 2025 A portrait of myself cropped from above.*
+
+![Sharpstown HS with Sam Mai](/media/20250125-Sharpstown-taken-by-Sam-Mai.jpg)
+*January 25, 2025 Sharpstown HS during match*
