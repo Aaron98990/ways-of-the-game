@@ -46,7 +46,7 @@ About me
   - [R - High School Men's Varsity Soccer: Strake Jesuit vs Shadow Creek - My Assessment](/1.md)
   - <a href="Rise_DOGSO.MP4" target="”_blank”">R - Refs Need Love - U16 Rise Soccer Club - My decision was DOGSO RC</a> / [On TikTok](https://www.tiktok.com/@refsneedlovetoo/video/7577064958924459294) / [On Instagram](https://www.instagram.com/p/DRhpMrYgCoZ/) / [Instagram Follow up](https://www.instagram.com/reel/DRpG019gPLE/) / [TikTok Follow up](https://www.tiktok.com/t/ZTrBMLLqU/) / [Facebook Follow up](https://www.facebook.com/reel/2319163591854108)
   - [AR - Missed offside Bellaire High School Instagram Post - "VAR needed"](https://www.instagram.com/p/CaLTb3HrhXh) / [YouTube Video](https://youtu.be/1YDYK2rhlE8?si=P7H6XkGtz8YY4Y-1&t=3011) 
-  - [My first referee assessment in 2014](/Referee-Assessment-2014.pdf)
+  - <a href="Referee-Assessment-2014.pdf" target=”_blank”>My first referee assessment in 2014</a>
   - [Photo Gallery](/gallery)
  
 
