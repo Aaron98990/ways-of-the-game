@@ -23,6 +23,8 @@ Stopping a Promising Attack is not defined in the Laws of the Game. The referee 
 > - location and number of defenders and attackers
 > - Law 12.4 Direct Free Kick
 
+Some referee call the above considerations the 4 D's (distance to ball, distance to goal, direction, defenders) and believe all four have to met which is usually true. But, I prefer to use my nuanced analysis below.
+
 DOGSO (like offside) is a hard call to make because it requires match officials to look at more than one place at the same time (the spot of the offense, where the defenders are, whether the ball is still playable). DOGSO is often called the last-man foul. 
 
 - [PRO Referees - SPA vs DOGSO](https://proreferees.com/2020/04/03/pro-insight-tactical-fouling-in-soccer-what-officials-look-for/)
@@ -37,6 +39,8 @@ The player who committed the offense is not considered a defender for DOGSO purp
 When there is an open goal, if a shot is taken at goal or if the attacker would more likely than not get to the ball first without the offense (even if the shot on goal would of been at a tough angle or a defender would of been close enough to block the shot/pass as in both cases they could pass the ball/defender) then it is DOGSO. [DOGSO](https://www.youtube.com/watch?v=asVDxPliFVI&ab_channel=ProfessionalRefereeOrganization), [DOGSO](https://youtu.be/ymp9iw-18_I?feature=shared&t=226), [DOGSO](https://youtu.be/2A5eBRoAv6Y?feature=shared&t=175), [DOGSO](https://youtu.be/uzZnBPHsx_0?t=107), [DOGSO](https://youtu.be/KxzzvrqVcyY?si=1tF8cZ-NjI1KzB21&t=1788)
 
 When there is a defended goal, if it is and would of been 1 vs 1 (the attacker vs the goalkeeper) without the offense (meaning that no other defender other than the goalkeeper would of been close enough to block the shot/pass) and the attacker would of **_obviously_** have gotten possession of the ball then it is DOGSO.  [Not DOGSO](https://youtu.be/3wohxDXUZDc?feature=shared&t=8), [DOGSO](https://youtu.be/iLlZ61OyPPs?feature=shared&t=286)
+
+A defender's movement must be considered, not only their position. A defender chasing the ball (moving to goal) vs attempting to cut off the ball / player (static or moving laterally) is an important consideration for DOGSO. If two defenders try to cut off the ball (moving laterally) and one commits a foul denying a 1 vs 1, it's still DOGSO as no defender is following the ball although a defender who didn't commit the offense is nearby.
 
 ## Disciplinary Action
 

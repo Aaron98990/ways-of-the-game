@@ -10,7 +10,7 @@
 The whistle stops play; not an offense or assistant referee's flag. Advantage is why referees delay their whistle.
 - [Example](https://www.facebook.com/reel/4281008475452778)
 
-Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantage ensued. But In higher levels of the game, not stopping the flow of the game is important to players so although it looks like advantage did not ensue, the players prefer it. **Don't make it complicated: If anyone from the team of the offended player wants the free kick rather than advantage, the referee should stop play.**
+Just because a team maintains possession of the ball (e.g. the ball is played away from goal) or takes a shot at goal (e.g. foul causes player to be off balance) does not necessarily mean that the advantage ensued. But in higher levels of the game, not stopping the flow of the game is important to players so although it looks like advantage did not ensue, the players prefer it. **Don't make it complicated: If anyone from the team of the offended player wants the free kick rather than advantage, the referee should stop play.**
 - [The foul should of been brought back as advantage never materializes - they lose possession immediately.](https://youtu.be/5OJfbYQtKtk?t=4745)
 - [The foul should of been brought back as advantage never materializes - the ball goes away from goal.](https://youtu.be/xqQqe-LwWXc?t=866)
 

@@ -38,7 +38,7 @@ Be aware of these situations near a goal:
 - The ball crossing the goal line but hitting the goal/netting support (backpost), water bottle, another ball or another object and returning to the field of play [Example 1](https://www.tiktok.com/@sheawoodsford/video/7608644554870410499)
 - The ball hitting the goal net or goal/netting support (e.g. wheel) inside the goal but not completely crossing the goal line
 
-While the assistant referee has the best view of the ball passing the goal line, the referee has the best view of the ball going between the goalposts and under the crossbar.
+Save yourself the trouble and ensure that the nets have no holes and if they do, fix them. The assistant referee has the best view of the ball passing the goal line. The referee has the best view of the ball going between the goalposts and under the crossbar but if the referee is not straight on between the goalposts, it's easy to miss due to parallax. 
 
 
 ## Offenses
