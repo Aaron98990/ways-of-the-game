@@ -237,7 +237,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
 The NBA has a video playlist for "overt gestures" available [here](https://videorulebook.nba.com/rule/overt-gestures/). A technical foul is like a caution. I do not consider a "wave off" dissent.
 
 - gesture the wearing of spectacles
-- invading a match official's personal space or blocking their path or unnessairily following a match official
+- invading a match official's personal space or blocking their path or unnecessarily following a match official
 - unnecessarily touching a match official including to get their attention, demonstrate a foul / no foul, or interfering with showing a card /  signaling [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=969) [2](https://youtu.be/tv9SZ3ptOUk?feature=shared&t=135)
 - surrounding/crowding a match official (The referee should bother explaining anything if there are more than two people from the same team. For the assistant referees, it is a maximum of one person from the same team and the referee should come over if more than one per team. Keep moving or having play restart will have them usually go away. If they remain, caution a player. If the cautioned player remains, they will get a second caution.  If players still keep on surrounding/crowding, abandon the match.) [1](https://youtu.be/sBfR_l-wrYo?feature=shared&t=1101)
 - imitating a match official, including their words, accents, gestures, and movements
@@ -245,12 +245,13 @@ The NBA has a video playlist for "overt gestures" available [here](https://video
 - Air punching towards or away a match official or any other aggressive arm gesture/motion [1](https://youtu.be/hvfV4TPBKxw?feature=shared&t=324), [2](https://youtu.be/ltfnLOybxH8?feature=shared&t=44)
 - coming a distance or running to complain, especially a goalkeeper [1](https://youtu.be/1g2DRURrbAo?t=805)
 - sarcastic or condescending clap/clapping
-- throwing (spiking) the ball to the ground [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
+  - clapping to being cautioned is not enough for a second caution for me
+- throwing (spiking) the ball to the ground to protest a decision [1](https://www.youtube.com/watch?v=oaRIL13l-hE)
 - excessively staring at a match official 
-- kicking/throwing the ball away or holding/blocking it (could also be delay of the restart)
+- kicking/throwing the ball away or holding/blocking it to protest a decision
 - raising your hand(s) for an extended period of time (e.g 6 seconds)
-- failing to leave the penalty area and being behind the penalty mark for a penalty kick (could also be delay of the restart)
-- complaining with no shirt on or jersey number is not visible (tell them to go away immediatly as you can't identify the player if it rises to dissent - caution if they remain)
+- failing to be in a the proper position for a penalty kick to protest a decision [1](https://www.youtube.com/watch?v=KAxo7z4GBpg&t=180s)
+- complaining with no shirt on or jersey number is not visible (tell them to go away immediately as you can't identify the player if it rises to dissent - caution if they remain)
 
 If the referee decides to give a caution for dissent and wants to stop play, make sure there is no advantage. The restart would be an indirect free kick at the spot of the offense.
 
@@ -260,7 +261,7 @@ Context matters in all cases. For example, sarcastic clapping to a team mate for
 
 > - entering, re-entering or (for players only - deliberately leaving) the field of play without the referee’s permission
 
-This is the rarest caution. Generally, I manage this with redoing the restart if from a restart or warn if if the ball is out of play. In all other cases, an indirect free kick is enough.
+This is the rarest caution. Generally, I manage this with redoing the restart if from a restart or warn if the ball is out of play. In all other cases, an indirect free kick is enough.
 
 A player deliberately leaving the field of play or staying outside it longer than necessary is cautioned only if this was done to cause confusion or gain a tactical advantage. Please note the exceptions for deliberately leaving the field of play. In all the bulleted cases below, permission is not needed to re-enter.
 - "A player who crosses a boundary line as part of a playing movement does not commit an offense." Law 3.8 ([This is okay.](https://youtu.be/tuDiylkXHLo))

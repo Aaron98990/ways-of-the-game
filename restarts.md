@@ -139,7 +139,7 @@ Time-wasting is delaying the restart of play. The referee must be aware that in 
 Although the Laws say a caution is required, referees manage these situations. I default to one or two delaying the restart warnings per team before giving the delaying the restart caution unless blatant or can be managed:
 - When a player says they have the right to delay the restart, I caution them without warning [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s).
 - When a player delays a restart that would of led to a promising attack, I caution them without warning.
-- If a confrontation is provoked, I caution the person delaying the restart without warning [Example 1](https://youtu.be/5OJfbYQtKtk?t=4061), [Example 2](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
+- If a confrontation is provoked (touching of another player to get or shield the ball), I caution the person delaying the restart without warning [Example 1](https://youtu.be/5OJfbYQtKtk?t=4061), [Example 2](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 - If the ball is kicked a significant distance away, excluding towards goal like when offside, I caution them without warning
 - When the referee sets the wall for a free kick, if a player significantly moves the ball this is considered delaying the restart. Instead of giving a warning or card, it is usually better to move the ball in a worse position from the original position.
 - If the losing team is wasting their own time, just let them do it unless excessive
