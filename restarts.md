@@ -96,7 +96,7 @@ Until the ball is in play:
 
 > If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play.
 
-If a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards), see if there is any advantage before stopping play to do a retake with no misconduct. If the referee is able to stop play from coninuing before the ball is kicked if the defender is right at the ball (less than ~3 yards), this is a caution for "delaying the restart of play" for the defender. But, if the kicker is not deliberately kicking the ball into the defender and a defender who is extremely close (less than ~3 yards) stretches or makes a significant motion towards the ball and touches it then that would be considered a caution for "failure to respect distance" for the defender and retake the free kick. 
+If a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards), see if there is any advantage before stopping play to do a retake with no misconduct. If the referee is able to intervene and the player moves back quickly, a warning is all that is needed. But, if the kicker is not deliberately kicking the ball into the defender and a defender who is extremely close (less than ~3 yards) stretches or makes a significant motion towards the ball and touches it then that would be considered a caution for "failure to respect distance" for the defender and retake the free kick unless advantage applied. 
 
 - [Ball is deliberately kicked into defender who is right at the ball. Redo the free kick and no misconduct.](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb)
 - [Referee cautions player who it too close for delaying the restart.](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254)
@@ -134,10 +134,9 @@ Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 
 > - kicking or carrying the ball away, or provoking a confrontation by deliberately touching the ball after the referee has stopped play
 > - taking a free kick from the wrong position to force a retake
 
-Time-wasting is delaying the restart of play. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster.
-- [21 videos of examples of this that are available here.](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj).
+Time-wasting is delaying the restart of play. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. [21 videos of examples of delaying the restart are here.](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj).
 
-I default to one or two delaying the restart warnings per team before giving the delaying the restart caution unless blatant or can be managed:
+Although the Laws say a caution is required, referees manage these situations. I default to one or two delaying the restart warnings per team before giving the delaying the restart caution unless blatant or can be managed:
 - When a player says they have the right to delay the restart, I caution them without warning [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s).
 - When a player delays a restart that would of led to a promising attack, I caution them without warning.
 - If a confrontation is provoked, I caution the person delaying the restart without warning [Example 1](https://youtu.be/5OJfbYQtKtk?t=4061), [Example 2](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
