@@ -130,7 +130,7 @@ Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 
 
 - [Example 1](https://www.youtube.com/watch?v=qDdkvYZLql0&list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj&index=4), [Example 2](https://youtu.be/VqaCkXYPsjM?feature=shared&t=4250)
 
-> Referees must caution players who excessively delay the restart of play by including as outlined in Laws 3, 15 and 16 and their protocols, or by:
+> Referees must caution players who excessively delay the restart of play, including as outlined in Laws 3, 15 and 16 and their protocols, or by:
 > - kicking or carrying the ball away, or provoking a confrontation by deliberately touching the ball after the referee has stopped play
 > - taking a free kick from the wrong position to force a retake
 
