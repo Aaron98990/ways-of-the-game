@@ -136,6 +136,8 @@ Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 
 
 Time-wasting is delaying the restart of play. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. [21 videos of examples of delaying the restart are here.](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj).
 
+**New 10/19/2026: Some indication of team warnings are needed to be written and a 1v1 at close distance is needed every time to make clear this is not acceptable. After the second time of delaying the restart, it is a mandatory caution unless the player is already on a caution in which after the third offense it is an automatic caution. After the caution because of accumulated warnings, it is a caution every single time. Point to multiple instances of offenses.**
+
 Although the Laws say a caution is required, referees manage these situations. I default to one or two delaying the restart warnings per team before giving the delaying the restart caution unless blatant or can be managed:
 - When a player says they have the right to delay the restart, I caution them without warning [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s).
 - When a player delays a restart that would of led to a promising attack, I caution them without warning.
@@ -145,7 +147,7 @@ Although the Laws say a caution is required, referees manage these situations. I
 - If the losing team is wasting their own time, just let them do it unless excessive
 - If you change a decision ( like pointing the wrong direction for a free kick ) it is best to manage delaying the restart (like kicking the ball away) and allow teams to get in position
 
-For goal kicks and throw-ins only, the referee uses the whistle then a five second countdown if a player is unfairly delaying. If the goal kick of throw-in has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area where the ball left the field of play or the throw-in is taken by the opposing team in the same position. 
+For goal kicks and throw-ins only, the referee uses the whistle then a five second countdown if a player is unfairly delaying. If the goal kick or throw-in has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area where the ball left the field of play or the throw-in is taken by the opposing team in the same position. 
 
 > If a player is unfairly delaying the taking of a [throw-in or goal kick] for their team, the referee will whistle and signal the start of a five-second countdown. The referee will visually count down the five seconds with a raised hand, and if the [throw-in or goal kick] has not been taken by the end of the five seconds, it is awarded to the opposing team [and if it was a goal kick, it becomes a corner kick]. The offending player is cautioned only if they excessively delay the restart after the [five-second countdown]. * Law 15 and 16
 
