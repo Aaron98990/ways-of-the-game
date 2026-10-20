@@ -15,6 +15,12 @@ Penalties (penalty shoot-out), covered in Law 10.3, are not a restart. But they 
 
 **Deflections that occur when kicked from close distance are one of the most challenging calls to make as it is hard to see the trajectory of the ball change or hear the touches since they are close. [Example 1](https://youtu.be/WSQOZZeL0T4?feature=shared&t=293) If the assistant referee says they saw the deflection, follow them.**
 
+## Substitutions
+
+**New 10/19/2026: If there are a limited number of substitutions or moments for subs in a match, the assistant referee near the benches or fourth official needs to keep track of it. The referee needs to be focused on other things.**
+
+Substitutions are not allowed in the intermission period before penalties. The players on the field will remain on the field for penalties. 
+
 ## Position of restart
 
 The restart is taken at the position of the offense or position where the ball left the field of play except:
