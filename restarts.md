@@ -102,15 +102,9 @@ Until the ball is in play:
 
 > If, when a free kick is taken, an opponent is closer to the ball than the required distance, the kick is retaken unless the advantage can be applied; but if a player takes a free kick quickly and an opponent who is less than 9.15 m (10 yds) from the ball intercepts it, the referee allows play to continue. However, an opponent who deliberately prevents a free kick being taken quickly must be cautioned for delaying the restart of play.
 
-If a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards), see if there is any advantage before stopping play to do a retake with no misconduct. If the referee is able to intervene and the player moves back quickly, a warning is all that is needed. But, if the kicker is not deliberately kicking the ball into the defender and a defender who is extremely close (less than ~3 yards) stretches or makes a significant motion towards the ball and touches it then that would be considered a caution for "failure to respect distance" for the defender and retake the free kick unless advantage applied. 
-
-- [Ball is deliberately kicked into defender who is right at the ball. Redo the free kick and no misconduct.](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb)
-- [Referee cautions player who it too close for delaying the restart.](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254)
-
 Please note that a penalty kick and kick-off can never be taken quickly and always require the referee to make a signal (e.g. blow a whistle) before the ball is put into play else its a retake. 
 
 > After the players have taken positions in accordance with this Law, the referee signals for the penalty kick to be taken. Law 14
-
 
 > For every kick-off: the referee gives a signal Law 8
 
@@ -144,14 +138,18 @@ Time-wasting is delaying the restart of play. The referee must be aware that in 
 
 **New 10/19/2026: Some indication of team warnings are needed to be written and a 1v1 at close distance is needed every time to make clear this is not acceptable. After the second time of delaying the restart, it is a mandatory caution unless the player is already on a caution in which after the third offense it is an automatic caution. After the caution because of accumulated warnings for a team is issued, it is a caution for the team every single time for all delaying the restart. Point to instances of offenses (including current)**
 
-Although the Laws say a caution is required, referees manage these situations. I default to one or two delaying the restart warnings per team before giving the delaying the restart caution unless blatant or can be managed:
+Although the Laws say a caution is required, I give a delaying the restart warning per team unless blatant or can be managed:
 - When a player says they have the right to delay the restart, I caution them without warning [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s).
 - When a player delays a restart that would of led to a promising attack, I caution them without warning.
 - If a confrontation is provoked (touching of another player to get or shield the ball), I caution the person delaying the restart without warning [Example 1](https://youtu.be/5OJfbYQtKtk?t=4061), [Example 2](https://youtu.be/5eRf_iP_zK8?feature=shared&t=567)
 - If the ball is kicked a significant distance away, excluding towards goal like when offside, I caution them without warning
+  - plays the ball towards the opponent's goal after the whistle is always a team warning. 
 - When the referee sets the wall for a free kick, if a player significantly moves the ball this is considered delaying the restart. Instead of giving a warning or card, it is usually better to move the ball in a worse position from the original position.
 - If the losing team is wasting their own time, just let them do it unless excessive
-- If you change a decision ( like pointing the wrong direction for a free kick ) it is best to manage delaying the restart (like kicking the ball away) and allow teams to get in position
+- If you change a decision ( like pointing the wrong direction for a free kick ) it is best to manage delaying the restart without warning (like kicking the ball away) and allow teams to get in position
+
+During a free kick, if a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards) or a player who is right at the ball stretches to block the free kick, that is delaying the restart of play team warning unless it stops a promising attack in which it is always a caution. 
+- [Example 1](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb), [Example 2](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254)
 
 For goal kicks and throw-ins only, the referee uses the whistle then a five second countdown if a player is unfairly delaying. If the goal kick or throw-in has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area where the ball left the field of play or the throw-in is taken by the opposing team in the same position. 
 
@@ -201,7 +199,7 @@ For dropped balls, any player can start dribbing the ball as the ball is in play
 
 ### Goals from restarts
 
-An throw-in, indriect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal else its a goal kick. All other restarts, you may scores a goal in the opponent's goal directly (without the ball needing to touch another player other than the kicker) from the restart.
+An throw-in, indirect free kick and dropped ball requires the ball to be touched by two players, before entering the opponent's goal else its a goal kick. All other restarts, you may scores a goal in the opponent's goal directly (without the ball needing to touch another player other than the kicker) from the restart.
 
 From all restarts, you can't directly score an own-goal. Directly means only the person taking the restart touched the ball before it enters the goal.  If you do, it's a corner kick for your opponents. 
 
