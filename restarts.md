@@ -136,7 +136,7 @@ Personally, I don't allow quick free kicks in the opponent's penalty area (e.g. 
 
 Time-wasting is delaying the restart of play. The referee must be aware that in close games, the winning team will try to go slower and should push the team to go faster. [21 videos of examples of delaying the restart are here.](https://www.youtube.com/playlist?list=PL4OiywE4asSeoUa31AgCWC5tauGkE4uFj).
 
-**New 10/19/2026: Some indication of team warnings are needed to be written and a 1v1 at close distance is needed every time to make clear this is not acceptable. After the second time of delaying the restart, it is a mandatory caution unless the player is already on a caution in which after the third offense it is an automatic caution. After the caution because of accumulated warnings for a team is issued, it is a caution for the team every single time for all delaying the restart. Point to instances of offenses (including current)**
+**New 10/19/2026: An immediate double whistle, 1v1 at close distance, and an indication in the notebook is needed every time to make clear this is not acceptable. After the second time of delaying the restart, it is a mandatory caution unless the player is already on a caution in which after the third offense it is an automatic caution. After the caution because of accumulated warnings for a team is issued, it is a caution for the team every single time for all delaying the restart. Point to instances of offenses (including current)**
 
 Although the Laws say a caution is required, I give a delaying the restart warning per team unless blatant or can be managed:
 - When a player says they have the right to delay the restart, I caution them without warning [like in this video](https://youtu.be/8TvZw_QvGtg?feature=shared&t=4m33s).
@@ -147,6 +147,7 @@ Although the Laws say a caution is required, I give a delaying the restart warni
 - When the referee sets the wall for a free kick, if a player significantly moves the ball this is considered delaying the restart. Instead of giving a warning or card, it is usually better to move the ball in a worse position from the original position.
 - If the losing team is wasting their own time, just let them do it unless excessive
 - If you change a decision ( like pointing the wrong direction for a free kick ) it is best to manage delaying the restart without warning (like kicking the ball away) and allow teams to get in position
+- throwing the ball excessively high is a delay of restart warning [Example 1](https://youtu.be/faoyy64gjOA?si=p1joKH4bhqAFQ1to&t=673)
 
 During a free kick, if a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards) or a player who is right at the ball attempts to stretch legs/jump to block free kick or a player that touches a ball that is placed for a free kick, that is delaying the restart of play team warning unless it stops a promising attack in which it is always a caution. 
 - [Example 1](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb), [Example 2](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254), [Example 3](https://youtu.be/_TWtKdrsexA?si=Hh2DIQP5YMyQUXdv&t=1205)
