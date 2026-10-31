@@ -148,8 +148,8 @@ Although the Laws say a caution is required, I give a delaying the restart warni
 - If the losing team is wasting their own time, just let them do it unless excessive
 - If you change a decision ( like pointing the wrong direction for a free kick ) it is best to manage delaying the restart without warning (like kicking the ball away) and allow teams to get in position
 
-During a free kick, if a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards) or a player who is right at the ball stretches to block the free kick, that is delaying the restart of play team warning unless it stops a promising attack in which it is always a caution. 
-- [Example 1](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb), [Example 2](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254)
+During a free kick, if a player deliberately kicks it into a defender when they are right at the ball (less than ~3 yards) or a player who is right at the ball attempts to stretch legs/jump to block free kick or a player that touches a ball that is placed for a free kick, that is delaying the restart of play team warning unless it stops a promising attack in which it is always a caution. 
+- [Example 1](https://youtu.be/r_KhE-kRTAE?si=uqON6rkbuLzgvxvb), [Example 2](https://youtu.be/_TWtKdrsexA?si=6_wRH3kNgTWo0TDe&t=254), [Example 3](https://youtu.be/_TWtKdrsexA?si=Hh2DIQP5YMyQUXdv&t=1205)
 
 For goal kicks and throw-ins only, the referee uses the whistle then a five second countdown if a player is unfairly delaying. If the goal kick or throw-in has not been taken at the end countdown, the goal kick becomes a corner kick for the opposing team at the nearest corner area where the ball left the field of play or the throw-in is taken by the opposing team in the same position. 
 
