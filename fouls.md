@@ -177,6 +177,7 @@ There are three types of decisions: Instinctual/default/immediate, processed/del
   - asking someone where a player were hit (like a goalkeeper on the head) or showing an injury
   - someone (e.g. player/coach/spectator) spells it out for me and I agree
   - talking with another match official
+    - [Great teamwork and expected flack here](https://youtu.be/faoyy64gjOA?si=uKtvT9Yi7_sr0Hzj&t=375)
 - Emotional/makeup/following the crowd call examples are giving the losing team the benefit of the doubt, calling something you don't see based on nearby player reactions, trying to balance foul count, making up for a call that you or some participants believed is incorrect, making a call to get revenge for dissent
 
 > The [assistant referee] must raise the flag when a foul or misconduct is committed in the immediate vicinity or out of the referee’s vision. In all other situations, the AR must wait and offer an opinion if it is required and then inform the referee of what was seen and heard, and which players were involved.
