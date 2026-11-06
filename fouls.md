@@ -95,7 +95,7 @@ The restart is an indirect free kick. If the offense involves contact with an op
 - a player on the ground trapping or hovering over the ball, making it impossible for nearby opponents to play the ball. It is not an offense to play the ball while on the ground (like slide tackles or goalkeeper saves). [1](https://www.tiktok.com/@refsneedlovetoo/video/7210174612053757227)
 - a player on the ground can play the ball. But if they are on the ground too long while trying to play the ball, I'll call it. (don't want them to get stepped on)
 - boot to an opponent's head. It is not an offense to kick the ball that is above the head.
-- jumping a distance with outstrached leg near an opponent (kung fu kick). 
+- jumping a distance with outstrached leg near an opponent (kung fu kick). [Example 1](https://youtu.be/HfRSk9xe_Ec?si=DY0naSZTsG-Vl8bV&t=595) 
 - sitting on the ball, trapping the ball between the body (e.g. legs, head and shoulder) when an opponent is also challenging for the ball.
 - heading the ball while on the ground when an opponent is also challenging for the ball.
 - ecxessive flailing of the arms

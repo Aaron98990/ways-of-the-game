@@ -212,7 +212,7 @@ Different match officials handle dissent/disagreement differently, but here's a 
   - "Put a red (opposing team) jersey on" / "It's 12 vs 11" / "We don’t get those type of fouls" / "Hometown ref"
   - “Whose side are you on?” / “You hate us", "You hate Africans”  / "How much did they pay you?"
   - "Whose reffing the game, you or the spectators?"
-- For a match offical who has done past games with a team or person, referencing past games is not appropirate while disagreeing with a decision
+- For a match official who has done past games with a team or person, referencing past games is not appropirate while disagreeing with a decision
   - "You do this everytime" / "You are screwing us like you did last time"
 - Excessive complaining after changing a decision or "overruling" the assistant referee
   - "You don't know what you're doing?" [1](https://youtu.be/pXahsxNFuZw?feature=shared&t=336)[2](https://youtu.be/faoyy64gjOA?si=uKtvT9Yi7_sr0Hzj&t=375)
