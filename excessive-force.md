@@ -63,6 +63,10 @@ Deliberate headbutting (striking at someone with the head) unless negligible is 
 
 - [Violent Conduct 1](https://www.youtube.com/watch?v=zIGRzIf3nZ8&ab_channel=NBCSports)
 
+A headlock is violent conduct. 
+
+- [Violent Conduct](https://www.youtube.com/shorts/i5yB9lPF5Ag)
+
 The fall and roll arm hook is violent conduct. 
 
 - [Example 1](https://youtu.be/OLCOzsBjaCY?si=4JWMhOdRHla13leR&t=68), [Example 2](https://youtu.be/mi7fXtGTwbc?feature=shared)
